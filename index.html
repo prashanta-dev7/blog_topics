@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>AZA — Daily Blog Intelligence</title>
+<title>AZA — Content Intelligence Desk</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
@@ -16,197 +16,69 @@
   --text-base:clamp(1rem,0.95rem + 0.25vw,1.125rem);
   --text-lg:clamp(1.125rem,1rem + 0.75vw,1.5rem);
   --text-xl:clamp(1.5rem,1.2rem + 1.25vw,2.25rem);
-  --space-1:.25rem;--space-2:.5rem;--space-3:.75rem;--space-4:1rem;
-  --space-5:1.25rem;--space-6:1.5rem;--space-8:2rem;--space-12:3rem;--space-16:4rem;
+  --space-1:.25rem;--space-2:.5rem;--space-3:.75rem;--space-4:1rem;--space-5:1.25rem;--space-6:1.5rem;--space-8:2rem;--space-12:3rem;--space-16:4rem;
   --radius-sm:.375rem;--radius-md:.5rem;--radius-lg:.75rem;--radius-xl:1rem;--radius-full:9999px;
   --transition:180ms cubic-bezier(0.16,1,0.3,1);
-  --color-bg:#f8f6f1;--color-surface:#faf9f5;--color-surface-2:#ffffff;
-  --color-surface-offset:#f2ede4;--color-surface-dynamic:#e9e3d8;
-  --color-divider:#e0d9ce;--color-border:#d6cfc3;
-  --color-text:#1c1814;--color-text-muted:#6b6257;--color-text-faint:#b8ae9f;
-  --color-text-inverse:#faf9f5;
-  --color-primary:#b8912a;--color-primary-hover:#9a7520;
-  --color-primary-highlight:#f0e5c8;--color-accent:#2c2318;
-  --color-competitor:#c0392b;--color-competitor-hover:#96281b;
-  --shadow-sm:0 1px 3px oklch(0.15 0.02 60/0.07);
-  --shadow-md:0 4px 16px oklch(0.15 0.02 60/0.09);
-  --shadow-lg:0 12px 40px oklch(0.15 0.02 60/0.13);
+  --color-bg:#f8f6f1;--color-surface:#faf9f5;--color-surface-2:#ffffff;--color-surface-offset:#f2ede4;--color-surface-dynamic:#e9e3d8;
+  --color-divider:#e0d9ce;--color-border:#d6cfc3;--color-text:#1c1814;--color-text-muted:#6b6257;--color-text-faint:#b8ae9f;--color-text-inverse:#faf9f5;
+  --color-primary:#b8912a;--color-primary-hover:#9a7520;--color-primary-highlight:#f0e5c8;--color-accent:#2c2318;--color-competitor:#c0392b;
+  --shadow-sm:0 1px 3px oklch(0.15 0.02 60/0.07);--shadow-md:0 4px 16px oklch(0.15 0.02 60/0.09);--shadow-lg:0 12px 40px oklch(0.15 0.02 60/0.13);
   --content-wide:1280px;
 }
 [data-theme="dark"] {
-  --color-bg:#14120e;--color-surface:#1a1712;--color-surface-2:#201d17;
-  --color-surface-offset:#17140f;--color-surface-dynamic:#2a2620;
-  --color-divider:#2e2a23;--color-border:#3a3529;
-  --color-text:#e8e0d0;--color-text-muted:#8a8070;--color-text-faint:#5a5448;
-  --color-text-inverse:#14120e;
-  --color-primary:#d4a83c;--color-primary-hover:#e8bf58;
-  --color-primary-highlight:#2e2510;--color-accent:#e8e0d0;
-  --color-competitor:#e74c3c;--color-competitor-hover:#c0392b;
-  --shadow-sm:0 1px 3px oklch(0 0 0/0.25);
-  --shadow-md:0 4px 16px oklch(0 0 0/0.35);
-  --shadow-lg:0 12px 40px oklch(0 0 0/0.5);
+  --color-bg:#14120e;--color-surface:#1a1712;--color-surface-2:#201d17;--color-surface-offset:#17140f;--color-surface-dynamic:#2a2620;
+  --color-divider:#2e2a23;--color-border:#3a3529;--color-text:#e8e0d0;--color-text-muted:#8a8070;--color-text-faint:#5a5448;--color-text-inverse:#14120e;
+  --color-primary:#d4a83c;--color-primary-hover:#e8bf58;--color-primary-highlight:#2e2510;--color-accent:#e8e0d0;--color-competitor:#e74c3c;
+  --shadow-sm:0 1px 3px oklch(0 0 0/0.25);--shadow-md:0 4px 16px oklch(0 0 0/0.35);--shadow-lg:0 12px 40px oklch(0 0 0/0.5);
 }
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 html{-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility;scroll-behavior:smooth}
 body{min-height:100dvh;font-family:var(--font-body);font-size:var(--text-sm);color:var(--color-text);background:var(--color-bg);line-height:1.6}
-img{display:block;max-width:100%}
-button{cursor:pointer;background:none;border:none;font:inherit;color:inherit}
-a,button{transition:color var(--transition),background var(--transition),border-color var(--transition),box-shadow var(--transition)}
-
-/* TOPBAR */
+button,input,select{font:inherit;color:inherit}
+button{cursor:pointer;background:none;border:none}
+a{color:inherit}
 .topbar{position:sticky;top:0;z-index:100;background:var(--color-surface);border-bottom:1px solid var(--color-divider);box-shadow:var(--shadow-sm);padding:var(--space-3) var(--space-6);display:flex;align-items:center;gap:var(--space-4)}
-.logo{display:flex;align-items:center;gap:var(--space-3);flex-shrink:0}
-.logo-text{font-family:var(--font-display);font-size:var(--text-lg);font-weight:600;letter-spacing:.12em;text-transform:uppercase}
-.logo-sub{font-size:var(--text-xs);color:var(--color-text-muted);letter-spacing:.08em;text-transform:uppercase;padding-left:var(--space-3);border-left:1px solid var(--color-divider)}
-.spacer{flex:1}
-.meta{font-size:var(--text-xs);color:var(--color-text-muted)}
-.actions{display:flex;align-items:center;gap:var(--space-2)}
-.btn-icon{width:34px;height:34px;border-radius:var(--radius-md);display:flex;align-items:center;justify-content:center;color:var(--color-text-muted);border:1px solid transparent}
-.btn-icon:hover{background:var(--color-surface-offset);color:var(--color-text);border-color:var(--color-border)}
-.btn-refresh{display:flex;align-items:center;gap:var(--space-2);padding:var(--space-2) var(--space-4);background:var(--color-primary);color:var(--color-text-inverse);border-radius:var(--radius-md);font-size:var(--text-xs);font-weight:500;letter-spacing:.05em;text-transform:uppercase}
-.btn-refresh:hover{background:var(--color-primary-hover)}
-.btn-refresh:disabled{opacity:.5;cursor:not-allowed}
-.spin{animation:spin 1s linear infinite}
-@keyframes spin{to{transform:rotate(360deg)}}
-
-/* LAYOUT */
+.logo{display:flex;align-items:center;gap:var(--space-3);flex-shrink:0}.logo-text{font-family:var(--font-display);font-size:var(--text-lg);font-weight:600;letter-spacing:.12em;text-transform:uppercase}.logo-sub{font-size:var(--text-xs);color:var(--color-text-muted);letter-spacing:.08em;text-transform:uppercase;padding-left:var(--space-3);border-left:1px solid var(--color-divider)}
+.spacer{flex:1}.meta{font-size:var(--text-xs);color:var(--color-text-muted)}.actions{display:flex;align-items:center;gap:var(--space-2)}
+.btn-icon{width:34px;height:34px;border-radius:var(--radius-md);display:flex;align-items:center;justify-content:center;color:var(--color-text-muted);border:1px solid transparent}.btn-icon:hover{background:var(--color-surface-offset);color:var(--color-text);border-color:var(--color-border)}
+.btn-refresh{display:flex;align-items:center;gap:var(--space-2);padding:var(--space-2) var(--space-4);background:var(--color-primary);color:var(--color-text-inverse);border-radius:var(--radius-md);font-size:var(--text-xs);font-weight:500;letter-spacing:.05em;text-transform:uppercase}.btn-refresh:hover{background:var(--color-primary-hover)}.btn-refresh:disabled{opacity:.5;cursor:not-allowed}
 .page{max-width:var(--content-wide);margin:0 auto;padding:var(--space-6)}
-
-/* SETUP BANNER */
+.tabs{display:flex;gap:var(--space-2);margin-bottom:var(--space-6);flex-wrap:wrap}
+.tab-btn{padding:var(--space-3) var(--space-5);border-radius:var(--radius-full);border:1px solid var(--color-border);background:var(--color-surface);color:var(--color-text-muted);font-size:var(--text-xs);font-weight:600;letter-spacing:.06em;text-transform:uppercase}
+.tab-btn.active{background:var(--color-accent);color:var(--color-bg);border-color:var(--color-accent)}
+.tab-panel{display:none}.tab-panel.active{display:block}
+.panel-intro{display:flex;justify-content:space-between;gap:var(--space-4);align-items:end;margin-bottom:var(--space-5)}
+.panel-intro h1{font-family:var(--font-display);font-size:var(--text-xl);font-weight:600;line-height:1.1}.panel-intro p{color:var(--color-text-muted);max-width:70ch}
 .setup-banner{background:var(--color-primary-highlight);border:1px solid color-mix(in oklch,var(--color-primary) 25%,transparent);border-radius:var(--radius-xl);padding:var(--space-6);margin-bottom:var(--space-6)}
-.setup-banner h2{font-family:var(--font-display);font-size:var(--text-lg);margin-bottom:var(--space-2)}
-.setup-banner p{font-size:var(--text-sm);color:var(--color-text-muted);margin-bottom:var(--space-4)}
-.setup-banner code{background:var(--color-surface-offset);padding:2px 6px;border-radius:var(--radius-sm);font-size:var(--text-xs);font-family:monospace}
-.steps{display:flex;flex-direction:column;gap:var(--space-3)}
-.step{display:flex;gap:var(--space-3);align-items:flex-start;font-size:var(--text-sm);color:var(--color-text-muted)}
-.step-n{flex-shrink:0;width:22px;height:22px;background:var(--color-primary);color:var(--color-text-inverse);border-radius:var(--radius-full);display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:700}
-
-/* STATS */
+.setup-banner h2{font-family:var(--font-display);font-size:var(--text-lg);margin-bottom:var(--space-2)}.setup-banner p{font-size:var(--text-sm);color:var(--color-text-muted);margin-bottom:var(--space-4)}
+.steps{display:flex;flex-direction:column;gap:var(--space-3)}.step{display:flex;gap:var(--space-3);align-items:flex-start;font-size:var(--text-sm);color:var(--color-text-muted)}.step-n{flex-shrink:0;width:22px;height:22px;background:var(--color-primary);color:var(--color-text-inverse);border-radius:var(--radius-full);display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:700}
 .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:var(--space-4);margin-bottom:var(--space-6)}
-.stat{background:var(--color-surface);border:1px solid var(--color-divider);border-radius:var(--radius-lg);padding:var(--space-4) var(--space-5);box-shadow:var(--shadow-sm)}
-.stat-label{font-size:var(--text-xs);color:var(--color-text-muted);text-transform:uppercase;letter-spacing:.07em;margin-bottom:var(--space-1)}
-.stat-value{font-family:var(--font-display);font-size:var(--text-xl);font-weight:600;line-height:1}
-.stat-sub{font-size:var(--text-xs);color:var(--color-text-faint);margin-top:var(--space-1)}
-.stat.competitor-stat{border-color:color-mix(in oklch,var(--color-competitor) 30%,var(--color-border))}
-.stat.competitor-stat .stat-value{color:var(--color-competitor)}
-
-/* FILTER BAR */
-.filter-bar{display:flex;align-items:center;gap:var(--space-3);margin-bottom:var(--space-6);flex-wrap:wrap}
-.search-wrap{flex:1;min-width:200px;display:flex;align-items:center;gap:var(--space-2);background:var(--color-surface);border:1px solid var(--color-border);border-radius:var(--radius-full);padding:var(--space-2) var(--space-4)}
-.search-wrap input{border:none;outline:none;background:transparent;font:inherit;font-size:var(--text-sm);color:var(--color-text);width:100%}
-.search-wrap input::placeholder{color:var(--color-text-faint)}
-.pills{display:flex;gap:var(--space-2);flex-wrap:wrap}
-.pill{padding:var(--space-1) var(--space-3);border-radius:var(--radius-full);border:1px solid var(--color-border);font-size:var(--text-xs);font-weight:500;color:var(--color-text-muted);background:var(--color-surface);cursor:pointer;white-space:nowrap;transition:all var(--transition)}
-.pill:hover{border-color:var(--color-primary);color:var(--color-primary)}
-.pill.active{background:var(--color-primary);color:var(--color-text-inverse);border-color:var(--color-primary)}
-.pill.competitor-pill{border-color:var(--color-competitor);color:var(--color-competitor)}
-.pill.competitor-pill:hover{background:color-mix(in oklch,var(--color-competitor) 10%,transparent)}
-.pill.competitor-pill.active{background:var(--color-competitor);color:#fff;border-color:var(--color-competitor)}
-
-/* SECTION HEADER */
-.sec-header{display:flex;align-items:baseline;gap:var(--space-3);margin-bottom:var(--space-4);padding-bottom:var(--space-3);border-bottom:1px solid var(--color-divider)}
-.sec-title{font-family:var(--font-display);font-size:var(--text-lg);font-weight:600}
-.sec-count{font-size:var(--text-xs);color:var(--color-text-faint);background:var(--color-surface-offset);padding:2px 8px;border-radius:var(--radius-full);font-weight:500}
-
-/* COMPETITOR ALERT BANNER */
-.competitor-alert{background:color-mix(in oklch,var(--color-competitor) 8%,var(--color-surface));border:1px solid color-mix(in oklch,var(--color-competitor) 25%,var(--color-border));border-radius:var(--radius-lg);padding:var(--space-3) var(--space-5);margin-bottom:var(--space-5);display:none;align-items:center;gap:var(--space-3)}
-.competitor-alert.visible{display:flex}
-.competitor-alert-text{font-size:var(--text-xs);font-weight:600;color:var(--color-competitor);letter-spacing:.04em}
-.competitor-alert-sub{font-size:var(--text-xs);color:var(--color-text-muted);margin-left:auto}
-
-/* TRENDS */
-.trends-wrap{margin-bottom:var(--space-8)}
-.trends-row{display:flex;gap:var(--space-3);overflow-x:auto;padding-bottom:var(--space-2);scrollbar-width:thin;scrollbar-color:var(--color-border) transparent}
-.trend-chip{flex-shrink:0;background:var(--color-surface);border:1px solid var(--color-divider);border-radius:var(--radius-xl);padding:var(--space-3) var(--space-5);box-shadow:var(--shadow-sm);min-width:160px;max-width:240px;cursor:pointer;transition:all var(--transition);position:relative}
-.trend-chip:hover{border-color:var(--color-primary);box-shadow:var(--shadow-md);transform:translateY(-1px)}
-.trend-term{font-weight:500;font-size:var(--text-sm);margin-bottom:var(--space-1);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.trend-cat{font-size:var(--text-xs);color:var(--color-text-muted)}
-.trend-fire{position:absolute;top:var(--space-2);right:var(--space-3);font-size:14px}
-
-/* CARDS */
+.stat{background:var(--color-surface);border:1px solid var(--color-divider);border-radius:var(--radius-lg);padding:var(--space-4) var(--space-5);box-shadow:var(--shadow-sm)}.stat-label{font-size:var(--text-xs);color:var(--color-text-muted);text-transform:uppercase;letter-spacing:.07em;margin-bottom:var(--space-1)}.stat-value{font-family:var(--font-display);font-size:var(--text-xl);font-weight:600;line-height:1}.stat-sub{font-size:var(--text-xs);color:var(--color-text-faint);margin-top:var(--space-1)}
+.filter-bar{display:flex;align-items:center;gap:var(--space-3);margin-bottom:var(--space-6);flex-wrap:wrap}.search-wrap{flex:1;min-width:220px;display:flex;align-items:center;gap:var(--space-2);background:var(--color-surface);border:1px solid var(--color-border);border-radius:var(--radius-full);padding:var(--space-2) var(--space-4)}.search-wrap input{border:none;outline:none;background:transparent;width:100%}.pills{display:flex;gap:var(--space-2);flex-wrap:wrap}.pill{padding:var(--space-1) var(--space-3);border-radius:var(--radius-full);border:1px solid var(--color-border);font-size:var(--text-xs);font-weight:500;color:var(--color-text-muted);background:var(--color-surface)}.pill.active{background:var(--color-primary);color:var(--color-text-inverse);border-color:var(--color-primary)}.pill.competitor-pill{border-color:var(--color-competitor);color:var(--color-competitor)}.pill.competitor-pill.active{background:var(--color-competitor);color:#fff;border-color:var(--color-competitor)}
+.select-wrap select{padding:var(--space-2) var(--space-4);border-radius:var(--radius-full);border:1px solid var(--color-border);background:var(--color-surface);min-width:150px}
+.sec-header{display:flex;align-items:baseline;gap:var(--space-3);margin-bottom:var(--space-4);padding-bottom:var(--space-3);border-bottom:1px solid var(--color-divider)}.sec-title{font-family:var(--font-display);font-size:var(--text-lg);font-weight:600}.sec-count{font-size:var(--text-xs);color:var(--color-text-faint);background:var(--color-surface-offset);padding:2px 8px;border-radius:var(--radius-full);font-weight:500}
+.trends-row{display:flex;gap:var(--space-3);overflow-x:auto;padding-bottom:var(--space-2)}.trend-chip{flex-shrink:0;background:var(--color-surface);border:1px solid var(--color-divider);border-radius:var(--radius-xl);padding:var(--space-3) var(--space-5);box-shadow:var(--shadow-sm);min-width:160px;max-width:240px}.trend-term{font-weight:500;font-size:var(--text-sm);margin-bottom:var(--space-1);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.trend-cat{font-size:var(--text-xs);color:var(--color-text-muted)}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(360px,100%),1fr));gap:var(--space-5)}
-.card{background:var(--color-surface);border:1px solid var(--color-divider);border-radius:var(--radius-xl);padding:var(--space-5);box-shadow:var(--shadow-sm);display:flex;flex-direction:column;gap:var(--space-3);transition:box-shadow var(--transition),transform var(--transition)}
-.card:hover{box-shadow:var(--shadow-md);transform:translateY(-2px)}
-.card.competitor{border-color:color-mix(in oklch,var(--color-competitor) 35%,var(--color-border));background:color-mix(in oklch,var(--color-competitor) 3%,var(--color-surface))}
-.card-top{display:flex;align-items:center;gap:var(--space-2);flex-wrap:wrap}
-.source{font-size:var(--text-xs);font-weight:600;color:var(--color-primary);letter-spacing:.05em;text-transform:uppercase}
-.competitor-flag{display:inline-flex;align-items:center;gap:4px;font-size:var(--text-xs);font-weight:700;color:var(--color-competitor);letter-spacing:.05em;text-transform:uppercase;background:color-mix(in oklch,var(--color-competitor) 10%,transparent);padding:2px 7px;border-radius:var(--radius-full);border:1px solid color-mix(in oklch,var(--color-competitor) 25%,transparent)}
-.cat{font-size:var(--text-xs);font-weight:500;background:var(--color-surface-offset);color:var(--color-text-muted);padding:2px 8px;border-radius:var(--radius-full)}
-.cat.bridal{background:#fde8f0;color:#8b3a5a}
-.cat.celebrity{background:#fef3e0;color:#7a4f10}
-.cat.designer{background:#e8f0fe;color:#2d4a8a}
-.cat.art{background:#e8f5e0;color:#2d6a2a}
-.cat.trend{background:#f0e8fe;color:#5a2d8a}
-.cat.occasion{background:#fff0e0;color:#7a4010}
-[data-theme="dark"] .cat.bridal{background:#3a1525;color:#e8a0c0}
-[data-theme="dark"] .cat.celebrity{background:#2e1c08;color:#d4a050}
-[data-theme="dark"] .cat.designer{background:#0a1530;color:#8aade8}
-[data-theme="dark"] .cat.art{background:#0a2510;color:#80c880}
-[data-theme="dark"] .cat.trend{background:#1a0a30;color:#c090e8}
-[data-theme="dark"] .cat.occasion{background:#2e1500;color:#e09060}
-.card-title{font-family:var(--font-display);font-size:var(--text-base);font-weight:600;line-height:1.3}
-.card-title a{color:inherit;text-decoration:none}
-.card-title a:hover{color:var(--color-primary)}
-.card-summary{font-size:var(--text-xs);color:var(--color-text-muted);line-height:1.5;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
-.angle-box{background:var(--color-primary-highlight);border-radius:var(--radius-md);padding:var(--space-3) var(--space-4)}
-.angle-label{font-size:var(--text-xs);font-weight:600;color:var(--color-primary);letter-spacing:.06em;text-transform:uppercase;margin-bottom:var(--space-1);display:flex;align-items:center;gap:var(--space-2)}
-.angle-text{font-family:var(--font-display);font-size:var(--text-base);font-style:italic;line-height:1.4}
-.card-footer{display:flex;align-items:center;justify-content:space-between;margin-top:auto}
-.pub{font-size:var(--text-xs);color:var(--color-text-faint)}
-.card-btns{display:flex;gap:var(--space-2)}
-.btn-sm{display:flex;align-items:center;gap:6px;padding:var(--space-2) var(--space-3);border-radius:var(--radius-md);font-size:var(--text-xs);font-weight:500;border:1px solid var(--color-border);color:var(--color-text-muted);background:var(--color-surface-2)}
-.btn-sm:hover{border-color:var(--color-primary);color:var(--color-primary);background:var(--color-primary-highlight)}
-.btn-sm.copied{color:#437a22;border-color:#437a22}
-.btn-sm.saved{background:var(--color-primary);color:var(--color-text-inverse);border-color:var(--color-primary)}
-
-/* EMPTY / SKELETON */
-.empty{text-align:center;padding:var(--space-16) var(--space-8);color:var(--color-text-muted)}
-.empty .ico{font-size:40px;margin-bottom:var(--space-4)}
-.empty h3{font-family:var(--font-display);font-size:var(--text-lg);color:var(--color-text);margin-bottom:var(--space-2)}
-.empty p{font-size:var(--text-sm);max-width:36ch;margin:0 auto}
-@keyframes shimmer{0%{background-position:-200% 0}100%{background-position:200% 0}}
-.sk{background:linear-gradient(90deg,var(--color-surface-offset) 25%,var(--color-surface-dynamic) 50%,var(--color-surface-offset) 75%);background-size:200% 100%;animation:shimmer 1.5s ease-in-out infinite;border-radius:var(--radius-sm)}
-.sk-card{background:var(--color-surface);border:1px solid var(--color-divider);border-radius:var(--radius-xl);padding:var(--space-5);display:flex;flex-direction:column;gap:var(--space-3)}
-.sk-line{height:12px}.w40{width:40%}.w60{width:60%}.w80{width:80%}.w100{width:100%}
-.sk-block{height:64px;border-radius:var(--radius-md)}
-
-/* FAB */
-.fab{position:fixed;bottom:var(--space-6);right:var(--space-6);background:var(--color-accent);color:var(--color-bg);border-radius:var(--radius-full);padding:var(--space-3) var(--space-5);display:flex;align-items:center;gap:var(--space-2);font-size:var(--text-sm);font-weight:500;box-shadow:var(--shadow-lg);z-index:200;transition:all var(--transition)}
-.fab:hover{transform:translateY(-2px)}
-.badge{background:var(--color-primary);color:var(--color-text-inverse);border-radius:var(--radius-full);min-width:20px;height:20px;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:700}
-
-/* DRAWER */
-.drawer{position:fixed;right:0;top:0;bottom:0;width:min(420px,100vw);background:var(--color-surface-2);border-left:1px solid var(--color-divider);box-shadow:var(--shadow-lg);z-index:300;transform:translateX(100%);transition:transform .3s cubic-bezier(0.16,1,0.3,1);display:flex;flex-direction:column}
-.drawer.open{transform:translateX(0)}
-.drawer-hd{padding:var(--space-5) var(--space-6);border-bottom:1px solid var(--color-divider);display:flex;align-items:center;justify-content:space-between}
-.drawer-title{font-family:var(--font-display);font-size:var(--text-lg);font-weight:600}
-.drawer-body{flex:1;overflow-y:auto;padding:var(--space-4);display:flex;flex-direction:column;gap:var(--space-3)}
-.di{background:var(--color-surface);border:1px solid var(--color-divider);border-radius:var(--radius-lg);padding:var(--space-4)}
-.di.competitor{border-color:color-mix(in oklch,var(--color-competitor) 30%,var(--color-border))}
-.di-src{font-size:var(--text-xs);font-weight:600;color:var(--color-primary);text-transform:uppercase;letter-spacing:.05em;margin-bottom:var(--space-1);display:flex;align-items:center;gap:var(--space-2)}
-.di-src .competitor-flag{font-size:10px}
-.di-angle{font-family:var(--font-display);font-size:var(--text-base);font-style:italic;line-height:1.4}
-.di-btns{display:flex;gap:var(--space-2);margin-top:var(--space-3)}
-.dib{font-size:var(--text-xs);color:var(--color-text-faint);padding:var(--space-1) var(--space-2);border-radius:var(--radius-sm);border:1px solid var(--color-border);background:none;cursor:pointer}
-.dib:hover{color:var(--color-primary);border-color:var(--color-primary)}
-.dib.rm:hover{color:#a12c7b;border-color:#a12c7b}
-.drawer-ft{padding:var(--space-5) var(--space-6);border-top:1px solid var(--color-divider)}
-.btn-export{width:100%;padding:var(--space-3);background:var(--color-primary);color:var(--color-text-inverse);border-radius:var(--radius-md);font-size:var(--text-sm);font-weight:500;border:none;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:var(--space-2)}
-.btn-export:hover{background:var(--color-primary-hover)}
-.d-empty{text-align:center;padding:var(--space-12) var(--space-6);color:var(--color-text-faint)}
-.d-empty p{font-size:var(--text-sm);margin-top:var(--space-4)}
-
-@media(max-width:640px){
-  .topbar{padding:var(--space-3) var(--space-4)}
-  .logo-sub{display:none}
-  .page{padding:var(--space-4)}
-  .stats{grid-template-columns:repeat(2,1fr)}
-  .fab{bottom:var(--space-4);right:var(--space-4)}
-}
+.card{background:var(--color-surface);border:1px solid var(--color-divider);border-radius:var(--radius-xl);padding:var(--space-5);box-shadow:var(--shadow-sm);display:flex;flex-direction:column;gap:var(--space-3)}.card.competitor{border-color:color-mix(in oklch,var(--color-competitor) 35%,var(--color-border));background:color-mix(in oklch,var(--color-competitor) 3%,var(--color-surface))}.card-top{display:flex;align-items:center;gap:var(--space-2);flex-wrap:wrap}.source{font-size:var(--text-xs);font-weight:600;color:var(--color-primary);letter-spacing:.05em;text-transform:uppercase}.competitor-flag{display:inline-flex;align-items:center;gap:4px;font-size:var(--text-xs);font-weight:700;color:var(--color-competitor);letter-spacing:.05em;text-transform:uppercase;background:color-mix(in oklch,var(--color-competitor) 10%,transparent);padding:2px 7px;border-radius:var(--radius-full);border:1px solid color-mix(in oklch,var(--color-competitor) 25%,transparent)}
+.cat{font-size:var(--text-xs);font-weight:500;background:var(--color-surface-offset);color:var(--color-text-muted);padding:2px 8px;border-radius:var(--radius-full)}.card-title{font-family:var(--font-display);font-size:var(--text-base);font-weight:600;line-height:1.3}.card-title a{text-decoration:none}.card-summary{font-size:var(--text-xs);color:var(--color-text-muted);line-height:1.5;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}.angle-box{background:var(--color-primary-highlight);border-radius:var(--radius-md);padding:var(--space-3) var(--space-4)}.angle-label{font-size:var(--text-xs);font-weight:600;color:var(--color-primary);letter-spacing:.06em;text-transform:uppercase;margin-bottom:var(--space-1)}.angle-text{font-family:var(--font-display);font-size:var(--text-base);font-style:italic;line-height:1.4}.card-footer{display:flex;align-items:center;justify-content:space-between;margin-top:auto}.pub{font-size:var(--text-xs);color:var(--color-text-faint)}
+.empty{text-align:center;padding:var(--space-16) var(--space-8);color:var(--color-text-muted)}.empty h3{font-family:var(--font-display);font-size:var(--text-lg);color:var(--color-text);margin-bottom:var(--space-2)}
+.coming-soon{background:linear-gradient(180deg,var(--color-surface),var(--color-surface-2));border:1px solid var(--color-divider);border-radius:calc(var(--radius-xl) + 4px);padding:clamp(2rem,4vw,4rem);box-shadow:var(--shadow-md)}
+.coming-badge{display:inline-flex;align-items:center;gap:8px;padding:var(--space-2) var(--space-4);border-radius:var(--radius-full);background:var(--color-primary-highlight);color:var(--color-primary);font-size:var(--text-xs);font-weight:700;letter-spacing:.08em;text-transform:uppercase;margin-bottom:var(--space-4)}
+.coming-title{font-family:var(--font-display);font-size:clamp(2rem,4vw,3.75rem);line-height:1.02;margin-bottom:var(--space-3);max-width:10ch}
+.coming-copy{font-size:var(--text-base);color:var(--color-text-muted);max-width:68ch;margin-bottom:var(--space-8)}
+.coming-grid{display:grid;grid-template-columns:1.2fr .8fr;gap:var(--space-6)}
+.mini-cards{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:var(--space-4)}
+.mini-card{background:var(--color-surface-offset);border:1px solid var(--color-divider);border-radius:var(--radius-lg);padding:var(--space-4)}
+.mini-card h4{font-size:var(--text-xs);text-transform:uppercase;letter-spacing:.06em;color:var(--color-text-muted);margin-bottom:var(--space-2)}
+.mini-card p{font-size:var(--text-sm);color:var(--color-text)}
+.handle-list{background:var(--color-surface);border:1px solid var(--color-divider);border-radius:var(--radius-lg);padding:var(--space-4);max-height:360px;overflow:auto}
+.handle-list h4{font-size:var(--text-xs);text-transform:uppercase;letter-spacing:.06em;color:var(--color-text-muted);margin-bottom:var(--space-3)}
+.handle{display:flex;justify-content:space-between;gap:var(--space-3);padding:var(--space-3) 0;border-top:1px solid var(--color-divider)}.handle:first-of-type{border-top:none;padding-top:0}.handle span:last-child{font-size:var(--text-xs);color:var(--color-text-faint)}
+@media(max-width:860px){.coming-grid{grid-template-columns:1fr}.mini-cards{grid-template-columns:1fr}.panel-intro{flex-direction:column;align-items:flex-start}}
+@media(max-width:640px){.topbar{padding:var(--space-3) var(--space-4)}.logo-sub{display:none}.page{padding:var(--space-4)}}
 </style>
 </head>
 <body>
-
 <header class="topbar">
   <div class="logo">
     <svg width="28" height="28" viewBox="0 0 28 28" fill="none" aria-label="AZA Fashions">
@@ -215,7 +87,7 @@ a,button{transition:color var(--transition),background var(--transition),border-
       <path d="M12 15L14 9.5L16 15H12Z" fill="var(--color-primary)"/>
     </svg>
     <span class="logo-text">AZA</span>
-    <span class="logo-sub">Blog Intelligence</span>
+    <span class="logo-sub">Content Intelligence Desk</span>
   </div>
   <div class="spacer"></div>
   <span class="meta" id="last-updated">Loading…</span>
@@ -223,111 +95,152 @@ a,button{transition:color var(--transition),background var(--transition),border-
     <button class="btn-icon" data-theme-toggle aria-label="Toggle dark mode">
       <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
     </button>
-    <button class="btn-refresh" id="btn-refresh" onclick="loadFeed()">
-      <svg id="ri" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M3 12a9 9 0 0 1 15-6.7L21 8M21 3v5h-5M21 12a9 9 0 0 1-15 6.7L3 16M3 21v-5h5"/></svg>
-      Refresh
-    </button>
+    <button class="btn-refresh" id="btn-refresh" onclick="loadFeed()">Refresh</button>
   </div>
 </header>
 
 <main class="page">
+  <div class="tabs">
+    <button class="tab-btn active" onclick="switchTab('websites', this)">Websites</button>
+    <button class="tab-btn" onclick="switchTab('trends', this)">Google Trends</button>
+    <button class="tab-btn" onclick="switchTab('instagram', this)">Instagram</button>
+  </div>
 
-  <div class="setup-banner" id="setup-banner" style="display:none">
-    <h2>✦ First-Time Setup</h2>
-    <p>This app reads <code>feed.json</code> generated daily by GitHub Actions. Complete the steps below once:</p>
-    <div class="steps">
-      <div class="step"><span class="step-n">1</span><span>Push all files from this folder to a new GitHub repository</span></div>
-      <div class="step"><span class="step-n">2</span><span>Go to <strong>Settings → Pages</strong> → enable from <code>main</code> branch</span></div>
-      <div class="step"><span class="step-n">3</span><span>Go to <strong>Actions → Daily Feed Refresh → Run workflow</strong> to generate the first <code>feed.json</code></span></div>
-      <div class="step"><span class="step-n">4</span><span>Feed auto-refreshes at <strong>7:30 AM IST</strong> daily. Competitor blogs also checked at <strong>10:30 AM, 1:30 PM & 4:30 PM IST</strong>.</span></div>
+  <section class="tab-panel active" id="tab-websites">
+    <div class="panel-intro">
+      <div>
+        <h1>Website Intelligence</h1>
+        <p>Track AZA, direct competitors, and industry publishers in one place. Use this tab to spot fresh posts, extract angles, and shortlist ideas for the content team.</p>
+      </div>
     </div>
-  </div>
 
-  <div class="stats" id="stats" style="display:none">
-    <div class="stat competitor-stat"><div class="stat-label">⚡ Competitor Posts</div><div class="stat-value" id="s-comp">—</div><div class="stat-sub">updated 4× daily</div></div>
-    <div class="stat"><div class="stat-label">Industry Articles</div><div class="stat-value" id="s-articles">—</div><div class="stat-sub" id="s-sources">—</div></div>
-    <div class="stat"><div class="stat-label">Trending India</div><div class="stat-value" id="s-trends">—</div><div class="stat-sub">fashion signals</div></div>
-    <div class="stat"><div class="stat-label">Shortlisted</div><div class="stat-value" id="s-shortlist">0</div><div class="stat-sub">topics for today</div></div>
-    <div class="stat"><div class="stat-label">Feed Updated</div><div class="stat-value" style="font-size:var(--text-lg)" id="s-time">—</div><div class="stat-sub">IST</div></div>
-  </div>
-
-  <div class="filter-bar" id="filter-bar" style="display:none">
-    <div class="search-wrap">
-      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
-      <input type="text" id="q" placeholder="Search topics, designers, sources…" oninput="render()">
+    <div class="setup-banner" id="setup-banner" style="display:none">
+      <h2>First-Time Setup</h2>
+      <p>This view reads <code>feed.json</code> generated by GitHub Actions. Push your files, enable GitHub Pages, and run the workflow once.</p>
+      <div class="steps">
+        <div class="step"><span class="step-n">1</span><span>Push the project files to your repository.</span></div>
+        <div class="step"><span class="step-n">2</span><span>Enable GitHub Pages from the main branch.</span></div>
+        <div class="step"><span class="step-n">3</span><span>Run the feed refresh workflow to create <code>feed.json</code>.</span></div>
+      </div>
     </div>
-    <div class="pills">
-      <button class="pill active" onclick="setF('All',this)">All</button>
-      <button class="pill competitor-pill" onclick="setF('__competitor__',this)">⚡ Competitors</button>
-      <button class="pill" onclick="setF('Bridal & Wedding',this)">Bridal</button>
-      <button class="pill" onclick="setF('Celebrity Style',this)">Celebrity</button>
-      <button class="pill" onclick="setF('Designer Spotlight',this)">Designer</button>
-      <button class="pill" onclick="setF('Art & Craft',this)">Art & Craft</button>
-      <button class="pill" onclick="setF('Trend Alert',this)">Trend</button>
-      <button class="pill" onclick="setF('Occasion Dressing',this)">Occasion</button>
+
+    <div class="stats" id="stats" style="display:none">
+      <div class="stat"><div class="stat-label">Competitor Posts</div><div class="stat-value" id="s-comp">—</div><div class="stat-sub">latest captured</div></div>
+      <div class="stat"><div class="stat-label">Industry Articles</div><div class="stat-value" id="s-articles">—</div><div class="stat-sub" id="s-sources">—</div></div>
+      <div class="stat"><div class="stat-label">Owned Sources</div><div class="stat-value" id="s-owned">—</div><div class="stat-sub">AZA ecosystem</div></div>
+      <div class="stat"><div class="stat-label">Feed Updated</div><div class="stat-value" style="font-size:var(--text-lg)" id="s-time">—</div><div class="stat-sub">IST</div></div>
     </div>
-  </div>
 
-  <div class="competitor-alert" id="comp-alert">
-    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="var(--color-competitor)" stroke-width="2.5"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
-    <span class="competitor-alert-text" id="comp-alert-text">Competitor activity detected</span>
-    <span class="competitor-alert-sub">Click ⚡ Competitors to review</span>
-  </div>
+    <div class="filter-bar" id="filter-bar" style="display:none">
+      <div class="search-wrap">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+        <input type="text" id="q" placeholder="Search titles, designers, sources…" oninput="renderArticles()">
+      </div>
+      <div class="pills">
+        <button class="pill active" onclick="setF('All',this)">All</button>
+        <button class="pill competitor-pill" onclick="setF('__competitor__',this)">Competitors</button>
+        <button class="pill" onclick="setF('Bridal & Wedding',this)">Bridal</button>
+        <button class="pill" onclick="setF('Celebrity Style',this)">Celebrity</button>
+        <button class="pill" onclick="setF('Designer Spotlight',this)">Designer</button>
+        <button class="pill" onclick="setF('Art & Craft',this)">Craft</button>
+        <button class="pill" onclick="setF('Trend Alert',this)">Trend</button>
+      </div>
+      <div class="select-wrap">
+        <select id="sortBy" onchange="renderArticles()">
+          <option value="relevance">Best match</option>
+          <option value="latest">Latest posts</option>
+          <option value="source">Source A–Z</option>
+        </select>
+      </div>
+    </div>
 
-  <div class="trends-wrap" id="trends-wrap" style="display:none">
-    <div class="sec-header">
-      <span class="sec-title">🔥 Trending in India Today</span>
+    <div class="sec-header" id="a-header" style="display:none">
+      <span class="sec-title">Tracked Posts</span>
+      <span class="sec-count" id="a-count">—</span>
+    </div>
+
+    <div id="articles-grid" class="grid" style="display:none"></div>
+    <div id="empty" class="empty" style="display:none"><h3>No results found</h3><p>Try a different search term or category.</p></div>
+  </section>
+
+  <section class="tab-panel" id="tab-trends">
+    <div class="panel-intro">
+      <div>
+        <h1>Google Trends Signals</h1>
+        <p>Use this tab to track fashion-related search momentum in India. These signals help the team connect cultural timing with blog ideation and content planning.</p>
+      </div>
+    </div>
+
+    <div class="stats" id="trend-stats" style="display:none">
+      <div class="stat"><div class="stat-label">Trend Signals</div><div class="stat-value" id="s-trends">—</div><div class="stat-sub">fashion-filtered</div></div>
+      <div class="stat"><div class="stat-label">Top Category</div><div class="stat-value" style="font-size:var(--text-lg)" id="s-topcat">—</div><div class="stat-sub">highest signal cluster</div></div>
+    </div>
+
+    <div class="sec-header" id="t-header" style="display:none">
+      <span class="sec-title">Trending in India</span>
       <span class="sec-count" id="t-count">—</span>
     </div>
     <div class="trends-row" id="trends-row"></div>
-  </div>
+  </section>
 
-  <div class="sec-header" id="a-header" style="display:none">
-    <span class="sec-title">✦ Today's Fashion Intelligence</span>
-    <span class="sec-count" id="a-count">—</span>
-  </div>
+  <section class="tab-panel" id="tab-instagram">
+    <div class="panel-intro">
+      <div>
+        <h1>Instagram Watchlist</h1>
+        <p>This tab will house fashion, media, commentary, bridal, runway, and culture profiles the team tracks daily. It is structured separately from websites so social signals can be viewed on their own rhythm.</p>
+      </div>
+    </div>
 
-  <div id="skeleton" class="grid">
-    <div class="sk-card"><div class="sk sk-line w40"></div><div class="sk sk-line w80"></div><div class="sk sk-line w60"></div><div class="sk sk-block"></div><div class="sk sk-line w40"></div></div>
-    <div class="sk-card"><div class="sk sk-line w40"></div><div class="sk sk-line w80"></div><div class="sk sk-line w60"></div><div class="sk sk-block"></div><div class="sk sk-line w40"></div></div>
-    <div class="sk-card"><div class="sk sk-line w40"></div><div class="sk sk-line w80"></div><div class="sk sk-line w60"></div><div class="sk sk-block"></div><div class="sk sk-line w40"></div></div>
-    <div class="sk-card"><div class="sk sk-line w40"></div><div class="sk sk-line w80"></div><div class="sk sk-line w60"></div><div class="sk sk-block"></div><div class="sk sk-line w40"></div></div>
-    <div class="sk-card"><div class="sk sk-line w40"></div><div class="sk sk-line w80"></div><div class="sk sk-line w60"></div><div class="sk sk-block"></div><div class="sk sk-line w40"></div></div>
-    <div class="sk-card"><div class="sk sk-line w40"></div><div class="sk sk-line w80"></div><div class="sk sk-line w60"></div><div class="sk sk-block"></div><div class="sk sk-line w40"></div></div>
-  </div>
-  <div id="articles-grid" class="grid" style="display:none"></div>
-  <div id="empty" class="empty" style="display:none">
-    <div class="ico">🔍</div><h3>No articles match</h3><p>Try a different search or category filter.</p>
-  </div>
+    <div class="coming-soon">
+      <div class="coming-badge">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 8v4l3 3"/><circle cx="12" cy="12" r="9"/></svg>
+        Coming soon
+      </div>
+      <h2 class="coming-title">Instagram signal desk is under preparation.</h2>
+      <p class="coming-copy">This section is reserved for tracked public profiles and will eventually surface recent post activity, content themes, recurring aesthetics, and AZA-relevant editorial takeaways in a dedicated social layer.</p>
 
+      <div class="coming-grid">
+        <div class="mini-cards">
+          <div class="mini-card">
+            <h4>Planned view</h4>
+            <p>Latest posts by handle, caption snippets, and profile-level filters across fashion, bridal, luxury, and culture accounts.</p>
+          </div>
+          <div class="mini-card">
+            <h4>Planned use</h4>
+            <p>Turn observed social narratives into story leads, trend explainers, celebrity style blogs, and visual inspiration for AZA content.</p>
+          </div>
+          <div class="mini-card">
+            <h4>Suggested grouping</h4>
+            <p>Commentary accounts, bridal media, global fashion press, shopping and runway pages, and Indian style culture profiles.</p>
+          </div>
+          <div class="mini-card">
+            <h4>Status</h4>
+            <p>Tab layout is ready. Data source and feed integration will be added next.</p>
+          </div>
+        </div>
+
+        <div class="handle-list">
+          <h4>Initial watchlist sample</h4>
+          <div class="handle"><span>@dietsabya</span><span>commentary</span></div>
+          <div class="handle"><span>@hypebeast</span><span>streetwear</span></div>
+          <div class="handle"><span>@diet_prada</span><span>fashion watchdog</span></div>
+          <div class="handle"><span>@voguerunway</span><span>runway</span></div>
+          <div class="handle"><span>@vogueindia</span><span>fashion media</span></div>
+          <div class="handle"><span>@elleindia</span><span>fashion media</span></div>
+          <div class="handle"><span>@bridestodayin</span><span>bridal</span></div>
+          <div class="handle"><span>@weddingvows.in</span><span>weddings</span></div>
+          <div class="handle"><span>@whowhatwear</span><span>shopping/style</span></div>
+          <div class="handle"><span>@bof</span><span>fashion business</span></div>
+        </div>
+      </div>
+    </div>
+  </section>
 </main>
 
-<button class="fab" id="fab" onclick="toggleDrawer()" style="display:none">
-  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>
-  My Shortlist <span class="badge" id="sl-badge">0</span>
-</button>
-
-<div class="drawer" id="drawer">
-  <div class="drawer-hd">
-    <span class="drawer-title">Today's Shortlist</span>
-    <button class="btn-icon" onclick="toggleDrawer()" aria-label="Close">
-      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6 6 18M6 6l12 12"/></svg>
-    </button>
-  </div>
-  <div class="drawer-body" id="drawer-body"></div>
-  <div class="drawer-ft">
-    <button class="btn-export" onclick="exportList()">
-      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3"/></svg>
-      Export as Text File
-    </button>
-  </div>
-</div>
-
 <script>
-let articles=[], trends=[], shortlist=[], activeF='All';
+let articles=[], trends=[], activeF='All';
 const CC={'Bridal & Wedding':'bridal','Celebrity Style':'celebrity','Designer Spotlight':'designer','Art & Craft':'art','Trend Alert':'trend','Occasion Dressing':'occasion'};
 
-// Theme toggle
 (function(){
   const t=document.querySelector('[data-theme-toggle]'),r=document.documentElement;
   let d=matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';
@@ -338,195 +251,117 @@ const CC={'Bridal & Wedding':'bridal','Celebrity Style':'celebrity','Designer Sp
   t.addEventListener('click',()=>{d=d==='dark'?'light':'dark';r.setAttribute('data-theme',d);t.innerHTML=d==='dark'?sun:moon;});
 })();
 
+function switchTab(tab, el){
+  document.querySelectorAll('.tab-btn').forEach(b=>b.classList.remove('active'));
+  document.querySelectorAll('.tab-panel').forEach(p=>p.classList.remove('active'));
+  el.classList.add('active');
+  document.getElementById('tab-'+tab).classList.add('active');
+}
+
 async function loadFeed(){
-  const btn=document.getElementById('btn-refresh'),ic=document.getElementById('ri');
-  btn.disabled=true; ic.classList.add('spin');
+  const btn=document.getElementById('btn-refresh');
+  btn.disabled=true;
   document.getElementById('last-updated').textContent='Fetching…';
   try{
     const r=await fetch('./feed.json?t='+Date.now());
     if(!r.ok) throw new Error();
     const d=await r.json();
-    articles=d.articles||[]; trends=d.trends||[];
+    articles=d.articles||[];
+    trends=d.trends||[];
     renderAll(d);
-  }catch(e){ showSetup(); }
-  finally{ btn.disabled=false; ic.classList.remove('spin'); }
-}
-
-function showSetup(){
-  document.getElementById('skeleton').style.display='none';
-  document.getElementById('setup-banner').style.display='block';
-  document.getElementById('last-updated').textContent='feed.json not found — see setup below';
+  }catch(e){
+    document.getElementById('setup-banner').style.display='block';
+    document.getElementById('last-updated').textContent='feed.json not found';
+  }finally{btn.disabled=false;}
 }
 
 function renderAll(d){
-  document.getElementById('skeleton').style.display='none';
   document.getElementById('stats').style.display='grid';
   document.getElementById('filter-bar').style.display='flex';
   document.getElementById('a-header').style.display='flex';
   document.getElementById('articles-grid').style.display='grid';
-  document.getElementById('fab').style.display='flex';
+  document.getElementById('trend-stats').style.display='grid';
+  document.getElementById('t-header').style.display='flex';
 
-  const compCount = d.competitor_count || articles.filter(a=>a.is_competitor).length;
-  const indCount  = d.industry_count  || articles.filter(a=>!a.is_competitor).length;
-  const srcs = [...new Set(articles.map(a=>a.source))].length;
+  document.getElementById('s-comp').textContent = d.competitor_count || articles.filter(a=>a.is_competitor).length;
+  document.getElementById('s-articles').textContent = d.industry_count || articles.filter(a=>a.tier==='industry').length;
+  document.getElementById('s-owned').textContent = d.owned_count || articles.filter(a=>a.tier==='owned').length;
+  document.getElementById('s-sources').textContent = 'across ' + [...new Set(articles.map(a=>a.source))].length + ' sources';
+  document.getElementById('s-trends').textContent = trends.length;
+  document.getElementById('t-count').textContent = trends.length + ' signals';
 
-  document.getElementById('s-comp').textContent=compCount;
-  document.getElementById('s-articles').textContent=indCount;
-  document.getElementById('s-sources').textContent='across '+srcs+' sources';
-  document.getElementById('s-trends').textContent=trends.length;
-
-  if(compCount>0){
-    const al=document.getElementById('comp-alert');
-    al.classList.add('visible');
-    document.getElementById('comp-alert-text').textContent=
-      compCount+' competitor post'+(compCount===1?'':'s')+' published today';
-  }
+  const counts = {};
+  trends.forEach(t=>counts[t.aza_category]=(counts[t.aza_category]||0)+1);
+  const topCat = Object.entries(counts).sort((a,b)=>b[1]-a[1])[0];
+  document.getElementById('s-topcat').textContent = topCat ? topCat[0] : '—';
 
   if(d.generated_at){
     const ist=new Date(new Date(d.generated_at).getTime()+5.5*3600000);
     document.getElementById('s-time').textContent=ist.toLocaleTimeString('en-IN',{hour:'2-digit',minute:'2-digit'});
-    document.getElementById('last-updated').textContent=
-      'Updated '+ist.toLocaleDateString('en-IN',{day:'numeric',month:'short'})+
-      ' · '+ist.toLocaleTimeString('en-IN',{hour:'2-digit',minute:'2-digit'})+' IST';
+    document.getElementById('last-updated').textContent='Updated '+ist.toLocaleDateString('en-IN',{day:'numeric',month:'short'})+' · '+ist.toLocaleTimeString('en-IN',{hour:'2-digit',minute:'2-digit'})+' IST';
   }
-  renderTrends(); render();
-}
 
-function renderTrends(){
-  if(!trends.length) return;
-  document.getElementById('trends-wrap').style.display='block';
-  document.getElementById('t-count').textContent=trends.length+' signals';
-  document.getElementById('trends-row').innerHTML=trends.map(t=>`
-    <div class="trend-chip" onclick="searchFor('${ea(t.term)}')" title="${e(t.angle)}">
-      <div class="trend-fire">🔥</div>
-      <div class="trend-term">${e(t.term)}</div>
-      <div class="trend-cat">${e(t.aza_category)}</div>
-    </div>`).join('');
+  renderArticles();
+  renderTrends();
 }
-
-function searchFor(term){ document.getElementById('q').value=term; render(); }
 
 function setF(cat,el){
   activeF=cat;
   document.querySelectorAll('.pill').forEach(p=>p.classList.remove('active'));
   el.classList.add('active');
-  render();
+  renderArticles();
 }
 
-function render(){
-  const q=document.getElementById('q').value.toLowerCase().trim();
-  let items=articles;
+function parsePublishedDate(s){
+  const d = new Date(s || '');
+  return isNaN(d) ? 0 : d.getTime();
+}
+
+function renderArticles(){
+  const q=(document.getElementById('q')?.value||'').toLowerCase().trim();
+  const sortBy=document.getElementById('sortBy')?.value || 'relevance';
+  let items=[...articles];
   if(activeF==='__competitor__') items=items.filter(a=>a.is_competitor);
   else if(activeF!=='All') items=items.filter(a=>a.aza_category===activeF);
   if(q) items=items.filter(a=>(a.title+' '+a.source+' '+a.angle+' '+(a.summary||'')).toLowerCase().includes(q));
-  document.getElementById('a-count').textContent=items.length+' articles';
-  const grid=document.getElementById('articles-grid'),emp=document.getElementById('empty');
-  if(!items.length){grid.style.display='none';emp.style.display='block';return;}
+  if(sortBy==='latest') items.sort((a,b)=>parsePublishedDate(b.published)-parsePublishedDate(a.published));
+  else if(sortBy==='source') items.sort((a,b)=>String(a.source).localeCompare(String(b.source)));
+  else items.sort((a,b)=>((b.is_competitor?1:0)-(a.is_competitor?1:0)) || ((b.score||0)-(a.score||0)));
+  document.getElementById('a-count').textContent=items.length+' posts';
+  const grid=document.getElementById('articles-grid'), emp=document.getElementById('empty');
+  if(!items.length){grid.style.display='none'; emp.style.display='block'; return;}
   emp.style.display='none'; grid.style.display='grid';
-  grid.innerHTML=items.map(a=>cardHTML(a)).join('');
+  grid.innerHTML=items.map(a=>`
+    <article class="card ${a.is_competitor ? 'competitor' : ''}">
+      <div class="card-top">
+        ${a.is_competitor ? '<span class="competitor-flag">Competitor</span>' : ''}
+        <span class="source">${escapeHtml(a.source)}</span>
+        <span class="cat">${escapeHtml(a.aza_category || 'Fashion & Style')}</span>
+      </div>
+      <div class="card-title"><a href="${escapeHtml(a.link)}" target="_blank" rel="noopener noreferrer">${escapeHtml(a.title)}</a></div>
+      ${a.summary ? `<p class="card-summary">${escapeHtml(a.summary)}</p>` : ''}
+      <div class="angle-box"><div class="angle-label">AZA angle</div><div class="angle-text">${escapeHtml(a.angle || '')}</div></div>
+      <div class="card-footer"><span class="pub">${formatDate(a.published)}</span></div>
+    </article>
+  `).join('');
 }
 
-function cardHTML(a){
-  const cc=CC[a.aza_category]||'', sl=shortlist.some(s=>s.id===a.id);
-  return `<article class="card ${a.is_competitor?'competitor':''}">
-    <div class="card-top">
-      ${a.is_competitor?'<span class="competitor-flag">⚡ Competitor</span>':''}
-      <span class="source">${e(a.source)}</span>
-      <span class="cat ${cc}">${e(a.aza_category)}</span>
+function renderTrends(){
+  const row=document.getElementById('trends-row');
+  row.innerHTML=(trends||[]).map(t=>`
+    <div class="trend-chip">
+      <div class="trend-term">${escapeHtml(t.term)}</div>
+      <div class="trend-cat">${escapeHtml(t.aza_category || 'Fashion & Style')}</div>
     </div>
-    <div class="card-title"><a href="${e(a.link)}" target="_blank" rel="noopener noreferrer">${e(a.title)}</a></div>
-    ${a.summary?`<p class="card-summary">${e(a.summary)}</p>`:''}
-    <div class="angle-box">
-      <div class="angle-label">
-        <svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor"><polygon points="12,2 15.09,8.26 22,9.27 17,14.14 18.18,21.02 12,17.77 5.82,21.02 7,14.14 2,9.27 8.91,8.26"/></svg>
-        AZA Blog Angle
-      </div>
-      <div class="angle-text">${e(a.angle)}</div>
-    </div>
-    <div class="card-footer">
-      <span class="pub">${fmtD(a.published)}</span>
-      <div class="card-btns">
-        <button class="btn-sm" id="cp-${a.id}" onclick="cp('${a.id}','${ea(a.angle)}')">
-          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>Copy</button>
-        <button class="btn-sm ${sl?'saved':''}" id="sl-${a.id}" onclick="tsl('${a.id}','${ea(a.title)}','${ea(a.angle)}','${ea(a.source)}','${a.is_competitor?'1':'0'}')">
-          <svg width="12" height="12" viewBox="0 0 24 24" fill="${sl?'currentColor':'none'}" stroke="currentColor" stroke-width="2"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>${sl?'Saved':'Save'}</button>
-      </div>
-    </div>
-  </article>`;
+  `).join('');
 }
 
-function cp(id,angle){
-  navigator.clipboard.writeText(angle).then(()=>{
-    const b=document.getElementById('cp-'+id); if(!b) return;
-    b.classList.add('copied');
-    b.innerHTML='<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg>Copied!';
-    setTimeout(()=>{b.classList.remove('copied');b.innerHTML='<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>Copy';},2000);
-  });
+function formatDate(s){
+  if(!s) return 'Date unavailable';
+  const d=new Date(s);
+  return isNaN(d) ? 'Date unavailable' : d.toLocaleDateString('en-IN',{day:'numeric',month:'short',year:'numeric'});
 }
-
-function tsl(id,title,angle,source,isComp){
-  const i=shortlist.findIndex(s=>s.id===id);
-  if(i===-1) shortlist.push({id,title,angle,source,is_competitor:isComp==='1'});
-  else shortlist.splice(i,1);
-  document.getElementById('sl-badge').textContent=shortlist.length;
-  document.getElementById('s-shortlist').textContent=shortlist.length;
-  render();
-  if(document.getElementById('drawer').classList.contains('open')) renderDrawer();
-}
-
-function toggleDrawer(){ document.getElementById('drawer').classList.toggle('open'); renderDrawer(); }
-
-function renderDrawer(){
-  const b=document.getElementById('drawer-body');
-  if(!shortlist.length){
-    b.innerHTML='<div class="d-empty"><svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg><p>Click Save on any article to add it here</p></div>';
-    return;
-  }
-  b.innerHTML=shortlist.map((s,i)=>`
-    <div class="di ${s.is_competitor?'competitor':''}">
-      <div class="di-src">
-        ${s.is_competitor?'<span class="competitor-flag" style="font-size:10px">⚡ Competitor</span>':''}
-        ${e(s.source)}
-      </div>
-      <div class="di-angle">${e(s.angle)}</div>
-      <div class="di-btns">
-        <button class="dib" onclick="navigator.clipboard.writeText('${ea(s.angle)}')">Copy</button>
-        <button class="dib rm" onclick="rmsl(${i})">Remove</button>
-      </div>
-    </div>`).join('');
-}
-
-function rmsl(i){
-  shortlist.splice(i,1);
-  document.getElementById('sl-badge').textContent=shortlist.length;
-  document.getElementById('s-shortlist').textContent=shortlist.length;
-  renderDrawer(); render();
-}
-
-function exportList(){
-  if(!shortlist.length) return;
-  const today=new Date().toLocaleDateString('en-IN',{day:'numeric',month:'long',year:'numeric'});
-  const comp=shortlist.filter(s=>s.is_competitor);
-  const ind=shortlist.filter(s=>!s.is_competitor);
-  const lines=['AZA Fashions — Blog Topics for '+today,'='.repeat(50),''];
-  if(comp.length){
-    lines.push('⚡ COMPETITOR INTELLIGENCE','─'.repeat(30),'');
-    comp.forEach((s,i)=>lines.push(`${i+1}. [${s.source}]\n   ${s.angle}`,''));
-  }
-  if(ind.length){
-    lines.push('✦ INDUSTRY & TREND IDEAS','─'.repeat(30),'');
-    ind.forEach((s,i)=>lines.push(`${i+1}. [${s.source}]\n   ${s.angle}`,''));
-  }
-  lines.push('Generated by AZA Blog Intelligence');
-  const a=document.createElement('a');
-  a.href=URL.createObjectURL(new Blob([lines.join('\n')],{type:'text/plain'}));
-  a.download='aza-blog-topics-'+new Date().toISOString().split('T')[0]+'.txt';
-  a.click();
-}
-
-function e(s){return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;')}
-function ea(s){return String(s||'').replace(/\\/g,'\\\\').replace(/'/g,"\\'").replace(/\n/g,' ')}
-function fmtD(s){try{const d=new Date(s);return isNaN(d)?'':d.toLocaleDateString('en-IN',{day:'numeric',month:'short'})}catch{return ''}}
+function escapeHtml(s){return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
 
 loadFeed();
 </script>

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T11:55:51.140472+00:00",
+  "generated_at": "2026-04-07T12:23:26.261810+00:00",
   "owned_count": 0,
   "competitor_count": 18,
   "industry_count": 157,
@@ -15,7 +15,77 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Danielle Frankel Fall 2026 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-04-07T11:51:43+00:00",
+      "published": "2026-04-07T12:22:47+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3deaf7d1420e",
+      "title": "When Miranda Met Anna…",
+      "link": "https://www.vogue.com/article/editor-letter-may-2026",
+      "summary": "Read Chloe Malle’s editor’s letter in the May 2026 issue of Vogue.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: When Miranda Met Anna…...",
+      "score": 0,
+      "published": "2026-04-07T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "df64b981961f",
+      "title": "Meryl Streep and Anna Wintour on Power, Fashion, and Acting the Part in ‘The Devil Wears Prada 2’ | Vogue’s May 2026 Cover Story",
+      "link": "https://www.vogue.com/article/meryl-streep-anna-wintour-may-cover-2026-interview",
+      "summary": "See Meryl Streep and Anna Wintour in Vogue’s cover story for the May 2026 issue.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Meryl Streep and Anna Wintour on Power, Fashion, and Acting the Part i...",
+      "score": 2,
+      "published": "2026-04-07T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3bb98a425efd",
+      "title": "23 Glorious Vintage Snapshots of a Young Meryl Streep",
+      "link": "https://www.vogue.com/slideshow/vintage-pictures-of-meryl-streep-young",
+      "summary": "We dug through the archives to assemble a photographic tribute to a singular performer.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 23 Glorious Vintage Snapshots of a Young Meryl Streep...",
+      "score": 0,
+      "published": "2026-04-07T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3eda9e5db29c",
+      "title": "Can Peptides Help With Undereye Bags?",
+      "link": "https://www.vogue.com/article/peptides-for-undereye-bags",
+      "summary": "Everybody's smothering, injecting, and even snorting peptides—but do they actually work for your skin?",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Can Peptides Help With Undereye Bags?...",
+      "score": 0,
+      "published": "2026-04-07T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c661f829b07f",
+      "title": "Everything You Need to Remember Ahead of Euphoria Season 3",
+      "link": "https://www.harpersbazaar.com/culture/film-tv/a70944485/everything-you-need-to-remember-euphoria-season-3/",
+      "summary": "A much-needed refresher after a very long four-year wait",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-04-07T12:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1055,20 +1125,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "66ad4f29fedb",
-      "title": "Clogs Are Having a Spring Resurgence—Shop the Best Pairs",
-      "link": "https://www.vogue.com/article/best-clogs-for-women",
-      "summary": "The best clogs are unfailingly cool and can be worn all year round—find one that suits your style, from Bottega Veneta to Chloé and beyond.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Clogs Are Having a Spring Resurgence—Shop the Best Pairs...",
-      "score": 1,
-      "published": "2026-04-05T19:40:08+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b14831c3eb99",
       "title": "Zendaya Pledges Her Allegiance to Edward Cullen—Sorry, Robert Pattinson—With a Twilight Tee",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a70936772/zendaya-team-edward-twilight-tee-robert-pattinson-the-drama/",
@@ -1097,20 +1153,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7ed2848c6994",
-      "title": "The Best Dressed Stars of the Week Balanced Drama With Simplicity",
-      "link": "https://www.vogue.com/slideshow/10-best-dressed-stars-rihanna-anne-hathaway-zendaya",
-      "summary": "Both avant-garde and refined looks shined on the Hollywood red carpets this week.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The Best Dressed Stars of the Week Balanced Drama With Simplicity...",
-      "score": 1,
-      "published": "2026-04-05T16:54:30+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "118c43ac5c6e",
       "title": "Dua Lipa Adds a Pop of Yellow to Her Leopard-Print Look With a Louis Vuitton Speedy",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a70936569/dua-lipa-yellow-louis-vuitton-speedy-bag-leopard-print-skirt-photo/",
@@ -1122,20 +1164,6 @@
       "angle": "Fashion Intelligence: Dua Lipa Adds a Pop of Yellow to Her Leopard-Print Look With a Louis V...",
       "score": 0,
       "published": "2026-04-05T16:53:28+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "94185b6beda5",
-      "title": "Lily Allen on the Healing Powers of Her ‘West End Girl’ Tour",
-      "link": "https://www.vogue.com/slideshow/lily-allen-west-end-girl-tour-diary",
-      "summary": "“It's really hit me how much this material means to people,” Allen tells Vogue of touring her new album. “People are mad at their exes.”",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Lily Allen on the Healing Powers of Her ‘West End Girl’ Tour...",
-      "score": 0,
-      "published": "2026-04-05T16:03:14+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1178,20 +1206,6 @@
       "angle": "Fashion Intelligence: Princess Kate Rewears Her Favorite Cream Dress With Jewels That Once B...",
       "score": 2,
       "published": "2026-04-05T14:07:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "400329c6973f",
-      "title": "Kate Middleton Returns to Easter Celebrations With a New Hat and Old Favorites",
-      "link": "https://www.vogue.com/article/kate-middleton-returns-easter-service-windsor-outfit",
-      "summary": "After a two-year absence, Kate Middleton—Catherine, Princess of Wales—joined Easter service at Windsor with her family, and sported a statement-making new hat.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Kate Middleton Returns to Easter Celebrations With a New Hat and Old F...",
-      "score": 0,
-      "published": "2026-04-05T13:15:29+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1723,20 +1737,6 @@
       "aza_category": "Designer Spotlight",
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 6,
-      "published": "2026-04-03T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "601cbf6ff608",
-      "title": "Do You Really Want to Smell Like Banana?",
-      "link": "https://www.harpersbazaar.com/beauty/health/a70887502/banana-fragrance-trend/",
-      "summary": "A new bunch of fruity fragrances has us ripe with questions",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Do You Really Want to Smell Like Banana?...",
-      "score": 0,
       "published": "2026-04-03T12:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -2457,53 +2457,53 @@
   ],
   "trends": [
     {
-      "term": "పాము",
-      "angle": "Fashion Intelligence: పాము...",
+      "term": "weather kolkata",
+      "angle": "Fashion Intelligence: weather kolkata...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "मौद्रिक नीति समिति",
-      "angle": "Fashion Intelligence: मौद्रिक नीति समिति...",
+      "term": "sarfaraz khan ipl",
+      "angle": "Fashion Intelligence: sarfaraz khan ipl...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "அனைத்திந்திய அண்ணா திராவிட முன்னேற்றக் கழகம்",
-      "angle": "Fashion Intelligence: அனைத்திந்திய அண்ணா திராவிட முன்னேற்றக் கழகம்...",
+      "term": "आगरा",
+      "angle": "Fashion Intelligence: आगरा...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "உதயநிதி ஸ்டாலின்",
-      "angle": "Fashion Intelligence: உதயநிதி ஸ்டாலின்...",
+      "term": "weather kanpur",
+      "angle": "Fashion Intelligence: weather kanpur...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बिहार सरकार",
-      "angle": "Fashion Intelligence: बिहार सरकार...",
+      "term": "kotak mahindra bank",
+      "angle": "Fashion Intelligence: kotak mahindra bank...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "तहसीलदार",
-      "angle": "Fashion Intelligence: तहसीलदार...",
+      "term": "class 10 cbse results",
+      "angle": "Fashion Intelligence: class 10 cbse results...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "टीटागढ़ वैगन्स",
-      "angle": "Fashion Intelligence: टीटागढ़ वैगन्स...",
+      "term": "apple 50th anniversary sale",
+      "angle": "Fashion Intelligence: apple 50th anniversary sale...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ghmc",
-      "angle": "Fashion Intelligence: ghmc...",
+      "term": "एचएएल तेजस",
+      "angle": "Fashion Intelligence: एचएएल तेजस...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "বাংলাদেশ",
-      "angle": "Fashion Intelligence: বাংলাদেশ...",
+      "term": "duke 390 price hike",
+      "angle": "Fashion Intelligence: duke 390 price hike...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "गौरव तनेजा",
-      "angle": "Fashion Intelligence: गौरव तनेजा...",
+      "term": "india",
+      "angle": "Fashion Intelligence: india...",
       "aza_category": "Fashion & Style"
     }
   ]

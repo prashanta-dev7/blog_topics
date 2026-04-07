@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T09:03:33.250845+00:00",
+  "generated_at": "2026-04-07T09:12:51.970171+00:00",
   "owned_count": 0,
   "competitor_count": 18,
   "industry_count": 156,
@@ -15,7 +15,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Danielle Frankel Fall 2026 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-04-07T09:02:19+00:00",
+      "published": "2026-04-07T09:09:19+00:00",
       "discovered_via": "feed"
     },
     {
@@ -873,20 +873,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7613b69ea87d",
-      "title": "3 Minimalist Spring Trends French Women Are Wearing Now",
-      "link": "https://www.whowhatwear.com/fashion/spring/minimalist-french-trends-spring-2026",
-      "summary": "Très chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-04-06T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e6f7165d5ce7",
       "title": "I Wanted a Minimal, Timeless Spring Wardrobe—These 7 Luxury Basics Got Me There",
       "link": "https://www.whowhatwear.com/fashion/shopping/luxury-spring-basics-2026",
@@ -897,6 +883,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I Wanted a Minimal, Timeless Spring Wardrobe—These 7 Luxury Basics Got...",
       "score": 1,
+      "published": "2026-04-06T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7613b69ea87d",
+      "title": "3 Minimalist Spring Trends French Women Are Wearing Now",
+      "link": "https://www.whowhatwear.com/fashion/spring/minimalist-french-trends-spring-2026",
+      "summary": "Très chic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
       "published": "2026-04-06T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -2441,5 +2441,56 @@
       "discovered_via": "feed"
     }
   ],
-  "trends": []
+  "trends": [
+    {
+      "term": "மகேந்திரசிங் தோனி",
+      "angle": "Fashion Intelligence: மகேந்திரசிங் தோனி...",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "ಚಿನ್ನ",
+      "angle": "Fashion Intelligence: ಚಿನ್ನ...",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "ભીમ વકાની",
+      "angle": "Fashion Intelligence: ભીમ વકાની...",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "बिहार",
+      "angle": "Fashion Intelligence: बिहार...",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "javokhir sindarov",
+      "angle": "Fashion Intelligence: javokhir sindarov...",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "రైలు",
+      "angle": "Fashion Intelligence: రైలు...",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "நீட்",
+      "angle": "Fashion Intelligence: நீட்...",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "मंगल",
+      "angle": "Fashion Intelligence: मंगल...",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "melbourne city fc vs central coast mariners",
+      "angle": "Fashion Intelligence: melbourne city fc vs central coast mariners...",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "ഹോട്ടല്",
+      "angle": "Fashion Intelligence: ഹോട്ടല്...",
+      "aza_category": "Fashion & Style"
+    }
+  ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-07T09:31:35.361113+00:00",
+  "generated_at": "2026-04-07T11:55:51.140472+00:00",
   "owned_count": 0,
   "competitor_count": 18,
-  "industry_count": 156,
+  "industry_count": 157,
   "articles": [
     {
       "id": "dd672a49a8b4",
@@ -15,7 +15,63 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Danielle Frankel Fall 2026 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-04-07T09:28:44+00:00",
+      "published": "2026-04-07T11:51:43+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d2bd05070e10",
+      "title": "Light-Wash Jeans Are So Back—These Are the Anti-Trend Shoes They Look Best With",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/light-wash-jeans-white-loafers-outfit-lindsay-lohan",
+      "summary": "Spotted on It girls in NYC.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-04-07T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dd6f9934a964",
+      "title": "J.Law and Alexa Are Switching Out Their Leggings for This Cool-Girl Jeans Trend",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/straight-leg-jeans-trend-alexa-chung-jennifer-lawrence",
+      "summary": "Now I need a pair.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-04-07T10:26:03+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "32f0f5397272",
+      "title": "The Best Places to Buy Wallpaper, According to Interior Designers",
+      "link": "https://www.vogue.com/article/where-to-buy-wallpaper-interior-designers",
+      "summary": "Interested in a full room facelift? We polled interior designers on where to buy wallpaper, from permanent investments to peel-and-stick options.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: The Best Places to Buy Wallpaper, According to Interior Designers...",
+      "score": 1,
+      "published": "2026-04-07T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8529a3370c7d",
+      "title": "Will AI Make Fashion More or Less Sustainable?",
+      "link": "https://www.vogue.com/article/will-ai-make-fashion-more-or-less-sustainable",
+      "summary": "As fashion adopts AI tools to power its sustainability efforts, could the impacts outweigh the benefits?",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "Fashion Intelligence: Will AI Make Fashion More or Less Sustainable?...",
+      "score": 2,
+      "published": "2026-04-07T09:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -62,30 +118,16 @@
     },
     {
       "id": "4b0d660118f3",
-      "title": "My Best Friend is Heading to Coachella—3 Zara Outfits I Sent Her that Make Festival Dressing Look Chic",
+      "title": "My Best Friend Is Heading to Coachella—3 Zara Outfits I Sent Her That Make Festival Dressing Look Chic",
       "link": "https://www.whowhatwear.com/fashion/shopping/zara-festival-outfits",
-      "summary": "Banish festival FOMO.",
+      "summary": "Ready-made looks.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: My Best Friend is Heading to Coachella—3 Zara Outfits I Sent Her that ...",
+      "angle": "Fashion Intelligence: My Best Friend Is Heading to Coachella—3 Zara Outfits I Sent Her That ...",
       "score": 2,
       "published": "2026-04-07T06:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e275cc3a1fa3",
-      "title": "Far From Old-Fashioned, These 11 Lavender Perfumes Are Fresh, Calm and Modern",
-      "link": "https://www.whowhatwear.com/beauty/fragrance/best-lavender-fragrances",
-      "summary": "Don’t sleep on these fragrances.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Far From Old-Fashioned, These 11 Lavender Perfumes Are Fresh, Calm and...",
-      "score": 1,
-      "published": "2026-04-07T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -112,6 +154,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: From French Pins to Lace Scarves, These Are the Chic Hair Accessories ...",
+      "score": 1,
+      "published": "2026-04-07T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e275cc3a1fa3",
+      "title": "Far From Old-Fashioned, These 11 Lavender Perfumes Are Fresh, Calm and Modern",
+      "link": "https://www.whowhatwear.com/beauty/fragrance/best-lavender-fragrances",
+      "summary": "Don’t sleep on these fragrances.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Far From Old-Fashioned, These 11 Lavender Perfumes Are Fresh, Calm and...",
       "score": 1,
       "published": "2026-04-07T06:00:00+00:00",
       "discovered_via": "feed"
@@ -145,20 +201,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c05a51f90c84",
-      "title": "Bella Hadid’s Big Plans for Orebella",
-      "link": "https://www.vogue.com/article/bella-hadids-big-plans-for-orebella",
-      "summary": "Today, Ôrəbella is launching body and hair mists, adding to its fragrance lineup. Bella Hadid shares her plans for the next phase of her brand.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Bella Hadid’s Big Plans for Orebella...",
-      "score": 2,
-      "published": "2026-04-07T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "5e5d097d4462",
       "title": "How Fashion Is Getting Tariff Refunds",
       "link": "https://www.vogue.com/article/how-fashion-is-getting-tariff-refunds",
@@ -183,6 +225,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Are Haul Videos Making Fashion’s Returns Problem Worse?...",
       "score": 1,
+      "published": "2026-04-07T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c05a51f90c84",
+      "title": "Bella Hadid’s Big Plans for Orebella",
+      "link": "https://www.vogue.com/article/bella-hadids-big-plans-for-orebella",
+      "summary": "Today, Orebella is launching body and hair mists, adding to its fragrance lineup. Bella Hadid shares her plans for the next phase of her brand.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Bella Hadid’s Big Plans for Orebella...",
+      "score": 2,
       "published": "2026-04-07T04:30:00+00:00",
       "discovered_via": "feed"
     },
@@ -789,6 +845,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "63424400b886",
+      "title": "10 Best Untucked Shirts For Men – All Styles For 2026",
+      "link": "https://www.fashionbeans.com/article/best-untucked-shirts/",
+      "summary": "Spoiler alert: shirts can be left untucked. Some are designed to hang free, while others just look better that way. Your dad may not have received the memo, but since when did you start listening to anything he said? If you’re the kind of guy that likes a little fabric around his tooshie, then the &#8230; Continue read",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: 10 Best Untucked Shirts For Men – All Styles For 2026...",
+      "score": 1,
+      "published": "2026-04-06T12:27:05+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "b52fa6ab3a24",
       "title": "At the 2026 Easter Parade and Bonnet Festival, Pagentry, Pathos, and So Very Many Pastels",
       "link": "https://www.vogue.com/slideshow/2026-easter-parade-and-bonnet-festival",
@@ -817,20 +887,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c50f9982dbc5",
-      "title": "Did Grandmother Know Best? Designers Reimagined 1950s Stoles and Shrugs for Fall",
-      "link": "https://www.vogue.com/slideshow/did-grandmother-know-best-designers-reimagined-1950s-stoles-and-shrugs-for-fall",
-      "summary": "On the fall runways designers offered protective capelets and fur stoles to snuggle into.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Did Grandmother Know Best? Designers Reimagined 1950s Stoles and Shrug...",
-      "score": 2,
-      "published": "2026-04-06T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ae5a7b14ee91",
       "title": "19 Best Airbnbs in the French Riviera Are Brimming with Mediterranean Charm",
       "link": "https://www.vogue.com/article/best-airbnbs-in-french-riviera",
@@ -841,6 +897,20 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: 19 Best Airbnbs in the French Riviera Are Brimming with Mediterranean ...",
       "score": 0,
+      "published": "2026-04-06T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c50f9982dbc5",
+      "title": "Did Grandmother Know Best? Designers Reimagined 1950s Stoles and Shrugs for Fall",
+      "link": "https://www.vogue.com/slideshow/did-grandmother-know-best-designers-reimagined-1950s-stoles-and-shrugs-for-fall",
+      "summary": "On the fall runways designers offered protective capelets and fur stoles to snuggle into.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Did Grandmother Know Best? Designers Reimagined 1950s Stoles and Shrug...",
+      "score": 2,
       "published": "2026-04-06T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -873,6 +943,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "e6f7165d5ce7",
+      "title": "I Wanted a Minimalist, Timeless Spring Wardrobe—These 7 Luxury Basics Got Me There",
+      "link": "https://www.whowhatwear.com/fashion/shopping/luxury-spring-basics-2026",
+      "summary": "Basics worth investing in.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Wanted a Minimalist, Timeless Spring Wardrobe—These 7 Luxury Basics ...",
+      "score": 1,
+      "published": "2026-04-06T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "7613b69ea87d",
       "title": "3 Minimalist Spring Trends French Women Are Wearing Now",
       "link": "https://www.whowhatwear.com/fashion/spring/minimalist-french-trends-spring-2026",
@@ -883,20 +967,6 @@
       "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
-      "published": "2026-04-06T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e6f7165d5ce7",
-      "title": "I Wanted a Minimal, Timeless Spring Wardrobe—These 7 Luxury Basics Got Me There",
-      "link": "https://www.whowhatwear.com/fashion/shopping/luxury-spring-basics-2026",
-      "summary": "Basics worth investing in.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Wanted a Minimal, Timeless Spring Wardrobe—These 7 Luxury Basics Got...",
-      "score": 1,
       "published": "2026-04-06T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -944,14 +1014,14 @@
     },
     {
       "id": "e41578088e64",
-      "title": "Sorry 2026, the '90s Did Spring Dressing Better—5 Celeb Looks I'm Recreating Now",
+      "title": "Sorry, 2026, the '90s Did Spring Dressing Better—5 Celeb Looks I'm Re-Creating Now",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/best-celebrity-90s-looks-for-spring-2026",
       "summary": "A chic blast from the past.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Sorry 2026, the '90s Did Spring Dressing Better—5 Celeb Looks I'm Recr...",
+      "angle": "Fashion Intelligence: Sorry, 2026, the '90s Did Spring Dressing Better—5 Celeb Looks I'm Re-...",
       "score": 1,
       "published": "2026-04-06T05:00:00+00:00",
       "discovered_via": "feed"
@@ -1153,34 +1223,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4a81b2964917",
-      "title": "From the Archives: Jeffrey Steingarten Learns the Art of the Omelet",
-      "link": "https://www.vogue.com/article/from-the-archives-eggs-unscrambled",
-      "summary": "He would have to seek out the cooking secrets of a master chef, and dozens would have to be sacrificed. For it had finally come time for Jeffrey Steingarten to learn the art of the omelet.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: From the Archives: Jeffrey Steingarten Learns the Art of the Omelet...",
-      "score": 0,
-      "published": "2026-04-05T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7781536047ad",
-      "title": "Rihanna Updates Her Favorite (And Most Divisive) Bag in Paris",
-      "link": "https://www.vogue.com/article/rihanna-updates-her-favorite-and-most-divisive-bag-in-paris",
-      "summary": "Stepping out for dinner with her family, Rihanna sported a new version of a much-loved, big statement-making Dior accessory.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Rihanna Updates Her Favorite (And Most Divisive) Bag in Paris...",
-      "score": 1,
-      "published": "2026-04-05T10:33:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "9a1c5cb46b9a",
       "title": "How To Dress With Sprezzatura",
       "link": "https://www.fashionbeans.com/article/how-to-dress-with-sprezzatura/",
@@ -1290,34 +1332,6 @@
       "angle": "Fashion Intelligence: According to Pinterest, Every It Girl Is Sporting This Chic, Versatile...",
       "score": 1,
       "published": "2026-04-05T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "be07f5ba80d2",
-      "title": "10 Best Men’s Baggy Jeans – All Styles and Budgets For 2026",
-      "link": "https://www.fashionbeans.com/article/best-mens-baggy-jeans/",
-      "summary": "High on the list of garments we must once again reckon with, for better or worse, are baggy jeans. They’re back. They’ve been back. You know this, and you’re likely okay with this considering the fact that you clicked on a link about the 10 best men’s baggy jeans. Sure, we’re going to talk about &#8230; Continue readin",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 10 Best Men’s Baggy Jeans – All Styles and Budgets For 2026...",
-      "score": 1,
-      "published": "2026-04-05T06:47:38+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c9d9ccbb878c",
-      "title": "17 Best Shirt Brands for Men: Top Wardrobe Staples of 2026",
-      "link": "https://www.fashionbeans.com/article/best-shirt-brands-for-men/",
-      "summary": "A good shirt is hard to come by. That is if you aren’t well-versed in the best shirt brands for men. But why should you care in the first place? The importance of high-quality shirts should not be overlooked, as they often set the tone for your first impression. An ill-fitting, tattered number may say, &#8230; Continue",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 17 Best Shirt Brands for Men: Top Wardrobe Staples of 2026...",
-      "score": 1,
-      "published": "2026-04-05T06:25:39+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2443,53 +2457,53 @@
   ],
   "trends": [
     {
-      "term": "pakistan",
-      "angle": "Fashion Intelligence: pakistan...",
+      "term": "పాము",
+      "angle": "Fashion Intelligence: పాము...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "openai",
-      "angle": "Fashion Intelligence: openai...",
+      "term": "मौद्रिक नीति समिति",
+      "angle": "Fashion Intelligence: मौद्रिक नीति समिति...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "उत्तर प्रदेश सरकार",
-      "angle": "Fashion Intelligence: उत्तर प्रदेश सरकार...",
+      "term": "அனைத்திந்திய அண்ணா திராவிட முன்னேற்றக் கழகம்",
+      "angle": "Fashion Intelligence: அனைத்திந்திய அண்ணா திராவிட முன்னேற்றக் கழகம்...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "மகேந்திரசிங் தோனி",
-      "angle": "Fashion Intelligence: மகேந்திரசிங் தோனி...",
+      "term": "உதயநிதி ஸ்டாலின்",
+      "angle": "Fashion Intelligence: உதயநிதி ஸ்டாலின்...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಚಿನ್ನ",
-      "angle": "Fashion Intelligence: ಚಿನ್ನ...",
+      "term": "बिहार सरकार",
+      "angle": "Fashion Intelligence: बिहार सरकार...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ભીમ વકાની",
-      "angle": "Fashion Intelligence: ભીમ વકાની...",
+      "term": "तहसीलदार",
+      "angle": "Fashion Intelligence: तहसीलदार...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bharatiya janata party",
-      "angle": "Fashion Intelligence: bharatiya janata party...",
-      "aza_category": "Occasion Dressing"
-    },
-    {
-      "term": "बिहार",
-      "angle": "Fashion Intelligence: बिहार...",
+      "term": "टीटागढ़ वैगन्स",
+      "angle": "Fashion Intelligence: टीटागढ़ वैगन्स...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "javokhir sindarov",
-      "angle": "Fashion Intelligence: javokhir sindarov...",
+      "term": "ghmc",
+      "angle": "Fashion Intelligence: ghmc...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "రైలు",
-      "angle": "Fashion Intelligence: రైలు...",
+      "term": "বাংলাদেশ",
+      "angle": "Fashion Intelligence: বাংলাদেশ...",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "गौरव तनेजा",
+      "angle": "Fashion Intelligence: गौरव तनेजा...",
       "aza_category": "Fashion & Style"
     }
   ]

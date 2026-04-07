@@ -2,15 +2,19 @@
 import json
 import feedparser
 import requests
-import datetime
-import hashlib
 import re
+import hashlib
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse
+from datetime import datetime, timezone, timedelta
+from dateutil import parser as dateparser
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (AZA Blog Agent/3.0; +https://www.azafashions.com)"
+    "User-Agent": "Mozilla/5.0 (AZA Blog Agent/4.0; +https://www.azafashions.com)"
 }
+
+MAX_AGE_DAYS = 60
+CUTOFF_DATE = datetime.now(timezone.utc) - timedelta(days=MAX_AGE_DAYS)
 
 SOURCES = [
     {"name":"AZA Blog","tier":"owned","pages":["https://www.azafashions.com/blog/"],"feeds":["https://www.azafashions.com/blog/feed"]},
@@ -118,24 +122,74 @@ def normalize_url(base, href):
 def looks_like_post_url(url, source_host):
     if not url:
         return False
+
     parsed = urlparse(url)
     host = parsed.netloc.lower()
-    path = parsed.path.lower()
+    path = parsed.path.lower().rstrip("/")
+
     if source_host not in host:
         return False
-    bad = ["/tag/", "/category/", "/author/", "/page/", "/search", "/feed", "/wp-content/", ".jpg", ".png", ".webp", ".svg", ".pdf"]
-    if any(x in path for x in bad):
+
+    bad_parts = [
+        "/products/", "/product/", "/collections/", "/collection/", "/shop/",
+        "/category/", "/categories/", "/tag/", "/tags/", "/search", "/feed",
+        "/page/", "/cart", "/checkout", "/account", "/wishlist", "/lookbook",
+        "/wp-content/", ".jpg", ".jpeg", ".png", ".webp", ".svg", ".pdf"
+    ]
+    if any(part in path for part in bad_parts):
         return False
+
     if "web-stories" in path:
         return False
-    return path.count("/") >= 2
 
-def parse_date(entry):
+    good_parts = ["/blog/", "/blogs/", "/news/", "/magazine/"]
+    if any(part in path for part in good_parts):
+        segments = [s for s in path.split("/") if s]
+        if len(segments) >= 2:
+            if "blogs" in segments and len(segments) >= 3:
+                return True
+            if "blog" in segments and len(segments) >= 2:
+                return True
+            if ("news" in segments or "magazine" in segments) and len(segments) >= 2:
+                return True
+
+    if re.search(r"/20\d{2}/\d{2}/", path):
+        return True
+
+    return False
+
+def to_datetime_from_entry(entry):
+    if getattr(entry, "published_parsed", None):
+        try:
+            return datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
+        except Exception:
+            pass
+
     for key in ["published", "updated", "created"]:
         val = entry.get(key)
         if val:
-            return val
-    return ""
+            try:
+                dt = dateparser.parse(val)
+                if dt.tzinfo is None:
+                    dt = dt.replace(tzinfo=timezone.utc)
+                return dt.astimezone(timezone.utc)
+            except Exception:
+                pass
+    return None
+
+def to_datetime_from_string(value):
+    if not value:
+        return None
+    try:
+        dt = dateparser.parse(value)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt.astimezone(timezone.utc)
+    except Exception:
+        return None
+
+def is_recent(dt):
+    return dt is not None and dt >= CUTOFF_DATE
 
 def item_from_entry(entry, src):
     title = clean_text(entry.get("title", ""))
@@ -155,7 +209,7 @@ def item_from_entry(entry, src):
         "aza_category": detect_category(combined),
         "angle": suggest_angle(title),
         "score": score_fashion(combined),
-        "published": parse_date(entry),
+        "published": "",
         "discovered_via": "feed"
     }
 
@@ -169,8 +223,13 @@ def fetch_feed_items(src):
             feed = feedparser.parse(resp.content)
             for entry in feed.entries[:50]:
                 item = item_from_entry(entry, src)
-                if item:
-                    items.append(item)
+                if not item:
+                    continue
+                dt = to_datetime_from_entry(entry)
+                if not is_recent(dt):
+                    continue
+                item["published"] = dt.isoformat()
+                items.append(item)
         except Exception:
             continue
     return items
@@ -221,8 +280,7 @@ def fetch_html_items(src):
             for title, link in candidates[:300]:
                 if not looks_like_post_url(link, host):
                     continue
-                combined = title
-                if src["tier"] == "industry" and score_fashion(combined) < 1:
+                if src["tier"] == "industry" and score_fashion(title) < 1:
                     continue
                 items.append({
                     "id": hashlib.md5(link.encode()).hexdigest()[:12],
@@ -232,9 +290,9 @@ def fetch_html_items(src):
                     "source": src["name"],
                     "tier": src["tier"],
                     "is_competitor": src["tier"] == "competitor",
-                    "aza_category": detect_category(combined),
+                    "aza_category": detect_category(title),
                     "angle": suggest_angle(title),
-                    "score": score_fashion(combined),
+                    "score": score_fashion(title),
                     "published": "",
                     "discovered_via": "html"
                 })
@@ -263,39 +321,44 @@ def fetch_source(src):
     html_items = fetch_html_items(src)
     items = merge_items(feed_items, html_items)
 
+    filtered = []
+    for item in items:
+        dt = to_datetime_from_string(item.get("published"))
+        if dt and is_recent(dt):
+            filtered.append(item)
+    items = filtered
+
     if src["tier"] == "industry":
         items = [x for x in items if x["score"] > 0 or x["source"] in [
             "Vogue US","Business of Fashion","Vogue India Fashion","Elle India Fashion","Grazia India Fashion","Harper's Bazaar"
         ]]
 
-    def sort_key(x):
-        pub = x.get("published") or ""
-        return (0 if x.get("discovered_via") == "feed" else 1, pub)
-
-    items = sorted(items, key=sort_key, reverse=True)[:40]
+    items = sorted(items, key=lambda x: x.get("published",""), reverse=True)[:40]
     print(f"{src['name']}: {len(items)} items ({len(feed_items)} feed, {len(html_items)} html)")
     return items
 
 def fetch_trends():
-    trends = []
+    fashion_hits = []
+    general_hits = []
     try:
         resp = requests.get(GOOGLE_TRENDS_URL, headers=HEADERS, timeout=15)
         feed = feedparser.parse(resp.content)
         for entry in feed.entries[:40]:
             title = clean_text(entry.get("title", ""))
+            item = {
+                "term": title,
+                "angle": suggest_angle(title),
+                "aza_category": detect_category(title),
+            }
+            general_hits.append(item)
             if score_fashion(title) > 0:
-                trends.append({
-                    "term": title,
-                    "angle": suggest_angle(title),
-                    "aza_category": detect_category(title),
-                })
+                fashion_hits.append(item)
     except Exception:
         pass
-    return trends[:12]
 
-def published_sort_value(item):
-    p = (item.get("published") or "").strip()
-    return p if p else "0000"
+    if fashion_hits:
+        return fashion_hits[:12]
+    return general_hits[:12]
 
 if __name__ == "__main__":
     all_items = []
@@ -310,12 +373,9 @@ if __name__ == "__main__":
     articles = list(dedup.values())
     articles.sort(key=lambda x: (
         0 if x["tier"] == "owned" else 1 if x["tier"] == "competitor" else 2,
-        -x.get("score", 0),
-        x["source"].lower(),
-        published_sort_value(x)
-    ))
+        x.get("published","")
+    ), reverse=True)
 
-    # keep a large pool, not a tiny one
     articles = articles[:800]
 
     competitor_count = sum(1 for x in articles if x["tier"] == "competitor")
@@ -326,7 +386,7 @@ if __name__ == "__main__":
 
     with open("feed.json", "w", encoding="utf-8") as f:
         json.dump({
-            "generated_at": datetime.datetime.now(datetime.timezone.utc).isoformat(),
+            "generated_at": datetime.now(timezone.utc).isoformat(),
             "owned_count": owned_count,
             "competitor_count": competitor_count,
             "industry_count": industry_count,

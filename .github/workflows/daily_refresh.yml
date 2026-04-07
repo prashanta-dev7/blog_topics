@@ -2,7 +2,8 @@ name: Daily Feed Refresh
 
 on:
   schedule:
-    - cron: "0 2 * * *"  # 7:30 AM IST daily
+    - cron: "0 2 * * *"       # 7:30 AM IST  — full refresh (competitors + industry)
+    - cron: "0 5,8,11 * * *"  # 10:30 AM, 1:30 PM, 4:30 PM IST — competitors only
   workflow_dispatch:
 
 jobs:
@@ -10,13 +11,30 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - run: pip install feedparser requests
-      - run: python fetch_feeds.py
+
+      - name: Install dependencies
+        run: pip install feedparser requests
+
+      - name: Determine refresh mode
+        id: mode
+        run: |
+          HOUR=$(date -u +%H)
+          if [ "$HOUR" = "02" ]; then
+            echo "args=" >> $GITHUB_OUTPUT
+          else
+            echo "args=--competitors-only" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Fetch feeds
+        run: python fetch_feeds.py ${{ steps.mode.outputs.args }}
+
       - name: Commit feed.json
         run: |
           git config user.name "AZA Feed Bot"

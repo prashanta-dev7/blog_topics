@@ -27,6 +27,7 @@
   --color-text-inverse:#faf9f5;
   --color-primary:#b8912a;--color-primary-hover:#9a7520;
   --color-primary-highlight:#f0e5c8;--color-accent:#2c2318;
+  --color-competitor:#c0392b;--color-competitor-hover:#96281b;
   --shadow-sm:0 1px 3px oklch(0.15 0.02 60/0.07);
   --shadow-md:0 4px 16px oklch(0.15 0.02 60/0.09);
   --shadow-lg:0 12px 40px oklch(0.15 0.02 60/0.13);
@@ -40,6 +41,7 @@
   --color-text-inverse:#14120e;
   --color-primary:#d4a83c;--color-primary-hover:#e8bf58;
   --color-primary-highlight:#2e2510;--color-accent:#e8e0d0;
+  --color-competitor:#e74c3c;--color-competitor-hover:#c0392b;
   --shadow-sm:0 1px 3px oklch(0 0 0/0.25);
   --shadow-md:0 4px 16px oklch(0 0 0/0.35);
   --shadow-lg:0 12px 40px oklch(0 0 0/0.5);
@@ -85,6 +87,8 @@ a,button{transition:color var(--transition),background var(--transition),border-
 .stat-label{font-size:var(--text-xs);color:var(--color-text-muted);text-transform:uppercase;letter-spacing:.07em;margin-bottom:var(--space-1)}
 .stat-value{font-family:var(--font-display);font-size:var(--text-xl);font-weight:600;line-height:1}
 .stat-sub{font-size:var(--text-xs);color:var(--color-text-faint);margin-top:var(--space-1)}
+.stat.competitor-stat{border-color:color-mix(in oklch,var(--color-competitor) 30%,var(--color-border))}
+.stat.competitor-stat .stat-value{color:var(--color-competitor)}
 
 /* FILTER BAR */
 .filter-bar{display:flex;align-items:center;gap:var(--space-3);margin-bottom:var(--space-6);flex-wrap:wrap}
@@ -95,11 +99,20 @@ a,button{transition:color var(--transition),background var(--transition),border-
 .pill{padding:var(--space-1) var(--space-3);border-radius:var(--radius-full);border:1px solid var(--color-border);font-size:var(--text-xs);font-weight:500;color:var(--color-text-muted);background:var(--color-surface);cursor:pointer;white-space:nowrap;transition:all var(--transition)}
 .pill:hover{border-color:var(--color-primary);color:var(--color-primary)}
 .pill.active{background:var(--color-primary);color:var(--color-text-inverse);border-color:var(--color-primary)}
+.pill.competitor-pill{border-color:var(--color-competitor);color:var(--color-competitor)}
+.pill.competitor-pill:hover{background:color-mix(in oklch,var(--color-competitor) 10%,transparent)}
+.pill.competitor-pill.active{background:var(--color-competitor);color:#fff;border-color:var(--color-competitor)}
 
 /* SECTION HEADER */
 .sec-header{display:flex;align-items:baseline;gap:var(--space-3);margin-bottom:var(--space-4);padding-bottom:var(--space-3);border-bottom:1px solid var(--color-divider)}
 .sec-title{font-family:var(--font-display);font-size:var(--text-lg);font-weight:600}
 .sec-count{font-size:var(--text-xs);color:var(--color-text-faint);background:var(--color-surface-offset);padding:2px 8px;border-radius:var(--radius-full);font-weight:500}
+
+/* COMPETITOR ALERT BANNER */
+.competitor-alert{background:color-mix(in oklch,var(--color-competitor) 8%,var(--color-surface));border:1px solid color-mix(in oklch,var(--color-competitor) 25%,var(--color-border));border-radius:var(--radius-lg);padding:var(--space-3) var(--space-5);margin-bottom:var(--space-5);display:none;align-items:center;gap:var(--space-3)}
+.competitor-alert.visible{display:flex}
+.competitor-alert-text{font-size:var(--text-xs);font-weight:600;color:var(--color-competitor);letter-spacing:.04em}
+.competitor-alert-sub{font-size:var(--text-xs);color:var(--color-text-muted);margin-left:auto}
 
 /* TRENDS */
 .trends-wrap{margin-bottom:var(--space-8)}
@@ -114,8 +127,10 @@ a,button{transition:color var(--transition),background var(--transition),border-
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(360px,100%),1fr));gap:var(--space-5)}
 .card{background:var(--color-surface);border:1px solid var(--color-divider);border-radius:var(--radius-xl);padding:var(--space-5);box-shadow:var(--shadow-sm);display:flex;flex-direction:column;gap:var(--space-3);transition:box-shadow var(--transition),transform var(--transition)}
 .card:hover{box-shadow:var(--shadow-md);transform:translateY(-2px)}
+.card.competitor{border-color:color-mix(in oklch,var(--color-competitor) 35%,var(--color-border));background:color-mix(in oklch,var(--color-competitor) 3%,var(--color-surface))}
 .card-top{display:flex;align-items:center;gap:var(--space-2);flex-wrap:wrap}
 .source{font-size:var(--text-xs);font-weight:600;color:var(--color-primary);letter-spacing:.05em;text-transform:uppercase}
+.competitor-flag{display:inline-flex;align-items:center;gap:4px;font-size:var(--text-xs);font-weight:700;color:var(--color-competitor);letter-spacing:.05em;text-transform:uppercase;background:color-mix(in oklch,var(--color-competitor) 10%,transparent);padding:2px 7px;border-radius:var(--radius-full);border:1px solid color-mix(in oklch,var(--color-competitor) 25%,transparent)}
 .cat{font-size:var(--text-xs);font-weight:500;background:var(--color-surface-offset);color:var(--color-text-muted);padding:2px 8px;border-radius:var(--radius-full)}
 .cat.bridal{background:#fde8f0;color:#8b3a5a}
 .cat.celebrity{background:#fef3e0;color:#7a4f10}
@@ -167,7 +182,9 @@ a,button{transition:color var(--transition),background var(--transition),border-
 .drawer-title{font-family:var(--font-display);font-size:var(--text-lg);font-weight:600}
 .drawer-body{flex:1;overflow-y:auto;padding:var(--space-4);display:flex;flex-direction:column;gap:var(--space-3)}
 .di{background:var(--color-surface);border:1px solid var(--color-divider);border-radius:var(--radius-lg);padding:var(--space-4)}
-.di-src{font-size:var(--text-xs);font-weight:600;color:var(--color-primary);text-transform:uppercase;letter-spacing:.05em;margin-bottom:var(--space-1)}
+.di.competitor{border-color:color-mix(in oklch,var(--color-competitor) 30%,var(--color-border))}
+.di-src{font-size:var(--text-xs);font-weight:600;color:var(--color-primary);text-transform:uppercase;letter-spacing:.05em;margin-bottom:var(--space-1);display:flex;align-items:center;gap:var(--space-2)}
+.di-src .competitor-flag{font-size:10px}
 .di-angle{font-family:var(--font-display);font-size:var(--text-base);font-style:italic;line-height:1.4}
 .di-btns{display:flex;gap:var(--space-2);margin-top:var(--space-3)}
 .dib{font-size:var(--text-xs);color:var(--color-text-faint);padding:var(--space-1) var(--space-2);border-radius:var(--radius-sm);border:1px solid var(--color-border);background:none;cursor:pointer}
@@ -220,14 +237,15 @@ a,button{transition:color var(--transition),background var(--transition),border-
     <p>This app reads <code>feed.json</code> generated daily by GitHub Actions. Complete the steps below once:</p>
     <div class="steps">
       <div class="step"><span class="step-n">1</span><span>Push all files from this folder to a new GitHub repository</span></div>
-      <div class="step"><span class="step-n">2</span><span>Go to <strong>Settings → Pages</strong> → enable from <code>main</code> branch. Your app will be live at <code>yourusername.github.io/aza-blog-agent</code></span></div>
+      <div class="step"><span class="step-n">2</span><span>Go to <strong>Settings → Pages</strong> → enable from <code>main</code> branch</span></div>
       <div class="step"><span class="step-n">3</span><span>Go to <strong>Actions → Daily Feed Refresh → Run workflow</strong> to generate the first <code>feed.json</code></span></div>
-      <div class="step"><span class="step-n">4</span><span>After this, the feed auto-refreshes at <strong>7:30 AM IST every day</strong>. Bookmark the URL and share with your team.</span></div>
+      <div class="step"><span class="step-n">4</span><span>Feed auto-refreshes at <strong>7:30 AM IST</strong> daily. Competitor blogs also checked at <strong>10:30 AM, 1:30 PM & 4:30 PM IST</strong>.</span></div>
     </div>
   </div>
 
   <div class="stats" id="stats" style="display:none">
-    <div class="stat"><div class="stat-label">Today's Articles</div><div class="stat-value" id="s-articles">—</div><div class="stat-sub" id="s-sources">—</div></div>
+    <div class="stat competitor-stat"><div class="stat-label">⚡ Competitor Posts</div><div class="stat-value" id="s-comp">—</div><div class="stat-sub">updated 4× daily</div></div>
+    <div class="stat"><div class="stat-label">Industry Articles</div><div class="stat-value" id="s-articles">—</div><div class="stat-sub" id="s-sources">—</div></div>
     <div class="stat"><div class="stat-label">Trending India</div><div class="stat-value" id="s-trends">—</div><div class="stat-sub">fashion signals</div></div>
     <div class="stat"><div class="stat-label">Shortlisted</div><div class="stat-value" id="s-shortlist">0</div><div class="stat-sub">topics for today</div></div>
     <div class="stat"><div class="stat-label">Feed Updated</div><div class="stat-value" style="font-size:var(--text-lg)" id="s-time">—</div><div class="stat-sub">IST</div></div>
@@ -240,6 +258,7 @@ a,button{transition:color var(--transition),background var(--transition),border-
     </div>
     <div class="pills">
       <button class="pill active" onclick="setF('All',this)">All</button>
+      <button class="pill competitor-pill" onclick="setF('__competitor__',this)">⚡ Competitors</button>
       <button class="pill" onclick="setF('Bridal & Wedding',this)">Bridal</button>
       <button class="pill" onclick="setF('Celebrity Style',this)">Celebrity</button>
       <button class="pill" onclick="setF('Designer Spotlight',this)">Designer</button>
@@ -247,6 +266,12 @@ a,button{transition:color var(--transition),background var(--transition),border-
       <button class="pill" onclick="setF('Trend Alert',this)">Trend</button>
       <button class="pill" onclick="setF('Occasion Dressing',this)">Occasion</button>
     </div>
+  </div>
+
+  <div class="competitor-alert" id="comp-alert">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="var(--color-competitor)" stroke-width="2.5"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
+    <span class="competitor-alert-text" id="comp-alert-text">Competitor activity detected</span>
+    <span class="competitor-alert-sub">Click ⚡ Competitors to review</span>
   </div>
 
   <div class="trends-wrap" id="trends-wrap" style="display:none">
@@ -272,7 +297,7 @@ a,button{transition:color var(--transition),background var(--transition),border-
   </div>
   <div id="articles-grid" class="grid" style="display:none"></div>
   <div id="empty" class="empty" style="display:none">
-    <div class="ico">🔍</div><h3>No articles match</h3><p>Try a different search or category.</p>
+    <div class="ico">🔍</div><h3>No articles match</h3><p>Try a different search or category filter.</p>
   </div>
 
 </main>
@@ -302,7 +327,7 @@ a,button{transition:color var(--transition),background var(--transition),border-
 let articles=[], trends=[], shortlist=[], activeF='All';
 const CC={'Bridal & Wedding':'bridal','Celebrity Style':'celebrity','Designer Spotlight':'designer','Art & Craft':'art','Trend Alert':'trend','Occasion Dressing':'occasion'};
 
-// Theme
+// Theme toggle
 (function(){
   const t=document.querySelector('[data-theme-toggle]'),r=document.documentElement;
   let d=matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';
@@ -322,7 +347,7 @@ async function loadFeed(){
     if(!r.ok) throw new Error();
     const d=await r.json();
     articles=d.articles||[]; trends=d.trends||[];
-    renderAll(d.generated_at);
+    renderAll(d);
   }catch(e){ showSetup(); }
   finally{ btn.disabled=false; ic.classList.remove('spin'); }
 }
@@ -333,19 +358,36 @@ function showSetup(){
   document.getElementById('last-updated').textContent='feed.json not found — see setup below';
 }
 
-function renderAll(ts){
+function renderAll(d){
   document.getElementById('skeleton').style.display='none';
-  ['stats','filter-bar','a-header'].forEach(id=>document.getElementById(id).style.display=id==='stats'?'grid':'flex');
+  document.getElementById('stats').style.display='grid';
+  document.getElementById('filter-bar').style.display='flex';
+  document.getElementById('a-header').style.display='flex';
   document.getElementById('articles-grid').style.display='grid';
   document.getElementById('fab').style.display='flex';
-  const srcs=[...new Set(articles.map(a=>a.source))].length;
-  document.getElementById('s-articles').textContent=articles.length;
+
+  const compCount = d.competitor_count || articles.filter(a=>a.is_competitor).length;
+  const indCount  = d.industry_count  || articles.filter(a=>!a.is_competitor).length;
+  const srcs = [...new Set(articles.map(a=>a.source))].length;
+
+  document.getElementById('s-comp').textContent=compCount;
+  document.getElementById('s-articles').textContent=indCount;
   document.getElementById('s-sources').textContent='across '+srcs+' sources';
   document.getElementById('s-trends').textContent=trends.length;
-  if(ts){
-    const d=new Date(ts),ist=new Date(d.getTime()+5.5*3600000);
+
+  if(compCount>0){
+    const al=document.getElementById('comp-alert');
+    al.classList.add('visible');
+    document.getElementById('comp-alert-text').textContent=
+      compCount+' competitor post'+(compCount===1?'':'s')+' published today';
+  }
+
+  if(d.generated_at){
+    const ist=new Date(new Date(d.generated_at).getTime()+5.5*3600000);
     document.getElementById('s-time').textContent=ist.toLocaleTimeString('en-IN',{hour:'2-digit',minute:'2-digit'});
-    document.getElementById('last-updated').textContent='Updated '+ist.toLocaleDateString('en-IN',{day:'numeric',month:'short'})+' · '+ist.toLocaleTimeString('en-IN',{hour:'2-digit',minute:'2-digit'})+' IST';
+    document.getElementById('last-updated').textContent=
+      'Updated '+ist.toLocaleDateString('en-IN',{day:'numeric',month:'short'})+
+      ' · '+ist.toLocaleTimeString('en-IN',{hour:'2-digit',minute:'2-digit'})+' IST';
   }
   renderTrends(); render();
 }
@@ -363,12 +405,19 @@ function renderTrends(){
 }
 
 function searchFor(term){ document.getElementById('q').value=term; render(); }
-function setF(cat,el){ activeF=cat; document.querySelectorAll('.pill').forEach(p=>p.classList.remove('active')); el.classList.add('active'); render(); }
+
+function setF(cat,el){
+  activeF=cat;
+  document.querySelectorAll('.pill').forEach(p=>p.classList.remove('active'));
+  el.classList.add('active');
+  render();
+}
 
 function render(){
   const q=document.getElementById('q').value.toLowerCase().trim();
   let items=articles;
-  if(activeF!=='All') items=items.filter(a=>a.aza_category===activeF);
+  if(activeF==='__competitor__') items=items.filter(a=>a.is_competitor);
+  else if(activeF!=='All') items=items.filter(a=>a.aza_category===activeF);
   if(q) items=items.filter(a=>(a.title+' '+a.source+' '+a.angle+' '+(a.summary||'')).toLowerCase().includes(q));
   document.getElementById('a-count').textContent=items.length+' articles';
   const grid=document.getElementById('articles-grid'),emp=document.getElementById('empty');
@@ -379,15 +428,19 @@ function render(){
 
 function cardHTML(a){
   const cc=CC[a.aza_category]||'', sl=shortlist.some(s=>s.id===a.id);
-  return `<article class="card">
+  return `<article class="card ${a.is_competitor?'competitor':''}">
     <div class="card-top">
+      ${a.is_competitor?'<span class="competitor-flag">⚡ Competitor</span>':''}
       <span class="source">${e(a.source)}</span>
       <span class="cat ${cc}">${e(a.aza_category)}</span>
     </div>
     <div class="card-title"><a href="${e(a.link)}" target="_blank" rel="noopener noreferrer">${e(a.title)}</a></div>
     ${a.summary?`<p class="card-summary">${e(a.summary)}</p>`:''}
     <div class="angle-box">
-      <div class="angle-label"><svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor"><polygon points="12,2 15.09,8.26 22,9.27 17,14.14 18.18,21.02 12,17.77 5.82,21.02 7,14.14 2,9.27 8.91,8.26"/></svg>AZA Blog Angle</div>
+      <div class="angle-label">
+        <svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor"><polygon points="12,2 15.09,8.26 22,9.27 17,14.14 18.18,21.02 12,17.77 5.82,21.02 7,14.14 2,9.27 8.91,8.26"/></svg>
+        AZA Blog Angle
+      </div>
       <div class="angle-text">${e(a.angle)}</div>
     </div>
     <div class="card-footer">
@@ -395,7 +448,7 @@ function cardHTML(a){
       <div class="card-btns">
         <button class="btn-sm" id="cp-${a.id}" onclick="cp('${a.id}','${ea(a.angle)}')">
           <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>Copy</button>
-        <button class="btn-sm ${sl?'saved':''}" id="sl-${a.id}" onclick="tsl('${a.id}','${ea(a.title)}','${ea(a.angle)}','${ea(a.source)}')">
+        <button class="btn-sm ${sl?'saved':''}" id="sl-${a.id}" onclick="tsl('${a.id}','${ea(a.title)}','${ea(a.angle)}','${ea(a.source)}','${a.is_competitor?'1':'0'}')">
           <svg width="12" height="12" viewBox="0 0 24 24" fill="${sl?'currentColor':'none'}" stroke="currentColor" stroke-width="2"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>${sl?'Saved':'Save'}</button>
       </div>
     </div>
@@ -405,14 +458,16 @@ function cardHTML(a){
 function cp(id,angle){
   navigator.clipboard.writeText(angle).then(()=>{
     const b=document.getElementById('cp-'+id); if(!b) return;
-    b.classList.add('copied'); b.innerHTML='<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg>Copied!';
+    b.classList.add('copied');
+    b.innerHTML='<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg>Copied!';
     setTimeout(()=>{b.classList.remove('copied');b.innerHTML='<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>Copy';},2000);
   });
 }
 
-function tsl(id,title,angle,source){
+function tsl(id,title,angle,source,isComp){
   const i=shortlist.findIndex(s=>s.id===id);
-  if(i===-1) shortlist.push({id,title,angle,source}); else shortlist.splice(i,1);
+  if(i===-1) shortlist.push({id,title,angle,source,is_competitor:isComp==='1'});
+  else shortlist.splice(i,1);
   document.getElementById('sl-badge').textContent=shortlist.length;
   document.getElementById('s-shortlist').textContent=shortlist.length;
   render();
@@ -428,8 +483,11 @@ function renderDrawer(){
     return;
   }
   b.innerHTML=shortlist.map((s,i)=>`
-    <div class="di">
-      <div class="di-src">${e(s.source)}</div>
+    <div class="di ${s.is_competitor?'competitor':''}">
+      <div class="di-src">
+        ${s.is_competitor?'<span class="competitor-flag" style="font-size:10px">⚡ Competitor</span>':''}
+        ${e(s.source)}
+      </div>
       <div class="di-angle">${e(s.angle)}</div>
       <div class="di-btns">
         <button class="dib" onclick="navigator.clipboard.writeText('${ea(s.angle)}')">Copy</button>
@@ -448,11 +506,20 @@ function rmsl(i){
 function exportList(){
   if(!shortlist.length) return;
   const today=new Date().toLocaleDateString('en-IN',{day:'numeric',month:'long',year:'numeric'});
-  const txt=['AZA Fashions — Blog Topics for '+today,'='.repeat(50),'',
-    ...shortlist.map((s,i)=>`${i+1}. [${s.source}]\n   ${s.angle}`),'',
-    'Generated by AZA Blog Intelligence — '+window.location.href].join('\n');
+  const comp=shortlist.filter(s=>s.is_competitor);
+  const ind=shortlist.filter(s=>!s.is_competitor);
+  const lines=['AZA Fashions — Blog Topics for '+today,'='.repeat(50),''];
+  if(comp.length){
+    lines.push('⚡ COMPETITOR INTELLIGENCE','─'.repeat(30),'');
+    comp.forEach((s,i)=>lines.push(`${i+1}. [${s.source}]\n   ${s.angle}`,''));
+  }
+  if(ind.length){
+    lines.push('✦ INDUSTRY & TREND IDEAS','─'.repeat(30),'');
+    ind.forEach((s,i)=>lines.push(`${i+1}. [${s.source}]\n   ${s.angle}`,''));
+  }
+  lines.push('Generated by AZA Blog Intelligence');
   const a=document.createElement('a');
-  a.href=URL.createObjectURL(new Blob([txt],{type:'text/plain'}));
+  a.href=URL.createObjectURL(new Blob([lines.join('\n')],{type:'text/plain'}));
   a.download='aza-blog-topics-'+new Date().toISOString().split('T')[0]+'.txt';
   a.click();
 }

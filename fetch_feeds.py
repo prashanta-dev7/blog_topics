@@ -5,55 +5,58 @@ import requests
 import datetime
 import hashlib
 import re
-import sys
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (AZA Blog Agent/2.0; +https://www.azafashions.com)"
+    "User-Agent": "Mozilla/5.0 (AZA Blog Agent/3.0; +https://www.azafashions.com)"
 }
 
 SOURCES = [
-    {"name":"AZA Blog","page_url":"https://www.azafashions.com/blog/","feed_url":"https://www.azafashions.com/blog/feed","tier":"owned"},
-    {"name":"AZA Magazine","page_url":"https://magazine.azafashions.com/","feed_url":"https://magazine.azafashions.com/feed","tier":"owned"},
+    {"name":"AZA Blog","tier":"owned","pages":["https://www.azafashions.com/blog/"],"feeds":["https://www.azafashions.com/blog/feed"]},
+    {"name":"AZA Magazine","tier":"owned","pages":["https://magazine.azafashions.com/"],"feeds":["https://magazine.azafashions.com/feed"]},
 
-    {"name":"Kalki Fashion Blog","page_url":"https://blog.kalkifashion.com/","feed_url":"https://blog.kalkifashion.com/feed/","tier":"competitor"},
-    {"name":"Pernia's Pop-Up Shop","page_url":"https://www.perniaspopupshop.com/blog/","feed_url":"https://www.perniaspopupshop.com/blog/feed","tier":"competitor"},
-    {"name":"Utsav Fashion","page_url":"https://www.utsavfashion.com/blog/","feed_url":"https://www.utsavfashion.com/blog/feed","tier":"competitor"},
-    {"name":"Kalki Fashion Main","page_url":"https://www.kalkifashion.com/in/blog/","feed_url":"https://www.kalkifashion.com/in/blog/rss.xml","tier":"competitor"},
-    {"name":"FabIndia","page_url":"https://www.fabindia.com/blogs/news","feed_url":"https://www.fabindia.com/blogs/news.atom","tier":"competitor"},
-    {"name":"House of Indya","page_url":"https://www.houseofindya.com/blog","feed_url":"https://www.houseofindya.com/blogs/news.atom","tier":"competitor"},
-    {"name":"Manyavar","page_url":"https://www.manyavar.com/en-in/blog","feed_url":"https://www.manyavar.com/en-in/blog/feed","tier":"competitor"},
-    {"name":"BIBA","page_url":"https://www.biba.in/blogs/fashion","feed_url":"https://www.biba.in/blogs/fashion.atom","tier":"competitor"},
-    {"name":"Anita Dongre","page_url":"https://www.anitadongre.com/blogs/news","feed_url":"https://www.anitadongre.com/blogs/news.atom","tier":"competitor"},
-    {"name":"Sabyasachi","page_url":"https://www.sabyasachi.com/blog","feed_url":"https://www.sabyasachi.com/blog/rss.xml","tier":"competitor"},
-    {"name":"Torani","page_url":"https://www.torani.in/blogs/news","feed_url":"https://www.torani.in/blogs/news.atom","tier":"competitor"},
-    {"name":"Lashkaraa","page_url":"https://www.lashkaraa.com/blogs/lashkaraa/","feed_url":"https://www.lashkaraa.com/blogs/lashkaraa.atom","tier":"competitor"},
-    {"name":"Libas","page_url":"https://www.libas.in/blogs/news","feed_url":"https://www.libas.in/blogs/news.atom","tier":"competitor"},
-    {"name":"MissMalini Style","page_url":"https://www.missmalini.com/category/style","feed_url":"https://www.missmalini.com/category/style/feed","tier":"competitor"},
-    {"name":"South India Fashion","page_url":"https://www.southindiafashion.com","feed_url":"https://www.southindiafashion.com/feed","tier":"competitor"},
-    {"name":"Saree.com","page_url":"https://www.saree.com/blog","feed_url":"https://www.saree.com/blog/feed","tier":"competitor"},
-    {"name":"Koskii","page_url":"https://www.koskii.com/blog","feed_url":"https://www.koskii.com/blogs/news.atom","tier":"competitor"},
-    {"name":"Panash India","page_url":"https://www.panashindia.com/blog","feed_url":"https://www.panashindia.com/blog/feed","tier":"competitor"},
-    {"name":"Indian Cloth Store","page_url":"https://www.indianclothstore.com/blog","feed_url":"https://www.indianclothstore.com/blog/feed","tier":"competitor"},
+    {"name":"Kalki Fashion Blog","tier":"competitor","pages":[
+        "https://blog.kalkifashion.com/",
+        "https://blog.kalkifashion.com/category/real-brides/",
+        "https://blog.kalkifashion.com/category/menswear/",
+        "https://blog.kalkifashion.com/category/kalki-collection/"
+    ],"feeds":["https://blog.kalkifashion.com/feed/"]},
 
-    {"name":"India Today Fashion","page_url":"https://www.indiatoday.in/lifestyle/fashion","feed_url":"https://www.indiatoday.in/rss/1206578","tier":"industry"},
-    {"name":"Vogue India Fashion","page_url":"https://www.vogue.in/fashion","feed_url":"https://www.vogue.in/feed","tier":"industry"},
-    {"name":"Elle India Fashion","page_url":"https://www.elle.in/fashion","feed_url":"https://www.elle.in/feed/","tier":"industry"},
-    {"name":"Grazia India Fashion","page_url":"https://www.grazia.co.in/fashion","feed_url":"https://www.grazia.co.in/feed","tier":"industry"},
-    {"name":"Vogue US","page_url":"https://www.vogue.com","feed_url":"https://www.vogue.com/feed/rss","tier":"industry"},
-    {"name":"Business of Fashion","page_url":"https://www.businessoffashion.com","feed_url":"https://www.businessoffashion.com/rss","tier":"industry"},
-    {"name":"Who What Wear","page_url":"https://www.whowhatwear.com","feed_url":"https://www.whowhatwear.com/rss","tier":"industry"},
-    {"name":"Fashionista","page_url":"https://fashionista.com","feed_url":"https://fashionista.com/.rss/excerpt/","tier":"industry"},
-    {"name":"Harper's Bazaar","page_url":"https://www.harpersbazaar.com","feed_url":"https://www.harpersbazaar.com/rss/all.xml/","tier":"industry"},
-    {"name":"Elle India","page_url":"https://www.elle.in","feed_url":"https://www.elle.in/feed/","tier":"industry"},
-    {"name":"Grazia India","page_url":"https://www.grazia.co.in","feed_url":"https://www.grazia.co.in/feed","tier":"industry"},
-    {"name":"Lyst","page_url":"https://www.lyst.com","feed_url":"https://www.lyst.com/magazine/feed/","tier":"industry"},
-    {"name":"Tag-Walk","page_url":"https://www.tag-walk.com","feed_url":"https://www.tag-walk.com/en/feed","tier":"industry"},
-    {"name":"The Blonde Salad","page_url":"https://www.theblondesalad.com","feed_url":"https://www.theblondesalad.com/feed","tier":"industry"},
-    {"name":"The Sartorialist","page_url":"https://www.thesartorialist.com","feed_url":"https://www.thesartorialist.com/feed","tier":"industry"},
-    {"name":"FashionBeans","page_url":"https://www.fashionbeans.com","feed_url":"https://www.fashionbeans.com/feed","tier":"industry"},
-    {"name":"Fashion Gone Rogue","page_url":"https://www.fashiongonerogue.com","feed_url":"https://www.fashiongonerogue.com/feed","tier":"industry"},
+    {"name":"Pernia's Pop-Up Shop","tier":"competitor","pages":["https://www.perniaspopupshop.com/blog/"],"feeds":["https://www.perniaspopupshop.com/blog/feed"]},
+    {"name":"Utsav Fashion","tier":"competitor","pages":["https://www.utsavfashion.com/blog/"],"feeds":["https://www.utsavfashion.com/blog/feed"]},
+    {"name":"Kalki Fashion Main","tier":"competitor","pages":["https://www.kalkifashion.com/in/blog/"],"feeds":["https://www.kalkifashion.com/in/blog/rss.xml"]},
+    {"name":"FabIndia","tier":"competitor","pages":["https://www.fabindia.com/blogs/news"],"feeds":["https://www.fabindia.com/blogs/news.atom"]},
+    {"name":"House of Indya","tier":"competitor","pages":["https://www.houseofindya.com/blog"],"feeds":["https://www.houseofindya.com/blogs/news.atom"]},
+    {"name":"Manyavar","tier":"competitor","pages":["https://www.manyavar.com/en-in/blog","https://www.manyavar.com/blog"],"feeds":["https://www.manyavar.com/en-in/blog/feed","https://www.manyavar.com/blog/feed"]},
+    {"name":"BIBA","tier":"competitor","pages":["https://www.biba.in/blogs/fashion"],"feeds":["https://www.biba.in/blogs/fashion.atom"]},
+    {"name":"Anita Dongre","tier":"competitor","pages":["https://www.anitadongre.com/blogs/news"],"feeds":["https://www.anitadongre.com/blogs/news.atom"]},
+    {"name":"Sabyasachi","tier":"competitor","pages":["https://www.sabyasachi.com/blog"],"feeds":["https://www.sabyasachi.com/blog/rss.xml"]},
+    {"name":"Torani","tier":"competitor","pages":["https://www.torani.in/blogs/news"],"feeds":["https://www.torani.in/blogs/news.atom"]},
+    {"name":"Lashkaraa","tier":"competitor","pages":["https://www.lashkaraa.com/blogs/lashkaraa/"],"feeds":["https://www.lashkaraa.com/blogs/lashkaraa.atom"]},
+    {"name":"Libas","tier":"competitor","pages":["https://www.libas.in/blogs/news"],"feeds":["https://www.libas.in/blogs/news.atom"]},
+    {"name":"MissMalini Style","tier":"competitor","pages":["https://www.missmalini.com/category/style"],"feeds":["https://www.missmalini.com/category/style/feed"]},
+    {"name":"South India Fashion","tier":"competitor","pages":["https://www.southindiafashion.com"],"feeds":["https://www.southindiafashion.com/feed"]},
+    {"name":"Saree.com","tier":"competitor","pages":["https://www.saree.com/blog"],"feeds":["https://www.saree.com/blog/feed"]},
+    {"name":"Koskii","tier":"competitor","pages":["https://www.koskii.com/blog"],"feeds":["https://www.koskii.com/blogs/news.atom"]},
+    {"name":"Panash India","tier":"competitor","pages":["https://www.panashindia.com/blog"],"feeds":["https://www.panashindia.com/blog/feed"]},
+    {"name":"Indian Cloth Store","tier":"competitor","pages":["https://www.indianclothstore.com/blog"],"feeds":["https://www.indianclothstore.com/blog/feed"]},
+
+    {"name":"India Today Fashion","tier":"industry","pages":["https://www.indiatoday.in/lifestyle/fashion"],"feeds":["https://www.indiatoday.in/rss/1206578"]},
+    {"name":"Vogue India Fashion","tier":"industry","pages":["https://www.vogue.in/fashion","https://www.vogue.in"],"feeds":["https://www.vogue.in/feed"]},
+    {"name":"Elle India Fashion","tier":"industry","pages":["https://www.elle.in/fashion","https://www.elle.in"],"feeds":["https://www.elle.in/feed/"]},
+    {"name":"Grazia India Fashion","tier":"industry","pages":["https://www.grazia.co.in/fashion","https://www.grazia.co.in"],"feeds":["https://www.grazia.co.in/feed"]},
+    {"name":"Vogue US","tier":"industry","pages":["https://www.vogue.com"],"feeds":["https://www.vogue.com/feed/rss"]},
+    {"name":"Business of Fashion","tier":"industry","pages":["https://www.businessoffashion.com"],"feeds":["https://www.businessoffashion.com/rss"]},
+    {"name":"Who What Wear","tier":"industry","pages":["https://www.whowhatwear.com"],"feeds":["https://www.whowhatwear.com/rss"]},
+    {"name":"Fashionista","tier":"industry","pages":["https://fashionista.com"],"feeds":["https://fashionista.com/.rss/excerpt/"]},
+    {"name":"Harper's Bazaar","tier":"industry","pages":["https://www.harpersbazaar.com"],"feeds":["https://www.harpersbazaar.com/rss/all.xml/"]},
+    {"name":"Lyst","tier":"industry","pages":["https://www.lyst.com"],"feeds":["https://www.lyst.com/magazine/feed/"]},
+    {"name":"Tag-Walk","tier":"industry","pages":["https://www.tag-walk.com"],"feeds":["https://www.tag-walk.com/en/feed"]},
+    {"name":"The Blonde Salad","tier":"industry","pages":["https://www.theblondesalad.com"],"feeds":["https://www.theblondesalad.com/feed"]},
+    {"name":"The Sartorialist","tier":"industry","pages":["https://www.thesartorialist.com"],"feeds":["https://www.thesartorialist.com/feed"]},
+    {"name":"FashionBeans","tier":"industry","pages":["https://www.fashionbeans.com"],"feeds":["https://www.fashionbeans.com/feed"]},
+    {"name":"Fashion Gone Rogue","tier":"industry","pages":["https://www.fashiongonerogue.com"],"feeds":["https://www.fashiongonerogue.com/feed"]},
 ]
 
 GOOGLE_TRENDS_URL = "https://trends.google.com/trends/trendingsearches/daily/rss?geo=IN"
@@ -120,8 +123,10 @@ def looks_like_post_url(url, source_host):
     path = parsed.path.lower()
     if source_host not in host:
         return False
-    bad = ["/tag/", "/category/", "/author/", "/page/", "/search", "/feed", ".jpg", ".png", ".webp", ".svg", ".pdf"]
+    bad = ["/tag/", "/category/", "/author/", "/page/", "/search", "/feed", "/wp-content/", ".jpg", ".png", ".webp", ".svg", ".pdf"]
     if any(x in path for x in bad):
+        return False
+    if "web-stories" in path:
         return False
     return path.count("/") >= 2
 
@@ -132,7 +137,7 @@ def parse_date(entry):
             return val
     return ""
 
-def item_from_entry(entry, src, tier):
+def item_from_entry(entry, src):
     title = clean_text(entry.get("title", ""))
     link = entry.get("link", "")
     summary = clean_text(entry.get("summary", "") or entry.get("description", ""))[:320]
@@ -145,8 +150,8 @@ def item_from_entry(entry, src, tier):
         "link": link,
         "summary": summary,
         "source": src["name"],
-        "tier": tier,
-        "is_competitor": tier == "competitor",
+        "tier": src["tier"],
+        "is_competitor": src["tier"] == "competitor",
         "aza_category": detect_category(combined),
         "angle": suggest_angle(title),
         "score": score_fashion(combined),
@@ -156,33 +161,32 @@ def item_from_entry(entry, src, tier):
 
 def fetch_feed_items(src):
     items = []
-    try:
-        resp = requests.get(src["feed_url"], headers=HEADERS, timeout=18)
-        if resp.status_code >= 400:
-            return items
-        feed = feedparser.parse(resp.content)
-        for entry in feed.entries[:15]:
-            item = item_from_entry(entry, src, src["tier"])
-            if item:
-                items.append(item)
-    except Exception:
-        pass
+    for feed_url in src["feeds"]:
+        try:
+            resp = requests.get(feed_url, headers=HEADERS, timeout=20)
+            if resp.status_code >= 400:
+                continue
+            feed = feedparser.parse(resp.content)
+            for entry in feed.entries[:50]:
+                item = item_from_entry(entry, src)
+                if item:
+                    items.append(item)
+        except Exception:
+            continue
     return items
 
 def extract_candidates_from_html(html, base_url):
     soup = BeautifulSoup(html, "html.parser")
     candidates = []
 
-    for a in soup.find_all("a", href=True):
-        href = normalize_url(base_url, a.get("href"))
-        text = clean_text(a.get_text(" ", strip=True))
-        if not href or not text:
-            continue
-        if len(text) < 20:
-            continue
-        candidates.append((text, href))
+    for selector in ["article a", "h1 a", "h2 a", "h3 a", ".post a", ".entry-title a", ".blog a", ".card a", ".article a"]:
+        for a in soup.select(selector):
+            href = normalize_url(base_url, a.get("href"))
+            text = clean_text(a.get_text(" ", strip=True))
+            if href and text and len(text) >= 12:
+                candidates.append((text, href))
 
-    for article in soup.find_all(["article", "div", "li"], limit=300):
+    for article in soup.find_all(["article", "div", "li"], limit=1200):
         a = article.find("a", href=True)
         if not a:
             continue
@@ -193,12 +197,10 @@ def extract_candidates_from_html(html, base_url):
             title = clean_text(h.get_text(" ", strip=True))
         if not title:
             title = clean_text(a.get_text(" ", strip=True))
-        if not href or not title or len(title) < 20:
-            continue
-        candidates.append((title, href))
+        if href and title and len(title) >= 12:
+            candidates.append((title, href))
 
-    dedup = []
-    seen = set()
+    dedup, seen = [], set()
     for title, href in candidates:
         key = (title.lower(), href)
         if key in seen:
@@ -209,35 +211,36 @@ def extract_candidates_from_html(html, base_url):
 
 def fetch_html_items(src):
     items = []
-    try:
-        resp = requests.get(src["page_url"], headers=HEADERS, timeout=18)
-        if resp.status_code >= 400:
-            return items
-        host = urlparse(src["page_url"]).netloc.lower()
-        candidates = extract_candidates_from_html(resp.text, src["page_url"])
-        for title, link in candidates[:80]:
-            if not looks_like_post_url(link, host):
+    for page_url in src["pages"]:
+        try:
+            resp = requests.get(page_url, headers=HEADERS, timeout=20)
+            if resp.status_code >= 400:
                 continue
-            combined = title
-            if src["tier"] == "industry" and score_fashion(combined) < 1:
-                continue
-            items.append({
-                "id": hashlib.md5(link.encode()).hexdigest()[:12],
-                "title": title,
-                "link": link,
-                "summary": "",
-                "source": src["name"],
-                "tier": src["tier"],
-                "is_competitor": src["tier"] == "competitor",
-                "aza_category": detect_category(combined),
-                "angle": suggest_angle(title),
-                "score": score_fashion(combined),
-                "published": "",
-                "discovered_via": "html"
-            })
-    except Exception:
-        pass
-    return items[:12]
+            host = urlparse(page_url).netloc.lower()
+            candidates = extract_candidates_from_html(resp.text, page_url)
+            for title, link in candidates[:300]:
+                if not looks_like_post_url(link, host):
+                    continue
+                combined = title
+                if src["tier"] == "industry" and score_fashion(combined) < 1:
+                    continue
+                items.append({
+                    "id": hashlib.md5(link.encode()).hexdigest()[:12],
+                    "title": title,
+                    "link": link,
+                    "summary": "",
+                    "source": src["name"],
+                    "tier": src["tier"],
+                    "is_competitor": src["tier"] == "competitor",
+                    "aza_category": detect_category(combined),
+                    "angle": suggest_angle(title),
+                    "score": score_fashion(combined),
+                    "published": "",
+                    "discovered_via": "html"
+                })
+        except Exception:
+            continue
+    return items
 
 def merge_items(feed_items, html_items):
     merged = {}
@@ -247,9 +250,9 @@ def merge_items(feed_items, html_items):
             merged[key] = item
         else:
             existing = merged[key]
-            if existing.get("summary","") == "" and item.get("summary",""):
+            if not existing.get("summary") and item.get("summary"):
                 existing["summary"] = item["summary"]
-            if existing.get("published","") == "" and item.get("published",""):
+            if not existing.get("published") and item.get("published"):
                 existing["published"] = item["published"]
             if existing.get("discovered_via") == "html" and item.get("discovered_via") == "feed":
                 existing["discovered_via"] = "feed"
@@ -261,9 +264,15 @@ def fetch_source(src):
     items = merge_items(feed_items, html_items)
 
     if src["tier"] == "industry":
-        items = [x for x in items if x["score"] > 0 or x["source"] in ["Vogue US","Business of Fashion","Vogue India Fashion","Elle India Fashion","Grazia India Fashion"]]
+        items = [x for x in items if x["score"] > 0 or x["source"] in [
+            "Vogue US","Business of Fashion","Vogue India Fashion","Elle India Fashion","Grazia India Fashion","Harper's Bazaar"
+        ]]
 
-    items = items[:12]
+    def sort_key(x):
+        pub = x.get("published") or ""
+        return (0 if x.get("discovered_via") == "feed" else 1, pub)
+
+    items = sorted(items, key=sort_key, reverse=True)[:40]
     print(f"{src['name']}: {len(items)} items ({len(feed_items)} feed, {len(html_items)} html)")
     return items
 
@@ -272,7 +281,7 @@ def fetch_trends():
     try:
         resp = requests.get(GOOGLE_TRENDS_URL, headers=HEADERS, timeout=15)
         feed = feedparser.parse(resp.content)
-        for entry in feed.entries[:30]:
+        for entry in feed.entries[:40]:
             title = clean_text(entry.get("title", ""))
             if score_fashion(title) > 0:
                 trends.append({
@@ -282,7 +291,11 @@ def fetch_trends():
                 })
     except Exception:
         pass
-    return trends[:10]
+    return trends[:12]
+
+def published_sort_value(item):
+    p = (item.get("published") or "").strip()
+    return p if p else "0000"
 
 if __name__ == "__main__":
     all_items = []
@@ -298,8 +311,12 @@ if __name__ == "__main__":
     articles.sort(key=lambda x: (
         0 if x["tier"] == "owned" else 1 if x["tier"] == "competitor" else 2,
         -x.get("score", 0),
-        x["source"].lower()
+        x["source"].lower(),
+        published_sort_value(x)
     ))
+
+    # keep a large pool, not a tiny one
+    articles = articles[:800]
 
     competitor_count = sum(1 for x in articles if x["tier"] == "competitor")
     industry_count = sum(1 for x in articles if x["tier"] == "industry")

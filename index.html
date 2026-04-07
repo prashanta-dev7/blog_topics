@@ -354,10 +354,16 @@ function renderArticles(){
 
 function renderTrends(){
   const row=document.getElementById('trends-row');
+  if(!(trends||[]).length){
+    row.innerHTML = '<div class="empty"><h3>No trend signals yet</h3><p>Refresh the feed after the workflow runs again.</p></div>';
+    return;
+  }
+
   row.innerHTML=(trends||[]).map(t=>`
     <div class="trend-chip">
       <div class="trend-term">${escapeHtml(t.term)}</div>
-      <div class="trend-cat">${escapeHtml(t.aza_category || 'Fashion & Style')}</div>
+      <div class="trend-cat">${escapeHtml(t.aza_category || 'General Trend')}</div>
+      ${t.summary ? `<div class="trend-cat" style="margin-top:6px">${escapeHtml(t.summary)}</div>` : ''}
     </div>
   `).join('');
 }

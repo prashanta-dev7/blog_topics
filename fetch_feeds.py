@@ -63,7 +63,50 @@ SOURCES = [
     {"name":"Fashion Gone Rogue","tier":"industry","pages":["https://www.fashiongonerogue.com"],"feeds":["https://www.fashiongonerogue.com/feed"]},
 ]
 
-GOOGLE_TRENDS_URL = "https://trends.google.com/trends/trendingsearches/daily/rss?geo=IN"
+GOOGLE_TRENDS_URL = "https://trends.google.com/trending/rss?geo=IN"
+
+def fetch_trends():
+    items = []
+    try:
+        resp = requests.get(GOOGLE_TRENDS_URL, headers=HEADERS, timeout=20)
+        if resp.status_code >= 400:
+            return []
+        feed = feedparser.parse(resp.content)
+
+        for entry in feed.entries[:30]:
+            title = clean_text(entry.get("title", ""))
+            summary = clean_text(entry.get("summary", "") or entry.get("description", ""))
+            combined = f"{title} {summary}".strip()
+
+            if not title:
+                continue
+
+            items.append({
+                "term": title,
+                "summary": summary[:220],
+                "angle": suggest_angle(combined),
+                "aza_category": detect_category(combined),
+                "score": score_fashion(combined),
+            })
+
+    except Exception:
+        return []
+
+    items.sort(key=lambda x: x["score"], reverse=True)
+
+    if not items:
+        return []
+
+    top = items[:12]
+
+    fashion_present = any(x["score"] > 0 for x in top)
+    if fashion_present:
+        return top
+
+    return [{
+        **x,
+        "aza_category": x["aza_category"] if x["aza_category"] != "Fashion & Style" else "General Trend"
+    } for x in top]
 
 FASHION_KEYWORDS = [
     "fashion","style","outfit","wear","dress","saree","lehenga","kurta","bridal","wedding",

@@ -66,6 +66,11 @@ SOURCES = [
 GOOGLE_TRENDS_URL = "https://trends.google.com/trending/rss?geo=IN"
 
 def fetch_trends():
+    """Pull all 'Trending now' items for India from Google Trends RSS.
+
+    No fashion filter. We just keep the top N and tag them with AZA categories
+    so the team can eyeball and decide what’s useful.
+    """
     items = []
     try:
         resp = requests.get(GOOGLE_TRENDS_URL, headers=HEADERS, timeout=20)
@@ -73,7 +78,7 @@ def fetch_trends():
             return []
         feed = feedparser.parse(resp.content)
 
-        for entry in feed.entries[:30]:
+        for entry in feed.entries[:40]:  # keep first 40 from the RSS firehose
             title = clean_text(entry.get("title", ""))
             summary = clean_text(entry.get("summary", "") or entry.get("description", ""))
             combined = f"{title} {summary}".strip()
@@ -83,30 +88,15 @@ def fetch_trends():
 
             items.append({
                 "term": title,
-                "summary": summary[:220],
-                "angle": suggest_angle(combined),
+                "summary": summary[:240],
                 "aza_category": detect_category(combined),
-                "score": score_fashion(combined),
             })
 
     except Exception:
         return []
 
-    items.sort(key=lambda x: x["score"], reverse=True)
-
-    if not items:
-        return []
-
-    top = items[:12]
-
-    fashion_present = any(x["score"] > 0 for x in top)
-    if fashion_present:
-        return top
-
-    return [{
-        **x,
-        "aza_category": x["aza_category"] if x["aza_category"] != "Fashion & Style" else "General Trend"
-    } for x in top]
+    # Just keep top 20 by default (no scoring needed now)
+    return items[:20]
 
 FASHION_KEYWORDS = [
     "fashion","style","outfit","wear","dress","saree","lehenga","kurta","bridal","wedding",

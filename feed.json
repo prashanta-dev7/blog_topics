@@ -1,9 +1,135 @@
 {
-  "generated_at": "2026-04-08T06:22:26.878888+00:00",
+  "generated_at": "2026-04-08T09:02:49.378528+00:00",
   "owned_count": 0,
   "competitor_count": 18,
-  "industry_count": 156,
+  "industry_count": 158,
   "articles": [
+    {
+      "id": "37192147736a",
+      "title": "The ‘Euphoria’ Cast Unite on the Red Carpet—With Distinctly Different Style Memos",
+      "link": "https://www.vogue.com/article/euphoria-season-three-premiere-los-angeles-red-carpet",
+      "summary": "Zendaya, Jacob, Alexa, Hunter, Maude, Sydney: the “Euphoria” season three premiere saw the stars don their monochromes, vintage, and sequins.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-04-08T08:06:35+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "73f09124d139",
+      "title": "Carey Mulligan Heard Your Criticisms of Her 2024 Oscars Dress—Here's Her Mic-Drop Response",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/carey-mulligan-2024-oscars-balenciaga-dress-response-to-critics",
+      "summary": "Who can argue with this?",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Carey Mulligan Heard Your Criticisms of Her 2024 Oscars Dress—Here's H...",
+      "score": 1,
+      "published": "2026-04-08T07:15:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b768bbfa23ae",
+      "title": "34 Pretty Tops Stylish People Will Wear With Jeans This Spring",
+      "link": "https://www.whowhatwear.com/fashion/shopping/pretty-tops-jeans",
+      "summary": "Consider your spring outfits sorted.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 34 Pretty Tops Stylish People Will Wear With Jeans This Spring...",
+      "score": 2,
+      "published": "2026-04-08T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5ae7bf1263b1",
+      "title": "It's Official: These Are the Pieces Every Cool Person in Paris Is Wearing in 2026",
+      "link": "https://www.whowhatwear.com/fashion/street-style/paris-street-style-shopping",
+      "summary": "Shop the edit.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-04-08T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6a5cef18a4a3",
+      "title": "Looking For a Spring Jacket? Trust Me, M&S Has the Most Expensive-Looking Styles Right Now",
+      "link": "https://www.whowhatwear.com/fashion/spring/best-marks-and-spencer-spring-jackets",
+      "summary": "Why spend more?",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Looking For a Spring Jacket? Trust Me, M&S Has the Most Expensive-Look...",
+      "score": 1,
+      "published": "2026-04-08T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0070cae0b49c",
+      "title": "It's Officially Hot—19 Zara, COS and Reformation Dresses My Chic Friends Are Quietly Obsessed With",
+      "link": "https://www.whowhatwear.com/fashion/shopping/zara-cos-reformation-dresses",
+      "summary": "25°C attire.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: It's Officially Hot—19 Zara, COS and Reformation Dresses My Chic Frien...",
+      "score": 1,
+      "published": "2026-04-08T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "64d662184a34",
+      "title": "This Scandinavian Stylist Is the Only Person I Trust for Denim Styling Inspiration",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/denim-outfit-ideas-2026-hanna-marzouki-widlund",
+      "summary": "*Proceeds to save every jeans outfit she wears.*",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: This Scandinavian Stylist Is the Only Person I Trust for Denim Styling...",
+      "score": 2,
+      "published": "2026-04-08T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "77c7a45286e3",
+      "title": "Carey Mulligan Is Changing Her Tune",
+      "link": "https://www.whowhatwear.com/fashion/cover-features/carey-mulligan",
+      "summary": "For our April cover story, the actress discusses her \"feral\" Beef season 2 character, the power of a playlist, and embracing the unknown.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Carey Mulligan Is Changing Her Tune...",
+      "score": 1,
+      "published": "2026-04-08T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "280fa9de8c58",
+      "title": "Low-Rise Jeans Are Mainstream Again—These Are the 5 Shoes Everyone Is Wearing With Them",
+      "link": "https://www.whowhatwear.com/fashion/shoes/best-shoes-with-low-rise-jeans-2026",
+      "summary": "Low-Rise Jeans Are Mainstream Again—These Are the 5 Shoes Everyone Is Wearing With Them",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-04-08T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "f64d935d073b",
       "title": "5 Elegant Colour Combinations Classic Dresses Are Backing for Spring",
@@ -831,6 +957,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "6e587cfac5d2",
+      "title": "8 Fragrances Worn By The World’s Most Stylish Men",
+      "link": "https://www.fashionbeans.com/article/celebrity-mens-fragrances/",
+      "summary": "Having already read the FashionBeans guides to dressing for your body shape, nailing smart-casual and picking the right tie to wear with your shirt — you have read them, right? — it’s likely you’ve already got your appearance pretty down pat. But it’ll all be for naught if you don’t smell good. “Manners and a &#8230; C",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 8 Fragrances Worn By The World’s Most Stylish Men...",
+      "score": 3,
+      "published": "2026-04-07T10:19:26+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "32f0f5397272",
       "title": "The Best Places to Buy Wallpaper, According to Interior Designers",
       "link": "https://www.vogue.com/article/where-to-buy-wallpaper-interior-designers",
@@ -870,6 +1010,20 @@
       "angle": "Fashion Intelligence: The New Smart Casual: 7 Outfits That Make You Look Instantly More Put ...",
       "score": 2,
       "published": "2026-04-07T07:12:34+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8b01f47e9b01",
+      "title": "Summer Fashion For Big Guys: Everything You Need To Know",
+      "link": "https://www.fashionbeans.com/article/summer-fashion-for-big-guys/",
+      "summary": "Summer fashion for big guys doesn&#8217;t have to be a challenge. While the fashion industry often showcases slim figures, summer opens the door to unique styling opportunities for larger frames. “If you get the basics right – like the fits that look best on you or colors that are flattering – then everything just come",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Summer Fashion For Big Guys: Everything You Need To Know...",
+      "score": 2,
+      "published": "2026-04-07T07:00:51+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1041,17 +1195,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2d5be1a8d482",
-      "title": "Run Club! Thom Browne and Asics Celebrated Their Collaboration with a Gallery Night",
-      "link": "https://www.vogue.com/slideshow/thom-browne-asics-pierre-augustin-rose-gallery-party",
-      "summary": "At an intimate gathering held at the Pierre Augustin Rose Gallery in SoHo, designer Thom Browne celebrated his partnership with Asics.",
-      "source": "Vogue US",
+      "id": "1265391630c5",
+      "title": "14 Best Men’s Stretch Pants For Everyday Comfort In 2026",
+      "link": "https://www.fashionbeans.com/article/mens-stretch-pants/",
+      "summary": "As the world slowly starts returning to the office, there’s one thing vexing all former work-from-home employees: the office dress code. If you’re someone having trouble adjusting to real clothes after spending most of the pandemic at home in your sweatpants, you’re not alone. The men’s fashion world is listening and r",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Run Club! Thom Browne and Asics Celebrated Their Collaboration with a ...",
-      "score": 1,
-      "published": "2026-04-06T23:57:39+00:00",
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: 14 Best Men’s Stretch Pants For Everyday Comfort In 2026...",
+      "score": 2,
+      "published": "2026-04-07T01:00:48+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1419,90 +1573,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7059196c108e",
-      "title": "Fashion People Wear This Shoe Trend to Blend In With Italian Women in Venice",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/keira-knightley-venice-italy-vacation-outfit",
-      "summary": "Including Keira Knightley.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-04-06T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e6f7165d5ce7",
-      "title": "I Wanted a Minimalist, Timeless Spring Wardrobe—These 7 Luxury Basics Got Me There",
-      "link": "https://www.whowhatwear.com/fashion/shopping/luxury-spring-basics-2026",
-      "summary": "Basics worth investing in.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Wanted a Minimalist, Timeless Spring Wardrobe—These 7 Luxury Basics ...",
-      "score": 1,
-      "published": "2026-04-06T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7613b69ea87d",
-      "title": "3 Minimalist Spring Trends French Women Are Wearing Now",
-      "link": "https://www.whowhatwear.com/fashion/spring/minimalist-french-trends-spring-2026",
-      "summary": "Très chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-04-06T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b4313639fcf5",
-      "title": "These 5 Spring Trends Are Going to Be Everywhere—Here's How to Easily Pull Them Off Like a Fashion Person",
-      "link": "https://www.whowhatwear.com/fashion/trends/easy-spring-2026-fashion-trends",
-      "summary": "Bring on the compliments.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-04-06T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9f516013d683",
-      "title": "The Category Is Fashion, and These New Zara Items Deliver (You Know They're Going to Sell Out)",
-      "link": "https://www.whowhatwear.com/fashion/shopping/fashionable-zara-items-april-2026",
-      "summary": "I doubt they'll be in stock by April 30.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Category Is Fashion, and These New Zara Items Deliver (You Know Th...",
-      "score": 1,
-      "published": "2026-04-06T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d71f52d52f28",
-      "title": "This Denim Trend Is Back: I Never Thought I'd Wear These Jeans, But Now, They're the Chicest Item in My Closet",
-      "link": "https://www.whowhatwear.com/fashion/trends/split-hem-jeans-2026",
-      "summary": "I'm getting so many compliments on them.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-04-06T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "862df0724008",
       "title": "Sydney Sweeney Shows Us How to Style a Sheer Lace Top From Her Brand Syrn",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a70936979/sydney-sweeney-styles-syrn-sheer-lace-top-instagram-dump/",
@@ -1528,20 +1598,6 @@
       "angle": "Fashion Intelligence: Zendaya Pledges Her Allegiance to Edward Cullen—Sorry, Robert Pattinso...",
       "score": 0,
       "published": "2026-04-05T18:51:48+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d3919e3e3a89",
-      "title": "The Best Hairstyles For Men With Thick Hair",
-      "link": "https://www.fashionbeans.com/article/thick-hair-styles-men/",
-      "summary": "Thick hair is one of those blessings that too often feels like a curse. Yes, as your barber (and mother) will often tell you, you’ve got a lovely head of thick locks and probably won&#8217;t go bald, but thick hair does come with its own set of hairdo dilemmas. Does it give you more or &#8230; Continue reading The Best",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Hairstyles For Men With Thick Hair...",
-      "score": 1,
-      "published": "2026-04-05T17:01:32+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1584,34 +1640,6 @@
       "angle": "Fashion Intelligence: Princess Kate Rewears Her Favorite Cream Dress With Jewels That Once B...",
       "score": 2,
       "published": "2026-04-05T14:07:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f7b29cfcadc3",
-      "title": "18 Best Black Sneakers For Men To Wear In 2026",
-      "link": "https://www.fashionbeans.com/article/black-sneakers/",
-      "summary": "We all know that a pair of crisp, white sneakers are definitely a staple piece for a stylish men’s wardrobe. But what about black sneakers for men? Are they up to par? The answer is yes, and in some aspects, black shoes could even be considered to have more value than their white counterparts. Darker &#8230; Continue r",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 18 Best Black Sneakers For Men To Wear In 2026...",
-      "score": 1,
-      "published": "2026-04-05T13:00:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9a1c5cb46b9a",
-      "title": "How To Dress With Sprezzatura",
-      "link": "https://www.fashionbeans.com/article/how-to-dress-with-sprezzatura/",
-      "summary": "What on earth is that man doing with his tie? Has he dressed in a huge hurry? What’s with the collar sticking out? Hold fire with your assumption that the subject of your disdain just doesn’t know how to dress well. Those points you critique may, in fact, be expressions of ‘sprezzatura’, the art of dressing &#8230; Con",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How To Dress With Sprezzatura...",
-      "score": 1,
-      "published": "2026-04-05T10:29:55+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2443,53 +2471,53 @@
   ],
   "trends": [
     {
-      "term": "ಬೆಂಜಮಿನ್ ನೆತನ್ಯಾಹು",
-      "angle": "Fashion Intelligence: ಬೆಂಜಮಿನ್ ನೆತನ್ಯಾಹು...",
+      "term": "रोटी",
+      "angle": "Fashion Intelligence: रोटी...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "raka",
-      "angle": "Fashion Intelligence: raka...",
+      "term": "portugal vs france",
+      "angle": "Fashion Intelligence: portugal vs france...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "raaka",
-      "angle": "Fashion Intelligence: raaka...",
+      "term": "ইরান",
+      "angle": "Fashion Intelligence: ইরান...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ayushman",
-      "angle": "Fashion Intelligence: ayushman...",
+      "term": "japan news",
+      "angle": "Fashion Intelligence: japan news...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "कुंभ राशि",
-      "angle": "Fashion Intelligence: कुंभ राशि...",
+      "term": "derek o'brien election commission meeting",
+      "angle": "Fashion Intelligence: derek o'brien election commission meeting...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "artificial intelligence",
-      "angle": "Fashion Intelligence: artificial intelligence...",
+      "term": "ఇండియన్ ప్రీమియర్ లీగ్",
+      "angle": "Fashion Intelligence: ఇండియన్ ప్రీమియర్ లీగ్...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "इराक",
-      "angle": "Fashion Intelligence: इराक...",
+      "term": "emirates",
+      "angle": "Fashion Intelligence: emirates...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "కార్తీక దీపం",
-      "angle": "Fashion Intelligence: కార్తీక దీపం...",
+      "term": "জ্ঞানেশ কুমার",
+      "angle": "Fashion Intelligence: জ্ঞানেশ কুমার...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "csk dhoni",
-      "angle": "Fashion Intelligence: csk dhoni...",
+      "term": "bonus share",
+      "angle": "Fashion Intelligence: bonus share...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "લગ્ન",
-      "angle": "Fashion Intelligence: લગ્ન...",
+      "term": "ശോഭാ സുരേന്ദ്രന്",
+      "angle": "Fashion Intelligence: ശോഭാ സുരേന്ദ്രന്...",
       "aza_category": "Fashion & Style"
     }
   ]

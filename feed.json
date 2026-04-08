@@ -1,9 +1,65 @@
 {
-  "generated_at": "2026-04-08T04:30:15.636365+00:00",
+  "generated_at": "2026-04-08T06:22:26.878888+00:00",
   "owned_count": 0,
   "competitor_count": 18,
-  "industry_count": 157,
+  "industry_count": 156,
   "articles": [
+    {
+      "id": "f64d935d073b",
+      "title": "5 Elegant Colour Combinations Classic Dresses Are Backing for Spring",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/classic-dresser-colour-combinations-spring-2026",
+      "summary": "Minimalists, rejoice!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 5 Elegant Colour Combinations Classic Dresses Are Backing for Spring...",
+      "score": 1,
+      "published": "2026-04-08T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1d6e7e871763",
+      "title": "The Menswear Reset: 2026’s Most Wearable Style Trends Right Now",
+      "link": "https://www.fashionbeans.com/article/menswear-reset-2026-style-trends/",
+      "summary": "Forget chasing the algorithm. The best-dressed men of 2026 are building wardrobes with intention and these are the eight trends worth investing in right now. Something shifted on the menswear calendar last season, and it wasn’t loud or theatrical. The industry didn’t announce it, but the change was undeniable once you ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 6,
+      "published": "2026-04-08T05:26:23+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6c595d3d40d2",
+      "title": "Independent Designers Need More Support Than Ever. Can Fashion Trust US Help?",
+      "link": "https://www.vogue.com/article/independent-designers-need-more-support-than-ever-can-fashion-trust-us-help",
+      "summary": "Now in its fourth year, FTUS is building up its profile and reach to support US brands. Lii took home this year’s ready-to-wear award.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Independent Designers Need More Support Than Ever. Can Fashion Trust U...",
+      "score": 4,
+      "published": "2026-04-08T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "34ebe2bbbd19",
+      "title": "Fandoms: Inside the Superfan Economy",
+      "link": "https://www.vogue.com/article/inside-the-superfan-economy",
+      "summary": "Superfandom is booming, and fans wield serious spending power. How can brands harness it?",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Fandoms: Inside the Superfan Economy...",
+      "score": 1,
+      "published": "2026-04-08T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "3239b7c036d7",
       "title": "Angel Reese Debuts a Vintage-Inspired Pixie for Spring",
@@ -677,20 +733,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "df64b981961f",
-      "title": "Meryl Streep and Anna Wintour on Power, Fashion, and Acting the Part in ‘The Devil Wears Prada 2’ | Vogue’s May 2026 Cover Story",
-      "link": "https://www.vogue.com/article/meryl-streep-anna-wintour-may-cover-2026-interview",
-      "summary": "See Meryl Streep and Anna Wintour in Vogue’s cover story for the May 2026 issue.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Meryl Streep and Anna Wintour on Power, Fashion, and Acting the Part i...",
-      "score": 2,
-      "published": "2026-04-07T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3deaf7d1420e",
       "title": "When Miranda Met Anna: Vogue’s May 2026 Editor’s Letter",
       "link": "https://www.vogue.com/article/editor-letter-may-2026",
@@ -715,6 +757,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: 23 Glorious Vintage Snapshots of a Young Meryl Streep...",
       "score": 0,
+      "published": "2026-04-07T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "df64b981961f",
+      "title": "Meryl Streep and Anna Wintour on Power, Fashion, and Acting the Part in ‘The Devil Wears Prada 2’ | Vogue’s May 2026 Cover Story",
+      "link": "https://www.vogue.com/article/meryl-streep-anna-wintour-may-cover-2026-interview",
+      "summary": "See Meryl Streep and Anna Wintour in Vogue’s cover story for the May 2026 issue.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Meryl Streep and Anna Wintour on Power, Fashion, and Acting the Part i...",
+      "score": 2,
       "published": "2026-04-07T12:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1010,34 +1066,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-04-06T23:41:17+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5262cdd9c0b4",
-      "title": "‘The Drama’ Made Me Wonder: When Is a Secret Big Enough to Take Down a Marriage?",
-      "link": "https://www.vogue.com/article/when-is-a-secret-big-enough-to-take-down-a-marriage",
-      "summary": "It’s admirable to be forthright about your past, but are there some secrets too dramatic or potentially dangerous to expect your partner to take them in stride?",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: ‘The Drama’ Made Me Wonder: When Is a Secret Big Enough to Take Down a...",
-      "score": 0,
-      "published": "2026-04-06T22:40:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5a2616591304",
-      "title": "What Will Zendaya’s Met Gala 2026 Outfit Be? We Have Some Guesses",
-      "link": "https://www.vogue.com/article/what-will-zendaya-wear-to-the-2026-met-gala",
-      "summary": "Custom couture, priceless archival gems—the options for what Zendaya could wear to the 2026 Met Gala are endless.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: What Will Zendaya’s Met Gala 2026 Outfit Be? We Have Some Guesses...",
-      "score": 3,
-      "published": "2026-04-06T22:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1475,34 +1503,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e41578088e64",
-      "title": "Sorry, 2026, the '90s Did Spring Dressing Better—5 Celeb Looks I'm Re-Creating Now",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/best-celebrity-90s-looks-for-spring-2026",
-      "summary": "A chic blast from the past.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Sorry, 2026, the '90s Did Spring Dressing Better—5 Celeb Looks I'm Re-...",
-      "score": 1,
-      "published": "2026-04-06T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1a1551dd5959",
-      "title": "Handbags! Shoes! Jewelry! These 29 Spring Accessories Will Make Your Outfits 10 Times More Appealing",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-spring-accessories-april-2026",
-      "summary": "Take your spring looks up a notch with the most stylish accessories.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Handbags! Shoes! Jewelry! These 29 Spring Accessories Will Make Your O...",
-      "score": 1,
-      "published": "2026-04-05T20:20:26+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "862df0724008",
       "title": "Sydney Sweeney Shows Us How to Style a Sheer Lace Top From Her Brand Syrn",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a70936979/sydney-sweeney-styles-syrn-sheer-lace-top-instagram-dump/",
@@ -1612,20 +1612,6 @@
       "angle": "Fashion Intelligence: How To Dress With Sprezzatura...",
       "score": 1,
       "published": "2026-04-05T10:29:55+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "496f09ea63a4",
-      "title": "7 Jacket, Shirt, and Tie Combos for Outerwear in 2026",
-      "link": "https://www.fashionbeans.com/article/jacket-shirt-tie-combinations/",
-      "summary": "Navigating dress codes can be a minefield. Take smart-casual, for example. Many men have devoted countless hours to decoding what on earth it could possibly mean, and in truth the jury’s still out. One solid trick to rely on is to start smart, and switch out one element for something laid-back – a roll-neck jumper &#82",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: 7 Jacket, Shirt, and Tie Combos for Outerwear in 2026...",
-      "score": 2,
-      "published": "2026-04-05T10:01:02+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2203,6 +2189,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "49ab560b09d5",
+      "title": "Traditional Silk Sarees That Will Always Stay in Style",
+      "link": "https://blog.kalkifashion.com/traditional-silk-sarees-that-will-always-stay-in-style/",
+      "summary": "Are you tired of discarding your gorgeous sarees because they are out of fashion and no longer resonate with current fashion trends? I&#8217;m sure you must be wanting to buy something that makes you look elegant, and that will always stay in trend forever. Let me put an end to your search and introduce you [&#8230;] T",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Traditional Silk Sarees That Will Always Stay in Style...",
+      "score": 6,
+      "published": "2026-04-08T04:55:50+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "d475c1145f9e",
       "title": "Top 5 Summer Ethnic Outfits Every Woman Should Have In Her Wardrobe",
       "link": "https://blog.kalkifashion.com/top-5-summer-ethnic-outfits-every-woman-should-have-in-her-wardrobe/",
@@ -2329,20 +2329,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b8c9f41b7fcc",
-      "title": "Awinka’s Wedding Wardrobe Story: Where Every Detail Found Its Match",
-      "link": "https://blog.kalkifashion.com/awinkas-wedding-wardrobe-story-where-every-detail-found-its-match/",
-      "summary": "There’s something magical about a bride who knows what she wants—but is still open to a little creative adventure along the way. Awinka was exactly that kind of bride. Thoughtful, detail-obsessed (in the best way), and with a quiet sense of humor that made the entire journey feel less like “wedding stress” and more lik",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Awinka’s Wedding Wardrobe Story — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-03-26T04:29:35+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "97f1cc3398d7",
       "title": "Pathani Suit vs Kurta Pajama: What Should Men Wear for Weddings and Festivals?",
       "link": "https://www.indianclothstore.com/blog/pathani-suit-vs-kurta-pajama-wedding-india",
@@ -2457,53 +2443,53 @@
   ],
   "trends": [
     {
-      "term": "sensex",
-      "angle": "Fashion Intelligence: sensex...",
+      "term": "ಬೆಂಜಮಿನ್ ನೆತನ್ಯಾಹು",
+      "angle": "Fashion Intelligence: ಬೆಂಜಮಿನ್ ನೆತನ್ಯಾಹು...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "tata steel share price",
-      "angle": "Fashion Intelligence: tata steel share price...",
+      "term": "raka",
+      "angle": "Fashion Intelligence: raka...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "irfc share price",
-      "angle": "Fashion Intelligence: irfc share price...",
+      "term": "raaka",
+      "angle": "Fashion Intelligence: raaka...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hdfc share price",
-      "angle": "Fashion Intelligence: hdfc share price...",
+      "term": "ayushman",
+      "angle": "Fashion Intelligence: ayushman...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "l&t share price",
-      "angle": "Fashion Intelligence: l&t share price...",
+      "term": "कुंभ राशि",
+      "angle": "Fashion Intelligence: कुंभ राशि...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ongc share price",
-      "angle": "Fashion Intelligence: ongc share price...",
+      "term": "artificial intelligence",
+      "angle": "Fashion Intelligence: artificial intelligence...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "wipro share price",
-      "angle": "Fashion Intelligence: wipro share price...",
+      "term": "इराक",
+      "angle": "Fashion Intelligence: इराक...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "adani enterprises share price",
-      "angle": "Fashion Intelligence: adani enterprises share price...",
+      "term": "కార్తీక దీపం",
+      "angle": "Fashion Intelligence: కార్తీక దీపం...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "yes bank share",
-      "angle": "Fashion Intelligence: yes bank share...",
+      "term": "csk dhoni",
+      "angle": "Fashion Intelligence: csk dhoni...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "vodafone idea share",
-      "angle": "Fashion Intelligence: vodafone idea share...",
+      "term": "લગ્ન",
+      "angle": "Fashion Intelligence: લગ્ન...",
       "aza_category": "Fashion & Style"
     }
   ]

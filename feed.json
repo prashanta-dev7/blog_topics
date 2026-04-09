@@ -1,9 +1,121 @@
 {
-  "generated_at": "2026-04-09T09:09:38.049553+00:00",
+  "generated_at": "2026-04-09T11:56:25.615503+00:00",
   "owned_count": 0,
   "competitor_count": 18,
-  "industry_count": 169,
+  "industry_count": 170,
   "articles": [
+    {
+      "id": "294a0d979531",
+      "title": "If You Wear a Perfume With This Juicy, Underrated Note, I'll Automatically Know You're Chic",
+      "link": "https://www.whowhatwear.com/beauty/fragrance/lychee-perfumes",
+      "summary": "Luscious and luxe.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: If You Wear a Perfume With This Juicy, Underrated Note, I'll Automatic...",
+      "score": 1,
+      "published": "2026-04-09T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7fd401ace341",
+      "title": "On the Podcast: Anna Wintour’s Former Assistants Debunk ‘The Devil Wears Prada’",
+      "link": "https://www.vogue.com/article/on-the-podcast-anna-wintours-former-assistants-debunk-the-devil-wears-prada",
+      "summary": "On this Thursday’s episode of “The Run-Through,” three of Anna Wintour’s former assistants discuss what “The Devil Wears Prada” got right (and wrong) about the job.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: On the Podcast: Anna Wintour’s Former Assistants Debunk ‘The Devil Wea...",
+      "score": 1,
+      "published": "2026-04-09T10:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d4f1bd37d439",
+      "title": "Ahead of the 2026 Met Gala, Vogue Staffers Share Their Favorite Pieces of Clothing in Art",
+      "link": "https://www.vogue.com/article/clothing-in-art-2026-met-gala",
+      "summary": "From the sheer marigold dress in “Flaming June” to the gleaming robes of “The Kiss,” fashion in art is one of our favorite forms of window-shopping.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Ahead of the 2026 Met Gala, Vogue Staffers Share Their Favorite Pieces...",
+      "score": 2,
+      "published": "2026-04-09T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fdc4611c90a3",
+      "title": "The Best Zara New Arrivals to Shop for Spring 2026 | Vogue",
+      "link": "https://www.vogue.com/article/best-zara-finds",
+      "summary": "Funnel-neck outerwear, slip skirts, and lace-trimmed shorts are a few of the best Zara new arrival finds we’re eyeing this week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best Zara New Arrivals to Shop for Spring 2026 | Vogue...",
+      "score": 1,
+      "published": "2026-04-09T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f933aaaad47e",
+      "title": "‘I Hope the Joy Comes Across’: On Set (and on the Water) With the Cast of ‘The Other Bennet Sister’",
+      "link": "https://www.vogue.com/article/the-other-bennet-sister-behind-the-scenes",
+      "summary": "“The Other Bennet Sister”—exploring the perspective of the oft-overlooked “Pride and Prejudice” character Mary Bennet—premieres exclusively on BritBox in the US and Canada on May 6.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: ‘I Hope the Joy Comes Across’: On Set (and on the Water) With the Cast...",
+      "score": 0,
+      "published": "2026-04-09T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1adce4652dc6",
+      "title": "28 Personalized Wedding Gifts They’ll Remember Forever",
+      "link": "https://www.vogue.com/slideshow/personalized-wedding-gift-ideas",
+      "summary": "From custom champagne ice buckets to sleek stationery, any newlyweds-to-be are sure to love these personalized wedding gift ideas.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: 28 Personalized Wedding Gifts They’ll Remember Forever — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-04-09T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "04288eb33fad",
+      "title": "Sustainable Fashion: How to Get Fashion to Change Its Ways",
+      "link": "https://www.vogue.com/article/how-to-get-fashion-to-change-its-ways",
+      "summary": "For an industry that prizes novelty and constant reinvention, fashion is notoriously rigid when it comes to sustainability. Here, seasoned activists and advocacy organizations share their theories of change.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Sustainable Fashion: How to Get Fashion to Change Its Ways...",
+      "score": 3,
+      "published": "2026-04-09T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "351b11ea28ba",
+      "title": "Reformation Wanted to Become Climate Positive. Did It Work?",
+      "link": "https://www.vogue.com/article/reformation-wanted-to-become-climate-positive-did-it-work",
+      "summary": "Five years ago, Reformation set a bold goal to become climate positive by 2025. The results say a lot about the state of sustainability at scale.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Reformation Wanted to Become Climate Positive. Did It Work?...",
+      "score": 0,
+      "published": "2026-04-09T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "73768747344d",
       "title": "Not Sandals—Fashion People Are Transitioning Their Jeans With This Chicer Shoe Trend",
@@ -75,15 +187,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7e1759247e4e",
-      "title": "The Timeless Wardrobe Staple That Makes Getting Dressed for Spring 10 Times Easier",
-      "link": "https://www.whowhatwear.com/fashion/spring/trench-coat-try-on-2026",
-      "summary": "Throw it over a tee and jeans, or wear it as a dress.",
+      "id": "d7742c9a164f",
+      "title": "Elegant Dressers Agree: Outfits That Include These Type of Jeans Are Better",
+      "link": "https://www.whowhatwear.com/fashion/spring/dark-wash-jeans-try-on-2026",
+      "summary": "Elevate your spring wardrobe in an instant.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Timeless Wardrobe Staple That Makes Getting Dressed for Spring 10 ...",
+      "angle": "Fashion Intelligence: Elegant Dressers Agree: Outfits That Include These Type of Jeans Are B...",
       "score": 2,
       "published": "2026-04-09T07:00:00+00:00",
       "discovered_via": "feed"
@@ -103,30 +215,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b470a5e07cdc",
-      "title": "It's Here: The Most 2026 Accessory to Wear With Denim",
-      "link": "https://www.whowhatwear.com/fashion/spring/big-buckle-belt-try-on-2026",
-      "summary": "As seen on our editors.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: It's Here: The Most 2026 Accessory to Wear With Denim...",
-      "score": 2,
-      "published": "2026-04-09T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ffaa2644d73f",
-      "title": "I'm a 66-Year-Old Former VIP Nordstrom Stylist—These Are the Fashionable Shoes I've Worn for Over a Decade",
-      "link": "https://www.whowhatwear.com/fashion/shopping/timeless-shoe-styles",
-      "summary": "Including must-have flats and sneakers.",
+      "id": "7e1759247e4e",
+      "title": "The Timeless Wardrobe Staple That Makes Getting Dressed for Spring 10 Times Easier",
+      "link": "https://www.whowhatwear.com/fashion/spring/trench-coat-try-on-2026",
+      "summary": "Throw it over a tee and jeans, or wear it as a dress.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I'm a 66-Year-Old Former VIP Nordstrom Stylist—These Are the Fashionab...",
-      "score": 1,
+      "angle": "Fashion Intelligence: The Timeless Wardrobe Staple That Makes Getting Dressed for Spring 10 ...",
+      "score": 2,
       "published": "2026-04-09T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -145,16 +243,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d7742c9a164f",
-      "title": "Elegant Dressers Agree: Outfits That Include These Type of Jeans Are Better",
-      "link": "https://www.whowhatwear.com/fashion/spring/dark-wash-jeans-try-on-2026",
-      "summary": "Elevate your spring wardrobe in an instant.",
+      "id": "ffaa2644d73f",
+      "title": "I'm a 66-Year-Old Former VIP Nordstrom Stylist—These Are the Fashionable Shoes I've Worn for Over a Decade",
+      "link": "https://www.whowhatwear.com/fashion/shopping/timeless-shoe-styles",
+      "summary": "Including must-have flats and sneakers.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Elegant Dressers Agree: Outfits That Include These Type of Jeans Are B...",
-      "score": 2,
+      "angle": "Fashion Intelligence: I'm a 66-Year-Old Former VIP Nordstrom Stylist—These Are the Fashionab...",
+      "score": 1,
       "published": "2026-04-09T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -169,6 +267,20 @@
       "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
+      "published": "2026-04-09T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b470a5e07cdc",
+      "title": "It's Here: The Most 2026 Accessory to Wear With Denim",
+      "link": "https://www.whowhatwear.com/fashion/spring/big-buckle-belt-try-on-2026",
+      "summary": "As seen on our editors.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: It's Here: The Most 2026 Accessory to Wear With Denim...",
+      "score": 2,
       "published": "2026-04-09T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -216,9 +328,9 @@
     },
     {
       "id": "c448d360da94",
-      "title": "I'm Calling It—This Is the Most Expensive-Looking Spring Collection on the High Street Right Now",
+      "title": "I'm Calling It: This Is the Most Expensive-Looking Spring Collection on the High Street Right Now",
       "link": "https://www.whowhatwear.com/fashion/affordable/and-other-stories-try-on-april-2026",
-      "summary": "Ready for the chicest spring yet?",
+      "summary": "Ready for your chicest spring yet?",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -271,20 +383,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2b7e23bb472c",
-      "title": "I've Done the Research—These Are the Most Worthwhile Luxury Buys for Spring 2026",
-      "link": "https://www.whowhatwear.com/fashion/luxury/popular-spring-luxury-items-2026",
-      "summary": "Smart spring investments.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I've Done the Research—These Are the Most Worthwhile Luxury Buys for S...",
-      "score": 1,
-      "published": "2026-04-09T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ab7c69ecab86",
       "title": "We Asked 2 Fashion Insiders With Contrasting Taste to Style H&M's Latest Collection—These 4 Looks Were the Most Fun",
       "link": "https://www.whowhatwear.com/fashion/spring/hm-fashion-friends-outfit-ideas-drop-2",
@@ -295,6 +393,20 @@
       "aza_category": "Designer Spotlight",
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 3,
+      "published": "2026-04-09T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2b7e23bb472c",
+      "title": "I've Done the Research—These Are the Most Worthwhile Luxury Buys for Spring 2026",
+      "link": "https://www.whowhatwear.com/fashion/luxury/popular-spring-luxury-items-2026",
+      "summary": "Smart investments.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I've Done the Research—These Are the Most Worthwhile Luxury Buys for S...",
+      "score": 1,
       "published": "2026-04-09T05:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -313,20 +425,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9e4162e7509c",
-      "title": "How CEO Michelle Gass Is Reviving Levi’s With More Than Good Jeans",
-      "link": "https://www.vogue.com/article/how-ceo-michelle-gass-is-reviving-levis-with-more-than-good-jeans",
-      "summary": "Amid hot competition in the denim category, the Levi Strauss & Co. CEO breaks down her gameplan to continue scaling the jeans leader into a $10 billion business.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: How CEO Michelle Gass Is Reviving Levi’s With More Than Good Jeans...",
-      "score": 0,
-      "published": "2026-04-09T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "86a3ba67380b",
       "title": "The Vogue Business TikTok Trend Tracker",
       "link": "https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker",
@@ -337,6 +435,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
+      "published": "2026-04-09T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9e4162e7509c",
+      "title": "How CEO Michelle Gass Is Reviving Levi’s With More Than Good Jeans",
+      "link": "https://www.vogue.com/article/how-ceo-michelle-gass-is-reviving-levis-with-more-than-good-jeans",
+      "summary": "Amid hot competition in the denim category, the Levi Strauss & Co. CEO breaks down her gameplan to continue scaling the jeans leader into a $10 billion business.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: How CEO Michelle Gass Is Reviving Levi’s With More Than Good Jeans...",
+      "score": 0,
       "published": "2026-04-09T04:30:00+00:00",
       "discovered_via": "feed"
     },
@@ -1223,20 +1335,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c43063b7156e",
-      "title": "Alexa Demie Returns to the Red Carpet With Anti-‘Euphoria’ Glam",
-      "link": "https://www.vogue.com/article/alexa-demie-euphoria-season-three-premiere-glam",
-      "summary": "Gone is the feline flick and face gems of first-season “Euphoria”—instead, Alexa Demie arrived glowy and fresh-faced to the season three premiere.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-04-08T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f7944cc7807c",
       "title": "Not Sneakers, Not Sandals—Lauren Conrad Knows Cropped Jeans Look Best With This Flat-Shoe Trend",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/cropped-jeans-loafers-outfit-lauren-conrad",
@@ -1279,48 +1377,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f1278f2126b1",
-      "title": "All of the Devil Wears Prada 2 Premiere Fashions So Far",
-      "link": "https://www.vogue.com/slideshow/the-devil-wears-prada-2-press-tour-fashions-red-carpet",
-      "summary": "See what stars Meryl Streep, Anne Hathaway, and more are wearing on the buzzy film’s fashion-filled press tour.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: All of the Devil Wears Prada 2 Premiere Fashions So Far...",
-      "score": 2,
-      "published": "2026-04-08T13:23:06+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "511962b2f55f",
-      "title": "Kindred Lubeck—Taylor Swift’s Engagement Ring Designer—Launches Artifex Bridal",
-      "link": "https://www.vogue.com/article/kindred-lubeck-artifex-bridal-taylor-swift-engagement-ring",
-      "summary": "On April 10, Kindred Lubeck will drop a new, limited edition collection of engagement rings, wedding bands, and other fine jewelry intended to carry a bride through her engagement and beyond.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Kindred Lubeck—Taylor Swift’s Engagement Ring Designer—Launches Artifex Bridal — A Complete Style Guide",
-      "score": 5,
-      "published": "2026-04-08T13:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "aba65a2fe855",
-      "title": "Kylie and Kendall Jenner Have a Spring It-Shoe-Off",
-      "link": "https://www.vogue.com/article/kylie-kendall-jenner-timothee-chalamet-spring-shoes",
-      "summary": "Stepping out with Timothée Chalamet for dinner at—where else?—Sushi Park, Kylie and Kendall Jenner both sported opposing seasonal shoe trends.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Kylie and Kendall Jenner Have a Spring It-Shoe-Off...",
-      "score": 2,
-      "published": "2026-04-08T12:57:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "1cf251d0ba70",
       "title": "Samyra Miller Is Shopping Crop Tops and Alpine Butterfly Swimwear This Spring",
       "link": "https://fashionista.com/2026/04/samyra-miller-fashion-beauty-interview",
@@ -1332,48 +1388,6 @@
       "angle": "Fashion Intelligence: Samyra Miller Is Shopping Crop Tops and Alpine Butterfly Swimwear This...",
       "score": 2,
       "published": "2026-04-08T12:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2809bab24289",
-      "title": "Empire Builder: Rachel Comey’s Fiercely Independent Label Turns 25",
-      "link": "https://www.vogue.com/article/rachel-comey-25th-anniversary-april-2026",
-      "summary": "Comey makes clothes for women who do things and like to express themselves—women like Cindy Sherman, Debbie Harry, Maggie Gyllenhaal, or Zadie Smith",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Empire Builder: Rachel Comey’s Fiercely Independent Label Turns 25...",
-      "score": 1,
-      "published": "2026-04-08T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8980d2889b3c",
-      "title": "All About Argireline, a Peptide Called Botox in a Bottle",
-      "link": "https://www.vogue.com/article/argireline-peptide",
-      "summary": "Here, experts break down everything you need to know about the hottest new peptide.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: All About Argireline, a Peptide Called Botox in a Bottle...",
-      "score": 0,
-      "published": "2026-04-08T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "70e72a1d0709",
-      "title": "How to Reduce Your Microplastic Exposure Overnight",
-      "link": "https://www.vogue.com/article/how-to-reduce-your-microplastic-exposure-overnight",
-      "summary": "Netflix's 'The Plastic Detox' has us wondering: How can we reduce our exposure to microplastics? Vogue explores nine different ways with help from the experts.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How to Reduce Your Microplastic Exposure Overnight...",
-      "score": 0,
-      "published": "2026-04-08T12:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1531,15 +1545,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "77c7a45286e3",
-      "title": "Carey Mulligan Is Changing Her Tune",
-      "link": "https://www.whowhatwear.com/fashion/cover-features/carey-mulligan",
-      "summary": "For our April cover story, the actress discusses her \"feral\" Beef season 2 character, the power of a playlist, and embracing the unknown.",
+      "id": "280fa9de8c58",
+      "title": "Low-Rise Jeans Are Mainstream Again—These Are the 5 Shoes Everyone Is Wearing With Them",
+      "link": "https://www.whowhatwear.com/fashion/shoes/best-shoes-with-low-rise-jeans-2026",
+      "summary": "Trust me.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Carey Mulligan Is Changing Her Tune...",
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-04-08T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1559,15 +1573,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "280fa9de8c58",
-      "title": "Low-Rise Jeans Are Mainstream Again—These Are the 5 Shoes Everyone Is Wearing With Them",
-      "link": "https://www.whowhatwear.com/fashion/shoes/best-shoes-with-low-rise-jeans-2026",
-      "summary": "Trust me.",
+      "id": "77c7a45286e3",
+      "title": "Carey Mulligan Is Changing Her Tune",
+      "link": "https://www.whowhatwear.com/fashion/cover-features/carey-mulligan",
+      "summary": "For our April cover story, the actress discusses her \"feral\" Beef season 2 character, the power of a playlist, and embracing the unknown.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Carey Mulligan Is Changing Her Tune...",
       "score": 1,
       "published": "2026-04-08T07:00:00+00:00",
       "discovered_via": "feed"
@@ -2625,53 +2639,53 @@
   ],
   "trends": [
     {
-      "term": "இராசி",
-      "angle": "Fashion Intelligence: இராசி...",
+      "term": "mamta kulkarni",
+      "angle": "Fashion Intelligence: mamta kulkarni...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "lah vs isl",
-      "angle": "Fashion Intelligence: lah vs isl...",
+      "term": "demon slayer infinity castle",
+      "angle": "Fashion Intelligence: demon slayer infinity castle...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "బాబర్ ఆజం",
-      "angle": "Fashion Intelligence: బాబర్ ఆజం...",
+      "term": "vaazha ii",
+      "angle": "Fashion Intelligence: vaazha ii...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಲೋಕಾಯುಕ್ತ",
-      "angle": "Fashion Intelligence: ಲೋಕಾಯುಕ್ತ...",
+      "term": "kuwait airport flight cancellations",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "aza_category": "Celebrity Style"
+    },
+    {
+      "term": "माध्यमिक शिक्षा मंडल, मध्य प्रदेश",
+      "angle": "Fashion Intelligence: माध्यमिक शिक्षा मंडल, मध्य प्रदेश...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बॉबी देओल",
-      "angle": "Fashion Intelligence: बॉबी देओल...",
+      "term": "loan",
+      "angle": "Fashion Intelligence: loan...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ट्रक",
-      "angle": "Fashion Intelligence: ट्रक...",
+      "term": "knruhs",
+      "angle": "Fashion Intelligence: knruhs...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ఆంధ్ర ప్రదేశ్",
-      "angle": "Fashion Intelligence: ఆంధ్ర ప్రదేశ్...",
+      "term": "భారత జాతీయ క్రికెట్ జట్టు",
+      "angle": "Fashion Intelligence: భారత జాతీయ క్రికెట్ జట్టు...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "stock market cresh",
-      "angle": "Fashion Intelligence: stock market cresh...",
+      "term": "बालेन्द्र शाह",
+      "angle": "Fashion Intelligence: बालेन्द्र शाह...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "કેનેડા",
-      "angle": "Fashion Intelligence: કેનેડા...",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "खिलाड़ी",
-      "angle": "Fashion Intelligence: खिलाड़ी...",
+      "term": "అల్లు అరవింద్",
+      "angle": "Fashion Intelligence: అల్లు అరవింద్...",
       "aza_category": "Fashion & Style"
     }
   ]

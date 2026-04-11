@@ -1,9 +1,23 @@
 {
-  "generated_at": "2026-04-11T04:14:27.556410+00:00",
+  "generated_at": "2026-04-11T06:02:09.226263+00:00",
   "owned_count": 0,
   "competitor_count": 18,
   "industry_count": 171,
   "articles": [
+    {
+      "id": "b79356b7dc7b",
+      "title": "I've Worked It Out—These Are the 5 Colour Combinations French Women Wear to Look Elegant in Spring",
+      "link": "https://www.whowhatwear.com/fashion/spring/french-girl-colour-combinations-spring-2026",
+      "summary": "A palette refresh.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I've Worked It Out—These Are the 5 Colour Combinations French Women We...",
+      "score": 1,
+      "published": "2026-04-11T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "7b6cd8dae5b4",
       "title": "79 Thoughts I Had While Watching 'You, Me & Tuscany'",
@@ -859,34 +873,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "44eab1c1ecb6",
-      "title": "Cool Girls Are Wearing This Comfy Summer 2026 Dress Trend to Look Effortlessly Chic",
-      "link": "https://www.whowhatwear.com/cute-sleep-dresses",
-      "summary": "Shop here to join them.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-04-10T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a77bb235714b",
-      "title": "23 Things a Beauty Product-Obsessed Fashion Editor Is Ordering From the Sephora Sale",
-      "link": "https://www.whowhatwear.com/beauty/fashion-editor-sephora-sale-picks-2026",
-      "summary": "My cart is so ready.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 23 Things a Beauty Product-Obsessed Fashion Editor Is Ordering From th...",
-      "score": 2,
-      "published": "2026-04-10T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "eada7fb49011",
       "title": "The New Summer 2026 Dresses Are Already Rolling In—I Have a Feeling These 37 Will Sell Out by June 1",
       "link": "https://www.whowhatwear.com/fashion/shopping/best-summer-dresses-2026",
@@ -929,6 +915,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "a77bb235714b",
+      "title": "23 Things a Beauty Product-Obsessed Fashion Editor Is Ordering From the Sephora Sale",
+      "link": "https://www.whowhatwear.com/beauty/fashion-editor-sephora-sale-picks-2026",
+      "summary": "My cart is so ready.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 23 Things a Beauty Product-Obsessed Fashion Editor Is Ordering From th...",
+      "score": 2,
+      "published": "2026-04-10T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "44eab1c1ecb6",
+      "title": "Cool Girls Are Wearing This Comfy Summer 2026 Dress Trend to Look Effortlessly Chic",
+      "link": "https://www.whowhatwear.com/cute-sleep-dresses",
+      "summary": "Shop here to join them.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-04-10T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "14b33fa7e8b9",
       "title": "How Elle Fanning Gets Her Perfect Red Lip Right Every Time",
       "link": "https://www.vogue.com/article/how-elle-fanning-gets-her-perfect-red-lip-every-time",
@@ -957,20 +971,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "24ff70da5583",
-      "title": "My Beauty-Editor Group Chat Just Confirmed It: These Are the Best Celebrity Bobs of 2026",
-      "link": "https://www.whowhatwear.com/beauty/hair/best-celebrity-bobs",
-      "summary": "Short-hair superstars.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-04-10T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "fee1175c5423",
       "title": "I've Finally Found It: A Non-Greasy SPF That Actually Works Underneath Makeup—and It's Only £16",
       "link": "https://www.whowhatwear.com/beauty/skin/beauty-of-joseon-spf",
@@ -981,6 +981,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I've Finally Found It: A Non-Greasy SPF That Actually Works Underneath...",
       "score": 1,
+      "published": "2026-04-10T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "24ff70da5583",
+      "title": "My Beauty-Editor Group Chat Just Confirmed It: These Are the Best Celebrity Bobs of 2026",
+      "link": "https://www.whowhatwear.com/beauty/hair/best-celebrity-bobs",
+      "summary": "Short-hair superstars.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
       "published": "2026-04-10T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1611,20 +1625,6 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: The Timeless Wardrobe Staple That Makes Getting Dressed for Spring 10 ...",
       "score": 2,
-      "published": "2026-04-09T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ffaa2644d73f",
-      "title": "I'm a 66-Year-Old Former VIP Nordstrom Stylist—These Are the Fashionable Shoes I've Worn for Over a Decade",
-      "link": "https://www.whowhatwear.com/fashion/shopping/timeless-shoe-styles",
-      "summary": "Including must-have flats and sneakers.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I'm a 66-Year-Old Former VIP Nordstrom Stylist—These Are the Fashionab...",
-      "score": 1,
       "published": "2026-04-09T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -2399,6 +2399,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "8e5f2e81b398",
+      "title": "How to Choose a Groom Outfit That Matches the Bride’s Lehenga",
+      "link": "https://blog.kalkifashion.com/how-to-choose-a-groom-outfit-that-matches-the-brides-lehenga/",
+      "summary": "A wedding is the union of two people who choose to be a part of each other’s lives through thick and thin and to be each other’s better halves at all times. What better way to begin this journey than by opting for wedding outfits that complement each other? The bride and groom walking down [&#8230;] The post How to Cho",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: How to Choose a Groom Outfit That Matches the Bride’s Lehenga — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-04-11T04:50:08+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "4e149c738043",
       "title": "Top Indian Outfits for Men That Never Go Out of Style",
       "link": "https://blog.kalkifashion.com/top-indian-outfits-for-men-that-never-go-out-of-style/",
@@ -2525,20 +2539,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d55c1a4cf564",
-      "title": "We Weren’t Ready for Sushil’s Mehendi at the Sea Caves of Cyprus, And Neither Are You",
-      "link": "https://blog.kalkifashion.com/we-werent-ready-for-sushils-mehendi-at-the-sea-caves-of-cyprus-and-neither-are-you/",
-      "summary": "When Kalki meets Cyprus, even the sea stops to stare. Let&#8217;s be honest — when we talk about weddings, everyone wants a front row seat to the drama, the details, and the absolute looks. And while the bride is always the star, the groom? When he gets it right, he gets it really right. And [&#8230;] The post We Weren",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Fashion Intelligence: We Weren’t Ready for Sushil’s Mehendi at the Sea Caves of Cyprus, And ...",
-      "score": 1,
-      "published": "2026-03-30T06:37:41+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "97f1cc3398d7",
       "title": "Pathani Suit vs Kurta Pajama: What Should Men Wear for Weddings and Festivals?",
       "link": "https://www.indianclothstore.com/blog/pathani-suit-vs-kurta-pajama-wedding-india",
@@ -2653,53 +2653,53 @@
   ],
   "trends": [
     {
-      "term": "ಭವಿಷ್ಯ",
-      "angle": "Fashion Intelligence: ಭವಿಷ್ಯ...",
+      "term": "மழை",
+      "angle": "Fashion Intelligence: மழை...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "રાશિ",
-      "angle": "Fashion Intelligence: રાશિ...",
+      "term": "வானதி சீனிவாசன்",
+      "angle": "Fashion Intelligence: வானதி சீனிவாசன்...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "earthquake nanded",
-      "angle": "Fashion Intelligence: earthquake nanded...",
+      "term": "जर्मनी",
+      "angle": "Fashion Intelligence: जर्मनी...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "జితేష్ శర్మ",
-      "angle": "Fashion Intelligence: జితేష్ శర్మ...",
+      "term": "ಎಸ್ ಎಸ್ ಮಲ್ಲಿಕಾರ್ಜುನ್",
+      "angle": "Fashion Intelligence: ಎಸ್ ಎಸ್ ಮಲ್ಲಿಕಾರ್ಜುನ್...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಭ್ರಷ್ಟಾಚಾರ",
-      "angle": "Fashion Intelligence: ಭ್ರಷ್ಟಾಚಾರ...",
+      "term": "लेबनान",
+      "angle": "Fashion Intelligence: लेबनान...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "उस्मान तारिक",
-      "angle": "Fashion Intelligence: उस्मान तारिक...",
+      "term": "auckland fc vs melbourne victory",
+      "angle": "Fashion Intelligence: auckland fc vs melbourne victory...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "soldier boy the boys",
-      "angle": "Fashion Intelligence: soldier boy the boys...",
+      "term": "ನರೇಂದ್ರ ಮೋದಿ",
+      "angle": "Fashion Intelligence: ನರೇಂದ್ರ ಮೋದಿ...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "deepika padukone",
-      "angle": "Fashion Intelligence: deepika padukone...",
+      "term": "11th admission",
+      "angle": "Fashion Intelligence: 11th admission...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cbse 2026 results preparation",
-      "angle": "Fashion Intelligence: cbse 2026 results preparation...",
+      "term": "మంగ్లీ",
+      "angle": "Fashion Intelligence: మంగ్లీ...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "legend saravanan",
-      "angle": "Fashion Intelligence: legend saravanan...",
+      "term": "sri lanka a vs new zealand a",
+      "angle": "Fashion Intelligence: sri lanka a vs new zealand a...",
       "aza_category": "Fashion & Style"
     }
   ]

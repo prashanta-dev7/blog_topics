@@ -1,9 +1,79 @@
 {
-  "generated_at": "2026-04-11T08:44:31.033150+00:00",
+  "generated_at": "2026-04-11T11:31:11.650526+00:00",
   "owned_count": 0,
   "competitor_count": 18,
-  "industry_count": 169,
+  "industry_count": 167,
   "articles": [
+    {
+      "id": "618ebd04a9ca",
+      "title": "For Me, Spring 2026 Is All About an Intentional Beauty Routine—13 Mindful Must-Haves I'm Using on Repeat",
+      "link": "https://www.whowhatwear.com/beauty/mindful-beauty-essentials",
+      "summary": "Take notes.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: For Me, Spring 2026 Is All About an Intentional Beauty Routine—13 Mind...",
+      "score": 1,
+      "published": "2026-04-11T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4256be76e673",
+      "title": "Audrey Hepburn’s Fractured Childhood, in Six Touching Images",
+      "link": "https://www.vogue.com/article/intimate-audrey-childhood-images",
+      "summary": "In “Intimate Audrey,” Sean Hepburn Ferrer follows his mother’s life from wartime girlhood through her legendary career, using family albums, drawings, and memory to reveal the origins of her singular grace.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Audrey Hepburn’s Fractured Childhood, in Six Touching Images...",
+      "score": 0,
+      "published": "2026-04-11T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f900f8e55138",
+      "title": "Shop Spring’s Statement Belts–With Inspiration from Top Stylists",
+      "link": "https://www.vogue.com/article/statement-belt-trend",
+      "summary": "From modern medallions to luxe braided styles, top stylists weigh in on the statement belt trend. Shop our favorites from Celine, Dior, and more.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Shop Spring’s Statement Belts–With Inspiration from Top Stylists...",
+      "score": 2,
+      "published": "2026-04-11T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1e676e263194",
+      "title": "What to Wear to Coachella? Pull Out Your Favorite Band Tee Like Our Street Stylers",
+      "link": "https://www.vogue.com/article/street-style-fashion-week-band-t-shirt-street-style",
+      "summary": "Between Coachella and Justin Bieber this is the weekend to show off your love for your favorite musician.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: What to Wear to Coachella? Pull Out Your Favorite Band Tee Like Our St...",
+      "score": 3,
+      "published": "2026-04-11T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bbb3d202f18d",
+      "title": "My Mother Only Wears Black—These 5 Spring Trends at J.Crew Convinced Her to Wear More Color",
+      "link": "https://www.whowhatwear.com/fashion/shopping/jcrew-color-trends-spring-2026",
+      "summary": "Tomato red, Parisian pink, and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-04-11T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "7437aff6d9cd",
       "title": "I’m Sold: Jeans Look Chicest With This Pretty Blouse Trend This Spring",
@@ -33,15 +103,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e2fd124ce64e",
-      "title": "The Two Retailers Fashion Editors Rely On For Their Spring Basics",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-basics-gap-jcrew-spring-2026",
-      "summary": "Starting at $10.",
+      "id": "b53125a10c19",
+      "title": "From '90s-Era Winona to Toulouse-Lautrec's Iconic Artwork—Carey Mulligan's April Beauty Inspiration Is Everything",
+      "link": "https://www.whowhatwear.com/beauty/carey-mulligan-beauty-cover",
+      "summary": "Every behind-the-scenes beauty detail from her makeup artist and hairstylist.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The Two Retailers Fashion Editors Rely On For Their Spring Basics...",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: From '90s-Era Winona to Toulouse-Lautrec's Iconic Artwork—Carey Mullig...",
       "score": 1,
       "published": "2026-04-11T07:00:00+00:00",
       "discovered_via": "feed"
@@ -89,15 +159,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b53125a10c19",
-      "title": "From '90s-Era Winona to Toulouse-Lautrec's Iconic Artwork—Carey Mulligan's April Beauty Inspiration Is Everything",
-      "link": "https://www.whowhatwear.com/beauty/carey-mulligan-beauty-cover",
-      "summary": "Every behind-the-scenes beauty detail from her makeup artist and hairstylist.",
+      "id": "e2fd124ce64e",
+      "title": "The Two Retailers Fashion Editors Rely On For Their Spring Basics",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-basics-gap-jcrew-spring-2026",
+      "summary": "Starting at $10.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: From '90s-Era Winona to Toulouse-Lautrec's Iconic Artwork—Carey Mullig...",
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: The Two Retailers Fashion Editors Rely On For Their Spring Basics...",
       "score": 1,
       "published": "2026-04-11T07:00:00+00:00",
       "discovered_via": "feed"
@@ -107,6 +177,20 @@
       "title": "Swim Season is Here! 35 Ref, J.Crew, and Zara Pieces That Will Sell Out First",
       "link": "https://www.whowhatwear.com/fashion/swimwear/best-swimwear-reformation-j-crew-zara",
       "summary": "I'm betting on it.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-04-11T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5bb22b0d0000",
+      "title": "Forget White Trainers—French Women are Backing these 5 Chic Sneaker Trends for Spring Instead",
+      "link": "https://www.whowhatwear.com/french-girl-trainer-trends-spring-2026",
+      "summary": "Only the best pairs make the cut.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -141,20 +225,6 @@
       "aza_category": "Celebrity Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
-      "published": "2026-04-11T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5bb22b0d0000",
-      "title": "Forget White Trainers—French Women are Backing these 5 Chic Sneaker Trends for Spring Instead",
-      "link": "https://www.whowhatwear.com/french-girl-trainer-trends-spring-2026",
-      "summary": "Only the best pairs make the cut.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
       "published": "2026-04-11T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -999,20 +1069,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4b2e3f717852",
-      "title": "Lucy Hale's 2026 Beauty Routine? Simple, Skin-Focused, and Not at All Aria Montgomery-Coded",
-      "link": "https://www.whowhatwear.com/beauty/skin/lucy-hale-beauty-routine-2026",
-      "summary": "Discover her updated steps and products.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Lucy Hale's 2026 Beauty Routine? Simple, Skin-Focused, and Not at All ...",
-      "score": 1,
-      "published": "2026-04-10T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "78d8a7dcd8bf",
       "title": "I'm Going to Coachella—8 Beauty Trends I Know I'll See on Every Cool Festivalgoer This Year",
       "link": "https://www.whowhatwear.com/beauty/music-festival-beauty-trends-2026",
@@ -1027,43 +1083,29 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1f3fd60b25f9",
-      "title": "*Not* Jeans—the Elevated Denim Trend You're About to See on Every Chic Woman in Paris and the UES",
-      "link": "https://www.whowhatwear.com/fashion/skirts/denim-pencil-skirt-trend",
-      "summary": "Sexy yet sophisticated.",
+      "id": "4b2e3f717852",
+      "title": "Lucy Hale's 2026 Beauty Routine? Simple, Skin-Focused, and Not at All Aria Montgomery-Coded",
+      "link": "https://www.whowhatwear.com/beauty/skin/lucy-hale-beauty-routine-2026",
+      "summary": "Discover her updated steps and products.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Lucy Hale's 2026 Beauty Routine? Simple, Skin-Focused, and Not at All ...",
       "score": 1,
-      "published": "2026-04-10T07:00:00+00:00",
+      "published": "2026-04-10T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "ee7705876dc9",
-      "title": "The Who What Wear 100: Every Spring 2026 Item to Shop This Season",
-      "link": "https://www.whowhatwear.com/fashion/shopping/who-what-wear-100-spring-2026",
-      "summary": "From affordable finds to worthy investments.",
+      "id": "44eab1c1ecb6",
+      "title": "Cool Girls Are Wearing This Comfy Summer 2026 Dress Trend to Look Effortlessly Chic",
+      "link": "https://www.whowhatwear.com/cute-sleep-dresses",
+      "summary": "Shop here to join them.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-04-10T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "eada7fb49011",
-      "title": "The New Summer 2026 Dresses Are Already Rolling In—I Have a Feeling These 37 Will Sell Out by June 1",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-summer-dresses-2026",
-      "summary": "Fresh styles for the season ahead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The New Summer 2026 Dresses Are Already Rolling In—I Have a Feeling Th...",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
       "published": "2026-04-10T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1083,16 +1125,44 @@
       "discovered_via": "feed"
     },
     {
-      "id": "44eab1c1ecb6",
-      "title": "Cool Girls Are Wearing This Comfy Summer 2026 Dress Trend to Look Effortlessly Chic",
-      "link": "https://www.whowhatwear.com/cute-sleep-dresses",
-      "summary": "Shop here to join them.",
+      "id": "eada7fb49011",
+      "title": "The New Summer 2026 Dresses Are Already Rolling In—I Have a Feeling These 37 Will Sell Out by June 1",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-summer-dresses-2026",
+      "summary": "Fresh styles for the season ahead.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "angle": "Fashion Intelligence: The New Summer 2026 Dresses Are Already Rolling In—I Have a Feeling Th...",
       "score": 3,
+      "published": "2026-04-10T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ee7705876dc9",
+      "title": "The Who What Wear 100: Every Spring 2026 Item to Shop This Season",
+      "link": "https://www.whowhatwear.com/fashion/shopping/who-what-wear-100-spring-2026",
+      "summary": "From affordable finds to worthy investments.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-04-10T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1f3fd60b25f9",
+      "title": "*Not* Jeans—the Elevated Denim Trend You're About to See on Every Chic Woman in Paris and the UES",
+      "link": "https://www.whowhatwear.com/fashion/skirts/denim-pencil-skirt-trend",
+      "summary": "Sexy yet sophisticated.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
       "published": "2026-04-10T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1195,20 +1265,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d7a51b0bb520",
-      "title": "This Is the New Shift Towards Dressing That Feels Playful Yet Considered",
-      "link": "https://www.whowhatwear.com/fashion/shopping/www-curates-h-and-m-the-girly-icon-edit",
-      "summary": "Pick 'n' mix.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: This Is the New Shift Towards Dressing That Feels Playful Yet Consider...",
-      "score": 1,
-      "published": "2026-04-10T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "6db35ad1732f",
       "title": "In LA, TV Shows Are Lifting Up Local Fashion Brands",
       "link": "https://www.vogue.com/article/in-la-tv-shows-are-lifting-up-local-fashion-brands",
@@ -1220,62 +1276,6 @@
       "angle": "Fashion Intelligence: In LA, TV Shows Are Lifting Up Local Fashion Brands...",
       "score": 3,
       "published": "2026-04-10T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c84275f81013",
-      "title": "Shop Our Favorite Looks of the Week | Vogue",
-      "link": "https://www.vogue.com/article/best-celebrity-outfits",
-      "summary": "Shop the best celebrity street style looks of the week, perfect for the season ahead—just a few simple clicks away.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Shop Our Favorite Looks of the Week | Vogue...",
-      "score": 3,
-      "published": "2026-04-10T01:35:48+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "86857732cad7",
-      "title": "Kendall Jenner's Coachella Style Evolution, Explained by a Fashion Editor",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/kendall-jenner-coachella-fashion-retrospective",
-      "summary": "Remember when she went with Selena Gomez in 2014?",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Kendall Jenner's Coachella Style Evolution, Explained by a Fashion Edi...",
-      "score": 2,
-      "published": "2026-04-10T01:34:52+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "aa3efaa4291f",
-      "title": "6 Flannel Shirt Outfits to Tackle the Transitional Season in Style",
-      "link": "https://www.vogue.com/article/flannel-shirt-outfits",
-      "summary": "Can’t get enough of plaid and check patterns? Here are six flannel shirt outfits that have the runway seal of approval.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 4,
-      "published": "2026-04-10T01:20:27+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3dfb77d77151",
-      "title": "Like It or Not, These Pants Are Back in the Spotlight—15 of the Chicest Styles (and Best Shoe Pairings) Are Already at Nordstrom",
-      "link": "https://www.whowhatwear.com/fashion/trends/best-capri-pants-nordstrom-april-2026",
-      "summary": "This trend is It girl approved.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Like It or Not, These Pants Are Back in the Spotlight—15 of the Chices...",
-      "score": 2,
-      "published": "2026-04-09T22:32:20+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1293,20 +1293,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e8756438f69e",
-      "title": "‘I’ve Always Been a Decorator’: Why Pamela Anderson Is Turning Her Hand to Furniture Design",
-      "link": "https://www.vogue.com/article/pamela-anderson-olive-ateliers-furniture-collection",
-      "summary": "The actor tells Vogue why she’s launching her first furniture collection in partnership with the cult-favorite interiors studio Olive Ateliers.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: ‘I’ve Always Been a Decorator’: Why Pamela Anderson Is Turning Her Han...",
-      "score": 2,
-      "published": "2026-04-09T21:05:51+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "846313df3c90",
       "title": "How to Watch Justin Bieber, Sabrina Carpenter, Karol G, and More at Coachella",
       "link": "https://www.harpersbazaar.com/culture/art-books-music/a70976170/how-to-watch-justin-bieber-sabrina-carpenter-coachella-2026-performances/",
@@ -1318,20 +1304,6 @@
       "angle": "Fashion Intelligence: How to Watch Justin Bieber, Sabrina Carpenter, Karol G, and More at Co...",
       "score": 0,
       "published": "2026-04-09T20:58:41+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cbe1eab1d4f8",
-      "title": "Kylie Jenner Is Already in the Desert Wearing the One Coachella Trend That Never Gets Old",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/kylie-jenner-coachella-outfit-2026",
-      "summary": "Here comes the king.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-04-09T20:02:02+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2371,6 +2343,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "1f11e9fae059",
+      "title": "Make Your Festivities Memorable with Modern Designer Ethnic Wear",
+      "link": "https://blog.kalkifashion.com/make-your-festivities-memorable-with-modern-designer-ethnic-wear/",
+      "summary": "There is a special feeling about flaunting designer ethnic wear on special days like festivals and weddings. On one hand, we have glistening lehengas, premium anarkalis, and Indo-Western dresses for women; on the other hand, there are sherwanis, Jodhpuri suits, and Indo-Western outfits for men with immaculate fit, whic",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Fashion Intelligence: Make Your Festivities Memorable with Modern Designer Ethnic Wear...",
+      "score": 8,
+      "published": "2026-04-11T09:10:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "8e5f2e81b398",
       "title": "How to Choose a Groom Outfit That Matches the Bride’s Lehenga",
       "link": "https://blog.kalkifashion.com/how-to-choose-a-groom-outfit-that-matches-the-brides-lehenga/",
@@ -2381,7 +2367,7 @@
       "aza_category": "Bridal & Wedding",
       "angle": "Bridal Edit: How to Choose a Groom Outfit That Matches the Bride’s Lehenga — A Complete Style Guide",
       "score": 3,
-      "published": "2026-04-11T04:17:19+00:00",
+      "published": "2026-04-11T04:50:08+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2494,20 +2480,6 @@
       "angle": "Fashion Intelligence: Easter Exclusive Offer: Celebrate in Style with KALKI...",
       "score": 5,
       "published": "2026-03-30T09:24:20+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6480bbf72672",
-      "title": "Online Exclusive Deals: Refresh Your Festive Wardrobe with KALKI",
-      "link": "https://blog.kalkifashion.com/online-exclusive-deals-refresh-your-festive-wardrobe-with-kalki/",
-      "summary": "Festive dressing in India is more than just fashion—it’s a celebration of culture, tradition, and personal style. Whether it’s a wedding function, a family gathering, or a seasonal celebration, every occasion calls for outfits that feel special and memorable. This season, KALKI brings you Online Exclusive Deals, making",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Occasion Dressing",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 8,
-      "published": "2026-03-30T06:45:54+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2625,53 +2597,53 @@
   ],
   "trends": [
     {
-      "term": "धनु राशि",
-      "angle": "Fashion Intelligence: धनु राशि...",
+      "term": "vijaykumar vyshak",
+      "angle": "Fashion Intelligence: vijaykumar vyshak...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "టి.జీవన్ రెడ్డి",
-      "angle": "Fashion Intelligence: టి.జీవన్ రెడ్డి...",
+      "term": "असीम मुनीर",
+      "angle": "Fashion Intelligence: असीम मुनीर...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "পশ্চিমবঙ্গ বিধানসভা নির্বাচন, ২০২৬",
-      "angle": "Fashion Intelligence: পশ্চিমবঙ্গ বিধানসভা নির্বাচন, ২০২৬...",
+      "term": "भारत",
+      "angle": "Fashion Intelligence: भारत...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "morning lottery sambad",
-      "angle": "Fashion Intelligence: morning lottery sambad...",
+      "term": "tata sierra",
+      "angle": "Fashion Intelligence: tata sierra...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "പിണറായി വിജയന്",
-      "angle": "Fashion Intelligence: പിണറായി വിജയന്...",
+      "term": "जनता दल (यूनाइटेड)",
+      "angle": "Fashion Intelligence: जनता दल (यूनाइटेड)...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "விடுதலைச் சிறுத்தைகள் கட்சி",
-      "angle": "Fashion Intelligence: விடுதலைச் சிறுத்தைகள் கட்சி...",
+      "term": "బ్రహ్మముడి",
+      "angle": "Fashion Intelligence: బ్రహ్మముడి...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ओ' रोमियो",
-      "angle": "Fashion Intelligence: ओ' रोमियो...",
+      "term": "multibagger stock",
+      "angle": "Fashion Intelligence: multibagger stock...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "सम्भल",
-      "angle": "Fashion Intelligence: सम्भल...",
+      "term": "சரத்குமார்",
+      "angle": "Fashion Intelligence: சரத்குமார்...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ఓటీటీ",
-      "angle": "Fashion Intelligence: ఓటీటీ...",
+      "term": "arsenal vs bournemouth",
+      "angle": "Fashion Intelligence: arsenal vs bournemouth...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "సారా టెండూల్కర్",
-      "angle": "Fashion Intelligence: సారా టెండూల్కర్...",
+      "term": "chennaiyin vs east bengal",
+      "angle": "Fashion Intelligence: chennaiyin vs east bengal...",
       "aza_category": "Fashion & Style"
     }
   ]

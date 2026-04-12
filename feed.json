@@ -1,9 +1,93 @@
 {
-  "generated_at": "2026-04-12T06:24:24.715661+00:00",
+  "generated_at": "2026-04-12T08:48:53.727618+00:00",
   "owned_count": 0,
   "competitor_count": 19,
-  "industry_count": 165,
+  "industry_count": 167,
   "articles": [
+    {
+      "id": "c684e1a2d3ea",
+      "title": "I’m Seeing it Everywhere, This is the Shoe Trend That Elevates Baggy Jeans",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/jeans-heeled-ballerinas-outfit-maude-apatow",
+      "summary": "Chicer than ever.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-04-12T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cce7bdeaefaf",
+      "title": "Suddenly, Everyone Is Wearing Blouses—But Only the Chicest People Are Wearing Them in This Colour",
+      "link": "https://www.whowhatwear.com/fashion/trends/yellow-top-trend",
+      "summary": "This in-the-know trend is about to take off.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-04-12T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e34c10d883c2",
+      "title": "Spotted in London: The 6 Spring Trends Fashion People Are Wearing in 2026",
+      "link": "https://www.whowhatwear.com/fashion/trends/london-girl-trends-spring-2026",
+      "summary": "New season updates, pending.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 4,
+      "published": "2026-04-12T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a34c86607328",
+      "title": "The Fashion-Forward Spring Layers I Keep Spotting All Over NYC",
+      "link": "https://www.whowhatwear.com/fashion/shopping/ponchos-capes-spring-2026",
+      "summary": "Seen at Dior's, Balenciaga's, Paloma Wool's, and Valentino's S/S 26 shows.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: The Fashion-Forward Spring Layers I Keep Spotting All Over NYC...",
+      "score": 2,
+      "published": "2026-04-12T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b9726167aea4",
+      "title": "6 Shirt Trends All the Chic Girls Are Wearing With Baggy Jeans",
+      "link": "https://www.whowhatwear.com/fashion/trends/best-shirts-to-wear-with-baggy-jeans",
+      "summary": "Can't wait to try these outfits.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-04-12T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "45802cae32ec",
+      "title": "A Seasoned Fashion Editor Walks into H&M—These are the Exact Pieces She's Leaving With",
+      "link": "https://www.whowhatwear.com/fashion/affordable/editor-hm-wish-list-spring-2026",
+      "summary": "Editor-approved...literally.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-04-12T06:45:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "654592430a94",
       "title": "Spring Officially Starts When You Switch to a Woven Handbag—29 of the Best Styles to Shop Now",
@@ -453,6 +537,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "f595275a07c1",
+      "title": "10 Trends Set to Define Fall 2026 Fashion",
+      "link": "https://www.whowhatwear.com/fashion/runway/fashion-week-trends-fall-winter-2026",
+      "summary": "Explore the seasonal deep dive into the top trends from the runways.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 4,
+      "published": "2026-04-11T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "c34514f56147",
       "title": "Jennifer Aniston is My Spring Style Icon—3 Chic Trends I’m Copying Now",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/jennifer-aniston-spring-trends",
@@ -467,16 +565,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f595275a07c1",
-      "title": "10 Trends Set to Define Fall 2026 Fashion",
-      "link": "https://www.whowhatwear.com/fashion/runway/fashion-week-trends-fall-winter-2026",
-      "summary": "Explore the seasonal deep dive into the top trends from the runways.",
+      "id": "5bb22b0d0000",
+      "title": "Forget White Trainers—French Women are Backing these 5 Chic Sneaker Trends for Spring Instead",
+      "link": "https://www.whowhatwear.com/french-girl-trainer-trends-spring-2026",
+      "summary": "Only the best pairs make the cut.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 4,
+      "score": 1,
       "published": "2026-04-11T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -504,20 +602,6 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-04-11T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5bb22b0d0000",
-      "title": "Forget White Trainers—French Women are Backing these 5 Chic Sneaker Trends for Spring Instead",
-      "link": "https://www.whowhatwear.com/french-girl-trainer-trends-spring-2026",
-      "summary": "Only the best pairs make the cut.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-04-11T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1276,62 +1360,6 @@
       "angle": "Fashion Intelligence: The Scoop With Martha Mosse: On the Paul Smith’s Foundation’s Next Mov...",
       "score": 2,
       "published": "2026-04-10T09:46:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f73197553539",
-      "title": "15 Anti-Trend Items From Zara, M&S and COS That Have My 58-Year-Old Mum and I Hooked",
-      "link": "https://www.whowhatwear.com/fashion/affordable/anti-trend-cos-zara-marks-and-spencer-items-2026",
-      "summary": "A ready-made capsule.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-04-10T09:05:30+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4b2e3f717852",
-      "title": "Lucy Hale's 2026 Beauty Routine? Simple, Skin-Focused, and Not at All Aria Montgomery-Coded",
-      "link": "https://www.whowhatwear.com/beauty/skin/lucy-hale-beauty-routine-2026",
-      "summary": "Discover her updated steps and products.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Lucy Hale's 2026 Beauty Routine? Simple, Skin-Focused, and Not at All ...",
-      "score": 1,
-      "published": "2026-04-10T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "78d8a7dcd8bf",
-      "title": "I'm Going to Coachella—8 Beauty Trends I Know I'll See on Every Cool Festivalgoer This Year",
-      "link": "https://www.whowhatwear.com/beauty/music-festival-beauty-trends-2026",
-      "summary": "From butterfly makeup to 2026's hottest hair accessory.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-04-10T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "44eab1c1ecb6",
-      "title": "Cool Girls Are Wearing This Comfy Summer 2026 Dress Trend to Look Effortlessly Chic",
-      "link": "https://www.whowhatwear.com/cute-sleep-dresses",
-      "summary": "Shop here to join them.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-04-10T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2583,53 +2611,53 @@
   ],
   "trends": [
     {
-      "term": "सुनील गावस्कर",
-      "angle": "Fashion Intelligence: सुनील गावस्कर...",
+      "term": "aaj tak news",
+      "angle": "Fashion Intelligence: aaj tak news...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "love insurance kompany movie",
-      "angle": "Fashion Intelligence: love insurance kompany movie...",
+      "term": "ഫ്രാന്സ്",
+      "angle": "Fashion Intelligence: ഫ്രാന്സ്...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ticket",
-      "angle": "Fashion Intelligence: ticket...",
+      "term": "samsung s25 ultra",
+      "angle": "Fashion Intelligence: samsung s25 ultra...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "eenadu inter results 2026",
-      "angle": "Fashion Intelligence: eenadu inter results 2026...",
+      "term": "ദേശാഭിമാനി ദിനപ്പത്രം",
+      "angle": "Fashion Intelligence: ദേശാഭിമാനി ദിനപ്പത്രം...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "tcs salary hikes",
-      "angle": "Fashion Intelligence: tcs salary hikes...",
+      "term": "मथीशा पथिराना",
+      "angle": "Fashion Intelligence: मथीशा पथिराना...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "pakistan",
-      "angle": "Fashion Intelligence: pakistan...",
+      "term": "शुभांगी अत्रे",
+      "angle": "Fashion Intelligence: शुभांगी अत्रे...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "tsrtc",
-      "angle": "Fashion Intelligence: tsrtc...",
+      "term": "nagaland lottery",
+      "angle": "Fashion Intelligence: nagaland lottery...",
+      "aza_category": "Occasion Dressing"
+    },
+    {
+      "term": "abp maza",
+      "angle": "Fashion Intelligence: abp maza...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "పోలీసులు",
-      "angle": "Fashion Intelligence: పోలీసులు...",
+      "term": "मुख्यमंत्री लाड़ली बहना योजना",
+      "angle": "Fashion Intelligence: मुख्यमंत्री लाड़ली बहना योजना...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "இராசி",
-      "angle": "Fashion Intelligence: இராசி...",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "manchester city",
-      "angle": "Fashion Intelligence: manchester city...",
+      "term": "bcci anti-corruption protocol breach",
+      "angle": "Fashion Intelligence: bcci anti-corruption protocol breach...",
       "aza_category": "Fashion & Style"
     }
   ]

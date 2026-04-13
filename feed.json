@@ -1,9 +1,23 @@
 {
-  "generated_at": "2026-04-13T07:14:51.398526+00:00",
+  "generated_at": "2026-04-13T09:56:16.230003+00:00",
   "owned_count": 0,
-  "competitor_count": 19,
-  "industry_count": 168,
+  "competitor_count": 20,
+  "industry_count": 169,
   "articles": [
+    {
+      "id": "5787256a1a85",
+      "title": "Two grooms arrive to marry one bride: Double baraat sparks chaos at UP wedding",
+      "link": "https://www.indiatoday.in/india/story/double-barat-amroha-wedding-police-intervention-family-dispute-uttar-pradesh-2895343-2026-04-13?utm_source=rss",
+      "summary": "Two grooms arrive to marry one bride: Double baraat sparks chaos at UP wedding",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Two grooms arrive to marry one bride — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-04-13T07:31:03+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "811ffd3a3de6",
       "title": "I Live in Australia and Own a Handbag Brand—This Is My Timeless Capsule Wardrobe That Always Works",
@@ -33,20 +47,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "88ccbecd023b",
-      "title": "Spring is Officially Upon Us—5 Heeled Shoe Trends We Can't Get Enough Of This Season",
-      "link": "https://www.whowhatwear.com/fashion/trends/spring-heeled-shoe-trends-2026",
-      "summary": "Flats, you had a good run...",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-04-13T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b7d62cb45aed",
       "title": "Fashion People Are Ditching Black for These Chic Shoe Colors This Spring",
       "link": "https://www.whowhatwear.com/fashion/spring/spring-shoe-color-trends-2026",
@@ -57,6 +57,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Fashion People Are Ditching Black for These Chic Shoe Colors This Spri...",
       "score": 1,
+      "published": "2026-04-13T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "88ccbecd023b",
+      "title": "Spring is Officially Upon Us—5 Heeled Shoe Trends We Can't Get Enough Of This Season",
+      "link": "https://www.whowhatwear.com/fashion/trends/spring-heeled-shoe-trends-2026",
+      "summary": "Flats, you had a good run...",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
       "published": "2026-04-13T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -89,20 +103,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "34fd7ca4c700",
-      "title": "Purple Nails Are Trending for Spring—Here Are the Chicest Ways to Wear Them",
-      "link": "https://www.whowhatwear.com/beauty/nails/purple-nail-ideas",
-      "summary": "Screenshot now.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-04-13T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2c18c1ae8f5f",
       "title": "23 Chic Curly Hairstyle Looks That Embrace Your Natural Texture",
       "link": "https://www.whowhatwear.com/beauty/hair/curly-hairstyles",
@@ -113,6 +113,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: 23 Chic Curly Hairstyle Looks That Embrace Your Natural Texture...",
       "score": 1,
+      "published": "2026-04-13T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "34fd7ca4c700",
+      "title": "Purple Nails Are Trending for Spring—Here Are the Chicest Ways to Wear Them",
+      "link": "https://www.whowhatwear.com/beauty/nails/purple-nail-ideas",
+      "summary": "Screenshot now.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
       "published": "2026-04-13T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -537,20 +551,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "cce7bdeaefaf",
-      "title": "Suddenly, Everyone Is Wearing Blouses—But Only the Chicest People Are Wearing Them in This Colour",
-      "link": "https://www.whowhatwear.com/fashion/trends/yellow-top-trend",
-      "summary": "This in-the-know trend is about to take off.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-04-12T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c684e1a2d3ea",
       "title": "I’m Seeing It Everywhere: This Is the Shoe Trend That Elevates Baggy Jeans",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/jeans-heeled-ballerinas-outfit-maude-apatow",
@@ -565,17 +565,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a34c86607328",
-      "title": "The Fashion-Forward Spring Layers I Keep Spotting All Over NYC",
-      "link": "https://www.whowhatwear.com/fashion/shopping/ponchos-capes-spring-2026",
-      "summary": "Seen at Dior's, Balenciaga's, Paloma Wool's, and Valentino's S/S 26 shows.",
+      "id": "cce7bdeaefaf",
+      "title": "Suddenly, Everyone Is Wearing Blouses—But Only the Chicest People Are Wearing Them in This Colour",
+      "link": "https://www.whowhatwear.com/fashion/trends/yellow-top-trend",
+      "summary": "This in-the-know trend is about to take off.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: The Fashion-Forward Spring Layers I Keep Spotting All Over NYC...",
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
-      "published": "2026-04-12T07:00:00+00:00",
+      "published": "2026-04-12T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -589,6 +589,20 @@
       "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
+      "published": "2026-04-12T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a34c86607328",
+      "title": "The Fashion-Forward Spring Layers I Keep Spotting All Over NYC",
+      "link": "https://www.whowhatwear.com/fashion/shopping/ponchos-capes-spring-2026",
+      "summary": "Seen at Dior's, Balenciaga's, Paloma Wool's, and Valentino's S/S 26 shows.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: The Fashion-Forward Spring Layers I Keep Spotting All Over NYC...",
+      "score": 2,
       "published": "2026-04-12T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -635,20 +649,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a4169733a535",
-      "title": "Not Pastels—Fashion Insiders Are Wearing This Unexpected Nail Trend in April",
-      "link": "https://www.whowhatwear.com/beauty/nails/inky-nails",
-      "summary": "So chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-04-12T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e257d78fd173",
       "title": "Bella Hadid, Gracie Abrams and Zendaya Are All Co-Signing These Summer Blush Trends for 2026",
       "link": "https://www.whowhatwear.com/beauty/makeup/summer-blusher-trends",
@@ -659,6 +659,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
+      "published": "2026-04-12T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a4169733a535",
+      "title": "Not Pastels—Fashion Insiders Are Wearing This Unexpected Nail Trend in April",
+      "link": "https://www.whowhatwear.com/beauty/nails/inky-nails",
+      "summary": "So chic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
       "published": "2026-04-12T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1027,6 +1041,48 @@
       "discovered_via": "feed"
     },
     {
+      "id": "e2fd124ce64e",
+      "title": "The Two Retailers Fashion Editors Rely On For Their Spring Basics",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-basics-gap-jcrew-spring-2026",
+      "summary": "Starting at $10.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: The Two Retailers Fashion Editors Rely On For Their Spring Basics...",
+      "score": 1,
+      "published": "2026-04-11T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "17820b02e929",
+      "title": "Swim Season is Here! 35 Ref, J.Crew, and Zara Pieces That Will Sell Out First",
+      "link": "https://www.whowhatwear.com/fashion/swimwear/best-swimwear-reformation-j-crew-zara",
+      "summary": "I'm betting on it.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-04-11T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d6e49db99753",
+      "title": "Past the Knee, But Not a Capri, These Are The Cool-Girl Bottoms Everyone Is Wearing This Spring",
+      "link": "https://www.whowhatwear.com/fashion/pants-trousers/culottes-trend-2026",
+      "summary": "Trust me, these are going to be everywhere by May 1.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-04-11T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "5bb22b0d0000",
       "title": "Forget White Trainers—French Women Are Backing These 5 Chic Sneaker Trends for Spring Instead",
       "link": "https://www.whowhatwear.com/french-girl-trainer-trends-spring-2026",
@@ -1069,34 +1125,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "17820b02e929",
-      "title": "Swim Season is Here! 35 Ref, J.Crew, and Zara Pieces That Will Sell Out First",
-      "link": "https://www.whowhatwear.com/fashion/swimwear/best-swimwear-reformation-j-crew-zara",
-      "summary": "I'm betting on it.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-04-11T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d6e49db99753",
-      "title": "Past the Knee, But Not a Capri, These Are The Cool-Girl Bottoms Everyone Is Wearing This Spring",
-      "link": "https://www.whowhatwear.com/fashion/pants-trousers/culottes-trend-2026",
-      "summary": "Trust me, these are going to be everywhere by May 1.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-04-11T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c6d8940d4059",
       "title": "Hold the Heeled Flip-Flops—This is the Sandal Trend Everyone Will Be Wearing By May 31",
       "link": "https://www.whowhatwear.com/fashion/shoes/wedge-flip-flop-shoe-trend",
@@ -1107,20 +1135,6 @@
       "aza_category": "Celebrity Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
-      "published": "2026-04-11T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e2fd124ce64e",
-      "title": "The Two Retailers Fashion Editors Rely On For Their Spring Basics",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-basics-gap-jcrew-spring-2026",
-      "summary": "Starting at $10.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The Two Retailers Fashion Editors Rely On For Their Spring Basics...",
-      "score": 1,
       "published": "2026-04-11T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -2399,6 +2413,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "a384fcd3f7ae",
+      "title": "Beat the Heat: 5 Best Lightweight Lehengas for Outdoor Summer Weddings",
+      "link": "https://www.panashindia.com/blog/lightweight-lehengas-for-outdoor-summer-weddings/",
+      "summary": "Outdoor summer weddings sound great until you’re a few hours in and the outfit starts feeling heavier than expected. The fabric sticks, the dupatta keeps slipping, and suddenly comfort matters more than how your outfit looked at the start. Continue reading &rarr;",
+      "source": "Panash India",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Beat the Heat — A Complete Style Guide",
+      "score": 4,
+      "published": "2026-04-11T12:12:09+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "8e5f2e81b398",
       "title": "How to Choose a Groom Outfit That Matches the Bride’s Lehenga",
       "link": "https://blog.kalkifashion.com/how-to-choose-a-groom-outfit-that-matches-the-brides-lehenga/",
@@ -2625,9 +2653,54 @@
   ],
   "trends": [
     {
-      "term": "dhurandhar 2 box office collection day 25",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "aza_category": "Designer Spotlight"
+      "term": "sanju samson csk",
+      "angle": "Fashion Intelligence: sanju samson csk...",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "arthur rinderknech",
+      "angle": "Fashion Intelligence: arthur rinderknech...",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "टाटा केमिकल्स",
+      "angle": "Fashion Intelligence: टाटा केमिकल्स...",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "કૃણાલ પંડ્યા",
+      "angle": "Fashion Intelligence: કૃણાલ પંડ્યા...",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "sun",
+      "angle": "Fashion Intelligence: sun...",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "sensex nifty stock market",
+      "angle": "Fashion Intelligence: sensex nifty stock market...",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "mcx gold silver prices",
+      "angle": "Fashion Intelligence: mcx gold silver prices...",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "અમદાવાદ",
+      "angle": "Fashion Intelligence: અમદાવાદ...",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "russia",
+      "angle": "Fashion Intelligence: russia...",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "taniya chatterjee",
+      "angle": "Fashion Intelligence: taniya chatterjee...",
+      "aza_category": "Fashion & Style"
     }
   ]
 }

@@ -296,60 +296,66 @@ async function loadFeed(){
   const btn=document.getElementById('btn-refresh');
   btn.disabled=true;
   document.getElementById('last-updated').textContent='Fetching…';
+  let d=null;
   try{
-    const base=window.location.href.replace(/\/[^\/]*$/, "").replace(/\/$/, "");const r=await fetch(base+"/feed.json?t="+Date.now());
+    const r=await fetch('./feed.json?t='+Date.now());
     if(!r.ok) throw new Error();
-    const d=await r.json();
-    articles=d.articles||[];
-    trends=d.trends||[];
-    keywordTrends=d.keyword_trends||[];
-    renderAll(d);
+    d=await r.json();
   }catch(e){
     document.getElementById('setup-banner').style.display='block';
     document.getElementById('last-updated').textContent='feed.json not found';
-  }finally{btn.disabled=false;}
+    btn.disabled=false;
+    return;
+  }
+  btn.disabled=false;
+  articles=d.articles||[];
+  trends=d.trends||[];
+  keywordTrends=d.keyword_trends||[];
+  try{ renderAll(d); }catch(err){ console.error('renderAll error:',err); }
+
 }
 
 function renderAll(d){
-  // Show website stats
-  document.getElementById('stats').style.display='grid';
-  document.getElementById('filter-bar').style.display='flex';
-  document.getElementById('a-header').style.display='flex';
-  document.getElementById('articles-grid').style.display='grid';
+  var el;
+  // Website stats
+  if(el=document.getElementById('stats')) el.style.display='grid';
+  if(el=document.getElementById('filter-bar')) el.style.display='flex';
+  if(el=document.getElementById('a-header')) el.style.display='flex';
+  if(el=document.getElementById('articles-grid')) el.style.display='grid';
 
-  document.getElementById('s-comp').textContent = d.competitor_count || articles.filter(a=>a.is_competitor).length;
-  document.getElementById('s-articles').textContent = d.industry_count || articles.filter(a=>a.tier==='industry').length;
-  document.getElementById('s-owned').textContent = d.owned_count || articles.filter(a=>a.tier==='owned').length;
-  document.getElementById('s-sources').textContent = 'across ' + [...new Set(articles.map(a=>a.source))].length + ' sources';
+  if(el=document.getElementById('s-comp')) el.textContent=d.competitor_count||articles.filter(a=>a.is_competitor).length;
+  if(el=document.getElementById('s-articles')) el.textContent=d.industry_count||articles.filter(a=>a.tier==='industry').length;
+  if(el=document.getElementById('s-owned')) el.textContent=d.owned_count||articles.filter(a=>a.tier==='owned').length;
+  if(el=document.getElementById('s-sources')) el.textContent='across '+[...new Set(articles.map(a=>a.source))].length+' sources';
 
   // Trend stats
-  document.getElementById('trend-stats').style.display='grid';
-  document.getElementById('t-header').style.display='flex';
-  document.getElementById('s-trends').textContent = trends.length;
-  document.getElementById('t-count').textContent = trends.length + ' signals';
+  if(el=document.getElementById('trend-stats')) el.style.display='grid';
+  if(el=document.getElementById('t-header')) el.style.display='flex';
+  if(el=document.getElementById('s-trends')) el.textContent=trends.length;
+  if(el=document.getElementById('t-count')) el.textContent=trends.length+' signals';
 
-  const counts = {};
-  trends.forEach(t=>counts[t.aza_category]=(counts[t.aza_category]||0)+1);
-  const topCat = Object.entries(counts).sort((a,b)=>b[1]-a[1])[0];
-  document.getElementById('s-topcat').textContent = topCat ? topCat[0] : '—';
+  var counts={};
+  trends.forEach(function(t){counts[t.aza_category]=(counts[t.aza_category]||0)+1;});
+  var topCat=Object.entries(counts).sort(function(a,b){return b[1]-a[1];})[0];
+  if(el=document.getElementById('s-topcat')) el.textContent=topCat?topCat[0]:'—';
 
-  // Keyword trend stats
-  document.getElementById('s-kw-count').textContent = keywordTrends.length;
-  const inCount = keywordTrends.filter(k=>k.geo==='IN').length;
-  const usCount = keywordTrends.filter(k=>k.geo==='US').length;
-  document.getElementById('s-kw-sub').textContent = `${inCount} IN · ${usCount} US`;
-  const totalRising = keywordTrends.reduce((sum,k)=>sum+(k.rising||[]).length,0);
-  document.getElementById('s-rising').textContent = totalRising;
+  // Keyword trend stats (null-safe — these IDs may not exist yet)
+  if(el=document.getElementById('s-kw-count')) el.textContent=keywordTrends.length;
+  var inCount=keywordTrends.filter(function(k){return k.geo==='IN';}).length;
+  var usCount=keywordTrends.filter(function(k){return k.geo==='US';}).length;
+  if(el=document.getElementById('s-kw-sub')) el.textContent=inCount+' IN · '+usCount+' US';
+  var totalRising=keywordTrends.reduce(function(sum,k){return sum+(k.rising||[]).length;},0);
+  if(el=document.getElementById('s-rising')) el.textContent=totalRising;
 
   if(d.generated_at){
-    const ist=new Date(new Date(d.generated_at).getTime()+5.5*3600000);
-    document.getElementById('s-time').textContent=ist.toLocaleTimeString('en-IN',{hour:'2-digit',minute:'2-digit'});
-    document.getElementById('last-updated').textContent='Updated '+ist.toLocaleDateString('en-IN',{day:'numeric',month:'short'})+' · '+ist.toLocaleTimeString('en-IN',{hour:'2-digit',minute:'2-digit'})+' IST';
+    var ist=new Date(new Date(d.generated_at).getTime()+5.5*3600000);
+    if(el=document.getElementById('s-time')) el.textContent=ist.toLocaleTimeString('en-IN',{hour:'2-digit',minute:'2-digit'});
+    if(el=document.getElementById('last-updated')) el.textContent='Updated '+ist.toLocaleDateString('en-IN',{day:'numeric',month:'short'})+' · '+ist.toLocaleTimeString('en-IN',{hour:'2-digit',minute:'2-digit'})+' IST';
   }
 
   renderArticles();
   renderTrends();
-  renderKeywordTrends();
+  try{ renderKeywordTrends(); }catch(e){ console.error('keyword render error:',e); }
 }
 
 // ── Website Articles ──

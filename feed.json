@@ -1,9 +1,23 @@
 {
-  "generated_at": "2026-04-15T04:39:49.347728+00:00",
+  "generated_at": "2026-04-15T06:55:48.056629+00:00",
   "owned_count": 0,
   "competitor_count": 20,
-  "industry_count": 166,
+  "industry_count": 164,
   "articles": [
+    {
+      "id": "2f31adb46db9",
+      "title": "I'm a Fashion Editor—These Are the 5 Looks I'll Be Copying for an Elevated Transitional Wardrobe",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/elevated-transitional-outfits-2026",
+      "summary": "The formula for transitional dressing.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I'm a Fashion Editor—These Are the 5 Looks I'll Be Copying for an Elev...",
+      "score": 2,
+      "published": "2026-04-15T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "92ce136dfccd",
       "title": "Less Internet, More Intellect: The Era of the Bookish Influencer",
@@ -775,20 +789,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0733c4e448e9",
-      "title": "Women's quota act: United opposition plans showdown over 2011 Census baseline",
-      "link": "https://www.indiatoday.in/india/story/women-reservation-act-parliament-session-opposition-census-delimitation-2896092-2026-04-14?utm_source=rss",
-      "summary": "Women's quota act: United opposition plans showdown over 2011 Census baseline",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Women's quota act: United opposition plans showdown over 2011 Census b...",
-      "score": 1,
-      "published": "2026-04-14T12:26:33+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "886508e70e48",
       "title": "With ‘Becky Shaw,’ Gina Gionfriddo Doesn’t Let Anyone Off the Hook",
       "link": "https://www.vogue.com/article/gina-gionfriddo-becky-shaw-interview",
@@ -873,20 +873,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b97557edb782",
-      "title": "This Affordable, Quiet-Luxury Bag Is So The Row-Coded, and Every Chic Woman Already Owns It",
-      "link": "https://www.whowhatwear.com/fashion/shopping/cos-montmartre-bowling-bag",
-      "summary": "Another day, another viral COS bag.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: This Affordable, Quiet-Luxury Bag Is So The Row-Coded, and Every Chic ...",
-      "score": 1,
-      "published": "2026-04-14T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "dffadda14c10",
       "title": "I’m a Beauty Editor Who Loves a Dewy, Spring Scent—13 On-Sale Fragrances I’m Buying at Sephora",
       "link": "https://www.whowhatwear.com/beauty/fragrance/sephora-savings-event-spring-fragrance-picks-2026",
@@ -915,58 +901,30 @@
       "discovered_via": "feed"
     },
     {
-      "id": "84ba1279bcd9",
-      "title": "These Are the 5 Biggest Accessories Trends for Fall 2026, Period",
-      "link": "https://www.whowhatwear.com/fashion/runway/fall-winter-accessories-trends-2026",
-      "summary": "From bags to shoes.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-04-14T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "89577a4baad2",
-      "title": "Found: The Coat Trends You'll See Everywhere In 2026",
-      "link": "https://www.whowhatwear.com/fashion/fall-winter-coat-trends-2026",
-      "summary": "Found: The Coat Trends You'll See Everywhere In 2026",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-04-14T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bf5056116bdd",
-      "title": "The Bride-to-Bob Pipeline Needs to Be Unpacked—Here's Why so Many Go Short After Saying \"I Do\"",
-      "link": "https://www.whowhatwear.com/beauty/hair/bride-to-bob-pipeline",
-      "summary": "The post-wedding chop is real.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: The Bride-to-Bob Pipeline Needs to Be Unpacked—Here's Why so Many Go Short After Saying \"I Do\" — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-04-14T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0da87f6b7438",
-      "title": "These Are the Unexpected Color Pairings Everyone Chic Is Already Wearing This Spring",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/spring-color-pairings-2026",
-      "summary": "Outfit inspiration ahead.",
+      "id": "b97557edb782",
+      "title": "This Affordable, Quiet-Luxury Bag Is So The Row-Coded, and Every Chic Woman Already Owns It",
+      "link": "https://www.whowhatwear.com/fashion/shopping/cos-montmartre-bowling-bag",
+      "summary": "Another day, another viral COS bag.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
+      "angle": "Fashion Intelligence: This Affordable, Quiet-Luxury Bag Is So The Row-Coded, and Every Chic ...",
+      "score": 1,
+      "published": "2026-04-14T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "553fc3110a00",
+      "title": "Hyperminimalism Is Out, and Personality Is In—Here's What I'm Buying in 2026",
+      "link": "https://www.whowhatwear.com/fashion/shopping/personality-driven-dressing-2026",
+      "summary": "Expressive dressing for spring.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Hyperminimalism Is Out, and Personality Is In—Here's What I'm Buying i...",
+      "score": 1,
       "published": "2026-04-14T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -999,15 +957,57 @@
       "discovered_via": "feed"
     },
     {
-      "id": "553fc3110a00",
-      "title": "Hyperminimalism Is Out, and Personality Is In—Here's What I'm Buying in 2026",
-      "link": "https://www.whowhatwear.com/fashion/shopping/personality-driven-dressing-2026",
-      "summary": "Expressive dressing for spring.",
+      "id": "84ba1279bcd9",
+      "title": "These Are the 5 Biggest Accessories Trends for Fall 2026, Period",
+      "link": "https://www.whowhatwear.com/fashion/runway/fall-winter-accessories-trends-2026",
+      "summary": "From bags to shoes.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-04-14T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0da87f6b7438",
+      "title": "These Are the Unexpected Color Pairings Everyone Chic Is Already Wearing This Spring",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/spring-color-pairings-2026",
+      "summary": "Outfit inspiration ahead.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Hyperminimalism Is Out, and Personality Is In—Here's What I'm Buying i...",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-04-14T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bf5056116bdd",
+      "title": "The Bride-to-Bob Pipeline Needs to Be Unpacked—Here's Why so Many Go Short After Saying \"I Do\"",
+      "link": "https://www.whowhatwear.com/beauty/hair/bride-to-bob-pipeline",
+      "summary": "The post-wedding chop is real.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: The Bride-to-Bob Pipeline Needs to Be Unpacked—Here's Why so Many Go Short After Saying \"I Do\" — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-04-14T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "89577a4baad2",
+      "title": "Found: The Coat Trends You'll See Everywhere In 2026",
+      "link": "https://www.whowhatwear.com/fashion/fall-winter-coat-trends-2026",
+      "summary": "Found: The Coat Trends You'll See Everywhere In 2026",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-04-14T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1083,20 +1083,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "26094f41316b",
-      "title": "I've Done the Research—These Are the Chicest Sandals to Wear With Barrel-Leg Jeans",
-      "link": "https://www.whowhatwear.com/fashion/shoes/sandals-to-wear-with-barrel-jeans",
-      "summary": "Your chic shortlist.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I've Done the Research—These Are the Chicest Sandals to Wear With Barr...",
-      "score": 1,
-      "published": "2026-04-14T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "cb1ca58c8f98",
       "title": "It Girls Will Be Wearing These 7 Easy But Elegant Colour Pairings This Spring",
       "link": "https://www.whowhatwear.com/fashion/spring/spring-fashion-colour-combinations-2026",
@@ -1106,6 +1092,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-04-14T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "26094f41316b",
+      "title": "I've Done the Research—These Are the Chicest Sandals to Wear With Barrel-Leg Jeans",
+      "link": "https://www.whowhatwear.com/fashion/shoes/sandals-to-wear-with-barrel-jeans",
+      "summary": "Your chic shortlist.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I've Done the Research—These Are the Chicest Sandals to Wear With Barr...",
       "score": 1,
       "published": "2026-04-14T05:00:00+00:00",
       "discovered_via": "feed"
@@ -1542,34 +1542,6 @@
       "angle": "Fashion Intelligence: I'm a Mom Who Works in Fashion—These Are the Brands I Wear When I Want...",
       "score": 3,
       "published": "2026-04-13T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1439b07c9b8a",
-      "title": "Hailey Bieber Subtly Debuted Summer's Biggest Hair Trend at Coachella, and You Probably Missed It",
-      "link": "https://www.whowhatwear.com/beauty/hair/hailey-bieber-coachella-2026-waterfall-layers-haircut",
-      "summary": "Nope, it's not a bob.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-04-13T10:53:13+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "956abf660031",
-      "title": "SJP Just Wore Jeans With the One Shoe Trend Carrie Bradshaw Would Never Opt For",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/jeans-high-top-trainers-outfit-sarah-jessica-parker-2026",
-      "summary": "I'm shocked.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-04-13T10:10:20+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2400,7 +2372,7 @@
     },
     {
       "id": "a384fcd3f7ae",
-      "title": "Beat the Heat: 5 Best Lightweight Lehengas for Outdoor Summer Weddings",
+      "title": "Beat the Heat: 5 Breezy Lightweight Lehengas for Outdoor Summer Weddings",
       "link": "https://www.panashindia.com/blog/lightweight-lehengas-for-outdoor-summer-weddings/",
       "summary": "Outdoor summer weddings sound great until you’re a few hours in and the outfit starts feeling heavier than expected. The fabric sticks, the dupatta keeps slipping, and suddenly comfort matters more than how your outfit looked at the start. Continue reading &rarr;",
       "source": "Panash India",
@@ -2611,53 +2583,8 @@
   ],
   "trends": [
     {
-      "term": "వెండి",
-      "angle": "Fashion Intelligence: వెండి...",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "cag",
-      "angle": "Fashion Intelligence: cag...",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "coal india share",
-      "angle": "Fashion Intelligence: coal india share...",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "acme solar share price",
-      "angle": "Fashion Intelligence: acme solar share price...",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "hdfc life share price",
-      "angle": "Fashion Intelligence: hdfc life share price...",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "bpcl",
-      "angle": "Fashion Intelligence: bpcl...",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "ujjivan small finance bank share",
-      "angle": "Fashion Intelligence: ujjivan small finance bank share...",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "अनंत कुमार सिंह",
-      "angle": "Fashion Intelligence: अनंत कुमार सिंह...",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "nifty 50",
-      "angle": "Fashion Intelligence: nifty 50...",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "tata motors share price",
-      "angle": "Fashion Intelligence: tata motors share price...",
+      "term": "address",
+      "angle": "Fashion Intelligence: address...",
       "aza_category": "Fashion & Style"
     }
   ]

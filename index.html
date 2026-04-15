@@ -418,18 +418,13 @@ function renderTrends(){
     +'</div>';}).join('');
 }
 
-// ── Keyword Trends with Google Trends Embeds ──
-function setKwGeo(g,el){kwGeo=g;document.querySelectorAll('#kw-filter-bar .pills:first-child .pill').forEach(function(p){p.classList.remove('active');});el.classList.add('active');renderKeywordTrends();}
-function setKwType(t,el){kwType=t;document.querySelectorAll('#kw-filter-bar .pills:nth-child(2) .pill').forEach(function(p){p.classList.remove('active');});el.classList.add('active');renderKeywordTrends();}
+// ── Keyword Trends with Google Trends Embeds + Pagination ──
+var CARDS_PER_PAGE = 20;
+var kwVisibleCount = 0;
+var kwFilteredItems = [];
 
-function shouldAutoLoad(kw, index, geoItems){
-  // Auto-load top N per geo by volume (they're already sorted by volume from backend)
-  var geoIndex=0;
-  for(var i=0;i<geoItems.length;i++){
-    if(geoItems[i]===kw){geoIndex=i;break;}
-  }
-  return geoIndex < AUTO_LOAD_COUNT;
-}
+function setKwGeo(g,el){kwGeo=g;document.querySelectorAll('#kw-filter-bar .pills:first-child .pill').forEach(function(p){p.classList.remove('active');});el.classList.add('active');kwVisibleCount=0;renderKeywordTrends();}
+function setKwType(t,el){kwType=t;document.querySelectorAll('#kw-filter-bar .pills:nth-child(2) .pill').forEach(function(p){p.classList.remove('active');});el.classList.add('active');kwVisibleCount=0;renderKeywordTrends();}
 
 function renderKeywordTrends(){
   var grid=document.getElementById('kw-grid');
@@ -437,34 +432,55 @@ function renderKeywordTrends(){
   var q=((document.getElementById('kw-q')||{}).value||'').toLowerCase().trim();
   if(!grid) return;
 
+  // Reset pagination on new filter/search
+  kwVisibleCount=CARDS_PER_PAGE;
+
   var items=trackedKeywords.slice();
   if(kwGeo!=='all') items=items.filter(function(k){return k.geo===kwGeo;});
   if(kwType!=='all') items=items.filter(function(k){return k.keyword_type===kwType;});
-  if(q) items=items.filter(function(k){return k.keyword.toLowerCase().indexOf(q)!==-1;});
+  if(q) items=items.filter(function(k){return k.keyword.toLowerCase().indexOf(q)!==-1 || (k.category||'').toLowerCase().indexOf(q)!==-1;});
+
+  kwFilteredItems=items;
 
   if(document.getElementById('kw-count')) document.getElementById('kw-count').textContent=items.length+' keywords';
 
   if(!items.length){
     grid.innerHTML='';
+    removeLoadMore();
     if(empty) empty.style.display='block';
     return;
   }
   if(empty) empty.style.display='none';
 
-  // Separate by geo for auto-load counting
-  var inItems=trackedKeywords.filter(function(k){return k.geo==='IN';});
-  var usItems=trackedKeywords.filter(function(k){return k.geo==='US';});
+  renderKeywordPage();
+}
 
-  grid.innerHTML=items.map(function(kw,idx){
+function renderKeywordPage(){
+  var grid=document.getElementById('kw-grid');
+  if(!grid) return;
+
+  var items=kwFilteredItems;
+  var visible=items.slice(0,kwVisibleCount);
+
+  // Determine auto-load items (top N per geo from the FULL unfiltered list)
+  var inTop={};
+  var usTop={};
+  var inIdx=0, usIdx=0;
+  for(var i=0;i<trackedKeywords.length;i++){
+    var tk=trackedKeywords[i];
+    if(tk.geo==='IN' && inIdx<AUTO_LOAD_COUNT){inTop[tk.keyword]=true;inIdx++;}
+    if(tk.geo==='US' && usIdx<AUTO_LOAD_COUNT){usTop[tk.keyword]=true;usIdx++;}
+  }
+
+  grid.innerHTML=visible.map(function(kw,idx){
     var geoClass=kw.geo==='IN'?'geo-in':'geo-us';
     var geoFlag=kw.geo==='IN'?'🇮🇳 India':'🇺🇸 US';
-    var geoItems=kw.geo==='IN'?inItems:usItems;
-    var autoLoad=shouldAutoLoad(kw,idx,geoItems);
-    var cardId='kw-card-'+kw.geo+'-'+idx;
-    var chartId='kw-chart-'+kw.geo+'-'+idx;
+    var autoLoad=(kw.geo==='IN'&&inTop[kw.keyword])||(kw.geo==='US'&&usTop[kw.keyword]);
+    var uid=kw.geo+'-'+kw.keyword.replace(/[^a-zA-Z0-9]/g,'_');
+    var chartId='kw-chart-'+uid;
     var vol=kw.volume?kw.volume.toLocaleString('en-IN'):'—';
 
-    return '<div class="kw-card'+(autoLoad?' auto-loaded':'')+'" id="'+cardId+'">'
+    return '<div class="kw-card'+(autoLoad?' auto-loaded':'')+'">'
       +'<div class="kw-header">'
       +'<span class="kw-keyword">'+esc(kw.keyword)+'</span>'
       +'<span class="geo-badge '+geoClass+'">'+geoFlag+'</span>'
@@ -474,8 +490,8 @@ function renderKeywordTrends(){
       +'</div>'
       +'<div class="kw-chart-wrap" id="'+chartId+'">'
       +(autoLoad
-        ? '<div class="kw-chart-loading" style="padding:var(--space-8);color:var(--color-text-faint);text-align:center">Loading chart…</div>'
-        : '<div class="kw-chart-placeholder" onclick="loadTrendChart(\''+esc(kw.keyword)+'\',\''+kw.geo+'\',\''+chartId+'\')">'
+        ? '<div style="padding:var(--space-8);color:var(--color-text-faint);text-align:center">Loading chart…</div>'
+        : '<div class="kw-chart-placeholder" onclick="loadTrendChart(\''+escAttr(kw.keyword)+'\',\''+kw.geo+'\',\''+chartId+'\')">'
           +'<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 12h4l3-9 4 18 3-9h4"/></svg>'
           +'<div style="font-size:var(--text-xs)">Click to load trend chart</div>'
           +'</div>')
@@ -486,39 +502,61 @@ function renderKeywordTrends(){
       +'</div>';
   }).join('');
 
-  // Auto-load charts for top keywords after render
-  setTimeout(function(){autoLoadCharts(inItems,usItems);},300);
+  // Load more button
+  removeLoadMore();
+  if(kwVisibleCount<items.length){
+    var remaining=items.length-kwVisibleCount;
+    var btn=document.createElement('button');
+    btn.id='kw-load-more';
+    btn.className='btn-refresh';
+    btn.style.cssText='margin:var(--space-6) auto;display:flex;';
+    btn.textContent='Load more ('+remaining+' remaining)';
+    btn.onclick=function(){
+      kwVisibleCount+=CARDS_PER_PAGE;
+      renderKeywordPage();
+    };
+    grid.parentNode.insertBefore(btn,grid.nextSibling);
+  }
+
+  // Auto-load charts for visible top keywords
+  setTimeout(function(){
+    visible.forEach(function(kw,i){
+      var isTop=(kw.geo==='IN'&&inTop[kw.keyword])||(kw.geo==='US'&&usTop[kw.keyword]);
+      if(isTop){
+        var uid=kw.geo+'-'+kw.keyword.replace(/[^a-zA-Z0-9]/g,'_');
+        var chartId='kw-chart-'+uid;
+        setTimeout(function(){
+          var container=document.getElementById(chartId);
+          if(container && !container.dataset.loaded){
+            loadTrendChart(kw.keyword,kw.geo,chartId);
+          }
+        }, i*400);
+      }
+    });
+  },300);
 }
 
-function autoLoadCharts(inItems,usItems){
-  var toLoad=[];
-  inItems.slice(0,AUTO_LOAD_COUNT).forEach(function(kw,i){
-    toLoad.push({keyword:kw.keyword,geo:'IN',chartId:'kw-chart-IN-'+trackedKeywords.indexOf(kw)});
-  });
-  usItems.slice(0,AUTO_LOAD_COUNT).forEach(function(kw,i){
-    toLoad.push({keyword:kw.keyword,geo:'US',chartId:'kw-chart-US-'+trackedKeywords.indexOf(kw)});
-  });
-
-  // Stagger loading to avoid hammering Google
-  toLoad.forEach(function(item,i){
-    setTimeout(function(){
-      var container=document.getElementById(item.chartId);
-      if(container && !container.dataset.loaded){
-        loadTrendChart(item.keyword,item.geo,item.chartId);
-      }
-    }, i*400);
-  });
+function removeLoadMore(){
+  var old=document.getElementById('kw-load-more');
+  if(old) old.remove();
 }
 
 function loadTrendChart(keyword, geo, chartId){
   var container=document.getElementById(chartId);
   if(!container) return;
   container.dataset.loaded='true';
-  container.innerHTML='';
+  container.innerHTML='<div style="padding:var(--space-8);color:var(--color-text-faint);text-align:center">Loading chart…</div>';
 
   try{
-    if(typeof trends !== 'undefined' && trends.embed && trends.embed.renderExploreWidget){
-      trends.embed.renderExploreWidget("TIMESERIES",{
+    if(window.trends && window.trends.embed && window.trends.embed.renderExploreWidget){
+      // Create a temporary div for the embed to render into
+      var tempId='temp-embed-'+Date.now()+'-'+Math.random().toString(36).substr(2,6);
+      var tempDiv=document.createElement('div');
+      tempDiv.id=tempId;
+      container.innerHTML='';
+      container.appendChild(tempDiv);
+
+      window.trends.embed.renderExploreWidgetTo(tempDiv,"TIMESERIES",{
         comparisonItem:[{keyword:keyword,geo:geo,time:"today 12-m"}],
         category:0,
         property:""
@@ -526,27 +564,17 @@ function loadTrendChart(keyword, geo, chartId){
         exploreQuery:"q="+encodeURIComponent(keyword)+"&geo="+geo+"&date=today+12-m",
         guestPath:"https://trends.google.com:443/trends/embed/"
       });
-      // The embed API appends to the last script, so we need to move it into our container
-      setTimeout(function(){
-        var iframes=document.querySelectorAll('iframe[src*="trends.google.com"]');
-        if(iframes.length){
-          var lastIframe=iframes[iframes.length-1];
-          if(lastIframe && lastIframe.parentNode!==container){
-            container.appendChild(lastIframe);
-          }
-        }
-      },1500);
     } else {
-      // Fallback: render as a direct iframe
-      var src='https://trends.google.com/trends/embed/explore/TIMESERIES?req='+
-        encodeURIComponent(JSON.stringify({comparisonItem:[{keyword:keyword,geo:geo,time:"today 12-m"}],category:0,property:""}))
-        +'&tz=-330';
-      container.innerHTML='<iframe src="'+src+'" style="width:100%;height:220px;border:none;" loading="lazy"></iframe>';
+      // Fallback: direct iframe
+      var url='https://trends.google.com/trends/explore?q='+encodeURIComponent(keyword)+'&date=today+12-m&geo='+geo;
+      container.innerHTML='<div style="padding:var(--space-6);text-align:center;font-size:var(--text-xs);color:var(--color-text-faint)">'
+        +'Google Trends embed not available — <a href="'+url+'" target="_blank" style="color:var(--color-primary)">view on Google Trends ↗</a>'
+        +'</div>';
     }
   }catch(e){
-    // Final fallback: link to Google Trends
-    container.innerHTML='<div class="kw-chart-placeholder" style="cursor:default">'
-      +'<div style="font-size:var(--text-xs);color:var(--color-text-faint)">Chart unavailable — <a href="https://trends.google.com/trends/explore?q='+encodeURIComponent(keyword)+'&geo='+geo+'&date=today+12-m" target="_blank" style="color:var(--color-primary)">view on Google Trends ↗</a></div>'
+    var url2='https://trends.google.com/trends/explore?q='+encodeURIComponent(keyword)+'&date=today+12-m&geo='+geo;
+    container.innerHTML='<div style="padding:var(--space-6);text-align:center;font-size:var(--text-xs);color:var(--color-text-faint)">'
+      +'Chart error — <a href="'+url2+'" target="_blank" style="color:var(--color-primary)">view on Google Trends ↗</a>'
       +'</div>';
   }
 }
@@ -554,8 +582,10 @@ function loadTrendChart(keyword, geo, chartId){
 // ── Utils ──
 function fmtDate(s){if(!s)return'Date unavailable';var d=new Date(s);return isNaN(d)?'Date unavailable':d.toLocaleDateString('en-IN',{day:'numeric',month:'short',year:'numeric'});}
 function esc(s){return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');}
+function escAttr(s){return String(s||'').replace(/\\/g,'\\\\').replace(/'/g,"\\'").replace(/"/g,'&quot;');}
 
 loadFeed();
 </script>
 </body>
 </html>
+      

@@ -20,7 +20,7 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install feedparser requests beautifulsoup4 python-dateutil
+        run: pip install feedparser requests beautifulsoup4 python-dateutil pytrends
       - name: Determine refresh mode
         id: mode
         run: |

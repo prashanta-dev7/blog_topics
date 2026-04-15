@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """
-AZA Blog Agent — Content Intelligence Feed Generator (v5.1)
+AZA Blog Agent — Content Intelligence Feed Generator (v5.2)
 Fetches from 36 editorial/competitor sources, Google Trends RSS,
-and pytrends keyword intelligence for IN + US markets.
+and tracked keyword metadata from Google Sheets for IN + US markets.
 Keywords are pulled LIVE from published Google Sheets CSVs.
+Google Trends charts are rendered client-side via official embed widgets.
 Output: feed.json consumed by the Content Intelligence Desk (index.html)
 """
 
@@ -14,36 +15,26 @@ import feedparser
 import requests
 import re
 import hashlib
-import time
 from bs4 import BeautifulSoup
-from urllib.parse import urljoin, urlparse
+from urllib.parse import urljoin, urlparse, quote_plus
 from datetime import datetime, timezone, timedelta
 from dateutil import parser as dateparser
 
-# ── Config ──────────────────────────────────────────────────────────────
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (AZA Blog Agent/5.1; +https://www.azafashions.com)"
+    "User-Agent": "Mozilla/5.0 (AZA Blog Agent/5.2; +https://www.azafashions.com)"
 }
+
 MAX_AGE_DAYS = 60
 CUTOFF_DATE = datetime.now(timezone.utc) - timedelta(days=MAX_AGE_DAYS)
 GOOGLE_TRENDS_URL = "https://trends.google.com/trending/rss?geo=IN"
 
-# ── Google Sheets Published CSV URLs ───────────────────────────────────
-# These are public "Publish to web" CSV links from the AZA Keyword Tracker.
-# To update keywords, edit the Google Sheet — changes auto-propagate on next run.
 SHEET_KEYWORDS_IN = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRsmtSEaFevi3T7sM8E5j4wgPNgCI2M3l7TQYLEV3mOFZd0CLojejG2zASpbfNfInAj2G18a-jSfHS1/pub?gid=114123390&single=true&output=csv"
 SHEET_KEYWORDS_US = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRsmtSEaFevi3T7sM8E5j4wgPNgCI2M3l7TQYLEV3mOFZd0CLojejG2zASpbfNfInAj2G18a-jSfHS1/pub?gid=1487731411&single=true&output=csv"
 
-# ── Sources (36 sites) ─────────────────────────────────────────────────
 SOURCES = [
     {"name":"AZA Blog","tier":"owned","pages":["https://www.azafashions.com/blog/"],"feeds":["https://www.azafashions.com/blog/feed"]},
     {"name":"AZA Magazine","tier":"owned","pages":["https://magazine.azafashions.com/"],"feeds":["https://magazine.azafashions.com/feed"]},
-    {"name":"Kalki Fashion Blog","tier":"competitor","pages":[
-        "https://blog.kalkifashion.com/",
-        "https://blog.kalkifashion.com/category/real-brides/",
-        "https://blog.kalkifashion.com/category/menswear/",
-        "https://blog.kalkifashion.com/category/kalki-collection/"
-    ],"feeds":["https://blog.kalkifashion.com/feed/"]},
+    {"name":"Kalki Fashion Blog","tier":"competitor","pages":["https://blog.kalkifashion.com/","https://blog.kalkifashion.com/category/real-brides/","https://blog.kalkifashion.com/category/menswear/","https://blog.kalkifashion.com/category/kalki-collection/"],"feeds":["https://blog.kalkifashion.com/feed/"]},
     {"name":"Pernia's Pop-Up Shop","tier":"competitor","pages":["https://www.perniaspopupshop.com/blog/"],"feeds":["https://www.perniaspopupshop.com/blog/feed"]},
     {"name":"Utsav Fashion","tier":"competitor","pages":["https://www.utsavfashion.com/blog/"],"feeds":["https://www.utsavfashion.com/blog/feed"]},
     {"name":"Kalki Fashion Main","tier":"competitor","pages":["https://www.kalkifashion.com/in/blog/"],"feeds":["https://www.kalkifashion.com/in/blog/rss.xml"]},
@@ -79,7 +70,6 @@ SOURCES = [
     {"name":"Fashion Gone Rogue","tier":"industry","pages":["https://www.fashiongonerogue.com"],"feeds":["https://www.fashiongonerogue.com/feed"]},
 ]
 
-# ── Fashion Intelligence ───────────────────────────────────────────────
 FASHION_KEYWORDS = [
     "fashion","style","outfit","wear","dress","saree","lehenga","kurta","bridal","wedding",
     "designer","collection","runway","couture","luxury","jewellery","accessory","ethnic",
@@ -97,8 +87,6 @@ AZA_CATEGORIES = {
     "Occasion Dressing":["party","festive","diwali","navratri","eid","holi","occasion","gala","awards","reception"],
 }
 
-
-# ── Helpers ─────────────────────────────────────────────────────────────
 def clean_text(text):
     return re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ', text or '')).strip()
 
@@ -191,7 +179,8 @@ def to_datetime_from_string(value):
         return None
     try:
         dt = dateparser.parse(value)
-        if dt.tzinfo is None:
+        if dt.tzinfo
+         is None:
             dt = dt.replace(tzinfo=timezone.utc)
         return dt.astimezone(timezone.utc)
     except Exception:
@@ -200,20 +189,52 @@ def to_datetime_from_string(value):
 def is_recent(dt):
     return dt is not None and dt >= CUTOFF_DATE
 
+def make_trends_url(keyword, geo):
+    return f"https://trends.google.com/trends/explore?q={quote_plus(keyword)}&date=today+12-m&geo={geo}"
 
-# ── Google Sheets Keyword Loader ───────────────────────────────────────
+
+# ── Google Sheets Keyword Loader ──────────────────────────────────────
 def fetch_keywords_from_sheets():
-    """
-    Fetch keyword lists from published Google Sheets CSVs.
-    Returns (keywords_in, keywords_us) where each is a list of (keyword, keyword_type) tuples.
-    Falls back to empty lists if fetch fails.
-    """
     keywords_in = []
     keywords_us = []
 
+    def find_header_row(rows):
+        for i, row in enumerate(rows):
+            cells = [str(c).strip().lower() for c in row]
+            has_keyword = any(c == "keyword" for c in cells)
+            has_active = any("active" in c for c in cells)
+            if has_keyword and has_active:
+                return i
+        for i, row in enumerate(rows):
+            cells = [str(c).strip().lower() for c in row]
+            if any(c == "keyword" for c in cells):
+                return i
+        return None
+
+    def map_columns(header_row):
+        cols = {}
+        for j, cell in enumerate(header_row):
+            c = str(cell).strip().lower()
+            if c == "keyword":
+                cols["keyword"] = j
+            elif c == "keyword type":
+                cols["keyword_type"] = j
+            elif c == "volume type":
+                cols["volume_type"] = j
+            elif c == "category":
+                cols["category"] = j
+            elif c == "active":
+                cols["active"] = j
+            elif "search volume" in c:
+                cols["volume"] = j
+        return cols
+
+    def safe_get(row, idx, default=""):
+        if idx is not None and len(row) > idx:
+            return str(row[idx]).strip()
+        return default
+
     # ── Keywords_IN ──
-    # Expected columns: (blank), Keyword, Keyword Type, Target URL, Search Volume (IN), Active, ...
-    # Header row has "Keyword" in it; data rows follow. Skip rows where Active != TRUE.
     try:
         print("Fetching Keywords_IN from Google Sheets...")
         resp = requests.get(SHEET_KEYWORDS_IN, headers=HEADERS, timeout=30)
@@ -221,56 +242,43 @@ def fetch_keywords_from_sheets():
         reader = csv.reader(io.StringIO(resp.text))
         rows = list(reader)
 
-        # Find header row (contains "Keyword")
-        header_idx = None
-        kw_col = None
-        type_col = None
-        active_col = None
-        vol_col = None
-        for i, row in enumerate(rows):
-            row_lower = [str(c).strip().lower() for c in row]
-            if "keyword" in row_lower:
-                header_idx = i
-                for j, cell in enumerate(row_lower):
-                    if cell == "keyword":
-                        kw_col = j
-                    elif cell == "keyword type":
-                        type_col = j
-                    elif cell == "active":
-                        active_col = j
-                    elif "search volume" in cell:
-                        vol_col = j
-                break
-
-        if header_idx is not None and kw_col is not None:
-            for row in rows[header_idx + 1:]:
-                if len(row) <= kw_col:
-                    continue
-                keyword = str(row[kw_col]).strip()
-                kw_type = str(row[type_col]).strip() if type_col is not None and len(row) > type_col else "Category"
-                active = str(row[active_col]).strip().upper() if active_col is not None and len(row) > active_col else "TRUE"
-                volume = 0
-                if vol_col is not None and len(row) > vol_col:
+        header_idx = find_header_row(rows)
+        if header_idx is not None:
+            cols = map_columns(rows[header_idx])
+            if "keyword" in cols:
+                for row in rows[header_idx + 1:]:
+                    keyword = safe_get(row, cols.get("keyword"))
+                    kw_type = safe_get(row, cols.get("keyword_type"), "Category")
+                    category = safe_get(row, cols.get("category"), "")
+                    active = safe_get(row, cols.get("active"), "TRUE").upper()
+                    volume = 0
+                    vol_str = safe_get(row, cols.get("volume"), "0")
                     try:
-                        volume = int(str(row[vol_col]).replace(",", "").strip())
+                        volume = int(vol_str.replace(",", "").replace(".0", "").split(".")[0])
                     except (ValueError, TypeError):
                         volume = 0
 
-                if keyword and active == "TRUE":
-                    keywords_in.append((keyword, kw_type, volume))
+                    if keyword and active == "TRUE":
+                        keywords_in.append({
+                            "keyword": keyword,
+                            "keyword_type": kw_type,
+                            "category": category,
+                            "volume": volume,
+                            "geo": "IN",
+                            "trends_url": make_trends_url(keyword, "IN"),
+                            "aza_category": detect_category(keyword),
+                        })
 
-            # Sort by volume descending, take top 60
-            keywords_in.sort(key=lambda x: -x[2])
-            keywords_in = [(k, t) for k, t, v in keywords_in[:60]]
-            print(f"  → Loaded {len(keywords_in)} IN keywords (top 60 by volume)")
+                keywords_in.sort(key=lambda x: -x["volume"])
+                print(f"  → Loaded {len(keywords_in)} IN keywords")
+            else:
+                print("  → Could not find 'Keyword' column in Keywords_IN CSV")
         else:
             print("  → Could not find header row in Keywords_IN CSV")
-
     except Exception as e:
         print(f"  → Failed to fetch Keywords_IN: {e}")
 
     # ── Keywords_US ──
-    # Expected columns: (blank), Keyword, Keyword Type, Volume Type, Category, Search Volume (US), Target URL, Date Added, Trend, Active, ...
     try:
         print("Fetching Keywords_US from Google Sheets...")
         resp = requests.get(SHEET_KEYWORDS_US, headers=HEADERS, timeout=30)
@@ -278,61 +286,48 @@ def fetch_keywords_from_sheets():
         reader = csv.reader(io.StringIO(resp.text))
         rows = list(reader)
 
-        header_idx = None
-        kw_col = None
-        type_col = None
-        voltype_col = None
-        active_col = None
-        vol_col = None
-        for i, row in enumerate(rows):
-            row_lower = [str(c).strip().lower() for c in row]
-            if "keyword" in row_lower:
-                header_idx = i
-                for j, cell in enumerate(row_lower):
-                    if cell == "keyword":
-                        kw_col = j
-                    elif cell == "keyword type":
-                        type_col = j
-                    elif cell == "volume type":
-                        voltype_col = j
-                    elif cell == "active":
-                        active_col = j
-                    elif "search volume" in cell:
-                        vol_col = j
-                break
-
-        if header_idx is not None and kw_col is not None:
-            for row in rows[header_idx + 1:]:
-                if len(row) <= kw_col:
-                    continue
-                keyword = str(row[kw_col]).strip()
-                kw_type = str(row[type_col]).strip() if type_col is not None and len(row) > type_col else "Category"
-                vol_type = str(row[voltype_col]).strip() if voltype_col is not None and len(row) > voltype_col else ""
-                active = str(row[active_col]).strip().upper() if active_col is not None and len(row) > active_col else "TRUE"
-                volume = 0
-                if vol_col is not None and len(row) > vol_col:
+        header_idx = find_header_row(rows)
+        if header_idx is not None:
+            cols = map_columns(rows[header_idx])
+            if "keyword" in cols:
+                for row in rows[header_idx + 1:]:
+                    keyword = safe_get(row, cols.get("keyword"))
+                    kw_type = safe_get(row, cols.get("keyword_type"), "Category")
+                    vol_type = safe_get(row, cols.get("volume_type"), "")
+                    category = safe_get(row, cols.get("category"), "")
+                    active = safe_get(row, cols.get("active"), "TRUE").upper()
+                    volume = 0
+                    vol_str = safe_get(row, cols.get("volume"), "0")
                     try:
-                        volume = int(str(row[vol_col]).replace(",", "").strip())
+                        volume = int(vol_str.replace(",", "").replace(".0", "").split(".")[0])
                     except (ValueError, TypeError):
                         volume = 0
 
-                # Only Head + Torso keywords for pytrends (skip Tail — too many)
-                if keyword and active == "TRUE" and vol_type in ("Head", "Torso"):
-                    keywords_us.append((keyword, kw_type, volume))
+                    if keyword and active == "TRUE":
+                        keywords_us.append({
+                            "keyword": keyword,
+                            "keyword_type": kw_type,
+                            "volume_type": vol_type,
+                            "category": category,
+                            "volume": volume,
+                            "geo": "US",
+                            "trends_url": make_trends_url(keyword, "US"),
+                            "aza_category": detect_category(keyword),
+                        })
 
-            keywords_us.sort(key=lambda x: -x[2])
-            keywords_us = [(k, t) for k, t, v in keywords_us[:60]]
-            print(f"  → Loaded {len(keywords_us)} US keywords (top 60 Head+Torso by volume)")
+                keywords_us.sort(key=lambda x: -x["volume"])
+                print(f"  → Loaded {len(keywords_us)} US keywords")
+            else:
+                print("  → Could not find 'Keyword' column in Keywords_US CSV")
         else:
             print("  → Could not find header row in Keywords_US CSV")
-
     except Exception as e:
         print(f"  → Failed to fetch Keywords_US: {e}")
 
     return keywords_in, keywords_us
 
 
-# ── Feed + HTML Fetchers ───────────────────────────────────────────────
+# ── Feed + HTML Fetchers ─────────────────────────────────────────────
 def item_from_entry(entry, src):
     title = clean_text(entry.get("title",""))
     link = entry.get("link","")
@@ -475,132 +470,28 @@ def fetch_source(src):
     return items
 
 
-# ── Google Trends RSS ──────────────────────────────────────────────────
+# ── Google Trends RSS ────────────────────────────────────────────────
 def fetch_trends_rss():
-    fashion_hits = []
-    general_hits = []
+    items = []
     try:
         resp = requests.get(GOOGLE_TRENDS_URL, headers=HEADERS, timeout=15)
         feed = feedparser.parse(resp.content)
         for entry in feed.entries[:40]:
             title = clean_text(entry.get("title",""))
             summary = clean_text(entry.get("summary","") or entry.get("description",""))
-            item = {
+            if not title:
+                continue
+            items.append({
                 "term": title,
                 "summary": summary[:240],
-                "angle": suggest_angle(title),
                 "aza_category": detect_category(title),
-            }
-            general_hits.append(item)
-            if score_fashion(title) > 0:
-                fashion_hits.append(item)
+            })
     except Exception:
         pass
-    if fashion_hits:
-        return fashion_hits[:12]
-    return general_hits[:12]
+    return items[:20]
 
 
-# ── pytrends Keyword Intelligence ──────────────────────────────────────
-def fetch_keyword_trends(keywords_in, keywords_us):
-    """
-    Use pytrends to get related queries (rising + top) for AZA's
-    tracked keywords in IN and US markets.
-    Keywords are passed in from the Google Sheets loader.
-    Falls back gracefully if pytrends is unavailable or rate-limited.
-    """
-    if not keywords_in and not keywords_us:
-        print("No keywords loaded — skipping pytrends")
-        return []
-
-    try:
-        from pytrends.request import TrendReq
-    except ImportError:
-        print("pytrends not installed — skipping keyword trends")
-        return []
-
-    results = []
-    pytrends = TrendReq(hl='en-US', tz=330, timeout=(10, 25), retries=2, backoff_factor=1.0)
-
-    keyword_sets = [
-        ("IN", keywords_in),
-        ("US", keywords_us),
-    ]
-
-    for geo, keywords in keyword_sets:
-        if not keywords:
-            continue
-
-        # Group into batches of 5 (pytrends limit)
-        kw_list = [k for k, _ in keywords]
-        batches = [kw_list[i:i+5] for i in range(0, len(kw_list), 5)]
-
-        for batch_idx, batch in enumerate(batches):
-            try:
-                pytrends.build_payload(batch, cat=0, timeframe='now 7-d', geo=geo)
-                related = pytrends.related_queries()
-
-                for kw in batch:
-                    kw_type = "Category"
-                    for k, t in keywords:
-                        if k == kw:
-                            kw_type = t
-                            break
-
-                    rising_queries = []
-                    top_queries = []
-
-                    if kw in related and related[kw]:
-                        rising_df = related[kw].get("rising")
-                        if rising_df is not None and not rising_df.empty:
-                            for _, row in rising_df.head(5).iterrows():
-                                q = str(row.get("query",""))
-                                val = row.get("value", 0)
-                                rising_queries.append({
-                                    "query": q,
-                                    "value": str(val),
-                                    "aza_category": detect_category(q),
-                                    "fashion_score": score_fashion(q),
-                                })
-
-                        top_df = related[kw].get("top")
-                        if top_df is not None and not top_df.empty:
-                            for _, row in top_df.head(5).iterrows():
-                                q = str(row.get("query",""))
-                                val = row.get("value", 0)
-                                top_queries.append({
-                                    "query": q,
-                                    "value": int(val) if val else 0,
-                                    "aza_category": detect_category(q),
-                                    "fashion_score": score_fashion(q),
-                                })
-
-                    if rising_queries or top_queries:
-                        results.append({
-                            "keyword": kw,
-                            "keyword_type": kw_type,
-                            "geo": geo,
-                            "rising": rising_queries,
-                            "top": top_queries,
-                            "angle": suggest_angle(kw),
-                            "aza_category": detect_category(kw),
-                        })
-
-                # Rate limiting
-                time.sleep(2)
-
-            except Exception as e:
-                print(f"pytrends batch {batch_idx} ({geo}) failed: {e}")
-                time.sleep(5)
-                continue
-
-    in_count = sum(1 for r in results if r['geo'] == 'IN')
-    us_count = sum(1 for r in results if r['geo'] == 'US')
-    print(f"Keyword trends: {len(results)} keywords with signals ({in_count} IN, {us_count} US)")
-    return results
-
-
-# ── Main ────────────────────────────────────────────────────────────────
+# ── Main ──────────────────────────────────────────────────────────────
 if __name__ == "__main__":
     # 0. Load keywords from Google Sheets
     keywords_in, keywords_us = fetch_keywords_from_sheets()
@@ -614,6 +505,7 @@ if __name__ == "__main__":
     for item in all_items:
         if item["link"] not in dedup:
             dedup[item["link"]] = item
+
     articles = list(dedup.values())
     articles.sort(key=lambda x: (
         0 if x["tier"] == "owned" else 1 if x["tier"] == "competitor" else 2,
@@ -628,8 +520,8 @@ if __name__ == "__main__":
     # 2. Fetch Google Trends RSS
     trends = fetch_trends_rss()
 
-    # 3. Fetch pytrends keyword intelligence (uses live Sheet data)
-    keyword_trends = fetch_keyword_trends(keywords_in, keywords_us)
+    # 3. Build tracked keywords list (top 50 IN + top 50 US by volume)
+    tracked_keywords = keywords_in[:50] + keywords_us[:50]
 
     # 4. Write feed.json
     with open("feed.json", "w", encoding="utf-8") as f:
@@ -641,9 +533,10 @@ if __name__ == "__main__":
             "keywords_loaded": {"IN": len(keywords_in), "US": len(keywords_us)},
             "articles": articles,
             "trends": trends,
-            "keyword_trends": keyword_trends,
+            "tracked_keywords": tracked_keywords,
         }, f, indent=2, ensure_ascii=False)
 
     print(f"\nfeed.json written: {len(articles)} articles | owned={owned_count} competitor={competitor_count} industry={industry_count}")
-    print(f"Keywords loaded: {len(keywords_in)} IN, {len(keywords_us)} US (from Google Sheets)")
-    print(f"Trends: {len(trends)} RSS signals | {len(keyword_trends)} keyword trend signals")
+    print(f"Keywords: {len(keywords_in)} IN, {len(keywords_us)} US (from Google Sheets)")
+    print(f"Tracked keywords in feed.json: {len(tracked_keywords)} (top 50 IN + top 50 US)")
+    print(f"Trends: {len(trends)} RSS signals")

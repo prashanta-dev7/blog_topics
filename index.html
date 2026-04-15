@@ -1,12 +1,11 @@
 <!DOCTYPE html>
-<html lang="en" data-theme="light">
+<html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>AZA — Content Intelligence Desk</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
 :root {
   --font-display:'Cormorant Garamond',Georgia,serif;
@@ -22,6 +21,7 @@
   --color-bg:#f8f6f1;--color-surface:#faf9f5;--color-surface-2:#ffffff;--color-surface-offset:#f2ede4;--color-surface-dynamic:#e9e3d8;
   --color-divider:#e0d9ce;--color-border:#d6cfc3;--color-text:#1c1814;--color-text-muted:#6b6257;--color-text-faint:#b8ae9f;--color-text-inverse:#faf9f5;
   --color-primary:#b8912a;--color-primary-hover:#9a7520;--color-primary-highlight:#f0e5c8;--color-accent:#2c2318;--color-competitor:#c0392b;
+  --color-rising:#16a34a;--color-geo-in:#e67e22;--color-geo-us:#3498db;
   --shadow-sm:0 1px 3px oklch(0.15 0.02 60/0.07);--shadow-md:0 4px 16px oklch(0.15 0.02 60/0.09);--shadow-lg:0 12px 40px oklch(0.15 0.02 60/0.13);
   --content-wide:1280px;
 }
@@ -29,6 +29,7 @@
   --color-bg:#14120e;--color-surface:#1a1712;--color-surface-2:#201d17;--color-surface-offset:#17140f;--color-surface-dynamic:#2a2620;
   --color-divider:#2e2a23;--color-border:#3a3529;--color-text:#e8e0d0;--color-text-muted:#8a8070;--color-text-faint:#5a5448;--color-text-inverse:#14120e;
   --color-primary:#d4a83c;--color-primary-hover:#e8bf58;--color-primary-highlight:#2e2510;--color-accent:#e8e0d0;--color-competitor:#e74c3c;
+  --color-rising:#22c55e;--color-geo-in:#f59e0b;--color-geo-us:#60a5fa;
   --shadow-sm:0 1px 3px oklch(0 0 0/0.25);--shadow-md:0 4px 16px oklch(0 0 0/0.35);--shadow-lg:0 12px 40px oklch(0 0 0/0.5);
 }
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
@@ -37,11 +38,18 @@ body{min-height:100dvh;font-family:var(--font-body);font-size:var(--text-sm);col
 button,input,select{font:inherit;color:inherit}
 button{cursor:pointer;background:none;border:none}
 a{color:inherit}
+
+/* ── Topbar ── */
 .topbar{position:sticky;top:0;z-index:100;background:var(--color-surface);border-bottom:1px solid var(--color-divider);box-shadow:var(--shadow-sm);padding:var(--space-3) var(--space-6);display:flex;align-items:center;gap:var(--space-4)}
-.logo{display:flex;align-items:center;gap:var(--space-3);flex-shrink:0}.logo-text{font-family:var(--font-display);font-size:var(--text-lg);font-weight:600;letter-spacing:.12em;text-transform:uppercase}.logo-sub{font-size:var(--text-xs);color:var(--color-text-muted);letter-spacing:.08em;text-transform:uppercase;padding-left:var(--space-3);border-left:1px solid var(--color-divider)}
-.spacer{flex:1}.meta{font-size:var(--text-xs);color:var(--color-text-muted)}.actions{display:flex;align-items:center;gap:var(--space-2)}
+.logo{display:flex;align-items:center;gap:var(--space-3);flex-shrink:0}
+.logo-text{font-family:var(--font-display);font-size:var(--text-lg);font-weight:600;letter-spacing:.12em;text-transform:uppercase}
+.logo-sub{font-size:var(--text-xs);color:var(--color-text-muted);letter-spacing:.08em;text-transform:uppercase;padding-left:var(--space-3);border-left:1px solid var(--color-divider)}
+.spacer{flex:1}.meta{font-size:var(--text-xs);color:var(--color-text-muted)}
+.actions{display:flex;align-items:center;gap:var(--space-2)}
 .btn-icon{width:34px;height:34px;border-radius:var(--radius-md);display:flex;align-items:center;justify-content:center;color:var(--color-text-muted);border:1px solid transparent}.btn-icon:hover{background:var(--color-surface-offset);color:var(--color-text);border-color:var(--color-border)}
 .btn-refresh{display:flex;align-items:center;gap:var(--space-2);padding:var(--space-2) var(--space-4);background:var(--color-primary);color:var(--color-text-inverse);border-radius:var(--radius-md);font-size:var(--text-xs);font-weight:500;letter-spacing:.05em;text-transform:uppercase}.btn-refresh:hover{background:var(--color-primary-hover)}.btn-refresh:disabled{opacity:.5;cursor:not-allowed}
+
+/* ── Layout ── */
 .page{max-width:var(--content-wide);margin:0 auto;padding:var(--space-6)}
 .tabs{display:flex;gap:var(--space-2);margin-bottom:var(--space-6);flex-wrap:wrap}
 .tab-btn{padding:var(--space-3) var(--space-5);border-radius:var(--radius-full);border:1px solid var(--color-border);background:var(--color-surface);color:var(--color-text-muted);font-size:var(--text-xs);font-weight:600;letter-spacing:.06em;text-transform:uppercase}
@@ -49,19 +57,67 @@ a{color:inherit}
 .tab-panel{display:none}.tab-panel.active{display:block}
 .panel-intro{display:flex;justify-content:space-between;gap:var(--space-4);align-items:end;margin-bottom:var(--space-5)}
 .panel-intro h1{font-family:var(--font-display);font-size:var(--text-xl);font-weight:600;line-height:1.1}.panel-intro p{color:var(--color-text-muted);max-width:70ch}
-.setup-banner{background:var(--color-primary-highlight);border:1px solid color-mix(in oklch,var(--color-primary) 25%,transparent);border-radius:var(--radius-xl);padding:var(--space-6);margin-bottom:var(--space-6)}
+
+/* ── Setup Banner ── */
+.setup-banner{background:var(--color-primary-highlight);border:1px solid color-mix(in oklch,var(--color-primary) 25%,transparent);border-radius:var(--radius-xl);padding:var(--space-6);margin-bottom:var(--space-6);display:none}
 .setup-banner h2{font-family:var(--font-display);font-size:var(--text-lg);margin-bottom:var(--space-2)}.setup-banner p{font-size:var(--text-sm);color:var(--color-text-muted);margin-bottom:var(--space-4)}
 .steps{display:flex;flex-direction:column;gap:var(--space-3)}.step{display:flex;gap:var(--space-3);align-items:flex-start;font-size:var(--text-sm);color:var(--color-text-muted)}.step-n{flex-shrink:0;width:22px;height:22px;background:var(--color-primary);color:var(--color-text-inverse);border-radius:var(--radius-full);display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:700}
-.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:var(--space-4);margin-bottom:var(--space-6)}
+
+/* ── Stats ── */
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:var(--space-4);margin-bottom:var(--space-6);display:none}
 .stat{background:var(--color-surface);border:1px solid var(--color-divider);border-radius:var(--radius-lg);padding:var(--space-4) var(--space-5);box-shadow:var(--shadow-sm)}.stat-label{font-size:var(--text-xs);color:var(--color-text-muted);text-transform:uppercase;letter-spacing:.07em;margin-bottom:var(--space-1)}.stat-value{font-family:var(--font-display);font-size:var(--text-xl);font-weight:600;line-height:1}.stat-sub{font-size:var(--text-xs);color:var(--color-text-faint);margin-top:var(--space-1)}
-.filter-bar{display:flex;align-items:center;gap:var(--space-3);margin-bottom:var(--space-6);flex-wrap:wrap}.search-wrap{flex:1;min-width:220px;display:flex;align-items:center;gap:var(--space-2);background:var(--color-surface);border:1px solid var(--color-border);border-radius:var(--radius-full);padding:var(--space-2) var(--space-4)}.search-wrap input{border:none;outline:none;background:transparent;width:100%}.pills{display:flex;gap:var(--space-2);flex-wrap:wrap}.pill{padding:var(--space-1) var(--space-3);border-radius:var(--radius-full);border:1px solid var(--color-border);font-size:var(--text-xs);font-weight:500;color:var(--color-text-muted);background:var(--color-surface)}.pill.active{background:var(--color-primary);color:var(--color-text-inverse);border-color:var(--color-primary)}.pill.competitor-pill{border-color:var(--color-competitor);color:var(--color-competitor)}.pill.competitor-pill.active{background:var(--color-competitor);color:#fff;border-color:var(--color-competitor)}
+
+/* ── Filters ── */
+.filter-bar{display:none;align-items:center;gap:var(--space-3);margin-bottom:var(--space-6);flex-wrap:wrap}
+.search-wrap{flex:1;min-width:220px;display:flex;align-items:center;gap:var(--space-2);background:var(--color-surface);border:1px solid var(--color-border);border-radius:var(--radius-full);padding:var(--space-2) var(--space-4)}.search-wrap input{border:none;outline:none;background:transparent;width:100%}
+.pills{display:flex;gap:var(--space-2);flex-wrap:wrap}
+.pill{padding:var(--space-1) var(--space-3);border-radius:var(--radius-full);border:1px solid var(--color-border);font-size:var(--text-xs);font-weight:500;color:var(--color-text-muted);background:var(--color-surface)}
+.pill.active{background:var(--color-primary);color:var(--color-text-inverse);border-color:var(--color-primary)}
+.pill.competitor-pill{border-color:var(--color-competitor);color:var(--color-competitor)}.pill.competitor-pill.active{background:var(--color-competitor);color:#fff;border-color:var(--color-competitor)}
 .select-wrap select{padding:var(--space-2) var(--space-4);border-radius:var(--radius-full);border:1px solid var(--color-border);background:var(--color-surface);min-width:150px}
-.sec-header{display:flex;align-items:baseline;gap:var(--space-3);margin-bottom:var(--space-4);padding-bottom:var(--space-3);border-bottom:1px solid var(--color-divider)}.sec-title{font-family:var(--font-display);font-size:var(--text-lg);font-weight:600}.sec-count{font-size:var(--text-xs);color:var(--color-text-faint);background:var(--color-surface-offset);padding:2px 8px;border-radius:var(--radius-full);font-weight:500}
-.trends-row{display:flex;gap:var(--space-3);flex-wrap:wrap}.trend-chip{background:var(--color-surface);border:1px solid var(--color-divider);border-radius:var(--radius-xl);padding:var(--space-4);box-shadow:var(--shadow-sm);min-width:220px;max-width:320px;display:flex;flex-direction:column;gap:var(--space-2)}.trend-term{font-weight:600;font-size:var(--text-sm);line-height:1.4}.trend-cat{font-size:var(--text-xs);color:var(--color-text-muted);line-height:1.5}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(360px,100%),1fr));gap:var(--space-5)}
-.card{background:var(--color-surface);border:1px solid var(--color-divider);border-radius:var(--radius-xl);padding:var(--space-5);box-shadow:var(--shadow-sm);display:flex;flex-direction:column;gap:var(--space-3)}.card.competitor{border-color:color-mix(in oklch,var(--color-competitor) 35%,var(--color-border));background:color-mix(in oklch,var(--color-competitor) 3%,var(--color-surface))}.card-top{display:flex;align-items:center;gap:var(--space-2);flex-wrap:wrap}.source{font-size:var(--text-xs);font-weight:600;color:var(--color-primary);letter-spacing:.05em;text-transform:uppercase}.competitor-flag{display:inline-flex;align-items:center;gap:4px;font-size:var(--text-xs);font-weight:700;color:var(--color-competitor);letter-spacing:.05em;text-transform:uppercase;background:color-mix(in oklch,var(--color-competitor) 10%,transparent);padding:2px 7px;border-radius:var(--radius-full);border:1px solid color-mix(in oklch,var(--color-competitor) 25%,transparent)}
-.cat{font-size:var(--text-xs);font-weight:500;background:var(--color-surface-offset);color:var(--color-text-muted);padding:2px 8px;border-radius:var(--radius-full)}.card-title{font-family:var(--font-display);font-size:var(--text-base);font-weight:600;line-height:1.3}.card-title a{text-decoration:none}.card-summary{font-size:var(--text-xs);color:var(--color-text-muted);line-height:1.5;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}.angle-box{background:var(--color-primary-highlight);border-radius:var(--radius-md);padding:var(--space-3) var(--space-4)}.angle-label{font-size:var(--text-xs);font-weight:600;color:var(--color-primary);letter-spacing:.06em;text-transform:uppercase;margin-bottom:var(--space-1)}.angle-text{font-family:var(--font-display);font-size:var(--text-base);font-style:italic;line-height:1.4}.card-footer{display:flex;align-items:center;justify-content:space-between;margin-top:auto}.pub{font-size:var(--text-xs);color:var(--color-text-faint)}
-.empty{text-align:center;padding:var(--space-16) var(--space-8);color:var(--color-text-muted)}.empty h3{font-family:var(--font-display);font-size:var(--text-lg);color:var(--color-text);margin-bottom:var(--space-2)}
+
+/* ── Section Headers ── */
+.sec-header{display:none;align-items:baseline;gap:var(--space-3);margin-bottom:var(--space-4);padding-bottom:var(--space-3);border-bottom:1px solid var(--color-divider)}.sec-title{font-family:var(--font-display);font-size:var(--text-lg);font-weight:600}.sec-count{font-size:var(--text-xs);color:var(--color-text-faint);background:var(--color-surface-offset);padding:2px 8px;border-radius:var(--radius-full);font-weight:500}
+
+/* ── Trend Chips (RSS) ── */
+.trends-row{display:flex;gap:var(--space-3);flex-wrap:wrap}
+.trend-chip{background:var(--color-surface);border:1px solid var(--color-divider);border-radius:var(--radius-xl);padding:var(--space-4);box-shadow:var(--shadow-sm);min-width:220px;max-width:320px;display:flex;flex-direction:column;gap:var(--space-2)}.trend-term{font-weight:600;font-size:var(--text-sm);line-height:1.4}.trend-cat{font-size:var(--text-xs);color:var(--color-text-muted);line-height:1.5}
+
+/* ── Article Grid ── */
+.grid{display:none;grid-template-columns:repeat(auto-fill,minmax(min(360px,100%),1fr));gap:var(--space-5)}
+.card{background:var(--color-surface);border:1px solid var(--color-divider);border-radius:var(--radius-xl);padding:var(--space-5);box-shadow:var(--shadow-sm);display:flex;flex-direction:column;gap:var(--space-3)}.card.competitor{border-color:color-mix(in oklch,var(--color-competitor) 35%,var(--color-border));background:color-mix(in oklch,var(--color-competitor) 3%,var(--color-surface))}
+.card-top{display:flex;align-items:center;gap:var(--space-2);flex-wrap:wrap}.source{font-size:var(--text-xs);font-weight:600;color:var(--color-primary);letter-spacing:.05em;text-transform:uppercase}.competitor-flag{display:inline-flex;align-items:center;gap:4px;font-size:var(--text-xs);font-weight:700;color:var(--color-competitor);letter-spacing:.05em;text-transform:uppercase;background:color-mix(in oklch,var(--color-competitor) 10%,transparent);padding:2px 7px;border-radius:var(--radius-full);border:1px solid color-mix(in oklch,var(--color-competitor) 25%,transparent)}
+.cat{font-size:var(--text-xs);font-weight:500;background:var(--color-surface-offset);color:var(--color-text-muted);padding:2px 8px;border-radius:var(--radius-full)}
+.card-title{font-family:var(--font-display);font-size:var(--text-base);font-weight:600;line-height:1.3}.card-title a{text-decoration:none}
+.card-summary{font-size:var(--text-xs);color:var(--color-text-muted);line-height:1.5;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.angle-box{background:var(--color-primary-highlight);border-radius:var(--radius-md);padding:var(--space-3) var(--space-4)}.angle-label{font-size:var(--text-xs);font-weight:600;color:var(--color-primary);letter-spacing:.06em;text-transform:uppercase;margin-bottom:var(--space-1)}.angle-text{font-family:var(--font-display);font-size:var(--text-base);font-style:italic;line-height:1.4}
+.card-footer{display:flex;align-items:center;justify-content:space-between;margin-top:auto}.pub{font-size:var(--text-xs);color:var(--color-text-faint)}
+
+/* ── Empty State ── */
+.empty{text-align:center;padding:var(--space-16) var(--space-8);color:var(--color-text-muted);display:none}.empty h3{font-family:var(--font-display);font-size:var(--text-lg);color:var(--color-text);margin-bottom:var(--space-2)}
+
+/* ── Keyword Trends Cards ── */
+.kw-section{margin-top:var(--space-8)}
+.kw-filter-bar{display:flex;gap:var(--space-3);margin-bottom:var(--space-5);flex-wrap:wrap;align-items:center}
+.kw-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(380px,100%),1fr));gap:var(--space-5)}
+.kw-card{background:var(--color-surface);border:1px solid var(--color-divider);border-radius:var(--radius-xl);padding:var(--space-5);box-shadow:var(--shadow-sm);display:flex;flex-direction:column;gap:var(--space-3)}
+.kw-header{display:flex;align-items:center;gap:var(--space-2);flex-wrap:wrap}
+.kw-keyword{font-family:var(--font-display);font-size:var(--text-base);font-weight:700}
+.geo-badge{font-size:var(--text-xs);font-weight:700;padding:2px 8px;border-radius:var(--radius-full);letter-spacing:.05em;text-transform:uppercase}
+.geo-in{background:color-mix(in oklch,var(--color-geo-in) 15%,var(--color-surface));color:var(--color-geo-in);border:1px solid color-mix(in oklch,var(--color-geo-in) 30%,transparent)}
+.geo-us{background:color-mix(in oklch,var(--color-geo-us) 15%,var(--color-surface));color:var(--color-geo-us);border:1px solid color-mix(in oklch,var(--color-geo-us) 30%,transparent)}
+.type-badge{font-size:var(--text-xs);font-weight:500;background:var(--color-surface-offset);color:var(--color-text-muted);padding:2px 8px;border-radius:var(--radius-full)}
+.kw-queries{display:flex;flex-direction:column;gap:var(--space-2)}
+.kw-queries-title{font-size:var(--text-xs);font-weight:700;color:var(--color-text-muted);text-transform:uppercase;letter-spacing:.06em;display:flex;align-items:center;gap:var(--space-2)}
+.rising-dot{width:6px;height:6px;border-radius:50%;background:var(--color-rising);display:inline-block}
+.query-row{display:flex;justify-content:space-between;align-items:center;padding:var(--space-1) var(--space-3);background:var(--color-surface-offset);border-radius:var(--radius-sm);font-size:var(--text-xs)}
+.query-text{font-weight:500}.query-value{color:var(--color-text-faint);font-weight:600;font-variant-numeric:tabular-nums}
+.query-row.rising .query-value{color:var(--color-rising)}
+.kw-angle{background:var(--color-primary-highlight);border-radius:var(--radius-md);padding:var(--space-3) var(--space-4)}
+.kw-empty{text-align:center;padding:var(--space-12) var(--space-8);color:var(--color-text-muted)}
+.kw-empty h3{font-family:var(--font-display);font-size:var(--text-lg);color:var(--color-text);margin-bottom:var(--space-2)}
+
+/* ── Coming Soon (Instagram) ── */
 .coming-soon{background:linear-gradient(180deg,var(--color-surface),var(--color-surface-2));border:1px solid var(--color-divider);border-radius:calc(var(--radius-xl) + 4px);padding:clamp(2rem,4vw,4rem);box-shadow:var(--shadow-md)}
 .coming-badge{display:inline-flex;align-items:center;gap:8px;padding:var(--space-2) var(--space-4);border-radius:var(--radius-full);background:var(--color-primary-highlight);color:var(--color-primary);font-size:var(--text-xs);font-weight:700;letter-spacing:.08em;text-transform:uppercase;margin-bottom:var(--space-4)}
 .coming-title{font-family:var(--font-display);font-size:clamp(2rem,4vw,3.75rem);line-height:1.02;margin-bottom:var(--space-3);max-width:10ch}
@@ -74,68 +130,57 @@ a{color:inherit}
 .handle-list{background:var(--color-surface);border:1px solid var(--color-divider);border-radius:var(--radius-lg);padding:var(--space-4);max-height:360px;overflow:auto}
 .handle-list h4{font-size:var(--text-xs);text-transform:uppercase;letter-spacing:.06em;color:var(--color-text-muted);margin-bottom:var(--space-3)}
 .handle{display:flex;justify-content:space-between;gap:var(--space-3);padding:var(--space-3) 0;border-top:1px solid var(--color-divider)}.handle:first-of-type{border-top:none;padding-top:0}.handle span:last-child{font-size:var(--text-xs);color:var(--color-text-faint)}
+
 @media(max-width:860px){.coming-grid{grid-template-columns:1fr}.mini-cards{grid-template-columns:1fr}.panel-intro{flex-direction:column;align-items:flex-start}}
 @media(max-width:640px){.topbar{padding:var(--space-3) var(--space-4)}.logo-sub{display:none}.page{padding:var(--space-4)}}
 </style>
 </head>
 <body>
+
+<!-- Topbar -->
 <header class="topbar">
   <div class="logo">
-    <svg width="28" height="28" viewBox="0 0 28 28" fill="none" aria-label="AZA Fashions">
-      <rect width="28" height="28" rx="6" fill="var(--color-primary)"/>
-      <path d="M7 21L11.5 8H16.5L21 21H18L16.8 17.5H11.2L10 21H7Z" fill="var(--color-text-inverse)"/>
-      <path d="M12 15L14 9.5L16 15H12Z" fill="var(--color-primary)"/>
-    </svg>
     <span class="logo-text">AZA</span>
     <span class="logo-sub">Content Intelligence Desk</span>
   </div>
   <div class="spacer"></div>
   <span class="meta" id="last-updated">Loading…</span>
   <div class="actions">
-    <button class="btn-icon" data-theme-toggle aria-label="Toggle dark mode">
-      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
-    </button>
+    <button class="btn-icon" data-theme-toggle aria-label="Toggle theme"></button>
     <button class="btn-refresh" id="btn-refresh" onclick="loadFeed()">Refresh</button>
   </div>
 </header>
 
 <main class="page">
-  <div class="tabs">
-    <button class="tab-btn active" onclick="switchTab('websites', this)">Websites</button>
-    <button class="tab-btn" onclick="switchTab('trends', this)">Google Trends</button>
-    <button class="tab-btn" onclick="switchTab('instagram', this)">Instagram</button>
-  </div>
+  <!-- Tabs -->
+  <nav class="tabs">
+    <button class="tab-btn active" onclick="switchTab('websites',this)">Websites</button>
+    <button class="tab-btn" onclick="switchTab('trends',this)">Google Trends</button>
+    <button class="tab-btn" onclick="switchTab('instagram',this)">Instagram</button>
+  </nav>
 
-  <section class="tab-panel active" id="tab-websites">
+  <!-- ═══════════════ TAB 1: WEBSITES ═══════════════ -->
+  <section id="tab-websites" class="tab-panel active">
     <div class="panel-intro">
-      <div>
-        <h1>Website Intelligence</h1>
-        <p>Track AZA, direct competitors, and industry publishers in one place. Use this tab to spot fresh posts, extract angles, and shortlist ideas for the content team.</p>
-      </div>
+      <div><h1>Website Intelligence</h1><p>Track AZA, direct competitors, and industry publishers in one place. Use this tab to spot fresh posts, extract angles, and shortlist ideas for the content team.</p></div>
     </div>
-
-    <div class="setup-banner" id="setup-banner" style="display:none">
+    <div class="setup-banner" id="setup-banner">
       <h2>First-Time Setup</h2>
       <p>This view reads <code>feed.json</code> generated by GitHub Actions. Push your files, enable GitHub Pages, and run the workflow once.</p>
       <div class="steps">
-        <div class="step"><span class="step-n">1</span><span>Push the project files to your repository.</span></div>
-        <div class="step"><span class="step-n">2</span><span>Enable GitHub Pages from the main branch.</span></div>
-        <div class="step"><span class="step-n">3</span><span>Run the feed refresh workflow to create <code>feed.json</code>.</span></div>
+        <div class="step"><span class="step-n">1</span> Push the project files to your repository.</div>
+        <div class="step"><span class="step-n">2</span> Enable GitHub Pages from the main branch.</div>
+        <div class="step"><span class="step-n">3</span> Run the feed refresh workflow to create <code>feed.json</code>.</div>
       </div>
     </div>
-
-    <div class="stats" id="stats" style="display:none">
+    <div class="stats" id="stats">
       <div class="stat"><div class="stat-label">Competitor Posts</div><div class="stat-value" id="s-comp">—</div><div class="stat-sub">latest captured</div></div>
-      <div class="stat"><div class="stat-label">Industry Articles</div><div class="stat-value" id="s-articles">—</div><div class="stat-sub" id="s-sources">—</div></div>
+      <div class="stat"><div class="stat-label">Industry Articles</div><div class="stat-value" id="s-articles">—</div><div class="stat-sub">—</div></div>
       <div class="stat"><div class="stat-label">Owned Sources</div><div class="stat-value" id="s-owned">—</div><div class="stat-sub">AZA ecosystem</div></div>
-      <div class="stat"><div class="stat-label">Feed Updated</div><div class="stat-value" style="font-size:var(--text-lg)" id="s-time">—</div><div class="stat-sub">IST</div></div>
+      <div class="stat"><div class="stat-label">Feed Updated</div><div class="stat-value" id="s-time">—</div><div class="stat-sub">IST</div></div>
     </div>
-
-    <div class="filter-bar" id="filter-bar" style="display:none">
-      <div class="search-wrap">
-        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
-        <input type="text" id="q" placeholder="Search titles, designers, sources…" oninput="renderArticles()">
-      </div>
+    <div class="filter-bar" id="filter-bar">
+      <div class="search-wrap"><svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2"><circle cx="6" cy="6" r="5"/><path d="M10 10l3 3"/></svg><input type="text" id="q" placeholder="Search titles, designers, sources…" oninput="renderArticles()"></div>
       <div class="pills">
         <button class="pill active" onclick="setF('All',this)">All</button>
         <button class="pill competitor-pill" onclick="setF('__competitor__',this)">Competitors</button>
@@ -145,80 +190,69 @@ a{color:inherit}
         <button class="pill" onclick="setF('Art & Craft',this)">Craft</button>
         <button class="pill" onclick="setF('Trend Alert',this)">Trend</button>
       </div>
-      <div class="select-wrap">
-        <select id="sortBy" onchange="renderArticles()">
-          <option value="relevance">Best match</option>
-          <option value="latest">Latest posts</option>
-          <option value="source">Source A–Z</option>
-        </select>
-      </div>
+      <div class="select-wrap"><select id="sortBy" onchange="renderArticles()"><option value="relevance">Best match</option><option value="latest">Latest posts</option><option value="source">Source A–Z</option></select></div>
     </div>
-
-    <div class="sec-header" id="a-header" style="display:none">
-      <span class="sec-title">Tracked Posts</span>
-      <span class="sec-count" id="a-count">—</span>
-    </div>
-
-    <div id="articles-grid" class="grid" style="display:none"></div>
-    <div id="empty" class="empty" style="display:none"><h3>No results found</h3><p>Try a different search term or category.</p></div>
+    <div class="sec-header" id="a-header"><span class="sec-title">Tracked Posts</span><span class="sec-count" id="a-count">—</span></div>
+    <div class="grid" id="articles-grid"></div>
+    <div class="empty" id="empty"><h3>No results found</h3><p>Try a different search term or category.</p></div>
   </section>
 
-  <section class="tab-panel" id="tab-trends">
+  <!-- ═══════════════ TAB 2: GOOGLE TRENDS ═══════════════ -->
+  <section id="tab-trends" class="tab-panel">
     <div class="panel-intro">
-      <div>
-        <h1>Google Trends Signals</h1>
-        <p>This tab shows all currently available Google Trends signals for India. Your team can manually scan and shortlist the fashion-relevant ones.</p>
-      </div>
+      <div><h1>Google Trends Intelligence</h1><p>Trending RSS signals for India plus keyword-level search intelligence from AZA's tracked keyword portfolio across IN and US markets.</p></div>
     </div>
 
-    <div class="stats" id="trend-stats" style="display:none">
+    <!-- RSS Trend Stats -->
+    <div class="stats" id="trend-stats">
       <div class="stat"><div class="stat-label">Trend Signals</div><div class="stat-value" id="s-trends">—</div><div class="stat-sub">from Google Trends India</div></div>
-      <div class="stat"><div class="stat-label">Top Category</div><div class="stat-value" style="font-size:var(--text-lg)" id="s-topcat">—</div><div class="stat-sub">most common AZA label</div></div>
+      <div class="stat"><div class="stat-label">Top Category</div><div class="stat-value" id="s-topcat">—</div><div class="stat-sub">most common AZA label</div></div>
+      <div class="stat"><div class="stat-label">Keyword Signals</div><div class="stat-value" id="s-kw-count">—</div><div class="stat-sub" id="s-kw-sub">from tracked keywords</div></div>
+      <div class="stat"><div class="stat-label">Rising Queries</div><div class="stat-value" id="s-rising">—</div><div class="stat-sub">breakout signals</div></div>
     </div>
 
-    <div class="sec-header" id="t-header" style="display:none">
-      <span class="sec-title">Trending in India</span>
-      <span class="sec-count" id="t-count">—</span>
-    </div>
+    <!-- RSS Trends -->
+    <div class="sec-header" id="t-header"><span class="sec-title">Trending in India</span><span class="sec-count" id="t-count">—</span></div>
     <div class="trends-row" id="trends-row"></div>
+
+    <!-- ── NEW: Keyword Trends ── -->
+    <div class="kw-section" id="kw-section">
+      <div class="sec-header" style="display:flex" id="kw-header"><span class="sec-title">Keyword Search Intelligence</span><span class="sec-count" id="kw-count">—</span></div>
+      <p style="color:var(--color-text-muted);font-size:var(--text-xs);margin-bottom:var(--space-4)">Related and rising queries for AZA's tracked keywords — surfaced via pytrends. Use these to spot emerging search demand and plan content around what people are actively searching.</p>
+
+      <div class="kw-filter-bar" id="kw-filter-bar">
+        <div class="pills">
+          <button class="pill active" onclick="setKwGeo('all',this)">All Markets</button>
+          <button class="pill" onclick="setKwGeo('IN',this)" style="border-color:var(--color-geo-in);color:var(--color-geo-in)">🇮🇳 India</button>
+          <button class="pill" onclick="setKwGeo('US',this)" style="border-color:var(--color-geo-us);color:var(--color-geo-us)">🇺🇸 United States</button>
+        </div>
+        <div class="pills">
+          <button class="pill active" onclick="setKwType('all',this)">All Types</button>
+          <button class="pill" onclick="setKwType('Category',this)">Category</button>
+          <button class="pill" onclick="setKwType('Designer',this)">Designer</button>
+        </div>
+        <div class="search-wrap" style="max-width:260px"><svg width="14" height="14" fill="none" stroke="currentColor" stroke-width="2"><circle cx="6" cy="6" r="5"/><path d="M10 10l3 3"/></svg><input type="text" id="kw-q" placeholder="Filter keywords…" oninput="renderKeywordTrends()"></div>
+      </div>
+
+      <div class="kw-grid" id="kw-grid"></div>
+      <div class="kw-empty" id="kw-empty" style="display:none"><h3>No keyword signals yet</h3><p>Keyword trend data will appear after the workflow runs with pytrends enabled. Install <code>pytrends</code> in your GitHub Actions environment.</p></div>
+    </div>
   </section>
 
-  <section class="tab-panel" id="tab-instagram">
-    <div class="panel-intro">
-      <div>
-        <h1>Instagram Watchlist</h1>
-        <p>This tab will house fashion, media, commentary, bridal, runway, and culture profiles the team tracks daily. It is structured separately from websites so social signals can be viewed on their own rhythm.</p>
-      </div>
-    </div>
-
+  <!-- ═══════════════ TAB 3: INSTAGRAM ═══════════════ -->
+  <section id="tab-instagram" class="tab-panel">
+    <div class="panel-intro"><div><h1>Instagram Watchlist</h1><p>This tab will house fashion, media, commentary, bridal, runway, and culture profiles the team tracks daily. It is structured separately from websites so social signals can be viewed on their own rhythm.</p></div></div>
     <div class="coming-soon">
-      <div class="coming-badge">
-        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 8v4l3 3"/><circle cx="12" cy="12" r="9"/></svg>
-        Coming soon
-      </div>
-      <h2 class="coming-title">Instagram signal desk is under preparation.</h2>
+      <span class="coming-badge"><span style="width:6px;height:6px;border-radius:50%;background:var(--color-primary);display:inline-block"></span> Coming soon</span>
+      <div class="coming-title">Instagram signal desk is under preparation.</div>
       <p class="coming-copy">This section is reserved for tracked public profiles and will eventually surface recent post activity, content themes, recurring aesthetics, and AZA-relevant editorial takeaways in a dedicated social layer.</p>
-
       <div class="coming-grid">
         <div class="mini-cards">
-          <div class="mini-card">
-            <h4>Planned view</h4>
-            <p>Latest posts by handle, caption snippets, and profile-level filters across fashion, bridal, luxury, and culture accounts.</p>
-          </div>
-          <div class="mini-card">
-            <h4>Planned use</h4>
-            <p>Turn observed social narratives into story leads, trend explainers, celebrity style blogs, and visual inspiration for AZA content.</p>
-          </div>
-          <div class="mini-card">
-            <h4>Suggested grouping</h4>
-            <p>Commentary accounts, bridal media, global fashion press, shopping and runway pages, and Indian style culture profiles.</p>
-          </div>
-          <div class="mini-card">
-            <h4>Status</h4>
-            <p>Tab layout is ready. Data source and feed integration will be added next.</p>
-          </div>
+          <div class="mini-card"><h4>Planned view</h4><p>Latest posts by handle, caption snippets, and profile-level filters across fashion, bridal, luxury, and culture accounts.</p></div>
+          <div class="mini-card"><h4>Planned use</h4><p>Turn observed social narratives into story leads, trend explainers, celebrity style blogs, and visual inspiration for AZA content.</p></div>
+          <div class="mini-card"><h4>Suggested grouping</h4><p>Commentary accounts, bridal media, global fashion press, shopping and runway pages, and Indian style culture profiles.</p></div>
+          <div class="mini-card"><h4>Status</h4><p>Tab layout is ready. Data source and feed integration will be added next.</p></div>
         </div>
-
         <div class="handle-list">
           <h4>Initial watchlist sample</h4>
           <div class="handle"><span>@dietsabya</span><span>commentary</span></div>
@@ -238,8 +272,9 @@ a{color:inherit}
 </main>
 
 <script>
-let articles=[], trends=[], activeF='All';
+let articles=[], trends=[], keywordTrends=[], activeF='All', kwGeo='all', kwType='all';
 
+// Theme toggle
 (function(){
   const t=document.querySelector('[data-theme-toggle]'),r=document.documentElement;
   let d=matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light';
@@ -250,7 +285,7 @@ let articles=[], trends=[], activeF='All';
   t.addEventListener('click',()=>{d=d==='dark'?'light':'dark';r.setAttribute('data-theme',d);t.innerHTML=d==='dark'?sun:moon;});
 })();
 
-function switchTab(tab, el){
+function switchTab(tab,el){
   document.querySelectorAll('.tab-btn').forEach(b=>b.classList.remove('active'));
   document.querySelectorAll('.tab-panel').forEach(p=>p.classList.remove('active'));
   el.classList.add('active');
@@ -267,6 +302,7 @@ async function loadFeed(){
     const d=await r.json();
     articles=d.articles||[];
     trends=d.trends||[];
+    keywordTrends=d.keyword_trends||[];
     renderAll(d);
   }catch(e){
     document.getElementById('setup-banner').style.display='block';
@@ -275,17 +311,20 @@ async function loadFeed(){
 }
 
 function renderAll(d){
+  // Show website stats
   document.getElementById('stats').style.display='grid';
   document.getElementById('filter-bar').style.display='flex';
   document.getElementById('a-header').style.display='flex';
   document.getElementById('articles-grid').style.display='grid';
-  document.getElementById('trend-stats').style.display='grid';
-  document.getElementById('t-header').style.display='flex';
 
   document.getElementById('s-comp').textContent = d.competitor_count || articles.filter(a=>a.is_competitor).length;
   document.getElementById('s-articles').textContent = d.industry_count || articles.filter(a=>a.tier==='industry').length;
   document.getElementById('s-owned').textContent = d.owned_count || articles.filter(a=>a.tier==='owned').length;
   document.getElementById('s-sources').textContent = 'across ' + [...new Set(articles.map(a=>a.source))].length + ' sources';
+
+  // Trend stats
+  document.getElementById('trend-stats').style.display='grid';
+  document.getElementById('t-header').style.display='flex';
   document.getElementById('s-trends').textContent = trends.length;
   document.getElementById('t-count').textContent = trends.length + ' signals';
 
@@ -293,6 +332,14 @@ function renderAll(d){
   trends.forEach(t=>counts[t.aza_category]=(counts[t.aza_category]||0)+1);
   const topCat = Object.entries(counts).sort((a,b)=>b[1]-a[1])[0];
   document.getElementById('s-topcat').textContent = topCat ? topCat[0] : '—';
+
+  // Keyword trend stats
+  document.getElementById('s-kw-count').textContent = keywordTrends.length;
+  const inCount = keywordTrends.filter(k=>k.geo==='IN').length;
+  const usCount = keywordTrends.filter(k=>k.geo==='US').length;
+  document.getElementById('s-kw-sub').textContent = `${inCount} IN · ${usCount} US`;
+  const totalRising = keywordTrends.reduce((sum,k)=>sum+(k.rising||[]).length,0);
+  document.getElementById('s-rising').textContent = totalRising;
 
   if(d.generated_at){
     const ist=new Date(new Date(d.generated_at).getTime()+5.5*3600000);
@@ -302,76 +349,120 @@ function renderAll(d){
 
   renderArticles();
   renderTrends();
+  renderKeywordTrends();
 }
 
-function setF(cat,el){
-  activeF=cat;
-  document.querySelectorAll('.pill').forEach(p=>p.classList.remove('active'));
-  el.classList.add('active');
-  renderArticles();
-}
+// ── Website Articles ──
+function setF(cat,el){activeF=cat;document.querySelectorAll('#filter-bar .pill').forEach(p=>p.classList.remove('active'));el.classList.add('active');renderArticles();}
 
-function parsePublishedDate(s){
-  const d = new Date(s || '');
-  return isNaN(d) ? 0 : d.getTime();
-}
+function parsePublishedDate(s){const d=new Date(s||'');return isNaN(d)?0:d.getTime();}
 
 function renderArticles(){
   const q=(document.getElementById('q')?.value||'').toLowerCase().trim();
-  const sortBy=document.getElementById('sortBy')?.value || 'relevance';
+  const sortBy=document.getElementById('sortBy')?.value||'relevance';
   let items=[...articles];
-
   if(activeF==='__competitor__') items=items.filter(a=>a.is_competitor);
   else if(activeF!=='All') items=items.filter(a=>a.aza_category===activeF);
-
   if(q) items=items.filter(a=>(a.title+' '+a.source+' '+a.angle+' '+(a.summary||'')).toLowerCase().includes(q));
-
   if(sortBy==='latest') items.sort((a,b)=>parsePublishedDate(b.published)-parsePublishedDate(a.published));
   else if(sortBy==='source') items.sort((a,b)=>String(a.source).localeCompare(String(b.source)));
-  else items.sort((a,b)=>((b.is_competitor?1:0)-(a.is_competitor?1:0)) || ((parsePublishedDate(b.published))-(parsePublishedDate(a.published))));
-
+  else items.sort((a,b)=>((b.is_competitor?1:0)-(a.is_competitor?1:0))||((parsePublishedDate(b.published))-(parsePublishedDate(a.published))));
   document.getElementById('a-count').textContent=items.length+' posts';
-  const grid=document.getElementById('articles-grid'), emp=document.getElementById('empty');
-  if(!items.length){grid.style.display='none'; emp.style.display='block'; return;}
-  emp.style.display='none'; grid.style.display='grid';
-
+  const grid=document.getElementById('articles-grid'),emp=document.getElementById('empty');
+  if(!items.length){grid.style.display='none';emp.style.display='block';return;}
+  emp.style.display='none';grid.style.display='grid';
   grid.innerHTML=items.map(a=>`
-    <article class="card ${a.is_competitor ? 'competitor' : ''}">
+    <article class="card ${a.is_competitor?'competitor':''}">
       <div class="card-top">
-        ${a.is_competitor ? '<span class="competitor-flag">Competitor</span>' : ''}
-        <span class="source">${escapeHtml(a.source)}</span>
-        <span class="cat">${escapeHtml(a.aza_category || 'Fashion & Style')}</span>
+        ${a.is_competitor?'<span class="competitor-flag">Competitor</span>':''}
+        <span class="source">${esc(a.source)}</span>
+        <span class="cat">${esc(a.aza_category||'Fashion & Style')}</span>
       </div>
-      <div class="card-title"><a href="${escapeHtml(a.link)}" target="_blank" rel="noopener noreferrer">${escapeHtml(a.title)}</a></div>
-      ${a.summary ? `<p class="card-summary">${escapeHtml(a.summary)}</p>` : ''}
-      <div class="angle-box"><div class="angle-label">AZA angle</div><div class="angle-text">${escapeHtml(a.angle || '')}</div></div>
-      <div class="card-footer"><span class="pub">${formatDate(a.published)}</span></div>
+      <div class="card-title"><a href="${esc(a.link)}" target="_blank" rel="noopener noreferrer">${esc(a.title)}</a></div>
+      ${a.summary?`<p class="card-summary">${esc(a.summary)}</p>`:''}
+      <div class="angle-box"><div class="angle-label">AZA angle</div><div class="angle-text">${esc(a.angle||'')}</div></div>
+      <div class="card-footer"><span class="pub">${fmtDate(a.published)}</span></div>
     </article>
   `).join('');
 }
 
+// ── RSS Trends ──
 function renderTrends(){
   const row=document.getElementById('trends-row');
-  if(!(trends||[]).length){
-    row.innerHTML = '<div class="empty"><h3>No trend signals yet</h3><p>Refresh the feed after the workflow runs again.</p></div>';
-    return;
-  }
-
+  if(!(trends||[]).length){row.innerHTML='<div class="empty" style="display:block"><h3>No trend signals yet</h3><p>Refresh the feed after the workflow runs again.</p></div>';return;}
   row.innerHTML=(trends||[]).map(t=>`
     <div class="trend-chip">
-      <div class="trend-term">${escapeHtml(t.term)}</div>
-      <div class="trend-cat">${escapeHtml(t.aza_category || 'General Trend')}</div>
-      ${t.summary ? `<div class="trend-cat" style="margin-top:6px">${escapeHtml(t.summary)}</div>` : ''}
+      <div class="trend-term">${esc(t.term)}</div>
+      <div class="trend-cat">${esc(t.aza_category||'General Trend')}</div>
+      ${t.summary?`<div class="trend-cat" style="margin-top:6px">${esc(t.summary)}</div>`:''}
     </div>
   `).join('');
 }
 
-function formatDate(s){
-  if(!s) return 'Date unavailable';
-  const d=new Date(s);
-  return isNaN(d) ? 'Date unavailable' : d.toLocaleDateString('en-IN',{day:'numeric',month:'short',year:'numeric'});
+// ── Keyword Trends ──
+function setKwGeo(g,el){kwGeo=g;document.querySelectorAll('#kw-filter-bar .pills:first-child .pill').forEach(p=>p.classList.remove('active'));el.classList.add('active');renderKeywordTrends();}
+function setKwType(t,el){kwType=t;document.querySelectorAll('#kw-filter-bar .pills:nth-child(2) .pill').forEach(p=>p.classList.remove('active'));el.classList.add('active');renderKeywordTrends();}
+
+function renderKeywordTrends(){
+  const grid=document.getElementById('kw-grid');
+  const empty=document.getElementById('kw-empty');
+  const q=(document.getElementById('kw-q')?.value||'').toLowerCase().trim();
+
+  let items=[...keywordTrends];
+  if(kwGeo!=='all') items=items.filter(k=>k.geo===kwGeo);
+  if(kwType!=='all') items=items.filter(k=>k.keyword_type===kwType);
+  if(q) items=items.filter(k=>{
+    const text=(k.keyword+' '+(k.rising||[]).map(r=>r.query).join(' ')+(k.top||[]).map(r=>r.query).join(' ')).toLowerCase();
+    return text.includes(q);
+  });
+
+  document.getElementById('kw-count').textContent=items.length+' keywords';
+
+  if(!items.length){
+    grid.innerHTML='';
+    empty.style.display='block';
+    return;
+  }
+  empty.style.display='none';
+
+  // Sort: keywords with more rising queries first
+  items.sort((a,b)=>(b.rising||[]).length-(a.rising||[]).length);
+
+  grid.innerHTML=items.map(k=>{
+    const rising=k.rising||[];
+    const top=k.top||[];
+    const geoClass=k.geo==='IN'?'geo-in':'geo-us';
+    const geoFlag=k.geo==='IN'?'🇮🇳 India':'🇺🇸 US';
+
+    return `
+      <div class="kw-card">
+        <div class="kw-header">
+          <span class="kw-keyword">${esc(k.keyword)}</span>
+          <span class="geo-badge ${geoClass}">${geoFlag}</span>
+          <span class="type-badge">${esc(k.keyword_type)}</span>
+          <span class="cat">${esc(k.aza_category||'')}</span>
+        </div>
+        ${rising.length?`
+          <div class="kw-queries">
+            <div class="kw-queries-title"><span class="rising-dot"></span> Rising Queries</div>
+            ${rising.map(r=>`<div class="query-row rising"><span class="query-text">${esc(r.query)}</span><span class="query-value">↑ ${esc(r.value)}</span></div>`).join('')}
+          </div>
+        `:''}
+        ${top.length?`
+          <div class="kw-queries">
+            <div class="kw-queries-title">Top Related</div>
+            ${top.map(r=>`<div class="query-row"><span class="query-text">${esc(r.query)}</span><span class="query-value">${r.value}</span></div>`).join('')}
+          </div>
+        `:''}
+        <div class="kw-angle"><div class="angle-label">Content angle</div><div class="angle-text">${esc(k.angle||'')}</div></div>
+      </div>
+    `;
+  }).join('');
 }
-function escapeHtml(s){return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
+
+// ── Utils ──
+function fmtDate(s){if(!s)return'Date unavailable';const d=new Date(s);return isNaN(d)?'Date unavailable':d.toLocaleDateString('en-IN',{day:'numeric',month:'short',year:'numeric'});}
+function esc(s){return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
 
 loadFeed();
 </script>

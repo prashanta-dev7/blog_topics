@@ -1,12 +1,15 @@
 #!/usr/bin/env python3
 """
-AZA Blog Agent — Content Intelligence Feed Generator (v5.0)
+AZA Blog Agent — Content Intelligence Feed Generator (v5.1)
 Fetches from 36 editorial/competitor sources, Google Trends RSS,
 and pytrends keyword intelligence for IN + US markets.
+Keywords are pulled LIVE from published Google Sheets CSVs.
 Output: feed.json consumed by the Content Intelligence Desk (index.html)
 """
 
 import json
+import csv
+import io
 import feedparser
 import requests
 import re
@@ -19,11 +22,17 @@ from dateutil import parser as dateparser
 
 # ── Config ──────────────────────────────────────────────────────────────
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (AZA Blog Agent/5.0; +https://www.azafashions.com)"
+    "User-Agent": "Mozilla/5.0 (AZA Blog Agent/5.1; +https://www.azafashions.com)"
 }
 MAX_AGE_DAYS = 60
 CUTOFF_DATE = datetime.now(timezone.utc) - timedelta(days=MAX_AGE_DAYS)
 GOOGLE_TRENDS_URL = "https://trends.google.com/trending/rss?geo=IN"
+
+# ── Google Sheets Published CSV URLs ───────────────────────────────────
+# These are public "Publish to web" CSV links from the AZA Keyword Tracker.
+# To update keywords, edit the Google Sheet — changes auto-propagate on next run.
+SHEET_KEYWORDS_IN = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRsmtSEaFevi3T7sM8E5j4wgPNgCI2M3l7TQYLEV3mOFZd0CLojejG2zASpbfNfInAj2G18a-jSfHS1/pub?gid=114123390&single=true&output=csv"
+SHEET_KEYWORDS_US = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRsmtSEaFevi3T7sM8E5j4wgPNgCI2M3l7TQYLEV3mOFZd0CLojejG2zASpbfNfInAj2G18a-jSfHS1/pub?gid=1487731411&single=true&output=csv"
 
 # ── Sources (36 sites) ─────────────────────────────────────────────────
 SOURCES = [
@@ -68,65 +77,6 @@ SOURCES = [
     {"name":"The Sartorialist","tier":"industry","pages":["https://www.thesartorialist.com"],"feeds":["https://www.thesartorialist.com/feed"]},
     {"name":"FashionBeans","tier":"industry","pages":["https://www.fashionbeans.com"],"feeds":["https://www.fashionbeans.com/feed"]},
     {"name":"Fashion Gone Rogue","tier":"industry","pages":["https://www.fashiongonerogue.com"],"feeds":["https://www.fashiongonerogue.com/feed"]},
-]
-
-# ── Keyword Trends Config ──────────────────────────────────────────────
-# Top tracked keywords from AZA Keyword Tracker (by search volume)
-# These are used for pytrends related-queries lookups to surface
-# emerging search signals the content team can act on.
-
-KEYWORDS_IN = [
-    ("saree for women","Category"),("sarees","Category"),("lehenga","Category"),
-    ("saree","Category"),("lehengas","Category"),("Lashkaraa","Designer"),
-    ("indian clothes","Category"),("indian clothing","Category"),
-    ("sarees for women","Category"),("Sabyasachi","Designer"),
-    ("indian dresses","Category"),("indian dress","Category"),
-    ("salwar kameez","Category"),("sherwani","Category"),
-    ("indian outfits for women","Category"),("indian dresses for women","Category"),
-    ("kurta for men","Category"),("sharara","Category"),
-    ("indian sarees","Category"),("indian saree","Category"),
-    ("sherwani for men","Category"),("lehenga choli","Category"),
-    ("mens indian clothing","Category"),("indo western for women","Category"),
-    ("Mahima Mahajan","Designer"),("lehenga dress","Category"),
-    ("bridal lehenga","Category"),("Masaba","Designer"),
-    ("indian outfits","Category"),("anarkali dress","Category"),
-    ("lehenga for wedding","Category"),("wedding sarees","Category"),
-    ("ready to wear saree","Category"),("sharara suit","Category"),
-    ("sharara suits","Category"),("mens kurta","Category"),
-    ("lehenga for women","Category"),("lehengas for women","Category"),
-    ("kurta for women","Category"),("saree blouse","Category"),
-    ("indian ethnic wear","Category"),("indo western dress","Category"),
-    ("indian lehenga","Category"),("black kurta","Category"),
-    ("pre stitched saree","Category"),("pre draped saree","Category"),
-    ("wedding lehenga","Category"),("sangeet lehenga","Category"),
-    ("Paulmi And Harsh","Designer"),("Basanti Kapde Aur Koffee","Designer"),
-]
-
-KEYWORDS_US = [
-    ("anthrilo","Designer"),("gowns","Category"),("sarees","Category"),
-    ("designer shirts","Category"),("palazzo pants","Category"),
-    ("lehenga","Category"),("lehengas","Category"),("kaftans","Category"),
-    ("lashkaraa","Designer"),("kurtas","Category"),
-    ("aza","Category"),("indian dresses for wedding","Category"),
-    ("designer dresses","Category"),("gowns for women","Category"),
-    ("aza fashions","Category"),("anarkali","Category"),
-    ("saree dress","Category"),("sarees for women","Category"),
-    ("jhumkas","Category"),("kaftans for women","Category"),
-    ("blouse designs","Category"),("indian dresses online","Category"),
-    ("indian dresses for women","Category"),("anarkali dress","Category"),
-    ("ready to wear saree","Category"),("designer dresses for women","Category"),
-    ("silk sarees","Category"),("saree blouses","Category"),
-    ("tarun tahiliani","Designer"),("masaba","Designer"),
-    ("sherwani mens wear","Category"),("lehenga for women","Category"),
-    ("mens kurta","Category"),("sharara suit","Category"),
-    ("bridal lehengas","Category"),("sherwani men","Category"),
-    ("kurta for women","Category"),("jhumka earrings","Category"),
-    ("pre draped saree","Category"),("black saree","Category"),
-    ("mahima mahajan","Designer"),("saree blouse designs","Category"),
-    ("indian lehenga","Category"),("anarkali suit","Category"),
-    ("house of chikankari","Designer"),("pre stitched saree","Category"),
-    ("indian kurta for men","Category"),("black kurta","Category"),
-    ("designer jackets for women","Category"),("red saree","Category"),
 ]
 
 # ── Fashion Intelligence ───────────────────────────────────────────────
@@ -251,7 +201,138 @@ def is_recent(dt):
     return dt is not None and dt >= CUTOFF_DATE
 
 
-# ── Feed + HTML Fetchers (unchanged from v4) ───────────────────────────
+# ── Google Sheets Keyword Loader ───────────────────────────────────────
+def fetch_keywords_from_sheets():
+    """
+    Fetch keyword lists from published Google Sheets CSVs.
+    Returns (keywords_in, keywords_us) where each is a list of (keyword, keyword_type) tuples.
+    Falls back to empty lists if fetch fails.
+    """
+    keywords_in = []
+    keywords_us = []
+
+    # ── Keywords_IN ──
+    # Expected columns: (blank), Keyword, Keyword Type, Target URL, Search Volume (IN), Active, ...
+    # Header row has "Keyword" in it; data rows follow. Skip rows where Active != TRUE.
+    try:
+        print("Fetching Keywords_IN from Google Sheets...")
+        resp = requests.get(SHEET_KEYWORDS_IN, headers=HEADERS, timeout=30)
+        resp.raise_for_status()
+        reader = csv.reader(io.StringIO(resp.text))
+        rows = list(reader)
+
+        # Find header row (contains "Keyword")
+        header_idx = None
+        kw_col = None
+        type_col = None
+        active_col = None
+        vol_col = None
+        for i, row in enumerate(rows):
+            row_lower = [str(c).strip().lower() for c in row]
+            if "keyword" in row_lower:
+                header_idx = i
+                for j, cell in enumerate(row_lower):
+                    if cell == "keyword":
+                        kw_col = j
+                    elif cell == "keyword type":
+                        type_col = j
+                    elif cell == "active":
+                        active_col = j
+                    elif "search volume" in cell:
+                        vol_col = j
+                break
+
+        if header_idx is not None and kw_col is not None:
+            for row in rows[header_idx + 1:]:
+                if len(row) <= kw_col:
+                    continue
+                keyword = str(row[kw_col]).strip()
+                kw_type = str(row[type_col]).strip() if type_col is not None and len(row) > type_col else "Category"
+                active = str(row[active_col]).strip().upper() if active_col is not None and len(row) > active_col else "TRUE"
+                volume = 0
+                if vol_col is not None and len(row) > vol_col:
+                    try:
+                        volume = int(str(row[vol_col]).replace(",", "").strip())
+                    except (ValueError, TypeError):
+                        volume = 0
+
+                if keyword and active == "TRUE":
+                    keywords_in.append((keyword, kw_type, volume))
+
+            # Sort by volume descending, take top 60
+            keywords_in.sort(key=lambda x: -x[2])
+            keywords_in = [(k, t) for k, t, v in keywords_in[:60]]
+            print(f"  → Loaded {len(keywords_in)} IN keywords (top 60 by volume)")
+        else:
+            print("  → Could not find header row in Keywords_IN CSV")
+
+    except Exception as e:
+        print(f"  → Failed to fetch Keywords_IN: {e}")
+
+    # ── Keywords_US ──
+    # Expected columns: (blank), Keyword, Keyword Type, Volume Type, Category, Search Volume (US), Target URL, Date Added, Trend, Active, ...
+    try:
+        print("Fetching Keywords_US from Google Sheets...")
+        resp = requests.get(SHEET_KEYWORDS_US, headers=HEADERS, timeout=30)
+        resp.raise_for_status()
+        reader = csv.reader(io.StringIO(resp.text))
+        rows = list(reader)
+
+        header_idx = None
+        kw_col = None
+        type_col = None
+        voltype_col = None
+        active_col = None
+        vol_col = None
+        for i, row in enumerate(rows):
+            row_lower = [str(c).strip().lower() for c in row]
+            if "keyword" in row_lower:
+                header_idx = i
+                for j, cell in enumerate(row_lower):
+                    if cell == "keyword":
+                        kw_col = j
+                    elif cell == "keyword type":
+                        type_col = j
+                    elif cell == "volume type":
+                        voltype_col = j
+                    elif cell == "active":
+                        active_col = j
+                    elif "search volume" in cell:
+                        vol_col = j
+                break
+
+        if header_idx is not None and kw_col is not None:
+            for row in rows[header_idx + 1:]:
+                if len(row) <= kw_col:
+                    continue
+                keyword = str(row[kw_col]).strip()
+                kw_type = str(row[type_col]).strip() if type_col is not None and len(row) > type_col else "Category"
+                vol_type = str(row[voltype_col]).strip() if voltype_col is not None and len(row) > voltype_col else ""
+                active = str(row[active_col]).strip().upper() if active_col is not None and len(row) > active_col else "TRUE"
+                volume = 0
+                if vol_col is not None and len(row) > vol_col:
+                    try:
+                        volume = int(str(row[vol_col]).replace(",", "").strip())
+                    except (ValueError, TypeError):
+                        volume = 0
+
+                # Only Head + Torso keywords for pytrends (skip Tail — too many)
+                if keyword and active == "TRUE" and vol_type in ("Head", "Torso"):
+                    keywords_us.append((keyword, kw_type, volume))
+
+            keywords_us.sort(key=lambda x: -x[2])
+            keywords_us = [(k, t) for k, t, v in keywords_us[:60]]
+            print(f"  → Loaded {len(keywords_us)} US keywords (top 60 Head+Torso by volume)")
+        else:
+            print("  → Could not find header row in Keywords_US CSV")
+
+    except Exception as e:
+        print(f"  → Failed to fetch Keywords_US: {e}")
+
+    return keywords_in, keywords_us
+
+
+# ── Feed + HTML Fetchers ───────────────────────────────────────────────
 def item_from_entry(entry, src):
     title = clean_text(entry.get("title",""))
     link = entry.get("link","")
@@ -394,9 +475,8 @@ def fetch_source(src):
     return items
 
 
-# ── Google Trends RSS (unchanged) ──────────────────────────────────────
+# ── Google Trends RSS ──────────────────────────────────────────────────
 def fetch_trends_rss():
-    """Pull trending-now items from Google Trends RSS for India."""
     fashion_hits = []
     general_hits = []
     try:
@@ -421,14 +501,18 @@ def fetch_trends_rss():
     return general_hits[:12]
 
 
-# ── NEW: pytrends Keyword Intelligence ─────────────────────────────────
-def fetch_keyword_trends():
+# ── pytrends Keyword Intelligence ──────────────────────────────────────
+def fetch_keyword_trends(keywords_in, keywords_us):
     """
     Use pytrends to get related queries (rising + top) for AZA's
     tracked keywords in IN and US markets.
-    Returns a list of keyword trend objects for the frontend.
+    Keywords are passed in from the Google Sheets loader.
     Falls back gracefully if pytrends is unavailable or rate-limited.
     """
+    if not keywords_in and not keywords_us:
+        print("No keywords loaded — skipping pytrends")
+        return []
+
     try:
         from pytrends.request import TrendReq
     except ImportError:
@@ -439,11 +523,14 @@ def fetch_keyword_trends():
     pytrends = TrendReq(hl='en-US', tz=330, timeout=(10, 25), retries=2, backoff_factor=1.0)
 
     keyword_sets = [
-        ("IN", KEYWORDS_IN),
-        ("US", KEYWORDS_US),
+        ("IN", keywords_in),
+        ("US", keywords_us),
     ]
 
     for geo, keywords in keyword_sets:
+        if not keywords:
+            continue
+
         # Group into batches of 5 (pytrends limit)
         kw_list = [k for k, _ in keywords]
         batches = [kw_list[i:i+5] for i in range(0, len(kw_list), 5)]
@@ -499,7 +586,7 @@ def fetch_keyword_trends():
                             "aza_category": detect_category(kw),
                         })
 
-                # Rate limiting — be gentle with Google
+                # Rate limiting
                 time.sleep(2)
 
             except Exception as e:
@@ -507,12 +594,17 @@ def fetch_keyword_trends():
                 time.sleep(5)
                 continue
 
-    print(f"Keyword trends: {len(results)} keywords with signals ({sum(1 for r in results if r['geo']=='IN')} IN, {sum(1 for r in results if r['geo']=='US')} US)")
+    in_count = sum(1 for r in results if r['geo'] == 'IN')
+    us_count = sum(1 for r in results if r['geo'] == 'US')
+    print(f"Keyword trends: {len(results)} keywords with signals ({in_count} IN, {us_count} US)")
     return results
 
 
 # ── Main ────────────────────────────────────────────────────────────────
 if __name__ == "__main__":
+    # 0. Load keywords from Google Sheets
+    keywords_in, keywords_us = fetch_keywords_from_sheets()
+
     # 1. Fetch all website sources
     all_items = []
     for src in SOURCES:
@@ -533,11 +625,11 @@ if __name__ == "__main__":
     industry_count = sum(1 for x in articles if x["tier"] == "industry")
     owned_count = sum(1 for x in articles if x["tier"] == "owned")
 
-    # 2. Fetch Google Trends RSS (quick)
+    # 2. Fetch Google Trends RSS
     trends = fetch_trends_rss()
 
-    # 3. Fetch pytrends keyword intelligence (slow, rate-limited)
-    keyword_trends = fetch_keyword_trends()
+    # 3. Fetch pytrends keyword intelligence (uses live Sheet data)
+    keyword_trends = fetch_keyword_trends(keywords_in, keywords_us)
 
     # 4. Write feed.json
     with open("feed.json", "w", encoding="utf-8") as f:
@@ -546,10 +638,12 @@ if __name__ == "__main__":
             "owned_count": owned_count,
             "competitor_count": competitor_count,
             "industry_count": industry_count,
+            "keywords_loaded": {"IN": len(keywords_in), "US": len(keywords_us)},
             "articles": articles,
             "trends": trends,
             "keyword_trends": keyword_trends,
         }, f, indent=2, ensure_ascii=False)
 
     print(f"\nfeed.json written: {len(articles)} articles | owned={owned_count} competitor={competitor_count} industry={industry_count}")
+    print(f"Keywords loaded: {len(keywords_in)} IN, {len(keywords_us)} US (from Google Sheets)")
     print(f"Trends: {len(trends)} RSS signals | {len(keyword_trends)} keyword trend signals")

@@ -1,13 +1,41 @@
 {
-  "generated_at": "2026-04-15T09:22:41.396759+00:00",
+  "generated_at": "2026-04-15T09:59:27.740327+00:00",
   "owned_count": 10,
   "competitor_count": 20,
   "industry_count": 164,
   "keywords_loaded": {
     "IN": 60,
-    "US": 0
+    "US": 60
   },
   "articles": [
+    {
+      "id": "90bd333b75ba",
+      "title": "Hermès Sales Grow 5.6%, Missing Expectations",
+      "link": "https://www.vogue.com/article/hermes-sales-grow-56-missing-expectations",
+      "summary": "Sales growth at the French house decelerated in the first quarter, following a 8.9% incline in 2025.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Hermès Sales Grow 5.6%, Missing Expectations...",
+      "score": 0,
+      "published": "2026-04-15T09:48:48+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0501447c5b23",
+      "title": "Now an Influencer-Investor, Meghan Markle has made all her Australia tour looks shoppable",
+      "link": "https://www.vogue.com/article/meghan-markle-shoppable-outfits-oneoff",
+      "summary": "It’s been eight years since Meghan Markle, Duchess of Sussex was last in Australia and much has changed. She’s now a private citizen, and affiliate linked-up, launching a partnership with AI fashion platform OneOff.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Now an Influencer-Investor, Meghan Markle has made all her Australia t...",
+      "score": 2,
+      "published": "2026-04-15T09:47:52+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "91c446dd02c1",
       "title": "Zara, H&M And COS Just Perfected The 5 Chicest Spring Trends—9 Stylish Pieces That Won't Stay In Stock",
@@ -107,20 +135,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "90ea28570c7e",
-      "title": "It Girls in Paris, London, and NYC Are Already Wearing These Spring-to-Summer Transitional Trends",
-      "link": "https://www.whowhatwear.com/fashion/trends/spring-to-summer-transitional-trends",
-      "summary": "They're easier to re-create than you think.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-04-15T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3bda7275fc93",
       "title": "I Live in L.A. and Wear Jeans and White Tees Year-Round—These 10 Are My Favorites",
       "link": "https://www.whowhatwear.com/fashion/shopping/best-jeans-and-white-tees",
@@ -130,20 +144,6 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I Live in L.A. and Wear Jeans and White Tees Year-Round—These 10 Are M...",
-      "score": 1,
-      "published": "2026-04-15T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c0f487097413",
-      "title": "I Know You're a Cool Fashion Person If These 32 Spring Reformation Pieces Are in Your Cart",
-      "link": "https://www.whowhatwear.com/fashion/spring/cool-reformation-spring-pieces-2026",
-      "summary": "Warm-weather fashion is loading.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Know You're a Cool Fashion Person If These 32 Spring Reformation Pie...",
       "score": 1,
       "published": "2026-04-15T07:00:00+00:00",
       "discovered_via": "feed"
@@ -159,6 +159,34 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
+      "published": "2026-04-15T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "90ea28570c7e",
+      "title": "It Girls in Paris, London, and NYC Are Already Wearing These Spring-to-Summer Transitional Trends",
+      "link": "https://www.whowhatwear.com/fashion/trends/spring-to-summer-transitional-trends",
+      "summary": "They're easier to re-create than you think.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-04-15T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c0f487097413",
+      "title": "I Know You're a Cool Fashion Person If These 32 Spring Reformation Pieces Are in Your Cart",
+      "link": "https://www.whowhatwear.com/fashion/spring/cool-reformation-spring-pieces-2026",
+      "summary": "Warm-weather fashion is loading.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Know You're a Cool Fashion Person If These 32 Spring Reformation Pie...",
+      "score": 1,
       "published": "2026-04-15T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -961,20 +989,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e883192179dd",
-      "title": "The Best Hotels and Airbnbs in Hydra, From Charming Boutique Stays to Old Stone Homes",
-      "link": "https://www.vogue.com/article/best-hotels-and-airbnbs-in-hydra",
-      "summary": "For a tranquil Greek island stay, consider booking one of the best hotels or airbnbs in Hydra—a destination that’s long attracted artists and creatives.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Hotels and Airbnbs in Hydra, From Charming Boutique Stays to ...",
-      "score": 0,
-      "published": "2026-04-14T11:59:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2a3cc609fd1c",
       "title": "8 Best Barber Shop Colognes – Men’s Scents For 2026",
       "link": "https://www.fashionbeans.com/article/barber-shop-colognes/",
@@ -989,17 +1003,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "cb9ba102220d",
-      "title": "The Vogue Business AI Tracker",
-      "link": "https://www.vogue.com/story/technology/the-vogue-business-ai-tracker",
-      "summary": "Vogue Business brings you a weekly update of the most interesting stories in the world of AI that you need on your radar.Stay tuned as we spotlight AI initiatives in the fashion and beauty industry each week.",
-      "source": "Vogue US",
+      "id": "9bfaabe47c0c",
+      "title": "9 Best Chanel Colognes for Men: The Only List You’ll Ever Need in 2026",
+      "link": "https://www.fashionbeans.com/article/best-chanel-cologne-for-men/",
+      "summary": "Truly great cologne creators are few and far between, and finding a brand you love can really stink (sorry, couldn’t resist). Chanel is one of the biggest luxury lifestyle brands out there, so the best Chanel colognes for men is always pure class. Sure, they might make your mom’s favorite perfumes, but that doesn’t mea",
+      "source": "FashionBeans",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Vogue Business AI Tracker...",
-      "score": 2,
-      "published": "2026-04-14T10:09:50+00:00",
+      "angle": "Fashion Intelligence: 9 Best Chanel Colognes for Men: The Only List You’ll Ever Need in 2026...",
+      "score": 3,
+      "published": "2026-04-14T10:28:57+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1045,20 +1059,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b97557edb782",
-      "title": "This Affordable, Quiet-Luxury Bag Is So The Row-Coded, and Every Chic Woman Already Owns It",
-      "link": "https://www.whowhatwear.com/fashion/shopping/cos-montmartre-bowling-bag",
-      "summary": "Another day, another viral COS bag.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: This Affordable, Quiet-Luxury Bag Is So The Row-Coded, and Every Chic ...",
-      "score": 1,
-      "published": "2026-04-14T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "db3e1a6a841b",
       "title": "We Could Legitimately Wear Prada Beauty Every Day—10 Tubes and Perfumes Worth Saving Up For",
       "link": "https://www.whowhatwear.com/beauty/best-prada-beauty-products",
@@ -1073,43 +1073,29 @@
       "discovered_via": "feed"
     },
     {
-      "id": "bf5056116bdd",
-      "title": "The Bride-to-Bob Pipeline Needs to Be Unpacked—Here's Why so Many Go Short After Saying \"I Do\"",
-      "link": "https://www.whowhatwear.com/beauty/hair/bride-to-bob-pipeline",
-      "summary": "The post-wedding chop is real.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: The Bride-to-Bob Pipeline Needs to Be Unpacked—Here's Why so Many Go Short After Saying \"I Do\" — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-04-14T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0da87f6b7438",
-      "title": "These Are the Unexpected Color Pairings Everyone Chic Is Already Wearing This Spring",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/spring-color-pairings-2026",
-      "summary": "Outfit inspiration ahead.",
+      "id": "b97557edb782",
+      "title": "This Affordable, Quiet-Luxury Bag Is So The Row-Coded, and Every Chic Woman Already Owns It",
+      "link": "https://www.whowhatwear.com/fashion/shopping/cos-montmartre-bowling-bag",
+      "summary": "Another day, another viral COS bag.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-04-14T07:00:00+00:00",
+      "angle": "Fashion Intelligence: This Affordable, Quiet-Luxury Bag Is So The Row-Coded, and Every Chic ...",
+      "score": 1,
+      "published": "2026-04-14T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "db8f2197dc3a",
-      "title": "Parisians Are Chic, But Scandi Girls Have Mastered Spring Style—6 Trends We're Copying from Copenhagen",
-      "link": "https://www.whowhatwear.com/fashion/trends/swedish-girl-trends-spring-2026",
-      "summary": "The Danes do it best.",
+      "id": "095d65e298c0",
+      "title": "How to Wear a Tube Top This Summer to Ensure It Looks Chic, Not Dated",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/tube-top-outfits-2026",
+      "summary": "Cooler outfits loading.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "angle": "Fashion Intelligence: How to Wear a Tube Top This Summer to Ensure It Looks Chic, Not Dated...",
       "score": 2,
       "published": "2026-04-14T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1129,16 +1115,44 @@
       "discovered_via": "feed"
     },
     {
-      "id": "095d65e298c0",
-      "title": "How to Wear a Tube Top This Summer to Ensure It Looks Chic, Not Dated",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/tube-top-outfits-2026",
-      "summary": "Cooler outfits loading.",
+      "id": "db8f2197dc3a",
+      "title": "Parisians Are Chic, But Scandi Girls Have Mastered Spring Style—6 Trends We're Copying from Copenhagen",
+      "link": "https://www.whowhatwear.com/fashion/trends/swedish-girl-trends-spring-2026",
+      "summary": "The Danes do it best.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How to Wear a Tube Top This Summer to Ensure It Looks Chic, Not Dated...",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
+      "published": "2026-04-14T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0da87f6b7438",
+      "title": "These Are the Unexpected Color Pairings Everyone Chic Is Already Wearing This Spring",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/spring-color-pairings-2026",
+      "summary": "Outfit inspiration ahead.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-04-14T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bf5056116bdd",
+      "title": "The Bride-to-Bob Pipeline Needs to Be Unpacked—Here's Why so Many Go Short After Saying \"I Do\"",
+      "link": "https://www.whowhatwear.com/beauty/hair/bride-to-bob-pipeline",
+      "summary": "The post-wedding chop is real.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: The Bride-to-Bob Pipeline Needs to Be Unpacked—Here's Why so Many Go Short After Saying \"I Do\" — A Complete Style Guide",
+      "score": 1,
       "published": "2026-04-14T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1280,6 +1294,20 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-04-14T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8c7010000037",
+      "title": "32 Top Designer Brands – Luxury Fashion In 2026",
+      "link": "https://www.fashionbeans.com/article/top-designer-brands/",
+      "summary": "Champagne flutes. Supermodels. Bright lights. Fashion. The world of top designer brands conjures up a swirling chaos of exclusivity, luxury, and style. But where does one turn in the midst of the maelstrom of top designer brands? Each brand competes to prove to you in subtle ways that it’s the best and that it deserves",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: 32 Top Designer Brands – Luxury Fashion In 2026...",
+      "score": 6,
+      "published": "2026-04-14T04:07:45+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2067,34 +2095,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "dd8167ce2a2c",
-      "title": "11 Best Work Jeans for Men In 2026",
-      "link": "https://www.fashionbeans.com/article/best-work-jeans-for-men/",
-      "summary": "For the fashionably-minded among us, it’s easy to forget that denim was originally invented for labor. The best work jeans for men are specifically designed to be comfortable and durable but can also transition into trendy territory. Some of the best denim brands on the planet, like Lee, Carhartt, and Levi’s, exist in ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 11 Best Work Jeans for Men In 2026...",
-      "score": 3,
-      "published": "2026-04-07T08:39:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "db33cec62aae",
-      "title": "The New Smart Casual: 7 Outfits That Make You Look Instantly More Put Together in 2026",
-      "link": "https://www.fashionbeans.com/article/new-smart-casual-outfits-men-2026/",
-      "summary": "Smart casual used to be vague. It was the dress code men defaulted to when they didn’t want to commit to tailoring but didn’t want to look underdressed either, which is exactly why so many outfits ended up forgettable. In 2026, that middle ground has been replaced by something far more intentional. The new smart &#8230",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The New Smart Casual: 7 Outfits That Make You Look Instantly More Put ...",
-      "score": 2,
-      "published": "2026-04-07T07:12:34+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "35e558570a5a",
       "title": "ICYMI: Courrèges Names New Artistic Director, Mark Thomas Exits Carven & Ciara Miller Shares Her Beauty Must-Haves",
       "link": "https://fashionista.com/2026/04/fashion-news-you-need-to-know-april-4",
@@ -2727,63 +2727,63 @@
   ],
   "trends": [
     {
-      "term": "മണ്സൂണ്",
+      "term": "avengers doomsday",
       "summary": "",
-      "angle": "Fashion Intelligence: മണ്സൂണ്...",
+      "angle": "Fashion Intelligence: avengers doomsday...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "assam higher secondary education council",
+      "term": "विजय",
       "summary": "",
-      "angle": "Fashion Intelligence: assam higher secondary education council...",
+      "angle": "Fashion Intelligence: विजय...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "weather hyderabad",
+      "term": "ಹೆಚ್.ಡಿ.ಕುಮಾರಸ್ವಾಮಿ",
       "summary": "",
-      "angle": "Fashion Intelligence: weather hyderabad...",
+      "angle": "Fashion Intelligence: ಹೆಚ್.ಡಿ.ಕುಮಾರಸ್ವಾಮಿ...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "राघव चड्ढा",
+      "term": "pawan khera",
       "summary": "",
-      "angle": "Fashion Intelligence: राघव चड्ढा...",
+      "angle": "Fashion Intelligence: pawan khera...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "jammu and kashmir",
+      "term": "సాక్షి",
       "summary": "",
-      "angle": "Fashion Intelligence: jammu and kashmir...",
+      "angle": "Fashion Intelligence: సాక్షి...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "movie jana nayagan",
+      "term": "vitaly zdorovetskiy",
       "summary": "",
-      "angle": "Fashion Intelligence: movie jana nayagan...",
+      "angle": "Fashion Intelligence: vitaly zdorovetskiy...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "germany",
+      "term": "narzo 100 lite 5g",
       "summary": "",
-      "angle": "Fashion Intelligence: germany...",
+      "angle": "Fashion Intelligence: narzo 100 lite 5g...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "brazil",
+      "term": "বৃষ্টি",
       "summary": "",
-      "angle": "Fashion Intelligence: brazil...",
+      "angle": "Fashion Intelligence: বৃষ্টি...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "iran news live",
+      "term": "inox wind ltd",
       "summary": "",
-      "angle": "Fashion Intelligence: iran news live...",
+      "angle": "Fashion Intelligence: inox wind ltd...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "australia",
+      "term": "ठरलं तर मग!",
       "summary": "",
-      "angle": "Fashion Intelligence: australia...",
+      "angle": "Fashion Intelligence: ठरलं तर मग!...",
       "aza_category": "Fashion & Style"
     }
   ],

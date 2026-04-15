@@ -1,13 +1,83 @@
 {
-  "generated_at": "2026-04-15T09:59:27.740327+00:00",
+  "generated_at": "2026-04-15T10:25:43.759766+00:00",
   "owned_count": 10,
   "competitor_count": 20,
-  "industry_count": 164,
+  "industry_count": 163,
   "keywords_loaded": {
-    "IN": 60,
-    "US": 60
+    "IN": 118,
+    "US": 1791
   },
   "articles": [
+    {
+      "id": "55051a87f715",
+      "title": "Black Girls in Art Spaces Founder Kaci Merriwether-Hawkins Is Creating a Global Community for Black Women in G.L.A.M.",
+      "link": "https://www.vogue.com/article/black-girls-in-art-spaces-kaci-merriwether-hawkins-interview",
+      "summary": "“I see Black Girls in Art Spaces as a kind of community garden. I may have planted the seed, but it was never mine alone to water,” Merriwether-Hawkins tells Vogue.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Black Girls in Art Spaces Founder Kaci Merriwether-Hawkins Is Creating...",
+      "score": 0,
+      "published": "2026-04-15T10:04:09+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ad2f4501973d",
+      "title": "How to Style the Prettiest Floral Dresses—Straight From The Runway",
+      "link": "https://www.vogue.com/article/floral-dresses-spring-runways",
+      "summary": "The prettiest floral dresses of spring 2026 are ready to walk straight off the runways and into your closet. Here’s how to wear them.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How to Style the Prettiest Floral Dresses—Straight From The Runway...",
+      "score": 4,
+      "published": "2026-04-15T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c36da6328840",
+      "title": "Feels Like a Steal: Shop Vogue Favorite Under-$300 Finds",
+      "link": "https://www.vogue.com/article/feels-like-a-steal",
+      "summary": "Love a good fashion find? Same. And while there’s plenty we recommend on a daily basis, what makes us play for keeps is in the name: when it feels like a steal.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Feels Like a Steal: Shop Vogue Favorite Under-$300 Finds...",
+      "score": 1,
+      "published": "2026-04-15T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1f2262f36116",
+      "title": "With ‘Margo’s Got Money Trouble,’ Elle Fanning Takes Her Next Big Step",
+      "link": "https://www.vogue.com/article/elle-fanning-margos-got-money-troubles-interview",
+      "summary": "The actor tells Vogue about producing and starring in “Margo’s Got Money Troubles,” trawling OnlyFans, and what Sofia Coppola taught her about running a set.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: With ‘Margo’s Got Money Trouble,’ Elle Fanning Takes Her Next Big Step...",
+      "score": 0,
+      "published": "2026-04-15T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "86219fb81f2e",
+      "title": "25+ Elegant Mother of the Bride Dresses for Every Kind of Ceremony or Celebration",
+      "link": "https://www.vogue.com/slideshow/best-mother-of-the-bride-dresses-to-shop",
+      "summary": "With wedding season in full swing, shop our edit of mother of the bride dresses to prep for the big day.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: 25+ Elegant Mother of the Bride Dresses for Every Kind of Ceremony or Celebration — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-04-15T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "90bd333b75ba",
       "title": "Hermès Sales Grow 5.6%, Missing Expectations",
@@ -667,20 +737,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e850a0c87675",
-      "title": "Women's Reservation Bill: PM Modi to address Lok Sabha on April 16",
-      "link": "https://www.indiatoday.in/india/story/women-reservation-bill-pm-modi-to-address-lok-sabha-april-16-2896246-2026-04-14?utm_source=rss",
-      "summary": "Women's Reservation Bill: PM Modi to address Lok Sabha on April 16",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Women's Reservation Bill: PM Modi to address Lok Sabha on April 16...",
-      "score": 1,
-      "published": "2026-04-14T16:27:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "1e71a7c1d312",
       "title": "Must Read: Sara Moonves Launches 'WYouth,' LVMH Fashion Sales Drop",
       "link": "https://fashionista.com/2026/04/sara-moonves-launches-wyouth",
@@ -891,62 +947,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4958bdc82e9f",
-      "title": "Anne Hathaway Takes a Blink-and-You’ll-Miss-It Approach to Naked Dressing",
-      "link": "https://www.vogue.com/article/anne-hathaway-mother-mary-premiere-lever-couture",
-      "summary": "Taking to the red carpet for the premiere of A24’s ‘Mother Mary,’ Anne Hathaway embraced method dressing in a surreal custom gown from LA-based Lever Couture.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Anne Hathaway Takes a Blink-and-You’ll-Miss-It Approach to Naked Dress...",
-      "score": 3,
-      "published": "2026-04-14T13:46:40+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fdba23a49147",
-      "title": "Stripes! Polka Dots! Jello Shots! Old Navy and Christopher John Rogers Feted Their Collaboration",
-      "link": "https://www.vogue.com/slideshow/christopher-john-rogers-old-navy-collaboration-celebration",
-      "summary": "“Tonight, we’ve brought together industry friends, fans of Christopher’s work, and new customers,\" Zac Posen, EVP and creative director at Gap Inc., told Vogue of the Times Square dance party setup.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Stripes! Polka Dots! Jello Shots! Old Navy and Christopher John Rogers...",
-      "score": 0,
-      "published": "2026-04-14T13:27:47+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e4e9ab13bb47",
-      "title": "Meghan Markle Embraces Down Under Dressing on Day One of Her Australia Tour",
-      "link": "https://www.vogue.com/slideshow/meghan-markle-australia-tour-2026-fashion",
-      "summary": "Touching down in Australia for a four-day tour with Prince Harry, the Duchess of Sussex brought her pared-back tour wardrobe to Melbourne—paying special attention to Australian brands.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Meghan Markle Embraces Down Under Dressing on Day One of Her Australia...",
-      "score": 2,
-      "published": "2026-04-14T13:20:52+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ffaf9186d7ac",
-      "title": "Katie Holmes Gets a Trendy Chop (and Goes Blonde!) for Spring",
-      "link": "https://www.vogue.com/article/katie-holmes-bob-blonde-spring-2026",
-      "summary": "The actor revealed not one, but two, beauty transformations last night in New York City.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-04-14T13:11:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "77c02e9a4bb9",
       "title": "Brunello Cucinelli Knows the Secret",
       "link": "https://www.harpersbazaar.com/culture/a70463075/brunello-cucinelli-interview-2026/",
@@ -972,20 +972,6 @@
       "angle": "Fashion Intelligence: Is 'Freshly Made' Skin Care 'Clean' Beauty's Next Phase?...",
       "score": 2,
       "published": "2026-04-14T12:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "886508e70e48",
-      "title": "With ‘Becky Shaw,’ Gina Gionfriddo Doesn’t Let Anyone Off the Hook",
-      "link": "https://www.vogue.com/article/gina-gionfriddo-becky-shaw-interview",
-      "summary": "Eighteen years after premiering at the Humana Festival, “Becky Shaw”—a finalist for the 2009 Pulitzer Prize for Drama—is now playing on Broadway, at Second Stage’s Helen Hayes Theatre.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: With ‘Becky Shaw,’ Gina Gionfriddo Doesn’t Let Anyone Off the Hook...",
-      "score": 0,
-      "published": "2026-04-14T12:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2727,65 +2713,1006 @@
   ],
   "trends": [
     {
-      "term": "avengers doomsday",
+      "term": "dl48",
       "summary": "",
-      "angle": "Fashion Intelligence: avengers doomsday...",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "विजय",
+      "term": "उमर अब्दुल्ला",
       "summary": "",
-      "angle": "Fashion Intelligence: विजय...",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "spider man brand new day",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "tarique rahman",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "juwai teer result",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "ನರೇಂದ್ರ ಮೋದಿ",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "bitsat 2026 april 15 analysis",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "nuno borges",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "avengers doomsday",
+      "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
       "term": "ಹೆಚ್.ಡಿ.ಕುಮಾರಸ್ವಾಮಿ",
       "summary": "",
-      "angle": "Fashion Intelligence: ಹೆಚ್.ಡಿ.ಕುಮಾರಸ್ವಾಮಿ...",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "pawan khera",
-      "summary": "",
-      "angle": "Fashion Intelligence: pawan khera...",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "సాక్షి",
-      "summary": "",
-      "angle": "Fashion Intelligence: సాక్షి...",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "vitaly zdorovetskiy",
-      "summary": "",
-      "angle": "Fashion Intelligence: vitaly zdorovetskiy...",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "narzo 100 lite 5g",
-      "summary": "",
-      "angle": "Fashion Intelligence: narzo 100 lite 5g...",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "বৃষ্টি",
-      "summary": "",
-      "angle": "Fashion Intelligence: বৃষ্টি...",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "inox wind ltd",
-      "summary": "",
-      "angle": "Fashion Intelligence: inox wind ltd...",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "ठरलं तर मग!",
-      "summary": "",
-      "angle": "Fashion Intelligence: ठरलं तर मग!...",
       "aza_category": "Fashion & Style"
     }
   ],
-  "keyword_trends": []
+  "tracked_keywords": [
+    {
+      "keyword": "sarees",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 49500,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=sarees&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "lehenga",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 49500,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=lehenga&date=today+12-m&geo=IN",
+      "aza_category": "Bridal & Wedding"
+    },
+    {
+      "keyword": "saree",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 49500,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=saree&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "lehengas",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 49500,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=lehengas&date=today+12-m&geo=IN",
+      "aza_category": "Bridal & Wedding"
+    },
+    {
+      "keyword": "Lashkaraa",
+      "keyword_type": "Designer",
+      "category": "",
+      "volume": 40500,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=Lashkaraa&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "indian clothes",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 22200,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=indian+clothes&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "indian clothing",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 22200,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=indian+clothing&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "indian jewelry",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 22200,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=indian+jewelry&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "sarees for women",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 22200,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=sarees+for+women&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "india clothing",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 22200,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=india+clothing&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "Sabyasachi",
+      "keyword_type": "Designer",
+      "category": "",
+      "volume": 22200,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=Sabyasachi&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "indian dresses",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 18100,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=indian+dresses&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "indian dress",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 18100,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=indian+dress&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "salwar kameez",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 14800,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=salwar+kameez&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "sherwani",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 12100,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=sherwani&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "indian outfits for women",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 12100,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=indian+outfits+for+women&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "indian dresses for women",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 12100,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=indian+dresses+for+women&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "shalwar kameez",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 12100,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=shalwar+kameez&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "kurta for men",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 9900,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=kurta+for+men&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "traditional indian clothing",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 9900,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=traditional+indian+clothing&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "sharara",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 8100,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=sharara&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "indian sarees",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 8100,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=indian+sarees&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "indian saree",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 8100,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=indian+saree&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "sherwani for men",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 6600,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=sherwani+for+men&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "lehenga choli",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 6600,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=lehenga+choli&date=today+12-m&geo=IN",
+      "aza_category": "Bridal & Wedding"
+    },
+    {
+      "keyword": "mens indian clothing",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 6600,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=mens+indian+clothing&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "sherwani men",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 6600,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=sherwani+men&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "indo western for women",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 5400,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=indo+western+for+women&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "Mahima Mahajan",
+      "keyword_type": "Designer",
+      "category": "",
+      "volume": 5400,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=Mahima+Mahajan&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "lehenga dress",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 5400,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=lehenga+dress&date=today+12-m&geo=IN",
+      "aza_category": "Bridal & Wedding"
+    },
+    {
+      "keyword": "shalwar kameez women",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 5400,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=shalwar+kameez+women&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "bridal lehenga",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 4400,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=bridal+lehenga&date=today+12-m&geo=IN",
+      "aza_category": "Bridal & Wedding"
+    },
+    {
+      "keyword": "Masaba",
+      "keyword_type": "Designer",
+      "category": "",
+      "volume": 4400,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=Masaba&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "indian outfits",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 4400,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=indian+outfits&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "anarkali dress",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 4400,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=anarkali+dress&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "lehenga for wedding",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 4400,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=lehenga+for+wedding&date=today+12-m&geo=IN",
+      "aza_category": "Bridal & Wedding"
+    },
+    {
+      "keyword": "wedding sarees",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 4400,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=wedding+sarees&date=today+12-m&geo=IN",
+      "aza_category": "Bridal & Wedding"
+    },
+    {
+      "keyword": "ready to wear saree",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 3600,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=ready+to+wear+saree&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "sharara suit",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 3600,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=sharara+suit&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "sharara suits",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 3600,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=sharara+suits&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "mens kurta",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 3600,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=mens+kurta&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "lehenga for women",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 3600,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=lehenga+for+women&date=today+12-m&geo=IN",
+      "aza_category": "Bridal & Wedding"
+    },
+    {
+      "keyword": "lehengas for women",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 3600,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=lehengas+for+women&date=today+12-m&geo=IN",
+      "aza_category": "Bridal & Wedding"
+    },
+    {
+      "keyword": "kurta for women",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 3600,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=kurta+for+women&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "saree blouse",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 3600,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=saree+blouse&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "indian ethnic wear",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 3600,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=indian+ethnic+wear&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "indo western dress",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 2900,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=indo+western+dress&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "shop indian clothes",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 2900,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=shop+indian+clothes&date=today+12-m&geo=IN",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "indian lehenga",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 2900,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=indian+lehenga&date=today+12-m&geo=IN",
+      "aza_category": "Bridal & Wedding"
+    },
+    {
+      "keyword": "indian lehengas",
+      "keyword_type": "Category",
+      "category": "",
+      "volume": 2900,
+      "geo": "IN",
+      "trends_url": "https://trends.google.com/trends/explore?q=indian+lehengas&date=today+12-m&geo=IN",
+      "aza_category": "Bridal & Wedding"
+    },
+    {
+      "keyword": "anthrilo",
+      "keyword_type": "Designer",
+      "volume_type": "Head",
+      "category": "Designer",
+      "volume": 368000,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=anthrilo&date=today+12-m&geo=US",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "beige",
+      "keyword_type": "Designer",
+      "volume_type": "Head",
+      "category": "Designer",
+      "volume": 135000,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=beige&date=today+12-m&geo=US",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "handbag",
+      "keyword_type": "Category",
+      "volume_type": "Head",
+      "category": "",
+      "volume": 90500,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=handbag&date=today+12-m&geo=US",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "bow ties",
+      "keyword_type": "Category",
+      "volume_type": "Head",
+      "category": "",
+      "volume": 74000,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=bow+ties&date=today+12-m&geo=US",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "designer handbags",
+      "keyword_type": "Category",
+      "volume_type": "Head",
+      "category": "Accessories",
+      "volume": 74000,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=designer+handbags&date=today+12-m&geo=US",
+      "aza_category": "Designer Spotlight"
+    },
+    {
+      "keyword": "gowns",
+      "keyword_type": "Category",
+      "volume_type": "Head",
+      "category": "Gowns",
+      "volume": 60500,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=gowns&date=today+12-m&geo=US",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "swimwear",
+      "keyword_type": "Category",
+      "volume_type": "Head",
+      "category": "Swimwear",
+      "volume": 60500,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=swimwear&date=today+12-m&geo=US",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "cord",
+      "keyword_type": "Designer",
+      "volume_type": "Head",
+      "category": "Designer",
+      "volume": 49500,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=cord&date=today+12-m&geo=US",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "kora online",
+      "keyword_type": "Category",
+      "volume_type": "Head",
+      "category": "",
+      "volume": 49500,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=kora+online&date=today+12-m&geo=US",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "sarees",
+      "keyword_type": "Category",
+      "volume_type": "Head",
+      "category": "Sarees",
+      "volume": 49500,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=sarees&date=today+12-m&geo=US",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "designer shirts",
+      "keyword_type": "Category",
+      "volume_type": "Head",
+      "category": "Shirts",
+      "volume": 49500,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=designer+shirts&date=today+12-m&geo=US",
+      "aza_category": "Designer Spotlight"
+    },
+    {
+      "keyword": "palazzo pants",
+      "keyword_type": "Category",
+      "volume_type": "Head",
+      "category": "Pant Set",
+      "volume": 49500,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=palazzo+pants&date=today+12-m&geo=US",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "lehenga",
+      "keyword_type": "Category",
+      "volume_type": "Head",
+      "category": "Lehenga",
+      "volume": 49500,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=lehenga&date=today+12-m&geo=US",
+      "aza_category": "Bridal & Wedding"
+    },
+    {
+      "keyword": "lehengas",
+      "keyword_type": "Category",
+      "volume_type": "Head",
+      "category": "Lehenga",
+      "volume": 49500,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=lehengas&date=today+12-m&geo=US",
+      "aza_category": "Bridal & Wedding"
+    },
+    {
+      "keyword": "pink dresses for women",
+      "keyword_type": "Category",
+      "volume_type": "Head",
+      "category": "Dresses",
+      "volume": 49500,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=pink+dresses+for+women&date=today+12-m&geo=US",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "black dresses for women",
+      "keyword_type": "Category",
+      "volume_type": "Head",
+      "category": "Dresses",
+      "volume": 49500,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=black+dresses+for+women&date=today+12-m&geo=US",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "kaftans",
+      "keyword_type": "Category",
+      "volume_type": "Head",
+      "category": "Kaftans",
+      "volume": 40500,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=kaftans&date=today+12-m&geo=US",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "lashkara",
+      "keyword_type": "Designer",
+      "volume_type": "Head",
+      "category": "Designer",
+      "volume": 40500,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=lashkara&date=today+12-m&geo=US",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "lashkaraa",
+      "keyword_type": "Designer",
+      "volume_type": "Head",
+      "category": "Designer",
+      "volume": 40500,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=lashkaraa&date=today+12-m&geo=US",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "outhouse",
+      "keyword_type": "Designer",
+      "volume_type": "Head",
+      "category": "Designer",
+      "volume": 22200,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=outhouse&date=today+12-m&geo=US",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "kurtas",
+      "keyword_type": "Category",
+      "volume_type": "Head",
+      "category": "Kurtas",
+      "volume": 22200,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=kurtas&date=today+12-m&geo=US",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "indian dress shop near me",
+      "keyword_type": "Category",
+      "volume_type": "Head",
+      "category": "Indian KWS",
+      "volume": 22200,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=indian+dress+shop+near+me&date=today+12-m&geo=US",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "blazer for men",
+      "keyword_type": "Category",
+      "volume_type": "Head",
+      "category": "Blazer",
+      "volume": 22200,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=blazer+for+men&date=today+12-m&geo=US",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "kaftan dresses",
+      "keyword_type": "Category",
+      "volume_type": "Head",
+      "category": "Kaftans",
+      "volume": 22200,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=kaftan+dresses&date=today+12-m&geo=US",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "designer bags for women",
+      "keyword_type": "Category",
+      "volume_type": "Head",
+      "category": "Accessories",
+      "volume": 22200,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=designer+bags+for+women&date=today+12-m&geo=US",
+      "aza_category": "Designer Spotlight"
+    },
+    {
+      "keyword": "mens designer belts",
+      "keyword_type": "Category",
+      "volume_type": "Head",
+      "category": "Mens Westernwear",
+      "volume": 22200,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=mens+designer+belts&date=today+12-m&geo=US",
+      "aza_category": "Designer Spotlight"
+    },
+    {
+      "keyword": "aza",
+      "keyword_type": "Category",
+      "volume_type": "Head",
+      "category": "Brand Keywords",
+      "volume": 22200,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=aza&date=today+12-m&geo=US",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "indian dresses for wedding",
+      "keyword_type": "Category",
+      "volume_type": "Torso",
+      "category": "Indian KWS",
+      "volume": 14800,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=indian+dresses+for+wedding&date=today+12-m&geo=US",
+      "aza_category": "Bridal & Wedding"
+    },
+    {
+      "keyword": "gowns for bride",
+      "keyword_type": "Category",
+      "volume_type": "Torso",
+      "category": "Gowns",
+      "volume": 14800,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=gowns+for+bride&date=today+12-m&geo=US",
+      "aza_category": "Bridal & Wedding"
+    },
+    {
+      "keyword": "anana",
+      "keyword_type": "Designer",
+      "volume_type": "Torso",
+      "category": "Designer",
+      "volume": 14800,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=anana&date=today+12-m&geo=US",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "designer dresses",
+      "keyword_type": "Category",
+      "volume_type": "Torso",
+      "category": "Dresses",
+      "volume": 14800,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=designer+dresses&date=today+12-m&geo=US",
+      "aza_category": "Designer Spotlight"
+    },
+    {
+      "keyword": "gowns for women",
+      "keyword_type": "Category",
+      "volume_type": "Torso",
+      "category": "Gowns",
+      "volume": 14800,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=gowns+for+women&date=today+12-m&geo=US",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "designer jewelry",
+      "keyword_type": "Category",
+      "volume_type": "Torso",
+      "category": "Jewellery",
+      "volume": 14800,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=designer+jewelry&date=today+12-m&geo=US",
+      "aza_category": "Designer Spotlight"
+    },
+    {
+      "keyword": "men accessories",
+      "keyword_type": "Category",
+      "volume_type": "Torso",
+      "category": "Accessories",
+      "volume": 14800,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=men+accessories&date=today+12-m&geo=US",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "cotton dresses",
+      "keyword_type": "Category",
+      "volume_type": "Torso",
+      "category": "Dresses",
+      "volume": 14800,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=cotton+dresses&date=today+12-m&geo=US",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "cotton dresses for women",
+      "keyword_type": "Category",
+      "volume_type": "Torso",
+      "category": "Dresses",
+      "volume": 14800,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=cotton+dresses+for+women&date=today+12-m&geo=US",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "aza fashions",
+      "keyword_type": "Category",
+      "volume_type": "Torso",
+      "category": "Brand Keywords",
+      "volume": 14800,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=aza+fashions&date=today+12-m&geo=US",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "indian wedding saree",
+      "keyword_type": "Category",
+      "volume_type": "Torso",
+      "category": "Indian KWS",
+      "volume": 14800,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=indian+wedding+saree&date=today+12-m&geo=US",
+      "aza_category": "Bridal & Wedding"
+    },
+    {
+      "keyword": "women maxi dress",
+      "keyword_type": "Category",
+      "volume_type": "Torso",
+      "category": "Dresses",
+      "volume": 14800,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=women+maxi+dress&date=today+12-m&geo=US",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "indian dress for men",
+      "keyword_type": "Category",
+      "volume_type": "Torso",
+      "category": "Indian KWS",
+      "volume": 9900,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=indian+dress+for+men&date=today+12-m&geo=US",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "designer clothes for women",
+      "keyword_type": "Category",
+      "volume_type": "Torso",
+      "category": "Designer Wear",
+      "volume": 9900,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=designer+clothes+for+women&date=today+12-m&geo=US",
+      "aza_category": "Designer Spotlight"
+    },
+    {
+      "keyword": "statement earrings",
+      "keyword_type": "Category",
+      "volume_type": "Torso",
+      "category": "Jewellery",
+      "volume": 9900,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=statement+earrings&date=today+12-m&geo=US",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "anarkali",
+      "keyword_type": "Category",
+      "volume_type": "Torso",
+      "category": "Anarkali",
+      "volume": 9900,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=anarkali&date=today+12-m&geo=US",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "mens luxury belts",
+      "keyword_type": "Category",
+      "volume_type": "Torso",
+      "category": "Mens Westernwear",
+      "volume": 9900,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=mens+luxury+belts&date=today+12-m&geo=US",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "saree dress",
+      "keyword_type": "Category",
+      "volume_type": "Torso",
+      "category": "Sarees",
+      "volume": 9900,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=saree+dress&date=today+12-m&geo=US",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "kurta dress for men",
+      "keyword_type": "Category",
+      "volume_type": "Torso",
+      "category": "Kurta Sets",
+      "volume": 9900,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=kurta+dress+for+men&date=today+12-m&geo=US",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "capes for women",
+      "keyword_type": "Category",
+      "volume_type": "Torso",
+      "category": "",
+      "volume": 6600,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=capes+for+women&date=today+12-m&geo=US",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "double breasted suits for men",
+      "keyword_type": "Category",
+      "volume_type": "Torso",
+      "category": "",
+      "volume": 6600,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=double+breasted+suits+for+men&date=today+12-m&geo=US",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "sarees for women",
+      "keyword_type": "Category",
+      "volume_type": "Torso",
+      "category": "Sarees",
+      "volume": 6600,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=sarees+for+women&date=today+12-m&geo=US",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "keyword": "jhumkas",
+      "keyword_type": "Category",
+      "volume_type": "Torso",
+      "category": "Jewellery",
+      "volume": 6600,
+      "geo": "US",
+      "trends_url": "https://trends.google.com/trends/explore?q=jhumkas&date=today+12-m&geo=US",
+      "aza_category": "Fashion & Style"
+    }
+  ]
 }

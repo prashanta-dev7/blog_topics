@@ -179,8 +179,7 @@ def to_datetime_from_string(value):
         return None
     try:
         dt = dateparser.parse(value)
-        if dt.tzinfo
-         is None:
+        if dt.tzinfo is None:
             dt = dt.replace(tzinfo=timezone.utc)
         return dt.astimezone(timezone.utc)
     except Exception:

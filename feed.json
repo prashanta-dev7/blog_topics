@@ -1,13 +1,55 @@
 {
-  "generated_at": "2026-04-15T10:25:43.759766+00:00",
+  "generated_at": "2026-04-15T11:58:05.460870+00:00",
   "owned_count": 10,
-  "competitor_count": 20,
-  "industry_count": 163,
+  "competitor_count": 19,
+  "industry_count": 161,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "3ac891a20515",
+      "title": "Anne Hathaway’s Pop Star Wardrobe Is Naked Dress-Forward",
+      "link": "https://www.vogue.com/article/anne-hathaway-mother-mary-naked-dressing",
+      "summary": "From Andy Sachs in “Devil Wears Prada 2” to a desperate pop star “Mother Mary,” Anne Hathaway is traversing two very different movie promo wardrobes—the naked dress persists.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Anne Hathaway’s Pop Star Wardrobe Is Naked Dress-Forward...",
+      "score": 2,
+      "published": "2026-04-15T10:35:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "34de492757c4",
+      "title": "How Aryna Sabalenka Got Her Groove Back",
+      "link": "https://www.vogue.com/article/aryna-sabalenka-on-top-of-the-world",
+      "summary": "The world's number one player has been on a roll, collecting trophies, getting engaged—even getting a new puppy.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: How Aryna Sabalenka Got Her Groove Back...",
+      "score": 0,
+      "published": "2026-04-15T10:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0f3de0238ae9",
+      "title": "Uno de 50's Spring 2026 Collection Celebrates Spanish Architecture",
+      "link": "https://fashionista.com/2026/04/uno-de-50-limited-edition-spring-2026-jewelry-collection",
+      "summary": "As the jewelry brand's name indicates, it handcrafts only 50 units of its exclusive collection.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 3,
+      "published": "2026-04-15T10:30:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "55051a87f715",
       "title": "Black Girls in Art Spaces Founder Kaci Merriwether-Hawkins Is Creating a Global Community for Black Women in G.L.A.M.",
@@ -121,20 +163,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "fa2afb34399f",
-      "title": "I Test Beauty Products for Work—Here's What I’d Buy From the Sephora Sale With $220",
-      "link": "https://www.whowhatwear.com/beauty/sephora-spring-savings-event-2026",
-      "summary": "It’s haul time.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Test Beauty Products for Work—Here's What I’d Buy From the Sephora S...",
-      "score": 1,
-      "published": "2026-04-15T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f8e96eff55e9",
       "title": "My Birthday Is on the Horizon—Every Chic Fashion and Beauty Item I'm Subtly Texting to My Friends",
       "link": "https://www.whowhatwear.com/fashion/shopping/beauty-editor-birthday-wish-list-2026",
@@ -145,6 +173,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: My Birthday Is on the Horizon—Every Chic Fashion and Beauty Item I'm S...",
       "score": 2,
+      "published": "2026-04-15T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fa2afb34399f",
+      "title": "I Test Beauty Products for Work—Here's What I’d Buy From the Sephora Sale With $220",
+      "link": "https://www.whowhatwear.com/beauty/sephora-spring-savings-event-2026",
+      "summary": "It’s haul time.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Test Beauty Products for Work—Here's What I’d Buy From the Sephora S...",
+      "score": 1,
       "published": "2026-04-15T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -177,20 +219,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8339ed18d050",
-      "title": "In Paris, Every French Woman's Capsule Wardrobe Includes These 7 Shoes",
-      "link": "https://www.whowhatwear.com/fashion/shoes/french-girl-shoe-capsule-2026",
-      "summary": "The only styles you may ever need.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: In Paris, Every French Woman's Capsule Wardrobe Includes These 7 Shoes...",
-      "score": 1,
-      "published": "2026-04-15T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "61d5d2d04736",
       "title": "Not White, Not Black—the Trendy Tee Every Fashion Person Is Wearing This Spring",
       "link": "https://www.whowhatwear.com/fashion/shopping/best-striped-tees",
@@ -205,15 +233,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3bda7275fc93",
-      "title": "I Live in L.A. and Wear Jeans and White Tees Year-Round—These 10 Are My Favorites",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-jeans-and-white-tees",
-      "summary": "The staples I can't live without.",
+      "id": "8339ed18d050",
+      "title": "In Paris, Every French Woman's Capsule Wardrobe Includes These 7 Shoes",
+      "link": "https://www.whowhatwear.com/fashion/shoes/french-girl-shoe-capsule-2026",
+      "summary": "The only styles you may ever need.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Live in L.A. and Wear Jeans and White Tees Year-Round—These 10 Are M...",
+      "angle": "Fashion Intelligence: In Paris, Every French Woman's Capsule Wardrobe Includes These 7 Shoes...",
       "score": 1,
       "published": "2026-04-15T07:00:00+00:00",
       "discovered_via": "feed"
@@ -243,6 +271,20 @@
       "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
+      "published": "2026-04-15T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3bda7275fc93",
+      "title": "I Live in L.A. and Wear Jeans and White Tees Year-Round—These 10 Are My Favorites",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-jeans-and-white-tees",
+      "summary": "The staples I can't live without.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Live in L.A. and Wear Jeans and White Tees Year-Round—These 10 Are M...",
+      "score": 1,
       "published": "2026-04-15T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -905,34 +947,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c68dc1c50ca7",
-      "title": "Amanda Seyfried, Rachel Zegler, and Jonathan Groff Will Star in Lin-Manuel Miranda’s ‘Octet’",
-      "link": "https://www.vogue.com/article/lin-manuel-miranda-octet-cast-announcement",
-      "summary": "On Tuesday, Miranda announced the starry cast of his forthcoming adaptation of “Octet,” the a cappella chamber musical by Dave Malloy.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Amanda Seyfried, Rachel Zegler, and Jonathan Groff Will Star in Lin-Ma...",
-      "score": 0,
-      "published": "2026-04-14T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "86e04e8cdfcc",
-      "title": "Love Pictures, a collection of conversations and pictures on relationships, intimacy, and being seen.",
-      "link": "https://www.vogue.com/article/love-pictures-a-collection-of-conversations-and-pictures-on-relationships-intimacy-and-being-seen",
-      "summary": "A collaboration between photographer Jess T. Dugan and curator and writer Charlotte Cotton, exploring the unexpected, multilayered expressions of the human condition and love.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-04-14T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "043699d12dc5",
       "title": "Aora Mexico: A Plastic-Free Makeup Brand From Mexico City",
       "link": "https://fashionista.com/2026/04/aora-mexico-makeup-brand",
@@ -1045,20 +1059,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "db3e1a6a841b",
-      "title": "We Could Legitimately Wear Prada Beauty Every Day—10 Tubes and Perfumes Worth Saving Up For",
-      "link": "https://www.whowhatwear.com/beauty/best-prada-beauty-products",
-      "summary": "Where fashion and beauty collide.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: We Could Legitimately Wear Prada Beauty Every Day—10 Tubes and Perfume...",
-      "score": 3,
-      "published": "2026-04-14T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b97557edb782",
       "title": "This Affordable, Quiet-Luxury Bag Is So The Row-Coded, and Every Chic Woman Already Owns It",
       "link": "https://www.whowhatwear.com/fashion/shopping/cos-montmartre-bowling-bag",
@@ -1073,30 +1073,30 @@
       "discovered_via": "feed"
     },
     {
-      "id": "095d65e298c0",
-      "title": "How to Wear a Tube Top This Summer to Ensure It Looks Chic, Not Dated",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/tube-top-outfits-2026",
-      "summary": "Cooler outfits loading.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How to Wear a Tube Top This Summer to Ensure It Looks Chic, Not Dated...",
-      "score": 2,
-      "published": "2026-04-14T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "553fc3110a00",
-      "title": "Hyperminimalism Is Out, and Personality Is In—Here's What I'm Buying in 2026",
-      "link": "https://www.whowhatwear.com/fashion/shopping/personality-driven-dressing-2026",
-      "summary": "Expressive dressing for spring.",
+      "id": "db3e1a6a841b",
+      "title": "We Could Legitimately Wear Prada Beauty Every Day—10 Tubes and Perfumes Worth Saving Up For",
+      "link": "https://www.whowhatwear.com/beauty/best-prada-beauty-products",
+      "summary": "Where fashion and beauty collide.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Hyperminimalism Is Out, and Personality Is In—Here's What I'm Buying i...",
-      "score": 1,
+      "angle": "Fashion Intelligence: We Could Legitimately Wear Prada Beauty Every Day—10 Tubes and Perfume...",
+      "score": 3,
+      "published": "2026-04-14T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0da87f6b7438",
+      "title": "These Are the Unexpected Color Pairings Everyone Chic Is Already Wearing This Spring",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/spring-color-pairings-2026",
+      "summary": "Outfit inspiration ahead.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
       "published": "2026-04-14T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1115,15 +1115,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0da87f6b7438",
-      "title": "These Are the Unexpected Color Pairings Everyone Chic Is Already Wearing This Spring",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/spring-color-pairings-2026",
-      "summary": "Outfit inspiration ahead.",
+      "id": "095d65e298c0",
+      "title": "How to Wear a Tube Top This Summer to Ensure It Looks Chic, Not Dated",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/tube-top-outfits-2026",
+      "summary": "Cooler outfits loading.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How to Wear a Tube Top This Summer to Ensure It Looks Chic, Not Dated...",
       "score": 2,
       "published": "2026-04-14T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1138,6 +1138,20 @@
       "is_competitor": false,
       "aza_category": "Bridal & Wedding",
       "angle": "Bridal Edit: The Bride-to-Bob Pipeline Needs to Be Unpacked—Here's Why so Many Go Short After Saying \"I Do\" — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-04-14T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "553fc3110a00",
+      "title": "Hyperminimalism Is Out, and Personality Is In—Here's What I'm Buying in 2026",
+      "link": "https://www.whowhatwear.com/fashion/shopping/personality-driven-dressing-2026",
+      "summary": "Expressive dressing for spring.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Hyperminimalism Is Out, and Personality Is In—Here's What I'm Buying i...",
       "score": 1,
       "published": "2026-04-14T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1269,20 +1283,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "cb1ca58c8f98",
-      "title": "It Girls Will Be Wearing These 7 Easy But Elegant Colour Pairings This Spring",
-      "link": "https://www.whowhatwear.com/fashion/spring/spring-fashion-colour-combinations-2026",
-      "summary": "A fresh palette.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-04-14T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "8c7010000037",
       "title": "32 Top Designer Brands – Luxury Fashion In 2026",
       "link": "https://www.fashionbeans.com/article/top-designer-brands/",
@@ -1294,20 +1294,6 @@
       "angle": "Fashion Intelligence: 32 Top Designer Brands – Luxury Fashion In 2026...",
       "score": 6,
       "published": "2026-04-14T04:07:45+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f29f16ad6eda",
-      "title": "Low-Rise Jeans Look the Most Posh With This Flat-Shoe Trend (and It's Not Ballerinas)",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/low-rise-jeans-with-ruched-loafers-gigi-hadid",
-      "summary": "According to Gigi.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-04-13T23:04:01+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2277,20 +2263,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "aab76ba6283a",
-      "title": "Must Read: Kering and L'Oréal Finalize Acquisition, Fenty Beauty Partners with WhatsApp",
-      "link": "https://fashionista.com/2026/04/kering-loreal-finalize-acquisition",
-      "summary": "Plus, the \"Love Story\" series drives Calvin Klein sales.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Must Read: Kering and L'Oréal Finalize Acquisition, Fenty Beauty Partn...",
-      "score": 1,
-      "published": "2026-04-01T16:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c9a6edb86be7",
       "title": "How to Choose Your Bridal Outfit Based on Your Wedding Theme",
       "link": "https://blog.kalkifashion.com/how-to-choose-your-bridal-outfit-based-on-your-wedding-theme/",
@@ -2372,20 +2344,6 @@
       "angle": "Fashion Intelligence: Which Kanjivaram Saree is Best to Buy Online in India 2026?...",
       "score": 6,
       "published": "2026-04-11T12:18:53+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a384fcd3f7ae",
-      "title": "Beat the Heat: 5 Breezy Lightweight Lehengas for Outdoor Summer Weddings",
-      "link": "https://www.panashindia.com/blog/lightweight-lehengas-for-outdoor-summer-weddings/",
-      "summary": "Outdoor summer weddings sound great until you’re a few hours in and the outfit starts feeling heavier than expected. The fabric sticks, the dupatta keeps slipping, and suddenly comfort matters more than how your outfit looked at the start. Continue reading &rarr;",
-      "source": "Panash India",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Beat the Heat — A Complete Style Guide",
-      "score": 4,
-      "published": "2026-04-11T12:12:09+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2713,52 +2671,52 @@
   ],
   "trends": [
     {
-      "term": "dl48",
+      "term": "april",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "उमर अब्दुल्ला",
+      "term": "नामीबिया बनाम स्कॉटलैंड",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "spider man brand new day",
+      "term": "vijay kedia",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "tarique rahman",
+      "term": "गैस",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "juwai teer result",
+      "term": "nam vs sco",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ನರೇಂದ್ರ ಮೋದಿ",
+      "term": "நடிகர்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bitsat 2026 april 15 analysis",
+      "term": "रिलायंस पावर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "nuno borges",
+      "term": "jasmine paolini",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "avengers doomsday",
+      "term": "burj al arab",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಹೆಚ್.ಡಿ.ಕುಮಾರಸ್ವಾಮಿ",
+      "term": "bse sensex",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

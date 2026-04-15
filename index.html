@@ -297,7 +297,7 @@ async function loadFeed(){
   btn.disabled=true;
   document.getElementById('last-updated').textContent='Fetching…';
   try{
-    const r=await fetch('./feed.json?t='+Date.now());
+    const base=window.location.href.replace(/\/[^\/]*$/, "").replace(/\/$/, "");const r=await fetch(base+"/feed.json?t="+Date.now());
     if(!r.ok) throw new Error();
     const d=await r.json();
     articles=d.articles||[];

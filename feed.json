@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T09:03:25.871641+00:00",
-  "owned_count": 0,
-  "competitor_count": 19,
+  "generated_at": "2026-04-15T09:22:41.396759+00:00",
+  "owned_count": 10,
+  "competitor_count": 20,
   "industry_count": 164,
   "keywords_loaded": {
     "IN": 60,
-    "US": 60
+    "US": 0
   },
   "articles": [
     {
@@ -107,6 +107,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "90ea28570c7e",
+      "title": "It Girls in Paris, London, and NYC Are Already Wearing These Spring-to-Summer Transitional Trends",
+      "link": "https://www.whowhatwear.com/fashion/trends/spring-to-summer-transitional-trends",
+      "summary": "They're easier to re-create than you think.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-04-15T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "3bda7275fc93",
       "title": "I Live in L.A. and Wear Jeans and White Tees Year-Round—These 10 Are My Favorites",
       "link": "https://www.whowhatwear.com/fashion/shopping/best-jeans-and-white-tees",
@@ -116,6 +130,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I Live in L.A. and Wear Jeans and White Tees Year-Round—These 10 Are M...",
+      "score": 1,
+      "published": "2026-04-15T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c0f487097413",
+      "title": "I Know You're a Cool Fashion Person If These 32 Spring Reformation Pieces Are in Your Cart",
+      "link": "https://www.whowhatwear.com/fashion/spring/cool-reformation-spring-pieces-2026",
+      "summary": "Warm-weather fashion is loading.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Know You're a Cool Fashion Person If These 32 Spring Reformation Pie...",
       "score": 1,
       "published": "2026-04-15T07:00:00+00:00",
       "discovered_via": "feed"
@@ -131,34 +159,6 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
-      "published": "2026-04-15T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "90ea28570c7e",
-      "title": "It Girls in Paris, London, and NYC Are Already Wearing These Spring-to-Summer Transitional Trends",
-      "link": "https://www.whowhatwear.com/fashion/trends/spring-to-summer-transitional-trends",
-      "summary": "They're easier to re-create than you think.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-04-15T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c0f487097413",
-      "title": "I Know You're a Cool Fashion Person If These 32 Spring Reformation Pieces Are in Your Cart",
-      "link": "https://www.whowhatwear.com/fashion/spring/cool-reformation-spring-pieces-2026",
-      "summary": "Warm-weather fashion is loading.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Know You're a Cool Fashion Person If These 32 Spring Reformation Pie...",
-      "score": 1,
       "published": "2026-04-15T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1045,20 +1045,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "db3e1a6a841b",
-      "title": "We Could Legitimately Wear Prada Beauty Every Day—10 Tubes and Perfumes Worth Saving Up For",
-      "link": "https://www.whowhatwear.com/beauty/best-prada-beauty-products",
-      "summary": "Where fashion and beauty collide.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: We Could Legitimately Wear Prada Beauty Every Day—10 Tubes and Perfume...",
-      "score": 3,
-      "published": "2026-04-14T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b97557edb782",
       "title": "This Affordable, Quiet-Luxury Bag Is So The Row-Coded, and Every Chic Woman Already Owns It",
       "link": "https://www.whowhatwear.com/fashion/shopping/cos-montmartre-bowling-bag",
@@ -1073,15 +1059,57 @@
       "discovered_via": "feed"
     },
     {
-      "id": "095d65e298c0",
-      "title": "How to Wear a Tube Top This Summer to Ensure It Looks Chic, Not Dated",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/tube-top-outfits-2026",
-      "summary": "Cooler outfits loading.",
+      "id": "db3e1a6a841b",
+      "title": "We Could Legitimately Wear Prada Beauty Every Day—10 Tubes and Perfumes Worth Saving Up For",
+      "link": "https://www.whowhatwear.com/beauty/best-prada-beauty-products",
+      "summary": "Where fashion and beauty collide.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: We Could Legitimately Wear Prada Beauty Every Day—10 Tubes and Perfume...",
+      "score": 3,
+      "published": "2026-04-14T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bf5056116bdd",
+      "title": "The Bride-to-Bob Pipeline Needs to Be Unpacked—Here's Why so Many Go Short After Saying \"I Do\"",
+      "link": "https://www.whowhatwear.com/beauty/hair/bride-to-bob-pipeline",
+      "summary": "The post-wedding chop is real.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: The Bride-to-Bob Pipeline Needs to Be Unpacked—Here's Why so Many Go Short After Saying \"I Do\" — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-04-14T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0da87f6b7438",
+      "title": "These Are the Unexpected Color Pairings Everyone Chic Is Already Wearing This Spring",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/spring-color-pairings-2026",
+      "summary": "Outfit inspiration ahead.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-04-14T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "db8f2197dc3a",
+      "title": "Parisians Are Chic, But Scandi Girls Have Mastered Spring Style—6 Trends We're Copying from Copenhagen",
+      "link": "https://www.whowhatwear.com/fashion/trends/swedish-girl-trends-spring-2026",
+      "summary": "The Danes do it best.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How to Wear a Tube Top This Summer to Ensure It Looks Chic, Not Dated...",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-04-14T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1101,44 +1129,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "db8f2197dc3a",
-      "title": "Parisians Are Chic, But Scandi Girls Have Mastered Spring Style—6 Trends We're Copying from Copenhagen",
-      "link": "https://www.whowhatwear.com/fashion/trends/swedish-girl-trends-spring-2026",
-      "summary": "The Danes do it best.",
+      "id": "095d65e298c0",
+      "title": "How to Wear a Tube Top This Summer to Ensure It Looks Chic, Not Dated",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/tube-top-outfits-2026",
+      "summary": "Cooler outfits loading.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "angle": "Fashion Intelligence: How to Wear a Tube Top This Summer to Ensure It Looks Chic, Not Dated...",
       "score": 2,
-      "published": "2026-04-14T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0da87f6b7438",
-      "title": "These Are the Unexpected Color Pairings Everyone Chic Is Already Wearing This Spring",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/spring-color-pairings-2026",
-      "summary": "Outfit inspiration ahead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-04-14T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bf5056116bdd",
-      "title": "The Bride-to-Bob Pipeline Needs to Be Unpacked—Here's Why so Many Go Short After Saying \"I Do\"",
-      "link": "https://www.whowhatwear.com/beauty/hair/bride-to-bob-pipeline",
-      "summary": "The post-wedding chop is real.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: The Bride-to-Bob Pipeline Needs to Be Unpacked—Here's Why so Many Go Short After Saying \"I Do\" — A Complete Style Guide",
-      "score": 1,
       "published": "2026-04-14T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -2389,6 +2389,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "a384fcd3f7ae",
+      "title": "Beat the Heat: 5 Breezy Lightweight Lehengas for Outdoor Summer Weddings",
+      "link": "https://www.panashindia.com/blog/lightweight-lehengas-for-outdoor-summer-weddings/",
+      "summary": "Outdoor summer weddings sound great until you’re a few hours in and the outfit starts feeling heavier than expected. The fabric sticks, the dupatta keeps slipping, and suddenly comfort matters more than how your outfit looked at the start. Continue reading &rarr;",
+      "source": "Panash India",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Beat the Heat — A Complete Style Guide",
+      "score": 4,
+      "published": "2026-04-11T12:12:09+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "8e5f2e81b398",
       "title": "How to Choose a Groom Outfit That Matches the Bride’s Lehenga",
       "link": "https://blog.kalkifashion.com/how-to-choose-a-groom-outfit-that-matches-the-brides-lehenga/",
@@ -2569,9 +2583,197 @@
       "score": 3,
       "published": "2026-02-16T07:23:03+00:00",
       "discovered_via": "feed"
+    },
+    {
+      "id": "044201fd556d",
+      "title": "Summer-Ready Cotton, Chanderi & Organza Styles by Samyukta Singhania",
+      "link": "https://www.azafashions.com/blog/cotton-chanderi-organza-summer-styles/?utm_source=rss&utm_medium=rss&utm_campaign=cotton-chanderi-organza-summer-styles",
+      "summary": "The only thing that should be doing the maximum&#160;heavy lifting&#160;during the summer is your wardrobe.&#160;Yes,&#160;you heard that right, when the mercury soars and the air&#160;turns&#160;thick, summer dressing&#160;is no longer a&#8230; The post Summer-Ready Cotton, Chanderi &amp; Organza Styles by Samyukta Si",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Summer-Ready Cotton, Chanderi & Organza Styles by Samyukta Singhania...",
+      "score": 2,
+      "published": "2026-04-14T17:14:56+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d40b598abef5",
+      "title": "Krithi Shetty’s Latest Aza Cover Is Soft, Strong, and Seriously Addictive",
+      "link": "https://www.azafashions.com/blog/krithi-shettys-latest-aza-cover/?utm_source=rss&utm_medium=rss&utm_campaign=krithi-shettys-latest-aza-cover",
+      "summary": "Krithi Shetty makes a quiet but compelling case for vulnerability as strength. In her latest cover story for Aza, the young star leans into emotion in an industry that often&#8230; The post Krithi Shetty’s Latest Aza Cover Is Soft, Strong, and Seriously Addictive appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Krithi Shetty’s Latest Aza Cover Is Soft, Strong, and Seriously Addict...",
+      "score": 0,
+      "published": "2026-04-14T11:45:59+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e1e4dfae178d",
+      "title": "Know Your Designer – Ep 41: Baise Gaba",
+      "link": "https://www.azafashions.com/blog/know-your-designer-baise-gaba/?utm_source=rss&utm_medium=rss&utm_campaign=know-your-designer-baise-gaba",
+      "summary": "The Indian occasionwear market is experiencing a quiet revolution. Heavy, restrictive couture is making way for breathable, effortless elegance. Women want to celebrate, dance, and move freely without feeling weighed down by&#8230; The post Know Your Designer &#8211; Ep 41: Baise Gaba appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Know Your Designer – Ep 41: Baise Gaba...",
+      "score": 4,
+      "published": "2026-04-11T22:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6c5bf1dc25bd",
+      "title": "Desk to Boardroom: Lightweight Office Jewellery That Works As Hard As You Do and How to Style Them",
+      "link": "https://www.azafashions.com/blog/office-jewellery-that-means-business/?utm_source=rss&utm_medium=rss&utm_campaign=office-jewellery-that-means-business",
+      "summary": "You have picked an outfit that perfectly reads ‘Boss Lady’. Your presentation is ready. But something is missing. That one quiet, confident detail that makes the room take notice before you&#8230; The post Desk to Boardroom: Lightweight Office Jewellery That Works As Hard As You Do and How to Style Them appeared first ",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Desk to Boardroom: Lightweight Office Jewellery That Works As Hard As ...",
+      "score": 3,
+      "published": "2026-04-11T12:55:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bdf30c6f7b6c",
+      "title": "Not Sure Which Blouse Neckline Suits You? Start with Your Face Shape",
+      "link": "https://www.azafashions.com/blog/face-shape-blouse-necklines/?utm_source=rss&utm_medium=rss&utm_campaign=face-shape-blouse-necklines",
+      "summary": "You spend hours hunting for the perfect saree. You obsess over the drape, the fabric, the colors, and the border. Yet, many of us treat the blouse neckline as an&#8230; The post Not Sure Which Blouse Neckline Suits You? Start with Your Face Shape appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Not Sure Which Blouse Neckline Suits You? Start with Your Face Shape...",
+      "score": 1,
+      "published": "2026-04-11T10:20:43+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "82d63303bf48",
+      "title": "Why Kaftans Are the Ultimate Power Move in Middle Eastern Dressing",
+      "link": "https://www.azafashions.com/blog/kaftan-styles-middle-east/?utm_source=rss&utm_medium=rss&utm_campaign=kaftan-styles-middle-east",
+      "summary": "Fashion in the desert states is beyond clothing. It reads as the wearer’s identity, tradition, and their preference towards refined aesthetics. Among the many iconic garments embraced in Middle Eastern wardrobes, the kaftan stands tall as a beacon of&#8230; The post Why Kaftans Are the Ultimate Power Move in Middle Eas",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Why Kaftans Are the Ultimate Power Move in Middle Eastern Dressing...",
+      "score": 3,
+      "published": "2026-04-09T16:47:39+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0a1ba880dae4",
+      "title": "Front Row with Rabiya Savlani at Aza Regency One: A Night of Couture and Connection",
+      "link": "https://www.azafashions.com/blog/rabiya-savlani-aza-regency-one-event/?utm_source=rss&utm_medium=rss&utm_campaign=rabiya-savlani-aza-regency-one-event",
+      "summary": "There’s&#160;something about a&#160;designer stepping&#160;out from behind the seams and speaking&#160;directly to the people who wear&#160;their&#160;work. Something&#160;shifts, and the clothing stops&#160;being just clothes. That is precisely what happened at Aza Regency&#8230; The post Front Row with Rabiya Savlani",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Front Row with Rabiya Savlani at Aza Regency One: A Night of Couture a...",
+      "score": 3,
+      "published": "2026-04-09T12:09:15+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ce2555e147c7",
+      "title": "Know Your Designer Episode 39: Shyam Narayan Prasad",
+      "link": "https://www.azafashions.com/blog/know-your-designer-shyam-narayan-prasad/?utm_source=rss&utm_medium=rss&utm_campaign=know-your-designer-shyam-narayan-prasad",
+      "summary": "Indian fashion is defined by the harmony of its rich history and modern spirit. Shyam Narayan Prasad embodies this balance perfectly, crafting designs that feel both timeless and current. Known&#8230; The post Know Your Designer Episode 39: Shyam Narayan Prasad appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Know Your Designer Episode 39: Shyam Narayan Prasad...",
+      "score": 3,
+      "published": "2026-04-09T10:54:17+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b2a5ee04078c",
+      "title": "Bored of Sherwanis? Try These Bandhgala Outfit Ideas for Weddings",
+      "link": "https://www.azafashions.com/blog/bandhgala-outfit-ideas-for-weddings/?utm_source=rss&utm_medium=rss&utm_campaign=bandhgala-outfit-ideas-for-weddings",
+      "summary": "For generations, the sherwani has stood as the undisputed champion of Indian men’s wedding fashion. You picture a groom, and you immediately imagine him weighed down by layers of heavily embroidered silk. But modern&#8230; The post Bored of Sherwanis? Try These Bandhgala Outfit Ideas for Weddings appeared first on Aza ",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Bored of Sherwanis? Try These Bandhgala Outfit Ideas for Weddings — A Complete Style Guide",
+      "score": 4,
+      "published": "2026-04-08T23:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fc2340193e9d",
+      "title": "From Village Courtyards to Celebrity Closets: The Phulkari Comeback You Didn’t See Coming",
+      "link": "https://www.azafashions.com/blog/why-phulkari-is-back-in-fashion/?utm_source=rss&utm_medium=rss&utm_campaign=why-phulkari-is-back-in-fashion",
+      "summary": "Hopelessly in love with the phulkari embroidery? Well, long before fashion weeks and designer labels, there was Phulkari. And trust me, it needed no dramatic&#160;runways&#160;and couture shows&#160;to be extraordinary. Phulkari,&#8230; The post From Village Courtyards to Celebrity Closets: The Phulkari Comeback You Di",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 8,
+      "published": "2026-04-08T14:29:55+00:00",
+      "discovered_via": "feed"
     }
   ],
   "trends": [
+    {
+      "term": "മണ്സൂണ്",
+      "summary": "",
+      "angle": "Fashion Intelligence: മണ്സൂണ്...",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "assam higher secondary education council",
+      "summary": "",
+      "angle": "Fashion Intelligence: assam higher secondary education council...",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "weather hyderabad",
+      "summary": "",
+      "angle": "Fashion Intelligence: weather hyderabad...",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "राघव चड्ढा",
+      "summary": "",
+      "angle": "Fashion Intelligence: राघव चड्ढा...",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "jammu and kashmir",
+      "summary": "",
+      "angle": "Fashion Intelligence: jammu and kashmir...",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "movie jana nayagan",
+      "summary": "",
+      "angle": "Fashion Intelligence: movie jana nayagan...",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "germany",
+      "summary": "",
+      "angle": "Fashion Intelligence: germany...",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "brazil",
+      "summary": "",
+      "angle": "Fashion Intelligence: brazil...",
+      "aza_category": "Fashion & Style"
+    },
     {
       "term": "iran news live",
       "summary": "",
@@ -2579,57 +2781,9 @@
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "canada",
-      "summary": "",
-      "angle": "Fashion Intelligence: canada...",
-      "aza_category": "Fashion & Style"
-    },
-    {
       "term": "australia",
       "summary": "",
       "angle": "Fashion Intelligence: australia...",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "ನಾಯಿ",
-      "summary": "",
-      "angle": "Fashion Intelligence: ನಾಯಿ...",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "शुक्र",
-      "summary": "",
-      "angle": "Fashion Intelligence: शुक्र...",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "लखनऊ सुपर जायंट्स",
-      "summary": "",
-      "angle": "Fashion Intelligence: लखनऊ सुपर जायंट्स...",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "जमशेदपुर",
-      "summary": "",
-      "angle": "Fashion Intelligence: जमशेदपुर...",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "ಶಿಕ್ಷಣ",
-      "summary": "",
-      "angle": "Fashion Intelligence: ಶಿಕ್ಷಣ...",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "கவுதம் கம்பீர்",
-      "summary": "",
-      "angle": "Fashion Intelligence: கவுதம் கம்பீர்...",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "एचडीएफसी बैंक",
-      "summary": "",
-      "angle": "Fashion Intelligence: एचडीएफसी बैंक...",
       "aza_category": "Fashion & Style"
     }
   ],

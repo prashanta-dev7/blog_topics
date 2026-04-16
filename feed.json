@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-16T13:14:26.082312+00:00",
+  "generated_at": "2026-04-16T13:20:24.877332+00:00",
   "owned_count": 10,
-  "competitor_count": 21,
-  "industry_count": 155,
+  "competitor_count": 20,
+  "industry_count": 154,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -51,6 +51,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "1868675d5181",
+      "title": "There’s Never Been a Bigger Year for High-Low Collabs",
+      "link": "https://www.vogue.com/article/theres-never-been-a-bigger-year-for-high-low-collabs",
+      "summary": "We're long past the point of a \"cheap-chic\" collaboration being scandalous; however, designer mass market partnerships are gearing up for their biggest moment yet.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: There’s Never Been a Bigger Year for High-Low Collabs...",
+      "score": 1,
+      "published": "2026-04-16T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "83bbc189b068",
       "title": "Who was the real Emily from “The Devil Wears Prada”?",
       "link": "https://www.vogue.com/article/real-emily-devil-wears-prada",
@@ -74,20 +88,6 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Required Reading: Five Books That Shaped the Way Mikaela Dery Thought ...",
-      "score": 1,
-      "published": "2026-04-16T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1868675d5181",
-      "title": "There’s Never Been a Bigger Year for High-Low Collabs",
-      "link": "https://www.vogue.com/article/theres-never-been-a-bigger-year-for-high-low-collabs",
-      "summary": "We're long past the point of a \"cheap-chic\" collaboration being scandalous; however, designer mass market partnerships are gearing up for their biggest moment yet.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: There’s Never Been a Bigger Year for High-Low Collabs...",
       "score": 1,
       "published": "2026-04-16T12:00:00+00:00",
       "discovered_via": "feed"
@@ -163,20 +163,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "42711c6d30f9",
-      "title": "I Re-Created 10 Viral Spring 2026 Runway Looks for Under $400—You're Welcome",
-      "link": "https://www.whowhatwear.com/fashion/affordable/affordable-spring-summer-2026-runway-looks",
-      "summary": "Look expensive this season.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I Re-Created 10 Viral Spring 2026 Runway Looks for Under $400—You're W...",
-      "score": 2,
-      "published": "2026-04-16T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7187be8cf20c",
       "title": "Simone Ashley's Most Memorable Beauty Looks Are Always Bronzed, Ethereal, and Chic—9 I'm Itching to Copy",
       "link": "https://www.whowhatwear.com/beauty/makeup/best-simone-ashley-beauty-looks",
@@ -187,6 +173,20 @@
       "aza_category": "Occasion Dressing",
       "angle": "Fashion Intelligence: Simone Ashley's Most Memorable Beauty Looks Are Always Bronzed, Ethere...",
       "score": 1,
+      "published": "2026-04-16T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "42711c6d30f9",
+      "title": "I Re-Created 10 Viral Spring 2026 Runway Looks for Under $400—You're Welcome",
+      "link": "https://www.whowhatwear.com/fashion/affordable/affordable-spring-summer-2026-runway-looks",
+      "summary": "Look expensive this season.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I Re-Created 10 Viral Spring 2026 Runway Looks for Under $400—You're W...",
+      "score": 2,
       "published": "2026-04-16T11:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -317,20 +317,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5ef1ad1b7688",
-      "title": "I'm a Beauty Editor—If I Had to Edit My Skin Routine to 3 Products, It’d Be This, This, and This",
-      "link": "https://www.whowhatwear.com/beauty/skin/beauty-editor-top-3-skincare-products-2026",
-      "summary": "My nonnegotiables.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I'm a Beauty Editor—If I Had to Edit My Skin Routine to 3 Products, It...",
-      "score": 1,
-      "published": "2026-04-16T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "02b795d51d27",
       "title": "This Divisive '90s Shoe Is the One Trend Millennials and Gen Z Can Agree On",
       "link": "https://www.whowhatwear.com/fashion/shoes/jelly-shoe-trends-2026",
@@ -340,6 +326,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-04-16T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5ef1ad1b7688",
+      "title": "I'm a Beauty Editor—If I Had to Edit My Skin Routine to 3 Products, It’d Be This, This, and This",
+      "link": "https://www.whowhatwear.com/beauty/skin/beauty-editor-top-3-skincare-products-2026",
+      "summary": "My nonnegotiables.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I'm a Beauty Editor—If I Had to Edit My Skin Routine to 3 Products, It...",
       "score": 1,
       "published": "2026-04-16T08:00:00+00:00",
       "discovered_via": "feed"
@@ -356,20 +356,6 @@
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 2,
       "published": "2026-04-16T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7c26ce07a245",
-      "title": "I'm Building the Perfect Anti-Trend Capsule for Spring—5 Pieces I'm Relying On",
-      "link": "https://www.whowhatwear.com/fashion/anti-trend-spring-capsule-wardrobe-2026",
-      "summary": "A spring upgrade.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-04-16T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -410,6 +396,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I’m Calling It: These Will Be the Most-Worn Sandals of Summer 2026...",
+      "score": 1,
+      "published": "2026-04-16T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7c26ce07a245",
+      "title": "I'm Building the Perfect Anti-Trend Capsule for Spring—5 Pieces I'm Relying On",
+      "link": "https://www.whowhatwear.com/fashion/anti-trend-spring-capsule-wardrobe-2026",
+      "summary": "A spring upgrade.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-04-16T07:00:00+00:00",
       "discovered_via": "feed"
@@ -471,48 +471,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a959d61ed1c2",
-      "title": "The Traditional vs. Alternative Bride: Two Brides-to-Be With Opposing Tastes Reveal Their Wedding Mood Boards",
-      "link": "https://www.whowhatwear.com/wedding-ideas-alternative-vs-traditional-bride",
-      "summary": "A tale of two weddings.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: The Traditional vs. Alternative Bride — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-04-16T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8ece54224305",
-      "title": "From Affordable to Luxury, These Are the Very Best Wedding Gifts to Give in 2026",
-      "link": "https://www.whowhatwear.com/living/wedding/chic-wedding-gifts",
-      "summary": "To have and to hold.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: From Affordable to Luxury, These Are the Very Best Wedding Gifts to Give in 2026 — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-04-16T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a04e2608a9c8",
-      "title": "Save the Date: The Ultimate Timeline for Every Trending Bridal Beauty Treatment",
-      "link": "https://www.whowhatwear.com/beauty/skin/wedding-beauty-treatment-timeline",
-      "summary": "From a fellow bride-to-be.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Save the Date — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-04-16T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c127363da200",
       "title": "To Have and to Hold: A Jewellery Editor's Guide to the Best Bridal Pieces to Invest in Now and Forever",
       "link": "https://www.whowhatwear.com/living/wedding/fashion-editor-wedding-jewellery-guide",
@@ -522,6 +480,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Bridal Edit: To Have and to Hold — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-04-16T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1007573568d4",
+      "title": "The 2026 Bridal Nail Guide",
+      "link": "https://www.whowhatwear.com/beauty/nails/bridal-nail-trends-2026",
+      "summary": "Nail your wedding day.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: The 2026 Bridal Nail Guide — A Complete Style Guide",
       "score": 2,
       "published": "2026-04-16T05:00:00+00:00",
       "discovered_via": "feed"
@@ -541,15 +513,43 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1007573568d4",
-      "title": "The 2026 Bridal Nail Guide",
-      "link": "https://www.whowhatwear.com/beauty/nails/bridal-nail-trends-2026",
-      "summary": "Nail your wedding day.",
+      "id": "a959d61ed1c2",
+      "title": "The Traditional vs. Alternative Bride: Two Brides-to-Be With Opposing Tastes Reveal Their Wedding Mood Boards",
+      "link": "https://www.whowhatwear.com/wedding-ideas-alternative-vs-traditional-bride",
+      "summary": "A tale of two weddings.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: The 2026 Bridal Nail Guide — A Complete Style Guide",
+      "angle": "Bridal Edit: The Traditional vs. Alternative Bride — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-04-16T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a04e2608a9c8",
+      "title": "Save the Date: The Ultimate Timeline for Every Trending Bridal Beauty Treatment",
+      "link": "https://www.whowhatwear.com/beauty/skin/wedding-beauty-treatment-timeline",
+      "summary": "From a fellow bride-to-be.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Save the Date — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-04-16T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8ece54224305",
+      "title": "From Affordable to Luxury, These Are the Very Best Wedding Gifts to Give in 2026",
+      "link": "https://www.whowhatwear.com/living/wedding/chic-wedding-gifts",
+      "summary": "To have and to hold.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: From Affordable to Luxury, These Are the Very Best Wedding Gifts to Give in 2026 — A Complete Style Guide",
       "score": 2,
       "published": "2026-04-16T05:00:00+00:00",
       "discovered_via": "feed"
@@ -1199,6 +1199,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "91c446dd02c1",
+      "title": "Zara, H&M and COS Just Perfected the 5 Chicest Spring Trends—9 Stylish Pieces That Won't Stay in Stock",
+      "link": "https://www.whowhatwear.com/fashion/shopping/zara-hm-cos-spring-trends-2026",
+      "summary": "Spring capsule wardrobe, complete.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-04-15T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "f8e96eff55e9",
       "title": "My Birthday Is on the Horizon—Every Chic Fashion and Beauty Item I'm Subtly Texting to My Friends",
       "link": "https://www.whowhatwear.com/fashion/shopping/beauty-editor-birthday-wish-list-2026",
@@ -1222,20 +1236,6 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I Test Beauty Products for Work—Here's What I'd Buy From the Sephora S...",
-      "score": 1,
-      "published": "2026-04-15T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "91c446dd02c1",
-      "title": "Zara, H&M and COS Just Perfected the 5 Chicest Spring Trends—9 Stylish Pieces That Won't Stay in Stock",
-      "link": "https://www.whowhatwear.com/fashion/shopping/zara-hm-cos-spring-trends-2026",
-      "summary": "Spring capsule wardrobe, complete.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-04-15T08:00:00+00:00",
       "discovered_via": "feed"
@@ -1283,34 +1283,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3bda7275fc93",
-      "title": "I Live in L.A. and Wear Jeans and White Tees Year-Round—These 10 Are My Favorites",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-jeans-and-white-tees",
-      "summary": "The staples I can't live without.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Live in L.A. and Wear Jeans and White Tees Year-Round—These 10 Are M...",
-      "score": 1,
-      "published": "2026-04-15T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "90ea28570c7e",
-      "title": "It Girls in Paris, London, and NYC Are Already Wearing These Spring-to-Summer Transitional Trends",
-      "link": "https://www.whowhatwear.com/fashion/trends/spring-to-summer-transitional-trends",
-      "summary": "They're easier to re-create than you think.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-04-15T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "838e62ad5d16",
       "title": "Not Burgundy or Espresso—How to Style the High-Value Color Trend Everyone's Into Instead",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/how-to-style-royal-purple",
@@ -1321,6 +1293,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
+      "published": "2026-04-15T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8339ed18d050",
+      "title": "In Paris, Every French Woman's Capsule Wardrobe Includes These 7 Shoes",
+      "link": "https://www.whowhatwear.com/fashion/shoes/french-girl-shoe-capsule-2026",
+      "summary": "The only styles you may ever need.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: In Paris, Every French Woman's Capsule Wardrobe Includes These 7 Shoes...",
+      "score": 1,
       "published": "2026-04-15T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -2288,20 +2274,6 @@
       "angle": "Fashion Intelligence: Which Kanjivaram Saree is Best to Buy Online in India 2026?...",
       "score": 6,
       "published": "2026-04-11T12:18:53+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a384fcd3f7ae",
-      "title": "Beat the Heat: 5 Breezy Lightweight Lehengas for Outdoor Summer Weddings",
-      "link": "https://www.panashindia.com/blog/lightweight-lehengas-for-outdoor-summer-weddings/",
-      "summary": "Outdoor summer weddings sound great until you’re a few hours in and the outfit starts feeling heavier than expected. The fabric sticks, the dupatta keeps slipping, and suddenly comfort matters more than how your outfit looked at the start. Continue reading &rarr;",
-      "source": "Panash India",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Beat the Heat — A Complete Style Guide",
-      "score": 4,
-      "published": "2026-04-11T12:12:09+00:00",
       "discovered_via": "feed"
     },
     {

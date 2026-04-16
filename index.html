@@ -648,9 +648,9 @@ function renderIG() {
     var dateStr = p.date ? new Date(p.date).toLocaleDateString('en-IN',{day:'numeric',month:'short',year:'numeric'}) : '';
     var capPreview = p.caption ? esc(p.caption.slice(0,180)) + (p.caption.length > 180 ? '…' : '') : '';
     var tags = (p.hashtags||[]).slice(0,6).map(function(h){ return '<span style="font-size:var(--text-xs);color:var(--color-primary);margin-right:4px">'+esc(h)+'</span>'; }).join('');
-    return '<article class="card">'
+    return '<article class="card" onclick="window.open(\''+p.url+'\',\'_blank\')" style="cursor:pointer">'
       + '<div class="card-top">'
-      + '<span class="source">@'+esc(p.handle)+'</span>'
+      + '<a class="source" href="'+esc(p.url)+'" target="_blank" rel="noopener noreferrer">@'+esc(p.handle)+'</a>'
       + '<span class="cat">'+esc(cat)+'</span>'
       + '</div>'
       + (capPreview ? '<p class="card-summary">'+capPreview+'</p>' : '')

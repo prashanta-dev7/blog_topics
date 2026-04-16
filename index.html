@@ -23,6 +23,19 @@
   --shadow-sm:0 1px 3px oklch(0.15 0.02 60/0.07);--shadow-md:0 4px 16px oklch(0.15 0.02 60/0.09);--shadow-lg:0 12px 40px oklch(0.15 0.02 60/0.13);
   --content-wide:1280px;
 }
+/* Generate Blog Ideas button */
+.btn-idea {
+  display: inline-flex; align-items: center; gap: var(--space-2);
+  margin-top: var(--space-3); padding: var(--space-2) var(--space-4);
+  background: transparent; border: 1px solid var(--color-primary);
+  color: var(--color-primary); border-radius: var(--radius-full);
+  font-size: var(--text-xs); font-weight: 600;
+  letter-spacing: .05em; text-transform: uppercase;
+  opacity: .6; cursor: not-allowed;
+  transition: opacity var(--transition);
+}
+.btn-idea svg { flex-shrink: 0; }
+  
 [data-theme="dark"] {
   --color-bg:#14120e;--color-surface:#1a1712;--color-surface-2:#201d17;--color-surface-offset:#17140f;--color-surface-dynamic:#2a2620;
   --color-divider:#2e2a23;--color-border:#3a3529;--color-text:#e8e0d0;--color-text-muted:#8a8070;--color-text-faint:#5a5448;--color-text-inverse:#14120e;
@@ -242,43 +255,46 @@ a{color:inherit}
   </section>
 
   <!-- ════════ INSTAGRAM TAB ════════ -->
-  <section class="tab-panel" id="tab-instagram">
-    <div class="panel-intro">
-      <div>
-        <h1>Instagram Watchlist</h1>
-        <p>This tab will house fashion, media, commentary, bridal, runway, and culture profiles the team tracks daily.</p>
+<!-- ════════ INSTAGRAM TAB ════════ -->
+<section class="tab-panel" id="tab-instagram">
+  <div class="panel-intro">
+    <div>
+      <h1>Instagram Watchlist</h1>
+      <p>Latest posts from 67 tracked fashion, bridal, media and commentary accounts.</p>
+    </div>
+    <div style="display:flex;gap:var(--space-3);align-items:center;flex-wrap:wrap">
+      <div class="search-wrap" style="min-width:200px">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+        <input id="ig-q" type="search" placeholder="Search captions, handles…" oninput="renderIG()">
+      </div>
+      <div class="pills" id="ig-filter-pills">
+        <button class="pill active" onclick="setIgFilter('all',this)">All</button>
+        <button class="pill" onclick="setIgFilter('bridal',this)">Bridal</button>
+        <button class="pill" onclick="setIgFilter('runway',this)">Runway</button>
+        <button class="pill" onclick="setIgFilter('commentary',this)">Commentary</button>
+        <button class="pill" onclick="setIgFilter('media',this)">Media</button>
       </div>
     </div>
-    <div class="coming-soon">
-      <div class="coming-badge">
-        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 8v4l3 3"/>ircle cx="12" cy="12" r="9"/></svg>
-        Coming soon
-      </div>
-      <h2 class="coming-title">Instagram signal desk is under preparation.</h2>
-      <p class="coming-copy">This section is reserved for tracked public profiles and will eventually surface recent post activity, content themes, recurring aesthetics, and AZA-relevant editorial takeaways in a dedicated social layer.</p>
-      <div class="coming-grid">
-        <div class="mini-cards">
-          <div class="mini-card"><h4>Planned view</h4><p>Latest posts by handle, caption snippets, and profile-level filters across fashion, bridal, luxury, and culture accounts.</p></div>
-          <div class="mini-card"><h4>Planned use</h4><p>Turn observed social narratives into story leads, trend explainers, celebrity style blogs, and visual inspiration for AZA content.</p></div>
-          <div class="mini-card"><h4>Suggested grouping</h4><p>Commentary accounts, bridal media, global fashion press, shopping and runway pages, and Indian style culture profiles.</p></div>
-          <div class="mini-card"><h4>Status</h4><p>Tab layout is ready. Data source and feed integration will be added next.</p></div>
-        </div>
-        <div class="handle-list">
-          <h4>Initial watchlist sample</h4>
-          <div class="handle"><span>@dietsabya</span><span>commentary</span></div>
-          <div class="handle"><span>@hypebeast</span><span>streetwear</span></div>
-          <div class="handle"><span>@diet_prada</span><span>fashion watchdog</span></div>
-          <div class="handle"><span>@voguerunway</span><span>runway</span></div>
-          <div class="handle"><span>@vogueindia</span><span>fashion media</span></div>
-          <div class="handle"><span>@elleindia</span><span>fashion media</span></div>
-          <div class="handle"><span>@bridestodayin</span><span>bridal</span></div>
-          <div class="handle"><span>@weddingvows.in</span><span>weddings</span></div>
-          <div class="handle"><span>@whowhatwear</span><span>shopping/style</span></div>
-          <div class="handle"><span>@bof</span><span>fashion business</span></div>
-        </div>
-      </div>
-    </div>
-  </section>
+  </div>
+
+  <!-- Stats row -->
+  <div class="stats" id="ig-stats" style="display:none">
+    <div class="stat"><div class="stat-label">Total Posts</div><div class="stat-value" id="ig-s-total">—</div><div class="stat-sub" id="ig-s-accounts">— accounts</div></div>
+    <div class="stat"><div class="stat-label">Scraped On</div><div class="stat-value" id="ig-s-date" style="font-size:var(--text-lg)">—</div></div>
+    <div class="stat"><div class="stat-label">With Hashtags</div><div class="stat-value" id="ig-s-tags">—</div></div>
+    <div class="stat"><div class="stat-label">With Captions</div><div class="stat-value" id="ig-s-caps">—</div></div>
+  </div>
+
+  <!-- Empty/loading state -->
+  <div id="ig-setup" style="display:block;background:var(--color-surface);border:1px solid var(--color-divider);border-radius:var(--radius-xl);padding:var(--space-8);text-align:center;color:var(--color-text-muted)">
+    <p style="margin-bottom:var(--space-2);font-weight:600;color:var(--color-text)">No Instagram data loaded</p>
+    <p style="font-size:var(--text-xs)">Run the Colab scraper → download <code>ig_posts.json</code> → upload to repo root → refresh this page.</p>
+  </div>
+
+  <!-- Grid -->
+  <div id="ig-grid" style="display:none;grid-template-columns:repeat(auto-fill,minmax(min(360px,100%),1fr));gap:var(--space-5)"></div>
+  <div id="ig-empty" class="kw-empty" style="display:none"><h3>No posts match</h3><p>Try clearing your search or filter.</p></div>
+</section> 
 </main>
 
 <!-- Google Trends Embed Loader -->
@@ -402,7 +418,11 @@ function renderArticles(){
     +'<div class="card-title"><a href="'+esc(a.link)+'" target="_blank" rel="noopener noreferrer">'+esc(a.title)+'</a></div>'
     +(a.summary?'<p class="card-summary">'+esc(a.summary)+'</p>':'')
         +'<div class="angle-box"><div class="angle-label">AZA angle</div><div class="angle-text">'+esc(a.angle||'')+'</div></div>'
-    +'<div class="card-footer"><span class="pub">'+fmtDate(a.published)+'</span></div>'
+  +'<div class="card-footer"><span class="pub">'+fmtDate(a.published)+'</span>'
+  +'<button class="btn-idea" disabled title="OpenAI key not configured yet">'
+  +'<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 20h9"/><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"/></svg>'
+  +'Generate Blog Ideas</button>'
+  +'</div>'
     +'</article>';}).join('');
 }
 
@@ -584,6 +604,90 @@ function fmtDate(s){if(!s)return'Date unavailable';var d=new Date(s);return isNa
 function esc(s){return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');}
 function escAttr(s){return String(s||'').replace(/\\/g,'\\\\').replace(/'/g,"\\'").replace(/"/g,'&quot;');}
 
+// ── Instagram Tab ──
+var igPosts = [], igFilter = 'all';
+var IG_ACCOUNT_CATEGORIES = {
+  bridal: ['bridestodayin','weddingvows.in','weddingaffairofficial','opulentstylings','luxuriousbymm'],
+  runway: ['voguerunway','archivedrunway','voguemagazine','vogueindia','lofficielitalia','lofficielusa'],
+  commentary: ['dietsabya','diet_prada','checkthetag','fashionlawjournal','fashionispsychology'],
+  media: ['bof','voguebusiness','hypebeast','hypebae','nytstyle','elleindia','elleusa','gqindia','esquireindia','bazaarindia','bazaaraustralia','hellomag','feminaindia','graziauk','harpersbazaarus','idivaofficial','instylemagazine','wwd','highsnobietystyle','dazed','cultmag','cnnstyle','outlandermagazine','thenodmag','anothermagazine'],
+};
+
+function setIgFilter(f, el) {
+  igFilter = f;
+  document.querySelectorAll('#ig-filter-pills .pill').forEach(function(p){p.classList.remove('active');});
+  el.classList.add('active');
+  renderIG();
+}
+
+function getIgCategory(handle) {
+  for (var cat in IG_ACCOUNT_CATEGORIES) {
+    if (IG_ACCOUNT_CATEGORIES[cat].indexOf(handle) !== -1) return cat;
+  }
+  return 'style';
+}
+
+function renderIG() {
+  var grid = document.getElementById('ig-grid');
+  var empty = document.getElementById('ig-empty');
+  var setup = document.getElementById('ig-setup');
+  if (!igPosts.length) { setup.style.display='block'; grid.style.display='none'; return; }
+  setup.style.display = 'none';
+
+  var q = ((document.getElementById('ig-q')||{}).value||'').toLowerCase().trim();
+  var items = igPosts.slice();
+  if (igFilter !== 'all') items = items.filter(function(p){ return getIgCategory(p.handle) === igFilter; });
+  if (q) items = items.filter(function(p){ return (p.handle+' '+(p.caption||'')+' '+(p.hashtags||[]).join(' ')).toLowerCase().indexOf(q) !== -1; });
+
+  if (!items.length) { grid.style.display='none'; empty.style.display='block'; return; }
+  empty.style.display = 'none';
+  grid.style.display = 'grid';
+
+  grid.innerHTML = items.map(function(p) {
+    var cat = getIgCategory(p.handle);
+    var dateStr = p.date ? new Date(p.date).toLocaleDateString('en-IN',{day:'numeric',month:'short',year:'numeric'}) : '';
+    var capPreview = p.caption ? esc(p.caption.slice(0,180)) + (p.caption.length > 180 ? '…' : '') : '';
+    var tags = (p.hashtags||[]).slice(0,6).map(function(h){ return '<span style="font-size:var(--text-xs);color:var(--color-primary);margin-right:4px">'+esc(h)+'</span>'; }).join('');
+    return '<article class="card">'
+      + '<div class="card-top">'
+      + '<span class="source">@'+esc(p.handle)+'</span>'
+      + '<span class="cat">'+esc(cat)+'</span>'
+      + '</div>'
+      + (capPreview ? '<p class="card-summary">'+capPreview+'</p>' : '')
+      + (p.alt_text ? '<div class="angle-box"><div class="angle-label">Image</div><div class="angle-text">'+esc(p.alt_text.slice(0,160))+'</div></div>' : '')
+      + (tags ? '<div style="margin-top:var(--space-2)">'+tags+'</div>' : '')
+      + '<div class="card-footer"><span class="pub">'+dateStr+'</span>'
+      + '<button class="btn-idea" disabled title="OpenAI key not configured yet">'
+      + '<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 20h9"/><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"/></svg>'
+      + 'Generate Blog Ideas</button>'
+      + '</div>'
+      + '</article>';
+  }).join('');
+}
+
+async function loadIgPosts() {
+  try {
+    var base = window.location.href.replace(/\/[^\/]*$/, '').replace(/\/$/, '');
+    var r = await fetch(base + '/ig_posts.json?t=' + Date.now());
+    if (!r.ok) return;
+    var d = await r.json();
+    igPosts = d.posts || [];
+    // Stats
+    var statsEl = document.getElementById('ig-stats');
+    if (statsEl) statsEl.style.display = 'grid';
+    var el;
+    if (el=document.getElementById('ig-s-total')) el.textContent = igPosts.length;
+    if (el=document.getElementById('ig-s-accounts')) el.textContent = d.accounts + ' accounts';
+    if (el=document.getElementById('ig-s-date')) el.textContent = d.scraped_at ? d.scraped_at.slice(0,10) : '—';
+    if (el=document.getElementById('ig-s-tags')) el.textContent = igPosts.filter(function(p){return p.hashtags&&p.hashtags.length;}).length;
+    if (el=document.getElementById('ig-s-caps')) el.textContent = igPosts.filter(function(p){return p.caption&&p.caption.length>10;}).length;
+    renderIG();
+  } catch(e) {}
+}
+
+loadIgPosts();
+
+  
 loadFeed();
 </script>
 </body>

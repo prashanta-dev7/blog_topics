@@ -1,23 +1,149 @@
 {
-  "generated_at": "2026-04-16T07:00:11.353397+00:00",
+  "generated_at": "2026-04-16T09:23:26.012862+00:00",
   "owned_count": 0,
   "competitor_count": 21,
-  "industry_count": 151,
+  "industry_count": 153,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
     {
+      "id": "c6a28870f4e0",
+      "title": "Believe It Or Not, Your Chicest Designer Heels Actually Look Most Stylish With This Low-Key Jeans Trend",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/heeled-low-rise-cuffed-jeans-outfit-michaela-coel",
+      "summary": "Confirmed.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-04-16T09:02:22+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "02b795d51d27",
+      "title": "This Divisive ‘90s Shoe Is the One Trend Millennials and Gen Z Can Agree On",
+      "link": "https://www.whowhatwear.com/fashion/shoes/jelly-shoe-trends-2026",
+      "summary": "And it shows no signs of slowing down...",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-04-16T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3d4c4a10a4e8",
+      "title": "I Just Tried On Zara's Chic, Anti-Trend Spring Collection—These 5 Pieces Made The Cut",
+      "link": "https://www.whowhatwear.com/fashion/shopping/zara-try-on-spring-2026",
+      "summary": "It's a Zara spring.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 2,
+      "published": "2026-04-16T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5ef1ad1b7688",
+      "title": "I'm a Beauty Editor—If I Had to Edit My Skin Routine to 3 Products, It’d Be This, This, and This",
+      "link": "https://www.whowhatwear.com/beauty/skin/beauty-editor-top-3-skincare-products-2026",
+      "summary": "My nonnegotiables.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I'm a Beauty Editor—If I Had to Edit My Skin Routine to 3 Products, It...",
+      "score": 1,
+      "published": "2026-04-16T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7c26ce07a245",
+      "title": "I'm Building the Perfect Anti-Trend Capsule For Spring—5 Pieces I'm Relying On",
+      "link": "https://www.whowhatwear.com/fashion/anti-trend-spring-capsule-wardrobe-2026",
+      "summary": "A spring upgrade.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-04-16T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "89fe0c708c8c",
+      "title": "I’m Calling It: These Will Be the Most-Worn Sandals of Summer 2026",
+      "link": "https://www.whowhatwear.com/fashion/summer/peep-toe-sandal-shoe-trend-2026",
+      "summary": "Shop the style inside.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I’m Calling It: These Will Be the Most-Worn Sandals of Summer 2026...",
+      "score": 1,
+      "published": "2026-04-16T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "07bd2d47e1e4",
+      "title": "Ponchos! Skullcaps! Fringe Boots! Here Are the Biggest Trends I Spotted at Coachella 2026",
+      "link": "https://www.whowhatwear.com/fashion/trends/fashion-trends-coachella-2026",
+      "summary": "So much festival outfit inspiration.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-04-16T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3b7e9c7fcd3f",
+      "title": "Jenny Walton's World: Her New Book, Miuccia Prada, and a Fixer-Upper in Tuscany",
+      "link": "https://www.whowhatwear.com/fashion/cover-features/my-world-jenny-walton",
+      "summary": "The illustrator, designer, and writer's new book is out on April 29.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Jenny Walton's World: Her New Book, Miuccia Prada, and a Fixer-Upper i...",
+      "score": 1,
+      "published": "2026-04-16T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e4e9ab13bb47",
+      "title": "Meghan Markle Adds Some Personal Touches to Her Australia Tour Wardrobe",
+      "link": "https://www.vogue.com/slideshow/meghan-markle-australia-tour-2026-fashion",
+      "summary": "In Australia for a four-day tour with Prince Harry, the Duchess of Sussex brought her pared-back tour wardrobe—paying special attention to Australian brands.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Meghan Markle Adds Some Personal Touches to Her Australia Tour Wardrob...",
+      "score": 1,
+      "published": "2026-04-16T06:59:23+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "776814ea3ab7",
-      "title": "No bindi, tilak, but hijab allowed? Lenskart clarifies after row over dress code",
+      "title": "No bindi, tilak, but hijab allowed? Lenskart clarifies after backlash over dress code",
       "link": "https://www.indiatoday.in/india/story/lenskart-hijab-tilak-bindi-kalawa-guidelines-row-controversy-eyewear-founder-peyush-bansal-shark-tank-2896971-2026-04-16?utm_source=rss",
-      "summary": "No bindi, tilak, but hijab allowed? Lenskart clarifies after row over dress code",
+      "summary": "No bindi, tilak, but hijab allowed? Lenskart clarifies after backlash over dress code",
       "source": "India Today Fashion",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: No bindi, tilak, but hijab allowed? Lenskart clarifies after row over ...",
+      "angle": "Fashion Intelligence: No bindi, tilak, but hijab allowed? Lenskart clarifies after backlash ...",
       "score": 1,
       "published": "2026-04-16T06:17:09+00:00",
       "discovered_via": "feed"
@@ -62,6 +188,34 @@
       "angle": "Bridal Edit: Welcome to the Who What Wear UK Wedding Issue 2026 — A Complete Style Guide",
       "score": 2,
       "published": "2026-04-16T05:05:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8ece54224305",
+      "title": "From Affordable to Luxury, These Are the Very Best Wedding Gifts to Give in 2026",
+      "link": "https://www.whowhatwear.com/living/wedding/chic-wedding-gifts",
+      "summary": "To have and to hold.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: From Affordable to Luxury, These Are the Very Best Wedding Gifts to Give in 2026 — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-04-16T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a04e2608a9c8",
+      "title": "Save the Date: The Ultimate Timeline for Every Trending Bridal Beauty Treatment",
+      "link": "https://www.whowhatwear.com/beauty/skin/wedding-beauty-treatment-timeline",
+      "summary": "From a fellow bride-to-be.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Save the Date — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-04-16T05:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -117,34 +271,6 @@
       "aza_category": "Bridal & Wedding",
       "angle": "Bridal Edit: The Traditional vs. Alternative Bride — A Complete Style Guide",
       "score": 2,
-      "published": "2026-04-16T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8ece54224305",
-      "title": "From Affordable to Luxury, These Are the Very Best Wedding Gifts to Give in 2026",
-      "link": "https://www.whowhatwear.com/living/wedding/chic-wedding-gifts",
-      "summary": "To have and to hold.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: From Affordable to Luxury, These Are the Very Best Wedding Gifts to Give in 2026 — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-04-16T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a04e2608a9c8",
-      "title": "Save the Date: The Ultimate Timeline for Every Trending Bridal Beauty Treatment",
-      "link": "https://www.whowhatwear.com/beauty/skin/wedding-beauty-treatment-timeline",
-      "summary": "From a fellow bride-to-be.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Save the Date — A Complete Style Guide",
-      "score": 3,
       "published": "2026-04-16T05:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -933,20 +1059,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "cbb92ab1de29",
-      "title": "Should We All Be Taking Supplements?",
-      "link": "https://www.vogue.com/article/should-we-all-be-taking-supplements",
-      "summary": "Ashwaghanda, Magnesium, and Vitamin D—a Vogue writer gets to the bottom of the trendiest supplements.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Should We All Be Taking Supplements?...",
-      "score": 1,
-      "published": "2026-04-15T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "0f3de0238ae9",
       "title": "Uno de 50's Spring 2026 Collection Celebrates Spanish Architecture",
       "link": "https://fashionista.com/2026/04/uno-de-50-limited-edition-spring-2026-jewelry-collection",
@@ -989,20 +1101,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "91c446dd02c1",
-      "title": "Zara, H&M and COS Just Perfected the 5 Chicest Spring Trends—9 Stylish Pieces That Won't Stay in Stock",
-      "link": "https://www.whowhatwear.com/fashion/shopping/zara-hm-cos-spring-trends-2026",
-      "summary": "Spring capsule wardrobe, complete.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-04-15T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f8e96eff55e9",
       "title": "My Birthday Is on the Horizon—Every Chic Fashion and Beauty Item I'm Subtly Texting to My Friends",
       "link": "https://www.whowhatwear.com/fashion/shopping/beauty-editor-birthday-wish-list-2026",
@@ -1013,6 +1111,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: My Birthday Is on the Horizon—Every Chic Fashion and Beauty Item I'm S...",
       "score": 2,
+      "published": "2026-04-15T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "91c446dd02c1",
+      "title": "Zara, H&M and COS Just Perfected the 5 Chicest Spring Trends—9 Stylish Pieces That Won't Stay in Stock",
+      "link": "https://www.whowhatwear.com/fashion/shopping/zara-hm-cos-spring-trends-2026",
+      "summary": "Spring capsule wardrobe, complete.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
       "published": "2026-04-15T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1045,6 +1157,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "c0f487097413",
+      "title": "I Know You're a Cool Fashion Person If These 32 Spring Reformation Pieces Are in Your Cart",
+      "link": "https://www.whowhatwear.com/fashion/spring/cool-reformation-spring-pieces-2026",
+      "summary": "Warm-weather fashion is loading.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Know You're a Cool Fashion Person If These 32 Spring Reformation Pie...",
+      "score": 1,
+      "published": "2026-04-15T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "838e62ad5d16",
+      "title": "Not Burgundy or Espresso—How to Style the High-Value Color Trend Everyone's Into Instead",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/how-to-style-royal-purple",
+      "summary": "Royalty coded.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-04-15T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "8339ed18d050",
       "title": "In Paris, Every French Woman's Capsule Wardrobe Includes These 7 Shoes",
       "link": "https://www.whowhatwear.com/fashion/shoes/french-girl-shoe-capsule-2026",
@@ -1069,20 +1209,6 @@
       "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 4,
-      "published": "2026-04-15T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "838e62ad5d16",
-      "title": "Not Burgundy or Espresso—How to Style the High-Value Color Trend Everyone's Into Instead",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/how-to-style-royal-purple",
-      "summary": "Royalty coded.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
       "published": "2026-04-15T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1115,34 +1241,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c0f487097413",
-      "title": "I Know You're a Cool Fashion Person If These 32 Spring Reformation Pieces Are in Your Cart",
-      "link": "https://www.whowhatwear.com/fashion/spring/cool-reformation-spring-pieces-2026",
-      "summary": "Warm-weather fashion is loading.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Know You're a Cool Fashion Person If These 32 Spring Reformation Pie...",
-      "score": 1,
-      "published": "2026-04-15T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2f31adb46db9",
-      "title": "I'm a Fashion Editor—These Are the 5 Looks I'll Be Copying for an Elevated Transitional Wardrobe",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/elevated-transitional-outfits-2026",
-      "summary": "The formula for transitional dressing.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I'm a Fashion Editor—These Are the 5 Looks I'll Be Copying for an Elev...",
-      "score": 2,
-      "published": "2026-04-15T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "91253b0207c3",
       "title": "Christopher John Rogers and Zac Posen 'Made Magic' for Old Navy",
       "link": "https://fashionista.com/2026/04/old-navy-christopher-john-rogers-collaboration-shop-prices",
@@ -1157,62 +1255,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "43118c02334b",
-      "title": "I Don't Say This Lightly: These 16 Luxury Beauty Products Are So Worth the Price",
-      "link": "https://www.whowhatwear.com/beauty/chanel-beauty-luxury-products-worth-the-price",
-      "summary": "Splurge now, thank me later.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Don't Say This Lightly: These 16 Luxury Beauty Products Are So Worth...",
-      "score": 2,
-      "published": "2026-04-15T01:03:49+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bed4012c40c9",
-      "title": "White Skirts Aren't \"Out,\" But Celebs in Their 40s Swear By This Pretty Color Trend Instead",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/kate-hudson-midi-skirt-and-flats-outfit",
-      "summary": "Including Kate Hudson.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-04-15T00:31:29+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "39e4c7ae4001",
-      "title": "L.A. Celebs Know That This Sneaker Trend Makes Jeans and a White Tee Look 10 Times Cooler",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/yellow-sneaker-trend-olivia-wilde",
-      "summary": "Olivia Wilde approved.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-04-14T21:25:56+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ece7d1b5c059",
-      "title": "The '90s Shoe Trends All the Posh European Girls Are Wearing With Jeans",
-      "link": "https://www.whowhatwear.com/fashion/shoes/90s-shoe-trends-2026",
-      "summary": "Heels! Sneakers! Flats!",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-04-14T21:00:26+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "95a77962aff0",
       "title": "A Definitive List of Rihanna’s Favorite Perfumes",
       "link": "https://www.harpersbazaar.com/beauty/health/a71017164/rihanna-favorite-perfumes/",
@@ -1224,20 +1266,6 @@
       "angle": "Fashion Intelligence: A Definitive List of Rihanna’s Favorite Perfumes...",
       "score": 2,
       "published": "2026-04-14T20:57:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "14bb5cbf1b8c",
-      "title": "I Went on an Expedition Into Banana Republic's Archives With Its Latest Collaboration—These Pieces Are Very Cool",
-      "link": "https://www.whowhatwear.com/fashion/shopping/banana-republic-archive-reissue-with-the-explorers-club",
-      "summary": "The brand's legacy goes beyond its office attire.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: I Went on an Expedition Into Banana Republic's Archives With Its Lates...",
-      "score": 1,
-      "published": "2026-04-14T20:36:24+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2123,6 +2151,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "c509b01bbf98",
+      "title": "Ethnic Outfits That Feel Auspicious and Timeless This Akshaya Tritiya",
+      "link": "https://blog.kalkifashion.com/ethnic-outfits-that-feel-auspicious-and-timeless-this-akshaya-tritiya/",
+      "summary": "Festivals give us a reason to celebrate and immerse ourselves in soulful activities. And these sacred rituals are incomplete without powerful dressing. Akshaya Tritiya, considered to be one of the most auspicious days in Hindu culture, holds great importance. It signifies new beginnings and prosperity, and is the perfe",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Ethnic Outfits That Feel Auspicious and Timeless This Akshaya Tritiya...",
+      "score": 3,
+      "published": "2026-04-16T07:03:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "1ea1d99beaf8",
       "title": "Which Banarasi Saree is Perfect for Indian Weddings in 2026?",
       "link": "https://www.indianclothstore.com/blog/which-banarasi-saree-is-perfect-for-indian-weddings-in-2026",
@@ -2291,20 +2333,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d475c1145f9e",
-      "title": "Top 5 Summer Ethnic Outfits Every Woman Should Have In Her Wardrobe",
-      "link": "https://blog.kalkifashion.com/top-5-summer-ethnic-outfits-every-woman-should-have-in-her-wardrobe/",
-      "summary": "Come summers and, it&#8217;s time to pack away the bulky winter clothing and switch to light, breathable outfits that are uber comfortable and cool. From sunshine yellow to pale pink, soft, soothing summer outfits for women make you look graceful and feel at ease in the heat. Let us have a look at the top [&#8230;] The",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Top 5 Summer Ethnic Outfits Every Woman Should Have In Her Wardrobe...",
-      "score": 2,
-      "published": "2026-04-07T05:35:55+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "97f1cc3398d7",
       "title": "Pathani Suit vs Kurta Pajama: What Should Men Wear for Weddings and Festivals?",
       "link": "https://www.indianclothstore.com/blog/pathani-suit-vs-kurta-pajama-wedding-india",
@@ -2419,52 +2447,52 @@
   ],
   "trends": [
     {
-      "term": "प्रधानमंत्री",
+      "term": "pindiz vs hyderabad kingsmen",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "employees provident fund organisation",
+      "term": "mira murati",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "মামলা",
+      "term": "csk complaint against rcb",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "dost",
+      "term": "जॉन अब्राहम",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "artificial general intelligence",
+      "term": "ఎరువు",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "कश्मीरा शाह",
+      "term": "एकनाथ शिंदे",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "हाइब्रिड कार",
+      "term": "ਮਹਿੰਗਾਈ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "one ui 9 galaxy s26",
-      "summary": "",
-      "aza_category": "Occasion Dressing"
-    },
-    {
-      "term": "cbi real estate fraud raids",
+      "term": "క్రికెటర్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "सोने चांदी भाव",
+      "term": "संसद",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "om birla",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

@@ -313,7 +313,7 @@ a{color:inherit}
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/3826_RC01/embed_loader.js"></script>
 
 <script>
-window._oaiKey = "AIzaSyDTFFpQoz3_95c8F-jMJz9r-dEwWZOH1vo";
+window._oaiKey = "__GEMINI_KEY__";
   let articles=[], trends=[], trackedKeywords=[], activeF='All', kwGeo='all', kwType='all';
 const AUTO_LOAD_COUNT = 10; // per geo
 
@@ -432,7 +432,7 @@ function renderArticles(){
     +(a.summary?'<p class="card-summary">'+esc(a.summary)+'</p>':'')
         +'<div class="angle-box"><div class="angle-label">AZA angle</div><div class="angle-text">'+esc(a.angle||'')+'</div></div>'
   +'<div class="card-footer"><span class="pub">'+fmtDate(a.published)+'</span>'
-  +'<button class="btn-idea" onclick="generateIdeas(this,'+JSON.stringify({title:a.title,angle:a.angle,category:a.aza_category})+')" title="Generate blog ideas with Gemini">'
+  +'<button class="btn-idea" onclick="event.stopPropagation();generateIdeas(this,{title:this.dataset.title,angle:this.dataset.angle,category:this.dataset.cat})" data-title="'+esc(a.title||'')+'" data-angle="'+esc(a.angle||'')+'" data-cat="'+esc(a.aza_category||'')+'" title="Generate blog ideas with Gemini">'
   +'<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 20h9"/><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"/></svg>'
   +'Generate Blog Ideas</button>'
   +'</div>'
@@ -661,7 +661,7 @@ function renderIG() {
     var dateStr = p.date ? new Date(p.date).toLocaleDateString('en-IN',{day:'numeric',month:'short',year:'numeric'}) : '';
     var capPreview = p.caption ? esc(p.caption.slice(0,180)) + (p.caption.length > 180 ? '…' : '') : '';
     var tags = (p.hashtags||[]).slice(0,6).map(function(h){ return '<span style="font-size:var(--text-xs);color:var(--color-primary);margin-right:4px">'+esc(h)+'</span>'; }).join('');
-    return '<article class="card" onclick="window.open(\''+p.url+'\',\'_blank\')" style="cursor:pointer">'
+    return '<article class="card">'
       + '<div class="card-top">'
       + '<a class="source" href="'+esc(p.url)+'" target="_blank" rel="noopener noreferrer">@'+esc(p.handle)+'</a>'
       + '<span class="cat">'+esc(cat)+'</span>'
@@ -670,7 +670,7 @@ function renderIG() {
       + (p.alt_text ? '<div class="angle-box"><div class="angle-label">Image</div><div class="angle-text">'+esc(p.alt_text.slice(0,160))+'</div></div>' : '')
       + (tags ? '<div style="margin-top:var(--space-2)">'+tags+'</div>' : '')
       + '<div class="card-footer"><span class="pub">'+dateStr+'</span>'
-      + '<button class="btn-idea" title="Generate blog ideas with Gemini">'
+      + '<button class="btn-idea" onclick="event.stopPropagation();generateIdeas(this,{title:this.dataset.title,angle:this.dataset.angle,category:this.dataset.cat})" data-title="'+esc(p.caption?p.caption.slice(0,80):p.handle)+'" data-angle="" data-cat="'+esc(cat)+'" title="Generate blog ideas with Gemini">'
       + '<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 20h9"/><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"/></svg>'
       + 'Generate Blog Ideas</button>'
       + '</div>'
@@ -759,4 +759,3 @@ loadFeed();
 </script>
 </body>
 </html>
-      

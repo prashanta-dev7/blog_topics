@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-04-16T12:24:57.613015+00:00",
+  "generated_at": "2026-04-16T12:45:49.729955+00:00",
   "owned_count": 10,
-  "competitor_count": 21,
-  "industry_count": 154,
+  "competitor_count": 20,
+  "industry_count": 155,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "9a9588522449",
+      "title": "How to Get a Job in Fashion Tech",
+      "link": "https://fashionista.com/2026/04/how-to-get-fashion-tech-jobs",
+      "summary": "The industry's digital revolution is creating new job opportunities. Here’s how to find and take advantage of them.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How to Get a Job in Fashion Tech...",
+      "score": 1,
+      "published": "2026-04-16T12:45:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "d70ed436814a",
       "title": "The Vogue Business Funding Tracker",
@@ -23,15 +37,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ea4f2e5b7541",
-      "title": "Required Reading: Five Books That Shaped the Way Mikaela Dery Thought About Fashion Writing",
-      "link": "https://www.vogue.com/article/required-reading-mikaela-dery-fashion-fiction",
-      "summary": "When Mikaela Dery began her downton reading series “Fashion Fiction” nearly a year ago, it functioned as a way to blend two of her great loves: fashion and literature. Here, she shares five works of literature that affected the way she thought about aesthetics, from works of fiction to essays.",
+      "id": "1868675d5181",
+      "title": "There’s Never Been a Bigger Year for High-Low Collabs",
+      "link": "https://www.vogue.com/article/theres-never-been-a-bigger-year-for-high-low-collabs",
+      "summary": "We're long past the point of a \"cheap-chic\" collaboration being scandalous; however, designer mass market partnerships are gearing up for their biggest moment yet.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Required Reading: Five Books That Shaped the Way Mikaela Dery Thought ...",
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: There’s Never Been a Bigger Year for High-Low Collabs...",
       "score": 1,
       "published": "2026-04-16T12:00:00+00:00",
       "discovered_via": "feed"
@@ -51,15 +65,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1868675d5181",
-      "title": "There’s Never Been a Bigger Year for High-Low Collabs",
-      "link": "https://www.vogue.com/article/theres-never-been-a-bigger-year-for-high-low-collabs",
-      "summary": "We're long past the point of a \"cheap-chic\" collaboration being scandalous; however, designer mass market partnerships are gearing up for their biggest moment yet.",
+      "id": "ea4f2e5b7541",
+      "title": "Required Reading: Five Books That Shaped the Way Mikaela Dery Thought About Fashion Writing",
+      "link": "https://www.vogue.com/article/required-reading-mikaela-dery-fashion-fiction",
+      "summary": "When Mikaela Dery began her downton reading series “Fashion Fiction” nearly a year ago, it functioned as a way to blend two of her great loves: fashion and literature. Here, she shares five works of literature that affected the way she thought about aesthetics, from works of fiction to essays.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: There’s Never Been a Bigger Year for High-Low Collabs...",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Required Reading: Five Books That Shaped the Way Mikaela Dery Thought ...",
       "score": 1,
       "published": "2026-04-16T12:00:00+00:00",
       "discovered_via": "feed"
@@ -289,6 +303,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "5ef1ad1b7688",
+      "title": "I'm a Beauty Editor—If I Had to Edit My Skin Routine to 3 Products, It’d Be This, This, and This",
+      "link": "https://www.whowhatwear.com/beauty/skin/beauty-editor-top-3-skincare-products-2026",
+      "summary": "My nonnegotiables.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I'm a Beauty Editor—If I Had to Edit My Skin Routine to 3 Products, It...",
+      "score": 1,
+      "published": "2026-04-16T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "02b795d51d27",
       "title": "This Divisive '90s Shoe Is the One Trend Millennials and Gen Z Can Agree On",
       "link": "https://www.whowhatwear.com/fashion/shoes/jelly-shoe-trends-2026",
@@ -317,17 +345,31 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5ef1ad1b7688",
-      "title": "I'm a Beauty Editor—If I Had to Edit My Skin Routine to 3 Products, It’d Be This, This, and This",
-      "link": "https://www.whowhatwear.com/beauty/skin/beauty-editor-top-3-skincare-products-2026",
-      "summary": "My nonnegotiables.",
+      "id": "7c26ce07a245",
+      "title": "I'm Building the Perfect Anti-Trend Capsule for Spring—5 Pieces I'm Relying On",
+      "link": "https://www.whowhatwear.com/fashion/anti-trend-spring-capsule-wardrobe-2026",
+      "summary": "A spring upgrade.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I'm a Beauty Editor—If I Had to Edit My Skin Routine to 3 Products, It...",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
-      "published": "2026-04-16T08:00:00+00:00",
+      "published": "2026-04-16T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "07bd2d47e1e4",
+      "title": "Ponchos! Skullcaps! Fringe Boots! Here Are the Biggest Trends I Spotted at Coachella 2026",
+      "link": "https://www.whowhatwear.com/fashion/trends/fashion-trends-coachella-2026",
+      "summary": "So much festival outfit inspiration.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-04-16T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -345,20 +387,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7c26ce07a245",
-      "title": "I'm Building the Perfect Anti-Trend Capsule for Spring—5 Pieces I'm Relying On",
-      "link": "https://www.whowhatwear.com/fashion/anti-trend-spring-capsule-wardrobe-2026",
-      "summary": "A spring upgrade.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-04-16T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "89fe0c708c8c",
       "title": "I’m Calling It: These Will Be the Most-Worn Sandals of Summer 2026",
       "link": "https://www.whowhatwear.com/fashion/summer/peep-toe-sandal-shoe-trend-2026",
@@ -369,20 +397,6 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I’m Calling It: These Will Be the Most-Worn Sandals of Summer 2026...",
       "score": 1,
-      "published": "2026-04-16T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "07bd2d47e1e4",
-      "title": "Ponchos! Skullcaps! Fringe Boots! Here Are the Biggest Trends I Spotted at Coachella 2026",
-      "link": "https://www.whowhatwear.com/fashion/trends/fashion-trends-coachella-2026",
-      "summary": "So much festival outfit inspiration.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
       "published": "2026-04-16T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1250,6 +1264,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I Know You're a Cool Fashion Person If These 32 Spring Reformation Pie...",
+      "score": 1,
+      "published": "2026-04-15T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3bda7275fc93",
+      "title": "I Live in L.A. and Wear Jeans and White Tees Year-Round—These 10 Are My Favorites",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-jeans-and-white-tees",
+      "summary": "The staples I can't live without.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Live in L.A. and Wear Jeans and White Tees Year-Round—These 10 Are M...",
       "score": 1,
       "published": "2026-04-15T07:00:00+00:00",
       "discovered_via": "feed"
@@ -2151,20 +2179,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a28b87d1a27e",
-      "title": "The Mystery and Allure of a Proprietary Beauty Ingredient",
-      "link": "https://fashionista.com/2026/04/proprietary-ingredients-beauty-products-marketing",
-      "summary": "A trade secret gives brands a differentiating factor and a compelling story, as well as a means of justifying luxury pricing, but are all proprietary ingredients worth the hefty tag?",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The Mystery and Allure of a Proprietary Beauty Ingredient...",
-      "score": 3,
-      "published": "2026-04-02T12:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c509b01bbf98",
       "title": "Ethnic Outfits That Feel Auspicious and Timeless This Akshaya Tritiya",
       "link": "https://blog.kalkifashion.com/ethnic-outfits-that-feel-auspicious-and-timeless-this-akshaya-tritiya/",
@@ -2274,20 +2288,6 @@
       "angle": "Fashion Intelligence: Which Kanjivaram Saree is Best to Buy Online in India 2026?...",
       "score": 6,
       "published": "2026-04-11T12:18:53+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a384fcd3f7ae",
-      "title": "Beat the Heat: 5 Breezy Lightweight Lehengas for Outdoor Summer Weddings",
-      "link": "https://www.panashindia.com/blog/lightweight-lehengas-for-outdoor-summer-weddings/",
-      "summary": "Outdoor summer weddings sound great until you’re a few hours in and the outfit starts feeling heavier than expected. The fabric sticks, the dupatta keeps slipping, and suddenly comfort matters more than how your outfit looked at the start. Continue reading &rarr;",
-      "source": "Panash India",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Beat the Heat — A Complete Style Guide",
-      "score": 4,
-      "published": "2026-04-11T12:12:09+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2601,6 +2601,31 @@
   ],
   "trends": [
     {
+      "term": "aiims",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "अक्षय कुमार",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "విజయ్",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "చెన్నై సూపర్ కింగ్స్",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "andrey rublev",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
       "term": "विवो",
       "summary": "",
       "aza_category": "Fashion & Style"
@@ -2616,37 +2641,12 @@
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "हिन्दुस्तान",
+      "term": "सपने वर्सेस एवरीवन",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
       "term": "ঝড়",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "neet pg",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "వాతావరణ సూచన",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "vitamin d",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "తహశీల్దార్",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "met",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

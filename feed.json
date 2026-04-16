@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-04-16T12:45:49.729955+00:00",
+  "generated_at": "2026-04-16T13:14:26.082312+00:00",
   "owned_count": 10,
-  "competitor_count": 20,
+  "competitor_count": 21,
   "industry_count": 155,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "2dafe9c92388",
+      "title": "Moncler’s Summer Collection Is a Masterclass in Lightweight Layering",
+      "link": "https://www.harpersbazaar.com/fashion/trends/a71028698/moncler-summer-2026-collection/",
+      "summary": "From light-as-air parkas to colorful windbreakers, you’ll be well covered",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-04-16T13:01:52+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "9a9588522449",
       "title": "How to Get a Job in Fashion Tech",
@@ -37,20 +51,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1868675d5181",
-      "title": "There’s Never Been a Bigger Year for High-Low Collabs",
-      "link": "https://www.vogue.com/article/theres-never-been-a-bigger-year-for-high-low-collabs",
-      "summary": "We're long past the point of a \"cheap-chic\" collaboration being scandalous; however, designer mass market partnerships are gearing up for their biggest moment yet.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: There’s Never Been a Bigger Year for High-Low Collabs...",
-      "score": 1,
-      "published": "2026-04-16T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "83bbc189b068",
       "title": "Who was the real Emily from “The Devil Wears Prada”?",
       "link": "https://www.vogue.com/article/real-emily-devil-wears-prada",
@@ -74,6 +74,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Required Reading: Five Books That Shaped the Way Mikaela Dery Thought ...",
+      "score": 1,
+      "published": "2026-04-16T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1868675d5181",
+      "title": "There’s Never Been a Bigger Year for High-Low Collabs",
+      "link": "https://www.vogue.com/article/theres-never-been-a-bigger-year-for-high-low-collabs",
+      "summary": "We're long past the point of a \"cheap-chic\" collaboration being scandalous; however, designer mass market partnerships are gearing up for their biggest moment yet.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: There’s Never Been a Bigger Year for High-Low Collabs...",
       "score": 1,
       "published": "2026-04-16T12:00:00+00:00",
       "discovered_via": "feed"
@@ -1731,20 +1745,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1810d50e5e9d",
-      "title": "The 23 Best Spa Gifts That Soothe and Restore",
-      "link": "https://www.harpersbazaar.com/beauty/health/g45371635/best-spa-gifts/",
-      "summary": "Featuring professional-level favorites from Dior, Therabody, and more",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The 23 Best Spa Gifts That Soothe and Restore...",
-      "score": 0,
-      "published": "2026-04-13T20:43:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "1718ceccb829",
       "title": "Must Read: Hugo Boss to Sponsor the Australian Open, Stefano Cantino Joins Dolce & Gabbana as Co-CEO",
       "link": "https://fashionista.com/2026/04/hugo-boss-australian-open-sponsor",
@@ -2291,6 +2291,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "a384fcd3f7ae",
+      "title": "Beat the Heat: 5 Breezy Lightweight Lehengas for Outdoor Summer Weddings",
+      "link": "https://www.panashindia.com/blog/lightweight-lehengas-for-outdoor-summer-weddings/",
+      "summary": "Outdoor summer weddings sound great until you’re a few hours in and the outfit starts feeling heavier than expected. The fabric sticks, the dupatta keeps slipping, and suddenly comfort matters more than how your outfit looked at the start. Continue reading &rarr;",
+      "source": "Panash India",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Beat the Heat — A Complete Style Guide",
+      "score": 4,
+      "published": "2026-04-11T12:12:09+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "8e5f2e81b398",
       "title": "How to Choose a Groom Outfit That Matches the Bride’s Lehenga",
       "link": "https://blog.kalkifashion.com/how-to-choose-a-groom-outfit-that-matches-the-brides-lehenga/",
@@ -2601,52 +2615,52 @@
   ],
   "trends": [
     {
-      "term": "aiims",
+      "term": "মমতা বন্দ্যোপাধ্যায়",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अक्षय कुमार",
+      "term": "ನ್ಯಾಯಾಧೀಶ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "విజయ్",
+      "term": "will jacks",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "చెన్నై సూపర్ కింగ్స్",
+      "term": "jee main 2026 result date",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "andrey rublev",
+      "term": "corby",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "विवो",
+      "term": "kettering",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಮಹಿಳಾ ಮೀಸಲಾತಿ ಮಸೂದೆ",
+      "term": "ओम बिड़ला",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ವಿನೋದ್ ಕಾಂಬ್ಳಿ",
+      "term": "ranveer singh praises dhurandhar crew",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "सपने वर्सेस एवरीवन",
+      "term": "amu",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ঝড়",
+      "term": "ನಮನ್ ತಿವಾರಿ",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

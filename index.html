@@ -314,7 +314,8 @@ a{color:inherit}
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/3826_RC01/embed_loader.js"></script>
 
 <script>
-let articles=[], trends=[], trackedKeywords=[], activeF='All', kwGeo='all', kwType='all';
+window._oaiKey = "__GEMINI_KEY__";
+  let articles=[], trends=[], trackedKeywords=[], activeF='All', kwGeo='all', kwType='all';
 const AUTO_LOAD_COUNT = 10; // per geo
 
 // ── Theme Toggle ──
@@ -723,17 +724,14 @@ Generate 3 specific, ready-to-write blog post ideas for AZA's blog. Each idea sh
 Format: numbered list.`;
 
   try {
-    const res = await fetch(
-      'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-04-17:generateContent?key=' + window._oaiKey,
-      {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          contents: [{ parts: [{ text: prompt }] }],
-          generationConfig: { maxOutputTokens: 400, temperature: 0.7 }
-        })
-      }
-    );
+    const res = await fetch('https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-04-17:generateContent?key=' + window._oaiKey, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        contents: [{ parts: [{ text: prompt }] }],
+        generationConfig: { maxOutputTokens: 400, temperature: 0.7 }
+      })
+    });
     const d = await res.json();
     if (d.error) throw new Error(d.error.message);
     const ideas = d.candidates[0].content.parts[0].text.trim();
@@ -757,9 +755,7 @@ Format: numbered list.`;
 }
   
 loadFeed();
-<script>
-  window._oaiKey = "AIzaSyDTFFpQoz3_95c8F-jMJz9r-dEwWZOH1vo";
-</script>
+
   
 </script>
 </body>

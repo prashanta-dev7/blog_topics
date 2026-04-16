@@ -35,9 +35,6 @@ jobs:
       - name: Fetch feeds
         run: python fetch_feeds.py ${{ steps.mode.outputs.args }}
 
-      - name: Inject Gemini key
-        run: sed -i "s|__GEMINI_KEY__|${{ secrets.GEMINI }}|g" index.html
-
       - name: Commit feed.json
         run: |
           git config user.name "AZA Feed Bot"

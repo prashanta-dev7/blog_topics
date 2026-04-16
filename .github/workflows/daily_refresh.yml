@@ -2,8 +2,8 @@ name: Daily Feed Refresh
 
 on:
   schedule:
-    - cron: "0 2 * * *"       # 7:30 AM IST  — full refresh (competitors + industry)
-    - cron: "0 5,8,11 * * *"  # 10:30 AM, 1:30 PM, 4:30 PM IST — competitors only
+    - cron: "0 2 * * *"
+    - cron: "0 5,8,11 * * *"
   workflow_dispatch:
 
 jobs:
@@ -21,6 +21,7 @@ jobs:
 
       - name: Install dependencies
         run: pip install feedparser requests beautifulsoup4 python-dateutil pytrends
+
       - name: Determine refresh mode
         id: mode
         run: |
@@ -34,10 +35,13 @@ jobs:
       - name: Fetch feeds
         run: python fetch_feeds.py ${{ steps.mode.outputs.args }}
 
+      - name: Inject Gemini key
+        run: sed -i "s|__GEMINI_KEY__|${{ secrets.GEMINI }}|g" index.html
+
       - name: Commit feed.json
         run: |
           git config user.name "AZA Feed Bot"
           git config user.email "bot@azafashions.com"
-          git add feed.json
+          git add feed.json index.html
           git diff --staged --quiet || git commit -m "chore: refresh feed $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push

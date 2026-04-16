@@ -670,7 +670,7 @@ function renderIG() {
       + (p.alt_text ? '<div class="angle-box"><div class="angle-label">Image</div><div class="angle-text">'+esc(p.alt_text.slice(0,160))+'</div></div>' : '')
       + (tags ? '<div style="margin-top:var(--space-2)">'+tags+'</div>' : '')
       + '<div class="card-footer"><span class="pub">'+dateStr+'</span>'
-      + '<button class="btn-idea" onclick="event.stopPropagation();generateIdeas(this,{title:this.dataset.title,angle:this.dataset.angle,category:this.dataset.cat})" data-title="'+esc(p.caption?p.caption.slice(0,80):p.handle)+'" data-angle="" data-cat="'+esc(cat)+'" title="Generate blog ideas with Gemini">'
+      + '<button class="btn-idea" onclick="event.stopPropagation();generateIdeas(this,{source:\'instagram\',handle:this.dataset.handle,title:this.dataset.title,angle:this.dataset.angle,category:this.dataset.cat,alttext:this.dataset.alttext,hashtags:this.dataset.hashtags})" data-handle="'+esc(p.handle)+'" data-title="'+esc(p.caption?p.caption.slice(0,200):'')+'" data-angle="" data-cat="'+esc(cat)+'" data-alttext="'+esc(p.alt_text?p.alt_text.slice(0,150):'')+'" data-hashtags="'+esc((p.hashtags||[]).join(', '))+'" title="Generate blog ideas with Gemini">'
       + '<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 20h9"/><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"/></svg>'
       + 'Generate Blog Ideas</button>'
       + '</div>'
@@ -709,7 +709,26 @@ async function generateIdeas(btn, ctx) {
   btn.disabled = true;
   btn.textContent = 'Thinking…';
 
-  const prompt = `You are a content strategist for AZA Fashions, a premium Indian ethnic wear brand.
+    let prompt;
+  if (ctx.source === 'instagram') {
+    prompt = `You are a content strategist for AZA Fashions, a premium Indian ethnic wear brand.
+An Instagram post from @${ctx.handle} (category: ${ctx.category}) contains:
+Caption: ${ctx.title}
+Image description: ${ctx.alttext || 'N/A'}
+Hashtags: ${ctx.hashtags || 'none'}
+
+First determine if this post is relevant to fashion, styling, bridal wear, ethnic wear, or luxury lifestyle.
+If NOT relevant (e.g. music, food, unrelated topics), respond ONLY with: "⚠️ This post is not directly relevant to fashion content."
+
+If relevant, generate 3 specific, ready-to-write blog post ideas for AZA's blog. Each idea should:
+- Be relevant to Indian ethnic/occasion wear
+- Have a clear headline
+- Include a one-line brief
+- Reference what inspired the idea from this IG post
+
+Format: numbered list.`;
+  } else {
+    prompt = `You are a content strategist for AZA Fashions, a premium Indian ethnic wear brand.
 Based on this signal:
 Title: ${ctx.title}
 AZA angle: ${ctx.angle}
@@ -721,6 +740,8 @@ Generate 3 specific, ready-to-write blog post ideas for AZA's blog. Each idea sh
 - Include a one-line brief
 
 Format: numbered list.`;
+  }
+
 
   try {
     const res = await fetch('https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-04-17:generateContent?key=' + window._oaiKey, {

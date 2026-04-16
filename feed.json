@@ -1,13 +1,153 @@
 {
-  "generated_at": "2026-04-16T04:47:59.759880+00:00",
+  "generated_at": "2026-04-16T07:00:11.353397+00:00",
   "owned_count": 0,
-  "competitor_count": 20,
+  "competitor_count": 21,
   "industry_count": 151,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "776814ea3ab7",
+      "title": "No bindi, tilak, but hijab allowed? Lenskart clarifies after row over dress code",
+      "link": "https://www.indiatoday.in/india/story/lenskart-hijab-tilak-bindi-kalawa-guidelines-row-controversy-eyewear-founder-peyush-bansal-shark-tank-2896971-2026-04-16?utm_source=rss",
+      "summary": "No bindi, tilak, but hijab allowed? Lenskart clarifies after row over dress code",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: No bindi, tilak, but hijab allowed? Lenskart clarifies after row over ...",
+      "score": 1,
+      "published": "2026-04-16T06:17:09+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dc29f6238ae8",
+      "title": "‘It’s a Proud Moment’: Stella McCartney on Returning to Collaborate With H&M, 20 Years Later",
+      "link": "https://www.vogue.com/article/stella-mccartney-hm-collab-first-look",
+      "summary": "The designer shares a first look at her new H&amp;M collection—which has been almost entirely designed using organic, recycled, and next-gen sustainable fabrics—with Vogue.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: ‘It’s a Proud Moment’: Stella McCartney on Returning to Collaborate Wi...",
+      "score": 3,
+      "published": "2026-04-16T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9ee4769f7323",
+      "title": "I'm a Bronzer-Obsessed Beauty Editor—These 7 Brushes Are My Secret to the Perfect Glow",
+      "link": "https://www.whowhatwear.com/beauty/makeup/best-bronzer-brushes",
+      "summary": "For seamless application.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I'm a Bronzer-Obsessed Beauty Editor—These 7 Brushes Are My Secret to ...",
+      "score": 1,
+      "published": "2026-04-16T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0c578e207129",
+      "title": "Welcome to the Who What Wear UK Wedding Issue 2026",
+      "link": "https://www.whowhatwear.com/living/wedding/wedding-issue-2026-uk",
+      "summary": "Everything you need to know about planning, and attending, a wedding this year.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Welcome to the Who What Wear UK Wedding Issue 2026 — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-04-16T05:05:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1007573568d4",
+      "title": "The 2026 Bridal Nail Guide",
+      "link": "https://www.whowhatwear.com/beauty/nails/bridal-nail-trends-2026",
+      "summary": "Nail your wedding day.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: The 2026 Bridal Nail Guide — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-04-16T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5976824a2adb",
+      "title": "Dream Destinations, Designer Birkenstocks and Viral Vows—Everything Modern Brides Are Bookmarking in 2026",
+      "link": "https://www.whowhatwear.com/living/wedding/wedding-trends-2026",
+      "summary": "Say yes to the best.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Dream Destinations, Designer Birkenstocks and Viral Vows—Everything Modern Brides Are Bookmarking in 2026 — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-04-16T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c127363da200",
+      "title": "To Have and to Hold: A Jewellery Editor's Guide to the Best Bridal Pieces to Invest in Now and Forever",
+      "link": "https://www.whowhatwear.com/living/wedding/fashion-editor-wedding-jewellery-guide",
+      "summary": "Jewellery worth committing to.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Bridal Edit: To Have and to Hold — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-04-16T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a959d61ed1c2",
+      "title": "The Traditional vs. Alternative Bride: Two Brides-to-Be With Opposing Tastes Reveal Their Wedding Mood Boards",
+      "link": "https://www.whowhatwear.com/wedding-ideas-alternative-vs-traditional-bride",
+      "summary": "A tale of two weddings.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: The Traditional vs. Alternative Bride — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-04-16T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8ece54224305",
+      "title": "From Affordable to Luxury, These Are the Very Best Wedding Gifts to Give in 2026",
+      "link": "https://www.whowhatwear.com/living/wedding/chic-wedding-gifts",
+      "summary": "To have and to hold.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: From Affordable to Luxury, These Are the Very Best Wedding Gifts to Give in 2026 — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-04-16T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a04e2608a9c8",
+      "title": "Save the Date: The Ultimate Timeline for Every Trending Bridal Beauty Treatment",
+      "link": "https://www.whowhatwear.com/beauty/skin/wedding-beauty-treatment-timeline",
+      "summary": "From a fellow bride-to-be.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Save the Date — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-04-16T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "819c67388105",
       "title": "Coachella’s Big Brand Renaissance",
@@ -779,20 +919,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "cbb92ab1de29",
-      "title": "Should We All Be Taking Supplements?",
-      "link": "https://www.vogue.com/article/should-we-all-be-taking-supplements",
-      "summary": "Ashwaghanda, Magnesium, and Vitamin D—a Vogue writer gets to the bottom of the trendiest supplements.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Should We All Be Taking Supplements?...",
-      "score": 1,
-      "published": "2026-04-15T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "978edaec944c",
       "title": "In a Lonely Place: Adrien Brody Brings ‘The Fear of 13’ to Broadway",
       "link": "https://www.vogue.com/article/adrien-brody-the-fear-of-13-broadway-interview",
@@ -807,16 +933,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b52d059e8f30",
-      "title": "Chappell Roan Approaches Fashion Like Art, Will She Do So at the 2026 Met Gala?",
-      "link": "https://www.vogue.com/article/what-will-chappell-roan-wear-to-the-2026-met-gala",
-      "summary": "Oftentimes, Chappell Roan's fashions are the embodiment of the idea \"Fashion Is Art\"—which just so happens to be the dress code for the 2026 Met Gala.",
+      "id": "cbb92ab1de29",
+      "title": "Should We All Be Taking Supplements?",
+      "link": "https://www.vogue.com/article/should-we-all-be-taking-supplements",
+      "summary": "Ashwaghanda, Magnesium, and Vitamin D—a Vogue writer gets to the bottom of the trendiest supplements.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Chappell Roan Approaches Fashion Like Art, Will She Do So at the 2026 ...",
-      "score": 2,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Should We All Be Taking Supplements?...",
+      "score": 1,
       "published": "2026-04-15T12:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -849,6 +975,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "fa2afb34399f",
+      "title": "I Test Beauty Products for Work—Here's What I'd Buy From the Sephora Sale With $220",
+      "link": "https://www.whowhatwear.com/beauty/sephora-spring-savings-event-2026",
+      "summary": "It's haul time.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Test Beauty Products for Work—Here's What I'd Buy From the Sephora S...",
+      "score": 1,
+      "published": "2026-04-15T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "91c446dd02c1",
       "title": "Zara, H&M and COS Just Perfected the 5 Chicest Spring Trends—9 Stylish Pieces That Won't Stay in Stock",
       "link": "https://www.whowhatwear.com/fashion/shopping/zara-hm-cos-spring-trends-2026",
@@ -873,20 +1013,6 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: My Birthday Is on the Horizon—Every Chic Fashion and Beauty Item I'm S...",
       "score": 2,
-      "published": "2026-04-15T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fa2afb34399f",
-      "title": "I Test Beauty Products for Work—Here's What I'd Buy From the Sephora Sale With $220",
-      "link": "https://www.whowhatwear.com/beauty/sephora-spring-savings-event-2026",
-      "summary": "It's haul time.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Test Beauty Products for Work—Here's What I'd Buy From the Sephora S...",
-      "score": 1,
       "published": "2026-04-15T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -919,6 +1045,48 @@
       "discovered_via": "feed"
     },
     {
+      "id": "8339ed18d050",
+      "title": "In Paris, Every French Woman's Capsule Wardrobe Includes These 7 Shoes",
+      "link": "https://www.whowhatwear.com/fashion/shoes/french-girl-shoe-capsule-2026",
+      "summary": "The only styles you may ever need.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: In Paris, Every French Woman's Capsule Wardrobe Includes These 7 Shoes...",
+      "score": 1,
+      "published": "2026-04-15T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "61d5d2d04736",
+      "title": "Not White, Not Black—the Trendy Tee Every Fashion Person Is Wearing This Spring",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-striped-tees",
+      "summary": "Easy, effortless, and perfect for the warm-weather season.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 4,
+      "published": "2026-04-15T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "838e62ad5d16",
+      "title": "Not Burgundy or Espresso—How to Style the High-Value Color Trend Everyone's Into Instead",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/how-to-style-royal-purple",
+      "summary": "Royalty coded.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-04-15T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "90ea28570c7e",
       "title": "It Girls in Paris, London, and NYC Are Already Wearing These Spring-to-Summer Transitional Trends",
       "link": "https://www.whowhatwear.com/fashion/trends/spring-to-summer-transitional-trends",
@@ -943,48 +1111,6 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I Live in L.A. and Wear Jeans and White Tees Year-Round—These 10 Are M...",
       "score": 1,
-      "published": "2026-04-15T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "61d5d2d04736",
-      "title": "Not White, Not Black—the Trendy Tee Every Fashion Person Is Wearing This Spring",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-striped-tees",
-      "summary": "Easy, effortless, and perfect for the warm-weather season.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 4,
-      "published": "2026-04-15T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8339ed18d050",
-      "title": "In Paris, Every French Woman's Capsule Wardrobe Includes These 7 Shoes",
-      "link": "https://www.whowhatwear.com/fashion/shoes/french-girl-shoe-capsule-2026",
-      "summary": "The only styles you may ever need.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: In Paris, Every French Woman's Capsule Wardrobe Includes These 7 Shoes...",
-      "score": 1,
-      "published": "2026-04-15T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "838e62ad5d16",
-      "title": "Not Burgundy or Espresso—How to Style the High-Value Color Trend Everyone's Into Instead",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/how-to-style-royal-purple",
-      "summary": "Royalty coded.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
       "published": "2026-04-15T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1241,34 +1367,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9b832f633403",
-      "title": "Fashion People Will Be All Over These Chic Adidas New Arrivals",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-adidas-arrivals-april-2026",
-      "summary": "Seriously cool shoes ahead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Fashion People Will Be All Over These Chic Adidas New Arrivals...",
-      "score": 1,
-      "published": "2026-04-14T18:37:07+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "220f71471280",
-      "title": "The Classiest Way to Wear Low-Rise Jeans Is in This Color and With This Chic Heel Trend",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/dark-wash-low-rise-jeans-with-pumps-outfit-kaia-gerber",
-      "summary": "Kaia Gerber got it right.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-04-14T17:41:14+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "1e71a7c1d312",
       "title": "Must Read: Sara Moonves Launches 'WYouth,' LVMH Fashion Sales Drop",
       "link": "https://fashionista.com/2026/04/sara-moonves-launches-wyouth",
@@ -1395,6 +1493,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "351f549efdf4",
+      "title": "9 Best Zara Perfume Alternatives to Make Your Own in 2026",
+      "link": "https://www.fashionbeans.com/article/zara-perfume-alternatives/",
+      "summary": "In a world where everyone wears Zara and smells like it, too, why not stand out? It’s not advertised, but it’s pretty much an open secret that Zara scents are replicated off the world’s top designer fragrances. This is great if you’re on a budget, but sometimes, it’s worth it to get Zara perfume alternatives &#8230; Co",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: 9 Best Zara Perfume Alternatives to Make Your Own in 2026...",
+      "score": 2,
+      "published": "2026-04-14T12:29:51+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "2a3cc609fd1c",
       "title": "8 Best Barber Shop Colognes – Men’s Scents For 2026",
       "link": "https://www.fashionbeans.com/article/barber-shop-colognes/",
@@ -1423,20 +1535,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9f9bfcacf49e",
-      "title": "Wait—Did J.Law Just Bring Back the \"Dated\" Shoe Trend Everyone Else Had Swapped for Flip-Flops?",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/slide-sandal-trend-jennifer-lawrence-2026",
-      "summary": "I didn't see this coming.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-04-14T09:40:16+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3dfd33e6f524",
       "title": "26 Best Sneaker Brands For Men In 2026",
       "link": "https://www.fashionbeans.com/article/best-sneaker-brands/",
@@ -1462,90 +1560,6 @@
       "angle": "Fashion Intelligence: Rizz Is a Style Problem. Here’s How to Fix Yours....",
       "score": 1,
       "published": "2026-04-14T08:45:19+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "dffadda14c10",
-      "title": "I’m a Beauty Editor Who Loves a Dewy, Spring Scent—13 On-Sale Fragrances I’m Buying at Sephora",
-      "link": "https://www.whowhatwear.com/beauty/fragrance/sephora-savings-event-spring-fragrance-picks-2026",
-      "summary": "The most irresistible.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I’m a Beauty Editor Who Loves a Dewy, Spring Scent—13 On-Sale Fragranc...",
-      "score": 1,
-      "published": "2026-04-14T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "db3e1a6a841b",
-      "title": "We Could Legitimately Wear Prada Beauty Every Day—10 Tubes and Perfumes Worth Saving Up For",
-      "link": "https://www.whowhatwear.com/beauty/best-prada-beauty-products",
-      "summary": "Where fashion and beauty collide.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: We Could Legitimately Wear Prada Beauty Every Day—10 Tubes and Perfume...",
-      "score": 3,
-      "published": "2026-04-14T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b97557edb782",
-      "title": "This Affordable, Quiet-Luxury Bag Is So The Row-Coded, and Every Chic Woman Already Owns It",
-      "link": "https://www.whowhatwear.com/fashion/shopping/cos-montmartre-bowling-bag",
-      "summary": "Another day, another viral COS bag.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: This Affordable, Quiet-Luxury Bag Is So The Row-Coded, and Every Chic ...",
-      "score": 1,
-      "published": "2026-04-14T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "89577a4baad2",
-      "title": "Found: The Coat Trends You'll See Everywhere In 2026",
-      "link": "https://www.whowhatwear.com/fashion/fall-winter-coat-trends-2026",
-      "summary": "Found: The Coat Trends You'll See Everywhere In 2026",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-04-14T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0da87f6b7438",
-      "title": "These Are the Unexpected Color Pairings Everyone Chic Is Already Wearing This Spring",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/spring-color-pairings-2026",
-      "summary": "Outfit inspiration ahead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-04-14T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "84ba1279bcd9",
-      "title": "These Are the 5 Biggest Accessories Trends for Fall 2026, Period",
-      "link": "https://www.whowhatwear.com/fashion/runway/fall-winter-accessories-trends-2026",
-      "summary": "From bags to shoes.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-04-14T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1826,20 +1840,6 @@
       "angle": "Fashion Intelligence: The Masters 2026: The Men’s Fashion Guide Inspired by Augusta’s Greate...",
       "score": 4,
       "published": "2026-04-09T07:04:14+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c824779ccd13",
-      "title": "Sneakers Are Taking a Step Back as Loafers Lead Menswear in 2026",
-      "link": "https://www.fashionbeans.com/article/best-loafers-men-2026/",
-      "summary": "For the better part of a decade, sneakers have been the default. They worked with everything, required no thought, and became the easy answer to almost every outfit. That dominance is starting to fade. In 2026, men’s footwear is shifting toward something more refined. Not formal, not restrictive, but intentional. Loafe",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Sneakers Are Taking a Step Back as Loafers Lead Menswear in 2026...",
-      "score": 3,
-      "published": "2026-04-09T05:35:32+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2221,6 +2221,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "a384fcd3f7ae",
+      "title": "Beat the Heat: 5 Best Lightweight Lehengas for Outdoor Summer Weddings",
+      "link": "https://www.panashindia.com/blog/lightweight-lehengas-for-outdoor-summer-weddings/",
+      "summary": "Outdoor summer weddings sound great until you’re a few hours in and the outfit starts feeling heavier than expected. The fabric sticks, the dupatta keeps slipping, and suddenly comfort matters more than how your outfit looked at the start. Continue reading &rarr;",
+      "source": "Panash India",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Beat the Heat — A Complete Style Guide",
+      "score": 4,
+      "published": "2026-04-11T12:12:09+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "8e5f2e81b398",
       "title": "How to Choose a Groom Outfit That Matches the Bride’s Lehenga",
       "link": "https://blog.kalkifashion.com/how-to-choose-a-groom-outfit-that-matches-the-brides-lehenga/",
@@ -2405,52 +2419,52 @@
   ],
   "trends": [
     {
-      "term": "rvnl share price",
+      "term": "प्रधानमंत्री",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bajaj housing finance share price",
+      "term": "employees provident fund organisation",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ntpc green share price",
+      "term": "মামলা",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "eternal share price",
+      "term": "dost",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "pfc share price",
+      "term": "artificial general intelligence",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "inox wind share price",
+      "term": "कश्मीरा शाह",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ola electric mobility share price",
+      "term": "हाइब्रिड कार",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "power grid share price",
+      "term": "one ui 9 galaxy s26",
+      "summary": "",
+      "aza_category": "Occasion Dressing"
+    },
+    {
+      "term": "cbi real estate fraud raids",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "jio financial services share price",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "olectra greentech share price",
+      "term": "सोने चांदी भाव",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

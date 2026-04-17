@@ -1,13 +1,55 @@
 {
-  "generated_at": "2026-04-17T04:44:51.024839+00:00",
+  "generated_at": "2026-04-17T07:00:02.543872+00:00",
   "owned_count": 10,
   "competitor_count": 21,
-  "industry_count": 157,
+  "industry_count": 158,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "128cd0c0c1a5",
+      "title": "What Does a Runway Assistant Wear Today? Vintage Balenciaga, as per Simone Ashley",
+      "link": "https://www.vogue.com/article/simone-ashley-devil-wears-prada-2-press-tour-vintage-balenciaga",
+      "summary": "“Devil Wears Prada 2” actor Simone Ashley shrugged off any new-era Emily assumptions and stuck to her own penchant for prize archive finds.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: What Does a Runway Assistant Wear Today? Vintage Balenciaga, as per Si...",
+      "score": 2,
+      "published": "2026-04-17T06:30:51+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d6715240feb2",
+      "title": "Mark My Words: The Most Elegant Women Will Be Wearing This Scent for Summer",
+      "link": "https://www.whowhatwear.com/beauty/fragrance/phlur-honey-moon-perfume-review",
+      "summary": "Sweet, subtle and delicate.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-04-17T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "14610d64477c",
+      "title": "You May Disagree, But We Think These 7 Colours Trends Are \"Dated\" In Spring 2026",
+      "link": "https://www.whowhatwear.com/fashion/spring/dated-spring-colour-trends-2026",
+      "summary": "Plus, the 7 we'll be wearing instead.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-04-17T05:30:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "157d462b5a7d",
       "title": "Should Barneys Come Back?",
@@ -457,20 +499,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "07fdf4338ffd",
-      "title": "Massive fire ravages luxury cottages near Goa's Ajoba Temple, losses in crores",
-      "link": "https://www.indiatoday.in/india/story/luxury-cottages-in-north-goa-destroyed-by-massive-fire-losses-in-crores-2897397-2026-04-16?utm_source=rss",
-      "summary": "Massive fire ravages luxury cottages near Goa's Ajoba Temple, losses in crores",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Massive fire ravages luxury cottages near Goa's Ajoba Temple, losses i...",
-      "score": 1,
-      "published": "2026-04-16T17:34:26+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "005d05e27307",
       "title": "Here Are Looks We’d Like to See the 2026 Met Gala Co-Chairs Wear",
       "link": "https://www.vogue.com/slideshow/2026-met-gala-co-chairs-beyonce-nicole-kidman-venus-williams-fashion-ideas",
@@ -891,6 +919,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "83bbc189b068",
+      "title": "Who Was the Real Emily From ‘The Devil Wears Prada’?",
+      "link": "https://www.vogue.com/article/real-emily-devil-wears-prada",
+      "summary": "It is a rarity in the modern world to find oneself slap-bang in the middle of a case of mistaken identity, but find myself misidentified I do.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Who Was the Real Emily From ‘The Devil Wears Prada’?...",
+      "score": 1,
+      "published": "2026-04-16T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "1868675d5181",
       "title": "There’s Never Been a Bigger Year for High-Low Collabs",
       "link": "https://www.vogue.com/article/theres-never-been-a-bigger-year-for-high-low-collabs",
@@ -914,20 +956,6 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Required Reading: Five Books That Shaped the Way Mikaela Dery Thought ...",
-      "score": 1,
-      "published": "2026-04-16T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "83bbc189b068",
-      "title": "Who Was the Real Emily From ‘The Devil Wears Prada’?",
-      "link": "https://www.vogue.com/article/real-emily-devil-wears-prada",
-      "summary": "It is a rarity in the modern world to find oneself slap-bang in the middle of a case of mistaken identity, but find myself misidentified I do.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Who Was the Real Emily From ‘The Devil Wears Prada’?...",
       "score": 1,
       "published": "2026-04-16T12:00:00+00:00",
       "discovered_via": "feed"
@@ -972,20 +1000,6 @@
       "angle": "Fashion Intelligence: Elemental Forms...",
       "score": 1,
       "published": "2026-04-16T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b5246c083189",
-      "title": "The Vogue Business People Moves Tracker",
-      "link": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
-      "summary": "Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Vogue Business People Moves Tracker...",
-      "score": 0,
-      "published": "2026-04-16T11:03:28+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1059,20 +1073,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5ef1ad1b7688",
-      "title": "I'm a Beauty Editor—If I Had to Edit My Skin Routine to 3 Products, It’d Be This, This, and This",
-      "link": "https://www.whowhatwear.com/beauty/skin/beauty-editor-top-3-skincare-products-2026",
-      "summary": "My nonnegotiables.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I'm a Beauty Editor—If I Had to Edit My Skin Routine to 3 Products, It...",
-      "score": 1,
-      "published": "2026-04-16T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "02b795d51d27",
       "title": "This Divisive '90s Shoe Is the One Trend Millennials and Gen Z Can Agree On",
       "link": "https://www.whowhatwear.com/fashion/shoes/jelly-shoe-trends-2026",
@@ -1082,6 +1082,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-04-16T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5ef1ad1b7688",
+      "title": "I'm a Beauty Editor—If I Had to Edit My Skin Routine to 3 Products, It’d Be This, This, and This",
+      "link": "https://www.whowhatwear.com/beauty/skin/beauty-editor-top-3-skincare-products-2026",
+      "summary": "My nonnegotiables.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I'm a Beauty Editor—If I Had to Edit My Skin Routine to 3 Products, It...",
       "score": 1,
       "published": "2026-04-16T08:00:00+00:00",
       "discovered_via": "feed"
@@ -1101,16 +1115,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "07bd2d47e1e4",
-      "title": "Ponchos! Skullcaps! Fringe Boots! Here Are the Biggest Trends I Spotted at Coachella 2026",
-      "link": "https://www.whowhatwear.com/fashion/trends/fashion-trends-coachella-2026",
-      "summary": "So much festival outfit inspiration.",
+      "id": "89fe0c708c8c",
+      "title": "I'm Calling It: These Will Be the Most-Worn Sandals of Summer 2026",
+      "link": "https://www.whowhatwear.com/fashion/summer/peep-toe-sandal-shoe-trend-2026",
+      "summary": "Shop the style inside.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I'm Calling It: These Will Be the Most-Worn Sandals of Summer 2026...",
+      "score": 1,
       "published": "2026-04-16T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1129,6 +1143,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "07bd2d47e1e4",
+      "title": "Ponchos! Skullcaps! Fringe Boots! Here Are the Biggest Trends I Spotted at Coachella 2026",
+      "link": "https://www.whowhatwear.com/fashion/trends/fashion-trends-coachella-2026",
+      "summary": "So much festival outfit inspiration.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-04-16T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "7c26ce07a245",
       "title": "I'm Building the Perfect Anti-Trend Capsule for Spring—5 Pieces I'm Relying On",
       "link": "https://www.whowhatwear.com/fashion/anti-trend-spring-capsule-wardrobe-2026",
@@ -1138,20 +1166,6 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-04-16T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "89fe0c708c8c",
-      "title": "I'm Calling It: These Will Be the Most-Worn Sandals of Summer 2026",
-      "link": "https://www.whowhatwear.com/fashion/summer/peep-toe-sandal-shoe-trend-2026",
-      "summary": "Shop the style inside.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I'm Calling It: These Will Be the Most-Worn Sandals of Summer 2026...",
       "score": 1,
       "published": "2026-04-16T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1185,20 +1199,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1007573568d4",
-      "title": "The 2026 Bridal Nail Guide",
-      "link": "https://www.whowhatwear.com/beauty/nails/bridal-nail-trends-2026",
-      "summary": "Nail your wedding day.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: The 2026 Bridal Nail Guide — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-04-16T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "5976824a2adb",
       "title": "Dream Destinations, Designer Birkenstocks and Viral Vows—Everything Modern Brides Are Bookmarking in 2026",
       "link": "https://www.whowhatwear.com/living/wedding/wedding-trends-2026",
@@ -1209,6 +1209,20 @@
       "aza_category": "Bridal & Wedding",
       "angle": "Bridal Edit: Dream Destinations, Designer Birkenstocks and Viral Vows—Everything Modern Brides Are Bookmarking in 2026 — A Complete Style Guide",
       "score": 1,
+      "published": "2026-04-16T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a959d61ed1c2",
+      "title": "The Traditional vs. Alternative Bride: Two Brides-to-Be With Opposing Tastes Reveal Their Wedding Mood Boards",
+      "link": "https://www.whowhatwear.com/wedding-ideas-alternative-vs-traditional-bride",
+      "summary": "A tale of two weddings.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: The Traditional vs. Alternative Bride — A Complete Style Guide",
+      "score": 2,
       "published": "2026-04-16T05:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1227,15 +1241,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8ece54224305",
-      "title": "From Affordable to Luxury, These Are the Very Best Wedding Gifts to Give in 2026",
-      "link": "https://www.whowhatwear.com/living/wedding/chic-wedding-gifts",
-      "summary": "To have and to hold.",
+      "id": "1007573568d4",
+      "title": "The 2026 Bridal Nail Guide",
+      "link": "https://www.whowhatwear.com/beauty/nails/bridal-nail-trends-2026",
+      "summary": "Nail your wedding day.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: From Affordable to Luxury, These Are the Very Best Wedding Gifts to Give in 2026 — A Complete Style Guide",
+      "angle": "Bridal Edit: The 2026 Bridal Nail Guide — A Complete Style Guide",
       "score": 2,
       "published": "2026-04-16T05:00:00+00:00",
       "discovered_via": "feed"
@@ -1255,15 +1269,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a959d61ed1c2",
-      "title": "The Traditional vs. Alternative Bride: Two Brides-to-Be With Opposing Tastes Reveal Their Wedding Mood Boards",
-      "link": "https://www.whowhatwear.com/wedding-ideas-alternative-vs-traditional-bride",
-      "summary": "A tale of two weddings.",
+      "id": "8ece54224305",
+      "title": "From Affordable to Luxury, These Are the Very Best Wedding Gifts to Give in 2026",
+      "link": "https://www.whowhatwear.com/living/wedding/chic-wedding-gifts",
+      "summary": "To have and to hold.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: The Traditional vs. Alternative Bride — A Complete Style Guide",
+      "angle": "Bridal Edit: From Affordable to Luxury, These Are the Very Best Wedding Gifts to Give in 2026 — A Complete Style Guide",
       "score": 2,
       "published": "2026-04-16T05:00:00+00:00",
       "discovered_via": "feed"
@@ -2643,52 +2657,52 @@
   ],
   "trends": [
     {
-      "term": "new zealand vs bangladesh",
+      "term": "तबादला",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "न्यूजीलैंड बनाम बांगलादेश",
+      "term": "विजय",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bhel share price",
+      "term": "harivansh narayan singh",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mustafizur rahman",
+      "term": "income tax department",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "rvnl share",
+      "term": "income tax",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "gmdc share price",
+      "term": "harivansh",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "moschip share price",
+      "term": "രാഷ്ട്രീയം",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "इस्लामाबाद",
+      "term": "spark",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "rvnl share price",
+      "term": "dassault rafale",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "adani power share",
+      "term": "11th admission",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

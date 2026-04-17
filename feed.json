@@ -1,13 +1,223 @@
 {
-  "generated_at": "2026-04-17T09:19:33.575676+00:00",
+  "generated_at": "2026-04-17T11:54:19.195205+00:00",
   "owned_count": 10,
-  "competitor_count": 20,
+  "competitor_count": 21,
   "industry_count": 159,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "6f240d7aabb7",
+      "title": "Instead of Black, Leggings Look Chicest In This Elegant Shade",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/brown-leggings-trend-irina-shayk-2026",
+      "summary": "Off-duty models agree.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Instead of Black, Leggings Look Chicest In This Elegant Shade...",
+      "score": 1,
+      "published": "2026-04-17T11:50:37+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d8adb34b26e9",
+      "title": "The Best Time to Wash Your Hair, According to Your Hair Type",
+      "link": "https://www.vogue.com/article/best-time-to-wash-hair",
+      "summary": "Experts weigh in on how your hair type can help determine the best time to wash your hair, regardless of whether you prefer morning or night showers.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: The Best Time to Wash Your Hair, According to Your Hair Type...",
+      "score": 1,
+      "published": "2026-04-17T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7259664fcff6",
+      "title": "We're Lifting the Veil on Bridal Beauty: Every Elegant Hair, Nail, and Makeup Trend to Know for 2027",
+      "link": "https://www.whowhatwear.com/beauty/bridal-fashion-week-beauty-trends-2027",
+      "summary": "They're straight out of a fairytale.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: We're Lifting the Veil on Bridal Beauty — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-04-17T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1b9dbff85ca9",
+      "title": "The Scoop With Anissa Jaffery: Asics SportStyle’s debut at Milan Design Week",
+      "link": "https://www.vogue.com/article/the-scoop-with-anissa-jaffery-asics-sportstyles-debut-at-milan-design-week",
+      "summary": "This week’s guest is Anissa Jaffery, the PR and brand collaborations lead for EMEA at Asics SportStyle.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 2,
+      "published": "2026-04-17T10:43:26+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "63d796ec52fa",
+      "title": "Bridal Headpieces Were Unveiled as the Breakout Trend From New York Bridal Fashion Week",
+      "link": "https://www.vogue.com/article/bridal-headpieces-trend-new-york-bridal-fashion-week",
+      "summary": "At the New York Bridal Fashion Week spring 2027 presentations, unique headpieces and veils arose as a major trend—here, the designers share why this unexpected accessory should be part of a bridal look.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Bridal Headpieces Were Unveiled as the Breakout Trend From New York Bridal Fashion Week — A Complete Style Guide",
+      "score": 5,
+      "published": "2026-04-17T10:30:48+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0fb6405a7c64",
+      "title": "65 Questions I Had After Binge-Watching ‘Beef’ Season 2",
+      "link": "https://www.vogue.com/article/65-questions-i-had-after-binge-watching-beef-season-2",
+      "summary": "Why did Lindsay pretend to be an American woman called Megan? Did Josh really need that much Valium? How did Burberry get so far with his tiny little legs?",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-04-17T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "29c5f26d9b8a",
+      "title": "What Peptides Can Tell Us About the Future of Beauty",
+      "link": "https://www.vogue.com/article/what-the-war-on-peptides-tells-us-about-the-future-of-beauty",
+      "summary": "The internet’s latest biohacking craze promises to be a fix-all, but should brands be taking extra precautions before getting involved?",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: What Peptides Can Tell Us About the Future of Beauty...",
+      "score": 2,
+      "published": "2026-04-17T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "153735c97ddc",
+      "title": "Sabato De Sarno Puts on His Curator’s Hat for a New Project Ahead of Salone Del Mobile",
+      "link": "https://www.vogue.com/article/sabato-de-sarno-puts-on-his-curators-hat-for-a-new-project-ahead-of-salone-del-mobile",
+      "summary": "“Gucci was only one part of my story.” Sabato De Sarno unveils a new exhibition, “Insieme,” or “Together” devoted to Italian artisanship at Salone del Mobile.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "Fashion Intelligence: Sabato De Sarno Puts on His Curator’s Hat for a New Project Ahead of S...",
+      "score": 0,
+      "published": "2026-04-17T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2d10dce1b9af",
+      "title": "In ‘Mad Bills to Pay,’ the Bronx Gets Its Moment in the Sun",
+      "link": "https://www.vogue.com/article/mad-bills-to-pay-the-bronx-locations",
+      "summary": "In “Mad Bills to Pay,” director Joel Alfonso Vargas brings a Bronx coming-of-age story to life through real locations—from Orchard Beach to Grand Concourse and Crotona Park.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: In ‘Mad Bills to Pay,’ the Bronx Gets Its Moment in the Sun...",
+      "score": 0,
+      "published": "2026-04-17T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fdc4611c90a3",
+      "title": "The Best Zara New Arrivals to Shop for Spring 2026 | Vogue",
+      "link": "https://www.vogue.com/article/best-zara-finds",
+      "summary": "Funnel-neck outerwear, slip skirts, and lace-trimmed shorts are a few of the best Zara new arrival finds we’re eyeing this week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best Zara New Arrivals to Shop for Spring 2026 | Vogue...",
+      "score": 1,
+      "published": "2026-04-17T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5dd14af35f05",
+      "title": "Addressed: Can I Walk Around With Stains on My Clothes?",
+      "link": "https://www.vogue.com/article/addressed-can-i-walk-around-with-stains-on-my-clothes",
+      "summary": "Prada says I can. So I decided to road-test the look.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Addressed: Can I Walk Around With Stains on My Clothes?...",
+      "score": 1,
+      "published": "2026-04-17T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "02b9d25178e9",
+      "title": "If an NYC It Girl Isn't Wearing Ballet Flats or Thong Kitten Heels, She's Wearing This Unexpected Sneaker Trend",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-animal-print-sneakers-2026",
+      "summary": "Not suede, not satin.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-04-17T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b5246c083189",
+      "title": "The Vogue Business People Moves Tracker",
+      "link": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
+      "summary": "Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Vogue Business People Moves Tracker...",
+      "score": 0,
+      "published": "2026-04-17T09:42:30+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e76134882ff3",
+      "title": "Where Should Your Beauty Brand Be After 10 Years?",
+      "link": "https://www.vogue.com/article/where-should-your-beauty-brand-be-after-10-years",
+      "summary": "Big investment rounds, high valuations, and cheap customer acquisition is a thing of the past now that beauty’s boom years are over. But there are still ways to win.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Where Should Your Beauty Brand Be After 10 Years?...",
+      "score": 2,
+      "published": "2026-04-17T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "904f20a31d4f",
+      "title": "The Vogue Business Beauty Trend Tracker",
+      "link": "https://www.vogue.com/article/the-vogue-business-beauty-tracker",
+      "summary": "Vogue Business brings you weekly exclusive data from Spate tracking historic growth across brands, trends and ingredients. Stay tuned as we spotlight a different beauty category each week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-04-17T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "c7be1d0c25cf",
       "title": "Connor Storrie Is in His Carolyn Bessette-Kennedy Era, Too",
@@ -24,14 +234,14 @@
     },
     {
       "id": "e4e9ab13bb47",
-      "title": "Meghan Markle Adds Some Personal Touches to Her Australia Tour Wardrobe",
+      "title": "From Koalas to Custom Thongs: Meghan Markle’s Australia Tour Wardrobe Is Complete",
       "link": "https://www.vogue.com/slideshow/meghan-markle-australia-tour-2026-fashion",
       "summary": "In Australia for a four-day tour with Prince Harry, the Duchess of Sussex brought her pared-back tour wardrobe—paying special attention to Australian brands.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Meghan Markle Adds Some Personal Touches to Her Australia Tour Wardrob...",
+      "angle": "Fashion Intelligence: From Koalas to Custom Thongs: Meghan Markle’s Australia Tour Wardrobe ...",
       "score": 1,
       "published": "2026-04-17T08:53:58+00:00",
       "discovered_via": "feed"
@@ -681,76 +891,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "be343d364b23",
-      "title": "40+ Best Mother’s Day Gifts to Give Mom in 2026",
-      "link": "https://www.vogue.com/slideshow/best-mothers-day-gifts",
-      "summary": "Ensure all the moms in your life feel appreciated by shopping Vogue’s guide to the very best Mother’s Day gifts of 2026.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 40+ Best Mother’s Day Gifts to Give Mom in 2026...",
-      "score": 0,
-      "published": "2026-04-16T16:25:56+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c1b360e4c993",
-      "title": "Jennifer Lawrence Pulls on Her Fancy Pants",
-      "link": "https://www.vogue.com/article/jennifer-lawrence-pulls-on-her-fancy-pants",
-      "summary": "With her pair of elaborate pull-on pants, Jennifer Lawrence didn’t have to sacrifice her comfort for the sake of looking cool.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Jennifer Lawrence Pulls on Her Fancy Pants...",
-      "score": 0,
-      "published": "2026-04-16T16:25:44+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cb9ba102220d",
-      "title": "The Vogue Business AI Tracker",
-      "link": "https://www.vogue.com/story/technology/the-vogue-business-ai-tracker",
-      "summary": "Vogue Business brings you a weekly update of the most interesting stories in the world of AI that you need on your radar.Stay tuned as we spotlight AI initiatives in the fashion and beauty industry each week.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Vogue Business AI Tracker...",
-      "score": 2,
-      "published": "2026-04-16T16:17:55+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "94dc552b32b1",
-      "title": "Hari Nef’s First Time Being Arrested Was Totally Worth It",
-      "link": "https://www.vogue.com/article/hari-nef-protest-arrest",
-      "summary": "The actor speaks to Vogue about Monday’s peaceful anti-war protest that resulted in almost 100 people being arrested.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Hari Nef’s First Time Being Arrested Was Totally Worth It...",
-      "score": 0,
-      "published": "2026-04-16T16:12:27+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a0f7dd676b7a",
-      "title": "Why Marine Collagen Wins When It Comes to Better Skin",
-      "link": "https://www.vogue.com/article/marine-collagen",
-      "summary": "Marine collagen is generally considered more effective than bovine collagen because its peptides are smaller and more bioavailable.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Why Marine Collagen Wins When It Comes to Better Skin...",
-      "score": 0,
-      "published": "2026-04-16T16:07:55+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "754f6fd41b85",
       "title": "Hermès Dedicates A Space in Their Upper East Side Boutique to The Horizons Metier",
       "link": "https://www.harpersbazaar.com/fashion/a71030383/hermes-horizons-metier-new-york-store-installation/",
@@ -793,34 +933,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8657bdde5933",
-      "title": "Discover the Best Dresses for Every April Occasion",
-      "link": "https://www.vogue.com/article/dresses",
-      "summary": "Explore the best dresses of the month, from silk maxi dresses to practical striped shirtdresses. Shop a wide selection of handpicked Vogue dresses.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 3,
-      "published": "2026-04-16T15:50:54+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e0dab8504bad",
-      "title": "See Every Met Gala Look From the Past 15 Years",
-      "link": "https://www.vogue.com/article/met-gala-red-carpet-looks-from-the-last-decade",
-      "summary": "Revisit the Met Gala red carpet’s most iconic style moments—and the ensembles you may have missed too.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: See Every Met Gala Look From the Past 15 Years...",
-      "score": 1,
-      "published": "2026-04-16T15:45:19+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "1ae44df76b37",
       "title": "I Spent My Whole Morning Scrolling Nordstrom’s Beauty Sale—10 Items I’d Buy With $368",
       "link": "https://www.whowhatwear.com/beauty/nordstrom-beauty-savings-event-picks-2026",
@@ -849,20 +961,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0e0b84bf6643",
-      "title": "This Couple’s Wedding Combined New Orleans and Indian Traditions—and Included Multiple Brass Band Parades",
-      "link": "https://www.vogue.com/slideshow/maia-weston-and-neil-patel-wedding",
-      "summary": "Maia Weston and Neil Patel’s New Orleans wedding was an ode to the bride’s hometown—with plenty of the groom’s cultural traditions woven in.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: This Couple’s Wedding Combined New Orleans and Indian Traditions—and Included Multiple Brass Band Parades — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-04-16T15:32:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f6e312b980bb",
       "title": "Anne Hathaway Champions the Return of the Platform With Her Latest Mother Mary Look",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71038441/anne-hathaway-platform-heels-mother-mary-press-tour-the-late-show-with-stephen-colbert/",
@@ -888,20 +986,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-04-16T14:38:41+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fb679d400412",
-      "title": "Inside Switzerland’s Boutique Wellness Hotel Boom",
-      "link": "https://www.vogue.com/article/inside-switzerlands-boutique-wellness-hotel-boom",
-      "summary": "From the pastoral hills of Appenzell to the medieval alleyways of the Jura, a new generation of boutique hotels is redefining the way wellness seekers are traveling to Switzerland.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Inside Switzerland’s Boutique Wellness Hotel Boom...",
-      "score": 0,
-      "published": "2026-04-16T14:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -961,20 +1045,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "211557a3097e",
-      "title": "On the Podcast: Jean Smart on the Bittersweet End of ‘Hacks‘",
-      "link": "https://www.vogue.com/article/on-the-podcast-jean-smart-on-the-bittersweet-end-of-hacks",
-      "summary": "Jean Smart stops by “The Run-Through” to chat with Chloe about what it’s been like to play Deborah Vance for five seasons…and what comes next.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: On the Podcast: Jean Smart on the Bittersweet End of ‘Hacks‘...",
-      "score": 1,
-      "published": "2026-04-16T13:17:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2dafe9c92388",
       "title": "Moncler’s Summer Collection Is a Master Class in Lightweight Layering",
       "link": "https://www.harpersbazaar.com/fashion/trends/a71028698/moncler-summer-2026-collection/",
@@ -1000,34 +1070,6 @@
       "angle": "Fashion Intelligence: How to Get a Job in Fashion Tech...",
       "score": 1,
       "published": "2026-04-16T12:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d70ed436814a",
-      "title": "The Vogue Business Funding Tracker",
-      "link": "https://www.vogue.com/article/the-vogue-business-funding-tracker",
-      "summary": "Bringing you the latest fashion and beauty financing news, including investments and acquisitions.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Vogue Business Funding Tracker...",
-      "score": 2,
-      "published": "2026-04-16T12:10:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "83bbc189b068",
-      "title": "Who Was the Real Emily From ‘The Devil Wears Prada’?",
-      "link": "https://www.vogue.com/article/real-emily-devil-wears-prada",
-      "summary": "It is a rarity in the modern world to find oneself slap-bang in the middle of a case of mistaken identity, but find myself misidentified I do.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Who Was the Real Emily From ‘The Devil Wears Prada’?...",
-      "score": 1,
-      "published": "2026-04-16T12:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1073,20 +1115,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7187be8cf20c",
-      "title": "Simone Ashley's Most Memorable Beauty Looks Are Always Bronzed, Ethereal, and Chic—9 I'm Itching to Copy",
-      "link": "https://www.whowhatwear.com/beauty/makeup/best-simone-ashley-beauty-looks",
-      "summary": "From Cannes to the Met Gala.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Simone Ashley's Most Memorable Beauty Looks Are Always Bronzed, Ethere...",
-      "score": 1,
-      "published": "2026-04-16T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "42711c6d30f9",
       "title": "I Re-Created 10 Viral Spring 2026 Runway Looks for Under $400—You're Welcome",
       "link": "https://www.whowhatwear.com/fashion/affordable/affordable-spring-summer-2026-runway-looks",
@@ -1097,6 +1125,20 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: I Re-Created 10 Viral Spring 2026 Runway Looks for Under $400—You're W...",
       "score": 2,
+      "published": "2026-04-16T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7187be8cf20c",
+      "title": "Simone Ashley's Most Memorable Beauty Looks Are Always Bronzed, Ethereal, and Chic—9 I'm Itching to Copy",
+      "link": "https://www.whowhatwear.com/beauty/makeup/best-simone-ashley-beauty-looks",
+      "summary": "From Cannes to the Met Gala.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Simone Ashley's Most Memorable Beauty Looks Are Always Bronzed, Ethere...",
+      "score": 1,
       "published": "2026-04-16T11:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1185,34 +1227,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7c26ce07a245",
-      "title": "I'm Building the Perfect Anti-Trend Capsule for Spring—5 Pieces I'm Relying On",
-      "link": "https://www.whowhatwear.com/fashion/anti-trend-spring-capsule-wardrobe-2026",
-      "summary": "A spring upgrade.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-04-16T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "07bd2d47e1e4",
-      "title": "Ponchos! Skullcaps! Fringe Boots! Here Are the Biggest Trends I Spotted at Coachella 2026",
-      "link": "https://www.whowhatwear.com/fashion/trends/fashion-trends-coachella-2026",
-      "summary": "So much festival outfit inspiration.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-04-16T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3b7e9c7fcd3f",
       "title": "Jenny Walton's World: Her New Book, Miuccia Prada, and a Fixer-Upper in Tuscany",
       "link": "https://www.whowhatwear.com/fashion/cover-features/my-world-jenny-walton",
@@ -1236,6 +1250,34 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I'm Calling It: These Will Be the Most-Worn Sandals of Summer 2026...",
+      "score": 1,
+      "published": "2026-04-16T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "07bd2d47e1e4",
+      "title": "Ponchos! Skullcaps! Fringe Boots! Here Are the Biggest Trends I Spotted at Coachella 2026",
+      "link": "https://www.whowhatwear.com/fashion/trends/fashion-trends-coachella-2026",
+      "summary": "So much festival outfit inspiration.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-04-16T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7c26ce07a245",
+      "title": "I'm Building the Perfect Anti-Trend Capsule for Spring—5 Pieces I'm Relying On",
+      "link": "https://www.whowhatwear.com/fashion/anti-trend-spring-capsule-wardrobe-2026",
+      "summary": "A spring upgrade.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-04-16T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1336,48 +1378,6 @@
       "angle": "Bridal Edit: To Have and to Hold — A Complete Style Guide",
       "score": 2,
       "published": "2026-04-16T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a959d61ed1c2",
-      "title": "The Traditional vs. Alternative Bride: Two Brides-to-Be With Opposing Tastes Reveal Their Wedding Mood Boards",
-      "link": "https://www.whowhatwear.com/wedding-ideas-alternative-vs-traditional-bride",
-      "summary": "A tale of two weddings.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: The Traditional vs. Alternative Bride — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-04-16T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b802778edcc9",
-      "title": "If You Asked Me What's Considered Cool to Wear in 2026, I'd Show You This $35 Item",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/khaki-socks-trend-elsa-hosk",
-      "summary": "Elsa Hosk is also in the know.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: If You Asked Me What's Considered Cool to Wear in 2026, I'd Show You T...",
-      "score": 2,
-      "published": "2026-04-16T00:40:01+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fbe9bd6767db",
-      "title": "I Just Came Back From Vietnam—These Fashion and Beauty Items Are Perfect for a Tropical Vacation",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-fashion-beauty-items-vietnam-tropical-vacation-april-2026",
-      "summary": "Here's your packing cheat sheet.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Just Came Back From Vietnam—These Fashion and Beauty Items Are Perfe...",
-      "score": 2,
-      "published": "2026-04-15T21:34:52+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2235,6 +2235,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "8bb2dc27bd98",
+      "title": "What Should You Look For Before Buying Designer Ethnic Wear",
+      "link": "https://www.torani.in/blogs/news/what-should-you-look-for-before-buying-designer-ethnic-wear",
+      "summary": "Choosing the perfect ethnic wear isn’t just about picking something that looks nice, it’s really about finding something that actually fits your style, the kind of occasion you’re going to, and your personality. From big festivals to weddings or even those smaller get-togethers, the right outfit can make you feel confi",
+      "source": "Torani",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Fashion Intelligence: What Should You Look For Before Buying Designer Ethnic Wear...",
+      "score": 7,
+      "published": "2026-04-17T09:23:52+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "9f17428bc4f6",
       "title": "How to Choose the Perfect Outfit for a Summer Festive Occasion",
       "link": "https://www.torani.in/blogs/news/how-to-choose-the-perfect-outfit-for-a-summer-festive-occasion",
@@ -2543,6 +2557,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "e75dae931432",
+      "title": "Did You Know that the Modern Saree Blouse Was Influenced by the Colonial-era?",
+      "link": "https://www.azafashions.com/blog/colonial-era-influence-on-the-saree-blouse/?utm_source=rss&utm_medium=rss&utm_campaign=colonial-era-influence-on-the-saree-blouse",
+      "summary": "The saree stands as one of the most recognizable types of clothing. For centuries, this elegant attire has defined Indian fashion, offering a canvas of rich silks, vibrant cottons, and intricate handlooms. You&#8230; The post Did You Know that the Modern Saree Blouse Was Influenced by the Colonial-era? appeared first o",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "Fashion Intelligence: Did You Know that the Modern Saree Blouse Was Influenced by the Coloni...",
+      "score": 4,
+      "published": "2026-04-16T11:26:11+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "809f85f22178",
       "title": "Pearls Just Got a Summer Makeover—Here’s How to Wear Them This Season",
       "link": "https://www.azafashions.com/blog/summer-pearl-styling/?utm_source=rss&utm_medium=rss&utm_campaign=summer-pearl-styling",
@@ -2639,70 +2667,56 @@
       "score": 0,
       "published": "2026-04-14T11:45:59+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "fc03ab47c555",
-      "title": "Aza Hyderabad Hosts an Exclusive Meet the Designer Event with Siddhartha Daga",
-      "link": "https://www.azafashions.com/blog/aza-hyderabad-meet-the-designer-event/?utm_source=rss&utm_medium=rss&utm_campaign=aza-hyderabad-meet-the-designer-event",
-      "summary": "Walking into a luxury boutique always carries a certain anticipation. The lighting is softer, the racks more intentional, and every garment feels like it has a story waiting to be told. But&#8230; The post Aza Hyderabad Hosts an Exclusive Meet the Designer Event with Siddhartha Daga appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Aza Hyderabad Hosts an Exclusive Meet the Designer Event with Siddhart...",
-      "score": 2,
-      "published": "2026-04-13T08:55:03+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "ఈనాడు",
+      "term": "स्कॉटलैंड बनाम नामीबिया",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "कंगना रानौत",
+      "term": "alexander zverev",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अधिवक्ता",
+      "term": "भारतीय क्रिकेट टीम",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "9th class result 2026",
+      "term": "scotland vs namibia",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "అల్లు అర్జున్",
+      "term": "పాకిస్తాన్ జాతీయ క్రికెట్ జట్టు",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಹಾರ್ದಿಕ್ ಪಾಂಡ್ಯ",
+      "term": "मैच फिक्सिंग",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "கே ஏ செங்கோட்டையன்",
+      "term": "umesh yadav",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "చెన్నై సూపర్ కింగ్స్",
+      "term": "chiyaan vikram",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "प्राकृतिक गैस",
+      "term": "கார்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "മുഖ്യമന്ത്രി",
+      "term": "മന്തി",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

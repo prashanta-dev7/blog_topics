@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-17T09:10:54.763139+00:00",
+  "generated_at": "2026-04-17T09:19:33.575676+00:00",
   "owned_count": 10,
-  "competitor_count": 19,
+  "competitor_count": 20,
   "industry_count": 159,
   "keywords_loaded": {
     "IN": 118,
@@ -51,20 +51,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "14030eb935a3",
-      "title": "Not T-Shirts, Not Tanks: The Top Trend Fashion People Will Wear All Summer 2026",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/bra-trend-summer",
-      "summary": "The trend is only gaining speed.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-04-17T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "94d87af3e0ed",
       "title": "The Best Black Sandals From Nordstrom, Period",
       "link": "https://www.whowhatwear.com/nordstrom-black-sandals",
@@ -75,6 +61,20 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: The Best Black Sandals From Nordstrom, Period...",
       "score": 1,
+      "published": "2026-04-17T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "14030eb935a3",
+      "title": "Not T-Shirts, Not Tanks: The Top Trend Fashion People Will Wear All Summer 2026",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/bra-trend-summer",
+      "summary": "The trend is only gaining speed.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
       "published": "2026-04-17T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1073,20 +1073,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "42711c6d30f9",
-      "title": "I Re-Created 10 Viral Spring 2026 Runway Looks for Under $400—You're Welcome",
-      "link": "https://www.whowhatwear.com/fashion/affordable/affordable-spring-summer-2026-runway-looks",
-      "summary": "Look rich this season.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I Re-Created 10 Viral Spring 2026 Runway Looks for Under $400—You're W...",
-      "score": 2,
-      "published": "2026-04-16T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7187be8cf20c",
       "title": "Simone Ashley's Most Memorable Beauty Looks Are Always Bronzed, Ethereal, and Chic—9 I'm Itching to Copy",
       "link": "https://www.whowhatwear.com/beauty/makeup/best-simone-ashley-beauty-looks",
@@ -1097,6 +1083,20 @@
       "aza_category": "Occasion Dressing",
       "angle": "Fashion Intelligence: Simone Ashley's Most Memorable Beauty Looks Are Always Bronzed, Ethere...",
       "score": 1,
+      "published": "2026-04-16T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "42711c6d30f9",
+      "title": "I Re-Created 10 Viral Spring 2026 Runway Looks for Under $400—You're Welcome",
+      "link": "https://www.whowhatwear.com/fashion/affordable/affordable-spring-summer-2026-runway-looks",
+      "summary": "Look rich this season.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I Re-Created 10 Viral Spring 2026 Runway Looks for Under $400—You're W...",
+      "score": 2,
       "published": "2026-04-16T11:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1143,20 +1143,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5ef1ad1b7688",
-      "title": "I'm a Beauty Editor—If I Had to Edit My Skin Routine to 3 Products, It’d Be This, This, and This",
-      "link": "https://www.whowhatwear.com/beauty/skin/beauty-editor-top-3-skincare-products-2026",
-      "summary": "My nonnegotiables.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I'm a Beauty Editor—If I Had to Edit My Skin Routine to 3 Products, It...",
-      "score": 1,
-      "published": "2026-04-16T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "02b795d51d27",
       "title": "This Divisive '90s Shoe Is the One Trend Millennials and Gen Z Can Agree On",
       "link": "https://www.whowhatwear.com/fashion/shoes/jelly-shoe-trends-2026",
@@ -1166,6 +1152,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-04-16T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5ef1ad1b7688",
+      "title": "I'm a Beauty Editor—If I Had to Edit My Skin Routine to 3 Products, It’d Be This, This, and This",
+      "link": "https://www.whowhatwear.com/beauty/skin/beauty-editor-top-3-skincare-products-2026",
+      "summary": "My nonnegotiables.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I'm a Beauty Editor—If I Had to Edit My Skin Routine to 3 Products, It...",
       "score": 1,
       "published": "2026-04-16T08:00:00+00:00",
       "discovered_via": "feed"
@@ -1185,15 +1185,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3b7e9c7fcd3f",
-      "title": "Jenny Walton's World: Her New Book, Miuccia Prada, and a Fixer-Upper in Tuscany",
-      "link": "https://www.whowhatwear.com/fashion/cover-features/my-world-jenny-walton",
-      "summary": "The illustrator, designer, and writer's new book is out on April 29.",
+      "id": "7c26ce07a245",
+      "title": "I'm Building the Perfect Anti-Trend Capsule for Spring—5 Pieces I'm Relying On",
+      "link": "https://www.whowhatwear.com/fashion/anti-trend-spring-capsule-wardrobe-2026",
+      "summary": "A spring upgrade.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Jenny Walton's World: Her New Book, Miuccia Prada, and a Fixer-Upper i...",
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-04-16T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1213,15 +1213,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7c26ce07a245",
-      "title": "I'm Building the Perfect Anti-Trend Capsule for Spring—5 Pieces I'm Relying On",
-      "link": "https://www.whowhatwear.com/fashion/anti-trend-spring-capsule-wardrobe-2026",
-      "summary": "A spring upgrade.",
+      "id": "3b7e9c7fcd3f",
+      "title": "Jenny Walton's World: Her New Book, Miuccia Prada, and a Fixer-Upper in Tuscany",
+      "link": "https://www.whowhatwear.com/fashion/cover-features/my-world-jenny-walton",
+      "summary": "The illustrator, designer, and writer's new book is out on April 29.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Jenny Walton's World: Her New Book, Miuccia Prada, and a Fixer-Upper i...",
       "score": 1,
       "published": "2026-04-16T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1269,6 +1269,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "8ece54224305",
+      "title": "From Affordable to Luxury, These Are the Very Best Wedding Gifts to Give in 2026",
+      "link": "https://www.whowhatwear.com/living/wedding/chic-wedding-gifts",
+      "summary": "To have and to hold.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: From Affordable to Luxury, These Are the Very Best Wedding Gifts to Give in 2026 — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-04-16T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a04e2608a9c8",
+      "title": "Save the Date: The Ultimate Timeline for Every Trending Bridal Beauty Treatment",
+      "link": "https://www.whowhatwear.com/beauty/skin/wedding-beauty-treatment-timeline",
+      "summary": "From a fellow bride-to-be.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Save the Date — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-04-16T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "1007573568d4",
       "title": "The 2026 Bridal Nail Guide",
       "link": "https://www.whowhatwear.com/beauty/nails/bridal-nail-trends-2026",
@@ -1307,34 +1335,6 @@
       "aza_category": "Trend Alert",
       "angle": "Bridal Edit: To Have and to Hold — A Complete Style Guide",
       "score": 2,
-      "published": "2026-04-16T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8ece54224305",
-      "title": "From Affordable to Luxury, These Are the Very Best Wedding Gifts to Give in 2026",
-      "link": "https://www.whowhatwear.com/living/wedding/chic-wedding-gifts",
-      "summary": "To have and to hold.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: From Affordable to Luxury, These Are the Very Best Wedding Gifts to Give in 2026 — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-04-16T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a04e2608a9c8",
-      "title": "Save the Date: The Ultimate Timeline for Every Trending Bridal Beauty Treatment",
-      "link": "https://www.whowhatwear.com/beauty/skin/wedding-beauty-treatment-timeline",
-      "summary": "From a fellow bride-to-be.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Save the Date — A Complete Style Guide",
-      "score": 3,
       "published": "2026-04-16T05:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -2235,6 +2235,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "9f17428bc4f6",
+      "title": "How to Choose the Perfect Outfit for a Summer Festive Occasion",
+      "link": "https://www.torani.in/blogs/news/how-to-choose-the-perfect-outfit-for-a-summer-festive-occasion",
+      "summary": "Summer celebrations have a mood of their own. The days feel lighter, the colours feel brighter, and there’s an ease in the air that naturally reflects in what you wear. Everything feels a little more relaxed, a little more effortless, whether it’s a daytime function under the sun or those intimate evening gatherings th",
+      "source": "Torani",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Occasion Dressing",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 4,
+      "published": "2026-04-17T09:06:25+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "b8ac00398f76",
       "title": "From College Corridors to “I Do”: Acckriti’s Filmy Love Story Comes Full Circle in Jabalpur",
       "link": "https://blog.kalkifashion.com/from-college-corridors-to-i-do-acckritis-filmy-love-story-comes-full-circle-in-jabalpur/",
@@ -2643,6 +2657,16 @@
   ],
   "trends": [
     {
+      "term": "ఈనాడు",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "कंगना रानौत",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
       "term": "अधिवक्ता",
       "summary": "",
       "aza_category": "Fashion & Style"
@@ -2663,6 +2687,11 @@
       "aza_category": "Fashion & Style"
     },
     {
+      "term": "கே ஏ செங்கோட்டையன்",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
       "term": "చెన్నై సూపర్ కింగ్స్",
       "summary": "",
       "aza_category": "Fashion & Style"
@@ -2674,21 +2703,6 @@
     },
     {
       "term": "മുഖ്യമന്ത്രി",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "bangalore temperature",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "kempegowda international airport",
-      "summary": "",
-      "aza_category": "Celebrity Style"
-    },
-    {
-      "term": "hang seng share bazar",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

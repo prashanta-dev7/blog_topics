@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T04:25:49.091870+00:00",
+  "generated_at": "2026-04-18T06:14:45.084611+00:00",
   "owned_count": 10,
   "competitor_count": 21,
   "industry_count": 161,
@@ -19,7 +19,49 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Emilio Pucci Spring 2026 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-04-18T04:21:01+00:00",
+      "published": "2026-04-18T06:09:53+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d83e7e2e803f",
+      "title": "Obviously, H&M Has Pretty Spring Dresses—These Styles Will Sell Out First",
+      "link": "https://www.whowhatwear.com/fashion/dresses/best-hm-spring-dresses-2026",
+      "summary": "Good luck choosing just one.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Obviously, H&M Has Pretty Spring Dresses—These Styles Will Sell Out Fi...",
+      "score": 2,
+      "published": "2026-04-18T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a6f32b694698",
+      "title": "The Most Stylish Women Over 50 Are Wearing These 5 Spring Fashion Trends in 2026",
+      "link": "https://www.whowhatwear.com/fashion/trends/spring-2026-fashion-trends-for-over-50s",
+      "summary": "They know best.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-04-18T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6cc0c61d0a25",
+      "title": "British Brand, Damson Madder Just Launched Their New Spring Collection—Here's What All the Cool Girls Will Be Wearing",
+      "link": "https://www.whowhatwear.com/fashion/shopping/damson-madder-spring-summer-collection-2026",
+      "summary": "Unique pieces to add to your wardrobe.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 4,
+      "published": "2026-04-18T04:32:35+00:00",
       "discovered_via": "feed"
     },
     {
@@ -52,9 +94,9 @@
     },
     {
       "id": "f66e98fef4df",
-      "title": "Pune airport runway shut after IAF jet's hard landing incident, flights diverted",
+      "title": "Pune airport runway opens for flights after shutdown due to IAF jet's hard landing",
       "link": "https://www.indiatoday.in/india/story/pune-airport-runway-shut-after-incident-of-hard-landing-of-an-indian-air-force-jet-flights-diverted-2898014-2026-04-18?utm_source=rss",
-      "summary": "Pune airport runway shut after IAF jet's hard landing incident, flights diverted",
+      "summary": "Pune airport runway opens for flights after shutdown due to IAF jet's hard landing",
       "source": "India Today Fashion",
       "tier": "industry",
       "is_competitor": false,
@@ -1031,48 +1073,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "14030eb935a3",
-      "title": "Not T-Shirts, Not Tanks: The Top Trend Fashion People Will Wear All Summer 2026",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/bra-trend-summer",
-      "summary": "The trend is only gaining speed.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-04-17T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "94d87af3e0ed",
-      "title": "The Best Black Sandals From Nordstrom, Period",
-      "link": "https://www.whowhatwear.com/nordstrom-black-sandals",
-      "summary": "'Tis the season.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Best Black Sandals From Nordstrom, Period...",
-      "score": 1,
-      "published": "2026-04-17T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c4d9130b7e14",
-      "title": "I Seldom Wear Color, But This Unexpected Pairing Has Me Ditching Neutrals",
-      "link": "https://www.whowhatwear.com/fashion/trends/purple-red-color-combination-2026-kristina-ang",
-      "summary": "Prada! Celine! Miu Miu!",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Seldom Wear Color, But This Unexpected Pairing Has Me Ditching Neutr...",
-      "score": 1,
-      "published": "2026-04-17T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b9a7ec893c67",
       "title": "These New Ways to Wear Jeans Feel So Much More Polished for Summer 2026",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/summer-denim-outfit-inspiration-2026",
@@ -1097,6 +1097,48 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
+      "published": "2026-04-17T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "14030eb935a3",
+      "title": "Not T-Shirts, Not Tanks: The Top Trend Fashion People Will Wear All Summer 2026",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/bra-trend-summer",
+      "summary": "The trend is only gaining speed.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-04-17T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c4d9130b7e14",
+      "title": "I Seldom Wear Color, But This Unexpected Pairing Has Me Ditching Neutrals",
+      "link": "https://www.whowhatwear.com/fashion/trends/purple-red-color-combination-2026-kristina-ang",
+      "summary": "Prada! Celine! Miu Miu!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Seldom Wear Color, But This Unexpected Pairing Has Me Ditching Neutr...",
+      "score": 1,
+      "published": "2026-04-17T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "94d87af3e0ed",
+      "title": "The Best Black Sandals From Nordstrom, Period",
+      "link": "https://www.whowhatwear.com/nordstrom-black-sandals",
+      "summary": "'Tis the season.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Best Black Sandals From Nordstrom, Period...",
+      "score": 1,
       "published": "2026-04-17T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1630,48 +1672,6 @@
       "angle": "Fashion Intelligence: Everywhere I Look, Stylish Parisian Women Are Carrying This In-the-Kno...",
       "score": 2,
       "published": "2026-04-16T09:55:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c6a28870f4e0",
-      "title": "Believe It or Not, Your Chicest Designer Heels Actually Look Most Stylish With This Low-Key Jeans Trend",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/heeled-low-rise-cuffed-jeans-outfit-michaela-coel",
-      "summary": "Confirmed.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-04-16T09:02:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5ef1ad1b7688",
-      "title": "I'm a Beauty Editor—If I Had to Edit My Skin Routine to 3 Products, It’d Be This, This, and This",
-      "link": "https://www.whowhatwear.com/beauty/skin/beauty-editor-top-3-skincare-products-2026",
-      "summary": "My nonnegotiables.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I'm a Beauty Editor—If I Had to Edit My Skin Routine to 3 Products, It...",
-      "score": 1,
-      "published": "2026-04-16T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "02b795d51d27",
-      "title": "This Divisive '90s Shoe Is the One Trend Millennials and Gen Z Can Agree On",
-      "link": "https://www.whowhatwear.com/fashion/shoes/jelly-shoe-trends-2026",
-      "summary": "So fun!",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-04-16T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2699,52 +2699,52 @@
   ],
   "trends": [
     {
-      "term": "ഉണ്ണി മുകുന്ദന്",
+      "term": "apple iphone 18 pro",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "वरुण चक्रवर्ती",
+      "term": "ap polycet 2026 hall ticket download",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "gerald coetzee",
+      "term": "ప్రకాష్ రాజ్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ఎన్నికల పోటీ",
+      "term": "gianpiero lambiase",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "విశాఖపట్నం",
+      "term": "silver",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "2025",
+      "term": "cuet exam date 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "srinagar weather",
+      "term": "saturday bank holiday today",
+      "summary": "",
+      "aza_category": "Occasion Dressing"
+    },
+    {
+      "term": "vikatan election survey",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "gsw",
+      "term": "self enumeration",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ஏப்ரல் 18",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "స్టాక్",
+      "term": "mukesh khanna",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-18T06:14:45.084611+00:00",
+  "generated_at": "2026-04-18T08:52:48.498334+00:00",
   "owned_count": 10,
   "competitor_count": 21,
-  "industry_count": 161,
+  "industry_count": 160,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,147 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Emilio Pucci Spring 2026 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-04-18T06:09:53+00:00",
+      "published": "2026-04-18T08:50:40+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7916fcad1c3e",
+      "title": "Sarah Pidgeon Is in Full '90s Minimalism Mode in This CBK-Approved Spring Dress Trend",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/sarah-pidgeon-knit-dress-knee-high-boots-outfit-2026",
+      "summary": "So chic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-04-18T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c3cf5bf98a29",
+      "title": "Not Skinny, Not Wide-Leg—These Are the M&S Jeans Chic Women Will Be Wearing With Blouses All Spring",
+      "link": "https://www.whowhatwear.com/fashion/shopping/marks-and-spencer-barrel-leg-jeans",
+      "summary": "My go-to spring outfit formula.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-04-18T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a5bf89a41e88",
+      "title": "Hold the Blue Jeans—These Petite-Girl-Approved Colour Trend Feel Much More Spring 2026",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/petite-white-jeans-silver-heels-outfit-nicola-coughlan-2026",
+      "summary": "An instant upgrade.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-04-18T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d42af11f2438",
+      "title": "From Geel to Brooke Callahan: 14 Buzzy L.A. Brands Worth Adding to Your Wardrobe",
+      "link": "https://www.whowhatwear.com/fashion/shopping/los-angeles-brand-discovery-2026",
+      "summary": "Shop the labels.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: From Geel to Brooke Callahan: 14 Buzzy L.A. Brands Worth Adding to You...",
+      "score": 2,
+      "published": "2026-04-18T07:05:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3040997fa5b7",
+      "title": "From Dôen to Mango, Here's Everything I'm Buying for Spring 2026",
+      "link": "https://www.whowhatwear.com/fashion/shopping/fashion-editor-shopping-list-spring-2026",
+      "summary": "For fans of understated and elegant style.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: From Dôen to Mango, Here's Everything I'm Buying for Spring 2026...",
+      "score": 1,
+      "published": "2026-04-18T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e06c8d475830",
+      "title": "Goodbye, Basic Outfits—10Elevated Ways Fashion People Are Styling Spring Essentials",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/spring-basics-outfits-2026",
+      "summary": "Easy upgrades to elevate your style.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Goodbye, Basic Outfits—10Elevated Ways Fashion People Are Styling Spri...",
+      "score": 3,
+      "published": "2026-04-18T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "11ab7e87edee",
+      "title": "The Best White Tops to Wear With Your Jeans This Spring, Period",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-white-tops-to-wear-with-jeans",
+      "summary": "There's a look for every style sensibility.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best White Tops to Wear With Your Jeans This Spring, Period...",
+      "score": 2,
+      "published": "2026-04-18T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "090afb592680",
+      "title": "7 Fashion People Share the Chicest Gifts They're Buying This Mother's Day",
+      "link": "https://www.whowhatwear.com/fashion/shopping/mothers-day-gift-guide-2026",
+      "summary": "Get inspired.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 7 Fashion People Share the Chicest Gifts They're Buying This Mother's ...",
+      "score": 1,
+      "published": "2026-04-18T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0d1ff56ae0eb",
+      "title": "The Cult Tory Burch Shoe Every Fashion Person Is Wearing in 2026",
+      "link": "https://www.whowhatwear.com/fashion/luxury/tory-burch-romy-sport-mary-jane",
+      "summary": "Along with other designer Mary Jane sneakers.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-04-18T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "050023618886",
+      "title": "Stovepipe Jeans Are The Style of the Season—5 Sandals That Actually Look Good With Them",
+      "link": "https://www.whowhatwear.com/sandals-to-wear-with-stovepipe-jeans",
+      "summary": "Only the best made the cut.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-04-18T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -765,20 +905,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2bdf95255df4",
-      "title": "Caterer throws 11-year-old into burning tandoor at UP wedding for eating sweets",
-      "link": "https://www.indiatoday.in/india/story/caterer-throws-11-year-old-into-burning-tandoor-at-up-wedding-for-eating-sweets-2897854-2026-04-17?utm_source=rss",
-      "summary": "Caterer throws 11-year-old into burning tandoor at UP wedding for eating sweets",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Caterer throws 11-year-old into burning tandoor at UP wedding for eating sweets — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-04-17T14:57:38+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "5d8ccce8933a",
       "title": "Nicole Richie Is a Serious Vintage Collector, But She's Not Afraid to Let a Piece Go",
       "link": "https://www.harpersbazaar.com/fashion/designers/a71041285/nicole-richie-the-good-buy/",
@@ -1227,20 +1353,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f33e6623967d",
-      "title": "3 Bikini Styles That Are About to Be Trending Thanks to Megan Thee Stallion",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/megan-thee-stallion-bikini-line-spring-2026-launch",
-      "summary": "Hot girl summer starts now.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-04-16T22:13:46+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f6309d3cc4f7",
       "title": "Carey Mulligan’s Tangerine Set From Colleen Allen Is Just Too Good",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71041118/carey-mulligan-colleen-allen-set-beef-season-two-screening-nyc-red-carpet-photos/",
@@ -1294,34 +1406,6 @@
       "angle": "Fashion Intelligence: Cate Blanchett Will Become Martha Stewart in New Biopic...",
       "score": 0,
       "published": "2026-04-16T20:49:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "94ab7688f1b3",
-      "title": "If You're Going to Wear Ballet Flats This Summer, Here's the Coolest Skirt Trend to Pair Them With",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/knee-length-skirt-trend-ballet-flats-phoebe-dynevor",
-      "summary": "This combo will be everywhere by May 1.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-04-16T20:29:13+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d6ce751e3388",
-      "title": "Dresses Are Great, But This Pretty Shirt Trend Is Going to Be Just as Popular for Summer 2026",
-      "link": "https://www.whowhatwear.com/fashion/tops/scarf-top-trend-summer-2026",
-      "summary": "Wear it with skirts, shorts, trousers, and jeans.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-04-16T20:04:49+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1521,20 +1605,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1ae44df76b37",
-      "title": "I Spent My Whole Morning Scrolling Nordstrom’s Beauty Sale—10 Items I’d Buy With $368",
-      "link": "https://www.whowhatwear.com/beauty/nordstrom-beauty-savings-event-picks-2026",
-      "summary": "Including a few luxury finds.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Spent My Whole Morning Scrolling Nordstrom’s Beauty Sale—10 Items I’...",
-      "score": 2,
-      "published": "2026-04-16T15:38:50+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "0fbff87704b3",
       "title": "Alex Mill and J.Press Have Made the Perfect Rugby Shirt",
       "link": "https://www.harpersbazaar.com/fashion/trends/a71017952/jpress-alex-mill-collection/",
@@ -1546,20 +1616,6 @@
       "angle": "Fashion Intelligence: Alex Mill and J.Press Have Made the Perfect Rugby Shirt...",
       "score": 0,
       "published": "2026-04-16T15:35:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "704c53935aa1",
-      "title": "Sorry, Sneakers—Low-Rise Jeans Look the Most 2026 With This Elegant Flat-Shoe Trend",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/low-rise-jeans-loafers-outfit-gigi-hadid",
-      "summary": "Add oversize sunglasses too.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-04-16T14:38:41+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1591,20 +1647,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b3d8fa0cb3a6",
-      "title": "Summer Just Wrapped in Australia—Here's What Local It Girls Wore to Look Chic",
-      "link": "https://www.whowhatwear.com/fashion/trends/australian-fashion-summer-trends-2026",
-      "summary": "Shop all of the classic, anti-trend styles.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-04-16T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3489695ac790",
       "title": "Why Diptyque Gave Its Iconic Candle a Makeover",
       "link": "https://fashionista.com/2026/04/diptyque-redesign-strategy-classic-candle",
@@ -1616,62 +1658,6 @@
       "angle": "Fashion Intelligence: Why Diptyque Gave Its Iconic Candle a Makeover...",
       "score": 2,
       "published": "2026-04-16T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "42711c6d30f9",
-      "title": "I Re-Created 10 Viral Spring 2026 Runway Looks for Under $400—You're Welcome",
-      "link": "https://www.whowhatwear.com/fashion/affordable/affordable-spring-summer-2026-runway-looks",
-      "summary": "Look rich this season.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I Re-Created 10 Viral Spring 2026 Runway Looks for Under $400—You're W...",
-      "score": 2,
-      "published": "2026-04-16T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7187be8cf20c",
-      "title": "Simone Ashley's Most Memorable Beauty Looks Are Always Bronzed, Ethereal, and Chic—9 I'm Itching to Copy",
-      "link": "https://www.whowhatwear.com/beauty/makeup/best-simone-ashley-beauty-looks",
-      "summary": "From Cannes to the Met Gala.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Simone Ashley's Most Memorable Beauty Looks Are Always Bronzed, Ethere...",
-      "score": 1,
-      "published": "2026-04-16T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6a93cb0c06f2",
-      "title": "Inside a Fashion Designer's Guide to Sydney, From Iconic Beaches to Chic Wine Bars",
-      "link": "https://www.whowhatwear.com/living/travel/sydney-australia-guide-lesleigh-jermanus-alemais",
-      "summary": "Ready for a virtual trip down under?",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Inside a Fashion Designer's Guide to Sydney, From Iconic Beaches to Ch...",
-      "score": 2,
-      "published": "2026-04-16T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a089f8625902",
-      "title": "Everywhere I Look, Stylish Parisian Women Are Carrying This In-the-Know Bag That Rivals Designer Styles",
-      "link": "https://www.whowhatwear.com/fashion/handbags/manu-atelier-cambon-cabas-bag",
-      "summary": "Timeless and chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Everywhere I Look, Stylish Parisian Women Are Carrying This In-the-Kno...",
-      "score": 2,
-      "published": "2026-04-16T09:55:32+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2263,6 +2249,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "5fe2e6faa42d",
+      "title": "Vinisha Gandhi’s Melbourne Magic: From Dancefloor Sparks to Red Lehenga Bliss!",
+      "link": "https://blog.kalkifashion.com/vinisha-gandhis-melbourne-magic-from-dancefloor-sparks-to-red-lehenga-bliss/",
+      "summary": "Get ready for a swoon-worthy tale straight from Melbourne&#8217;s sunny shores! Vinisha Gandhi, our radiant dancefloor queen turned bride, turned her wedding love story into a garden wonderland dream. Sparks flew eight years ago, vows sealed in floral frenzy—and her red bridal lehenga? A heritage heartbeat. Let&#8217;s",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Vinisha Gandhi’s Melbourne Magic — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-04-18T06:58:42+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "8bb2dc27bd98",
       "title": "What Should You Look For Before Buying Designer Ethnic Wear",
       "link": "https://www.torani.in/blogs/news/what-should-you-look-for-before-buying-designer-ethnic-wear",
@@ -2456,20 +2456,6 @@
       "angle": "Fashion Intelligence: Top Indian Outfits for Men That Never Go Out of Style...",
       "score": 3,
       "published": "2026-04-10T04:26:59+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "41f8dec4a491",
-      "title": "How to Choose the Perfect Indian Bridal Outfit for Your Skin Tone",
-      "link": "https://blog.kalkifashion.com/how-to-choose-the-perfect-indian-bridal-outfit-for-your-skin-tone/",
-      "summary": "Bridal dresses are sacred and should be chosen very carefully. When it comes to selecting your bridal wedding dresses, the idea of one size fits all does not apply. You are unique in your own way, and on your special day, you deserve to wear something that brings out the best in you. So make [&#8230;] The post How to C",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: How to Choose the Perfect Indian Bridal Outfit for Your Skin Tone — A Complete Style Guide",
-      "score": 5,
-      "published": "2026-04-09T04:55:45+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2699,52 +2685,52 @@
   ],
   "trends": [
     {
-      "term": "apple iphone 18 pro",
+      "term": "தேர்தல் அறிக்கை",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ap polycet 2026 hall ticket download",
+      "term": "కేంద్ర ప్రభుత్వం",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ప్రకాష్ రాజ్",
+      "term": "రాశి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "gianpiero lambiase",
+      "term": "आरव कुमार",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "silver",
+      "term": "pib",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cuet exam date 2026",
+      "term": "पप्पू यादव",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "saturday bank holiday today",
-      "summary": "",
-      "aza_category": "Occasion Dressing"
-    },
-    {
-      "term": "vikatan election survey",
+      "term": "marcus rashford",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "self enumeration",
+      "term": "निसान",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mukesh khanna",
+      "term": "da news",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "संजय दत्त",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

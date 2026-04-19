@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-04-19T04:45:44.527746+00:00",
+  "generated_at": "2026-04-19T06:29:27.117256+00:00",
   "owned_count": 10,
   "competitor_count": 21,
-  "industry_count": 160,
+  "industry_count": 157,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "4d02bdf4af22",
+      "title": "Zara Just Perfected the Most Elegant Spring Dress Trends—5 Styles That Will Sell Out First",
+      "link": "https://www.whowhatwear.com/fashion/dresses/zara-dress-trends-spring-2026",
+      "summary": "Just in time for the sunshine.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-04-19T05:45:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "bb88858d1c52",
       "title": "These 5 Outfits Prove That Fashion's Favourite \"Ugly\" Shoe Looks So Stylish with Denim",
@@ -191,20 +205,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9bf27aacb437",
-      "title": "A Full-Circle Moment for Designer Daniella Kallmeyer at the Martha Graham Dance Company’s 100th Anniversary Gala",
-      "link": "https://www.vogue.com/article/daniella-kallmeyer-costumes-martha-graham-100th-anniversary-gala",
-      "summary": "For Daniella Kallmeyer, designing costumes for the stage felt like a culmination of many of her life's interests—one of them being an appreciation of Martha Graham from a young age.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: A Full-Circle Moment for Designer Daniella Kallmeyer at the Martha Gra...",
-      "score": 1,
-      "published": "2026-04-18T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "87871f0789c3",
       "title": "Recreating the Energy of an English Pub in New York City? It’s Harder Than You’d Think",
       "link": "https://www.vogue.com/article/deans-soho-restaurant-english-pub-interiors",
@@ -214,6 +214,20 @@
       "is_competitor": false,
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: Recreating the Energy of an English Pub in New York City? It’s Harder ...",
+      "score": 1,
+      "published": "2026-04-18T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9bf27aacb437",
+      "title": "A Full-Circle Moment for Designer Daniella Kallmeyer at the Martha Graham Dance Company’s 100th Anniversary Gala",
+      "link": "https://www.vogue.com/article/daniella-kallmeyer-costumes-martha-graham-100th-anniversary-gala",
+      "summary": "For Daniella Kallmeyer, designing costumes for the stage felt like a culmination of many of her life's interests—one of them being an appreciation of Martha Graham from a young age.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: A Full-Circle Moment for Designer Daniella Kallmeyer at the Martha Gra...",
       "score": 1,
       "published": "2026-04-18T12:00:00+00:00",
       "discovered_via": "feed"
@@ -317,20 +331,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a94c8564214c",
-      "title": "Understated, Intentional, Timeless: Your Fashion Guide to Fine Jewelry for Beginners",
-      "link": "https://www.whowhatwear.com/fashion/jewelry/best-brands-for-a-fine-jewelry-collection",
-      "summary": "Back to basics.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Understated, Intentional, Timeless: Your Fashion Guide to Fine Jewelry...",
-      "score": 1,
-      "published": "2026-04-18T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "dfc46c09de07",
       "title": "After a Hiatus, It's Officially Cool to Wear This \"Dated\" Jeans Trend With Heels Again",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/frayed-hem-jeans-trend-anne-hathaway",
@@ -341,6 +341,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
+      "published": "2026-04-18T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a94c8564214c",
+      "title": "Understated, Intentional, Timeless: Your Fashion Guide to Fine Jewelry for Beginners",
+      "link": "https://www.whowhatwear.com/fashion/jewelry/best-brands-for-a-fine-jewelry-collection",
+      "summary": "Back to basics.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Understated, Intentional, Timeless: Your Fashion Guide to Fine Jewelry...",
+      "score": 1,
       "published": "2026-04-18T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -373,16 +387,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7916fcad1c3e",
-      "title": "Sarah Pidgeon Is in Full '90s Minimalism Mode in This CBK-Approved Spring Dress Trend",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/sarah-pidgeon-knit-dress-knee-high-boots-outfit-2026",
-      "summary": "So chic.",
+      "id": "a5bf89a41e88",
+      "title": "Hold the Blue Jeans—These Petite-Girl-Approved Colour Trend Feel Much More Spring 2026",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/petite-white-jeans-silver-heels-outfit-nicola-coughlan-2026",
+      "summary": "An instant upgrade.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
+      "score": 1,
       "published": "2026-04-18T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -401,16 +415,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a5bf89a41e88",
-      "title": "Hold the Blue Jeans—These Petite-Girl-Approved Colour Trend Feel Much More Spring 2026",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/petite-white-jeans-silver-heels-outfit-nicola-coughlan-2026",
-      "summary": "An instant upgrade.",
+      "id": "7916fcad1c3e",
+      "title": "Sarah Pidgeon Is in Full '90s Minimalism Mode in This CBK-Approved Spring Dress Trend",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/sarah-pidgeon-knit-dress-knee-high-boots-outfit-2026",
+      "summary": "So chic.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
+      "score": 2,
       "published": "2026-04-18T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -439,6 +453,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
+      "published": "2026-04-18T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0d1ff56ae0eb",
+      "title": "The Cult Tory Burch Shoe Every Fashion Person Is Wearing in 2026",
+      "link": "https://www.whowhatwear.com/fashion/luxury/tory-burch-romy-sport-mary-jane",
+      "summary": "Along with other designer Mary Jane sneakers.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
       "published": "2026-04-18T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -494,20 +522,6 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Goodbye, Basic Outfits—10Elevated Ways Fashion People Are Styling Spri...",
-      "score": 3,
-      "published": "2026-04-18T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0d1ff56ae0eb",
-      "title": "The Cult Tory Burch Shoe Every Fashion Person Is Wearing in 2026",
-      "link": "https://www.whowhatwear.com/fashion/luxury/tory-burch-romy-sport-mary-jane",
-      "summary": "Along with other designer Mary Jane sneakers.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
       "published": "2026-04-18T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1367,66 +1381,10 @@
       "discovered_via": "feed"
     },
     {
-      "id": "94d87af3e0ed",
-      "title": "The Best Black Sandals From Nordstrom, Period",
-      "link": "https://www.whowhatwear.com/nordstrom-black-sandals",
-      "summary": "'Tis the season.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Best Black Sandals From Nordstrom, Period...",
-      "score": 1,
-      "published": "2026-04-17T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "14030eb935a3",
       "title": "Not T-Shirts, Not Tanks: The Top Trend Fashion People Will Wear All Summer 2026",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/bra-trend-summer",
       "summary": "The trend is only gaining speed.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-04-17T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c4d9130b7e14",
-      "title": "I Seldom Wear Color, But This Unexpected Pairing Has Me Ditching Neutrals",
-      "link": "https://www.whowhatwear.com/fashion/trends/purple-red-color-combination-2026-kristina-ang",
-      "summary": "Prada! Celine! Miu Miu!",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Seldom Wear Color, But This Unexpected Pairing Has Me Ditching Neutr...",
-      "score": 1,
-      "published": "2026-04-17T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b9a7ec893c67",
-      "title": "These New Ways to Wear Jeans Feel So Much More Polished for Summer 2026",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/summer-denim-outfit-inspiration-2026",
-      "summary": "Bookmark these denim outfit ideas.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: These New Ways to Wear Jeans Feel So Much More Polished for Summer 202...",
-      "score": 2,
-      "published": "2026-04-17T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4475c9fd80f1",
-      "title": "Not Linen, Not Capris—This Is the Rich-Looking Pant Trend Dominating This Season",
-      "link": "https://www.whowhatwear.com/fashion/shopping/satin-pants-trend-spring-summer-2026",
-      "summary": "Elevate your outfit.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -2685,52 +2643,52 @@
   ],
   "trends": [
     {
-      "term": "fbi director kash patel",
+      "term": "pakistan cricket",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "डीज़ल",
+      "term": "ಅಸಿಮ್ ಮುನೀರ್",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "आज का तापमान",
+      "term": "यूरेनियम",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "open",
+      "term": "प्रधानमंत्री",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ఇషాన్ కిషన్",
+      "term": "umesh yadav",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "काव्या मारन",
+      "term": "அட்சய திருதியை",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "indian air force",
+      "term": "അക്ഷയതൃതീയ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "auckland fc vs central coast mariners",
+      "term": "അസിം മുനീര്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "gold price today",
+      "term": "കേരള",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "शिक्षक",
+      "term": "adelaide united vs macarthur",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

@@ -1,13 +1,125 @@
 {
-  "generated_at": "2026-04-19T06:29:27.117256+00:00",
+  "generated_at": "2026-04-19T08:55:48.745186+00:00",
   "owned_count": 10,
   "competitor_count": 21,
-  "industry_count": 157,
+  "industry_count": 154,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "f51775acd1dd",
+      "title": "Spring Jackets Look Great With Jeans, But Go Even Better With These Chic Dress Styles",
+      "link": "https://www.whowhatwear.com/fashion/spring/spring-jackets-to-wear-with-dresses-2026",
+      "summary": "It's bare leg season.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Spring Jackets Look Great With Jeans, But Go Even Better With These Ch...",
+      "score": 3,
+      "published": "2026-04-19T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c50668720645",
+      "title": "I'm Temporarily Retiring My Trench Coat and Wearing These 5 Alternatives Instead",
+      "link": "https://www.whowhatwear.com/fashion/outerwear/trench-coat-alternatives",
+      "summary": "You've got options.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-04-19T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f44e9e5c7fdc",
+      "title": "Spotted In London and NYC: The Affordable, Quiet Luxury Handbag Stylish Women Can’t Stop Wearing",
+      "link": "https://www.whowhatwear.com/fashion/shopping/strathberry-kite-hobo-bag",
+      "summary": "The perfect spring carry-all.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-04-19T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "56cb507384f8",
+      "title": "5 \"Dated\" Shoe Trends I Won't Be Wearing In 2026, And the 5 I'm Styling Instead",
+      "link": "https://www.whowhatwear.com/fashion/trends/dated-spring-shoe-trends-2026",
+      "summary": "They're not what you think.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-04-19T07:06:21+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "22d21217a0ca",
+      "title": "I Never Wear High Heels—7 2-Inch-and-Under Shoes I Wear Instead",
+      "link": "https://www.whowhatwear.com/fashion/shopping/kitten-heels-ballet-flats-spring-2026",
+      "summary": "Ballet flats, kitten heel sandals, low-heel pumps, and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Never Wear High Heels—7 2-Inch-and-Under Shoes I Wear Instead...",
+      "score": 1,
+      "published": "2026-04-19T07:05:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b2fe24c5b6a5",
+      "title": "FYI: This Is the Chicest Way to Wear a Skirt in 2026",
+      "link": "https://www.whowhatwear.com/fashion/trends/skirt-suit-trend-2026",
+      "summary": "Just ask Gucci, Tom Ford, The Row, Celine, and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: FYI: This Is the Chicest Way to Wear a Skirt in 2026...",
+      "score": 1,
+      "published": "2026-04-19T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bdc9293fc3f5",
+      "title": "These Highly Specific Festival Trends Were Impossible to Ignore at Revolve Festival",
+      "link": "https://www.whowhatwear.com/fashion/vacation/revolve-festival-trends-2026",
+      "summary": "If you want summer fashion inspiration, start here.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-04-19T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "909b9d5876e3",
+      "title": "Minimalist and Eclectic Dressers Rarely Agree, But Both Know This \"Dated\" Blouse Pairs Best With Jeans, Linen and Skirts",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/scarf-blouse-outfits",
+      "summary": "The chicest spring top.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Minimalist and Eclectic Dressers Rarely Agree, But Both Know This \"Dat...",
+      "score": 1,
+      "published": "2026-04-19T06:45:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "4d02bdf4af22",
       "title": "Zara Just Perfected the Most Elegant Spring Dress Trends—5 Styles That Will Sell Out First",
@@ -177,20 +289,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8f92a10ee50d",
-      "title": "Bindi, tilak, hijab all welcome: Lenskart releases new style guide after backlash",
-      "link": "https://www.indiatoday.in/india/story/lenskart-apologises-after-backlash-introduces-inclusive-store-policy-on-religious-symbols-2898276-2026-04-18?utm_source=rss",
-      "summary": "Bindi, tilak, hijab all welcome: Lenskart releases new style guide after backlash",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-04-18T14:10:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "66fbc5d4f2b4",
       "title": "Retail pioneer Joan Burstein has died, aged 100",
       "link": "https://www.vogue.com/article/retail-pioneer-joan-burstein-has-died-aged-100",
@@ -331,20 +429,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "dfc46c09de07",
-      "title": "After a Hiatus, It's Officially Cool to Wear This \"Dated\" Jeans Trend With Heels Again",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/frayed-hem-jeans-trend-anne-hathaway",
-      "summary": "Solidified by Anne Hathaway.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-04-18T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a94c8564214c",
       "title": "Understated, Intentional, Timeless: Your Fashion Guide to Fine Jewelry for Beginners",
       "link": "https://www.whowhatwear.com/fashion/jewelry/best-brands-for-a-fine-jewelry-collection",
@@ -355,6 +439,20 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Understated, Intentional, Timeless: Your Fashion Guide to Fine Jewelry...",
       "score": 1,
+      "published": "2026-04-18T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dfc46c09de07",
+      "title": "After a Hiatus, It's Officially Cool to Wear This \"Dated\" Jeans Trend With Heels Again",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/frayed-hem-jeans-trend-anne-hathaway",
+      "summary": "Solidified by Anne Hathaway.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
       "published": "2026-04-18T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -457,34 +555,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0d1ff56ae0eb",
-      "title": "The Cult Tory Burch Shoe Every Fashion Person Is Wearing in 2026",
-      "link": "https://www.whowhatwear.com/fashion/luxury/tory-burch-romy-sport-mary-jane",
-      "summary": "Along with other designer Mary Jane sneakers.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-04-18T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "090afb592680",
-      "title": "7 Fashion People Share the Chicest Gifts They're Buying This Mother's Day",
-      "link": "https://www.whowhatwear.com/fashion/shopping/mothers-day-gift-guide-2026",
-      "summary": "Get inspired.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 7 Fashion People Share the Chicest Gifts They're Buying This Mother's ...",
-      "score": 1,
-      "published": "2026-04-18T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "11ab7e87edee",
       "title": "The Best White Tops to Wear With Your Jeans This Spring, Period",
       "link": "https://www.whowhatwear.com/fashion/shopping/best-white-tops-to-wear-with-jeans",
@@ -523,6 +593,34 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Goodbye, Basic Outfits—10Elevated Ways Fashion People Are Styling Spri...",
       "score": 3,
+      "published": "2026-04-18T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0d1ff56ae0eb",
+      "title": "The Cult Tory Burch Shoe Every Fashion Person Is Wearing in 2026",
+      "link": "https://www.whowhatwear.com/fashion/luxury/tory-burch-romy-sport-mary-jane",
+      "summary": "Along with other designer Mary Jane sneakers.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-04-18T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "090afb592680",
+      "title": "7 Fashion People Share the Chicest Gifts They're Buying This Mother's Day",
+      "link": "https://www.whowhatwear.com/fashion/shopping/mothers-day-gift-guide-2026",
+      "summary": "Get inspired.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 7 Fashion People Share the Chicest Gifts They're Buying This Mother's ...",
+      "score": 1,
       "published": "2026-04-18T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1045,20 +1143,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "43ddeb1cf369",
-      "title": "Nobody Does Book-Tour Style Like Alex Aster",
-      "link": "https://www.whowhatwear.com/fashion/alex-aster-starside-book-tour",
-      "summary": "Six looks that prove the Starside author is a method-dressing queen.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Nobody Does Book-Tour Style Like Alex Aster...",
-      "score": 2,
-      "published": "2026-04-17T17:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c9723a9b558e",
       "title": "Olivia Rodrigo’s New Music Video Will Make You Want to Rewatch Marie Antoinette",
       "link": "https://www.harpersbazaar.com/culture/art-books-music/a71051433/olivia-rodrigo-drop-dead-music-video/",
@@ -1101,20 +1185,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8eff0dcc2d0d",
-      "title": "Every Major Wedding Dress Trend That Will Define Bridal Fashion in Spring 2027",
-      "link": "https://www.whowhatwear.com/living/wedding/bridal-fashion-trends-spring-2027",
-      "summary": "Discover the eight elegant silhouettes here.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Every Major Wedding Dress Trend That Will Define Bridal Fashion in Spring 2027 — A Complete Style Guide",
-      "score": 5,
-      "published": "2026-04-17T16:53:37+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ca4288463433",
       "title": "Olivia Rodrigo’s “Drop Dead” Music Video Is Jam-Packed With Fashion References",
       "link": "https://www.vogue.com/article/olivia-rodrigos-drop-dead-music-video-is-jam-packed-with-fashion-references",
@@ -1154,20 +1224,6 @@
       "angle": "Fashion Intelligence: Amanda Seyfried’s Bejeweled Blue Dress Matches Her Diamonds...",
       "score": 1,
       "published": "2026-04-17T16:00:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "43b786ae5cad",
-      "title": "It Girls in L.A. and NYC Are Wearing This \"Boring\" Shirt Trend With Jeans and Trousers",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/blue-button-down-shirt-trend-2026-celebrities",
-      "summary": "Laura Harrier is one of them.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-04-17T15:33:03+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1294,104 +1350,6 @@
       "angle": "Fashion Intelligence: Weekly Drop Watch: Susan Alexandra for Bombas, New Wales Bonner Adidas...",
       "score": 3,
       "published": "2026-04-17T12:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1fd9cf5e72fb",
-      "title": "I'm a Shopping Expert—27 New Arrivals I Texted My Fashion Friends the Most About This Week",
-      "link": "https://www.whowhatwear.com/fashion/shopping/shopping-expert-new-arrivals-april-2026",
-      "summary": "Think chic jeans, shoes, pants, bags, and more.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I'm a Shopping Expert—27 New Arrivals I Texted My Fashion Friends the ...",
-      "score": 1,
-      "published": "2026-04-17T12:40:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6c48a2941f2e",
-      "title": "Trust Me—I'm a Fashion Editor: 5 Trends to Not Wear in Tokyo and What to Wear Instead",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/what-to-wear-in-tokyo-women",
-      "summary": "Explore the city in style.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 4,
-      "published": "2026-04-17T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6f240d7aabb7",
-      "title": "Instead of Black, Leggings Look Chicest in This Elegant Shade",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/brown-leggings-trend-irina-shayk-2026",
-      "summary": "Off-duty models agree.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Instead of Black, Leggings Look Chicest in This Elegant Shade...",
-      "score": 1,
-      "published": "2026-04-17T11:50:37+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7259664fcff6",
-      "title": "I'm Lifting the Veil on Bridal Beauty: Every Elegant Hair, Nail, and Makeup Trend to Know for 2027",
-      "link": "https://www.whowhatwear.com/beauty/bridal-fashion-week-beauty-trends-2027",
-      "summary": "Straight out of a fairytale.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: I'm Lifting the Veil on Bridal Beauty — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-04-17T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "02b9d25178e9",
-      "title": "If an NYC It Girl Isn't Wearing Ballet Flats or Thong Kitten Heels, She's Wearing This Unexpected Sneaker Trend",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-animal-print-sneakers-2026",
-      "summary": "Not suede, not satin.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-04-17T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "62f904f3c673",
-      "title": "I Spotted So Many Trending Sandals at Zara This Week—These 5 Are Sure to Sell Out",
-      "link": "https://www.whowhatwear.com/fashion/shoes/zara-sandal-trends-2026",
-      "summary": "Blink and you'll miss them.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-04-17T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "14030eb935a3",
-      "title": "Not T-Shirts, Not Tanks: The Top Trend Fashion People Will Wear All Summer 2026",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/bra-trend-summer",
-      "summary": "The trend is only gaining speed.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-04-17T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2643,54 +2601,54 @@
   ],
   "trends": [
     {
-      "term": "pakistan cricket",
+      "term": "নরেন্দ্র মোদী",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಅಸಿಮ್ ಮುನೀರ್",
+      "term": "ramayana",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "यूरेनियम",
+      "term": "കുംഭമേള",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "प्रधानमंत्री",
+      "term": "ചൈന",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "umesh yadav",
+      "term": "coventry city football",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "அட்சய திருதியை",
+      "term": "lottery sambad result",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "അക്ഷയതൃതീയ",
+      "term": "ચોમાસું",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "അസിം മുനീര്",
+      "term": "തമിഴ് നാട്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "കേരള",
+      "term": "கடன்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "adelaide united vs macarthur",
+      "term": "motorola edge 70 pro launch date",
       "summary": "",
-      "aza_category": "Fashion & Style"
+      "aza_category": "Designer Spotlight"
     }
   ],
   "tracked_keywords": [

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T08:55:48.745186+00:00",
+  "generated_at": "2026-04-19T11:36:30.820334+00:00",
   "owned_count": 10,
   "competitor_count": 21,
   "industry_count": 154,
@@ -8,6 +8,90 @@
     "US": 1791
   },
   "articles": [
+    {
+      "id": "c65257f88a40",
+      "title": "From the Archives: The Lasting Influence of the Beat Generation",
+      "link": "https://www.vogue.com/article/from-the-archives-on-the-road-again",
+      "summary": "The signature pose of the fifties counterculture is back, from goatees to espresso bars to a movie version of Jack Kerouac's classic, but, Tad Friend asks, can the beat ever be the same?",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: From the Archives: The Lasting Influence of the Beat Generation...",
+      "score": 0,
+      "published": "2026-04-19T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fb7cf8df0783",
+      "title": "Dua Lipa and Callum Turner Go on a Very Chic Safari",
+      "link": "https://www.vogue.com/article/dua-lipa-and-callum-turner-go-on-a-very-chic-safari",
+      "summary": "David Attenborough eat your heart out! Having vacationed from Brazil to Ibiza, Dua Lipa and Callum Turner made a South African safari their latest stylish stop-off.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Dua Lipa and Callum Turner Go on a Very Chic Safari...",
+      "score": 0,
+      "published": "2026-04-19T10:42:46+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9acf6fb40871",
+      "title": "How Cooking With My Kid Cemented My Eating Disorder Recovery",
+      "link": "https://www.vogue.com/article/how-cooking-with-my-kid-cemented-my-eating-disorder-recovery",
+      "summary": "I like to think I’m over the notion of reparenting, but cooking with my kid makes it clear I’m reparenting myself, or at least validating the adult I’ve become: namely, a recovered perfectionist.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: How Cooking With My Kid Cemented My Eating Disorder Recovery...",
+      "score": 0,
+      "published": "2026-04-19T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "40de2742fa57",
+      "title": "How to Style Butter Yellow—The Shade We’re Melting for This Spring",
+      "link": "https://www.vogue.com/article/butter-yellow-outfits",
+      "summary": "Butter yellow is a top trending shade for spring—here are 9 butter yellow outfits to try this season, from dresses to tonal separates.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How to Style Butter Yellow—The Shade We’re Melting for This Spring...",
+      "score": 5,
+      "published": "2026-04-19T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b4479bcde76c",
+      "title": "The 20 Best Airbnbs in Sicily, From Historic Villas to Seaside Rooftops",
+      "link": "https://www.vogue.com/article/best-airbnbs-in-sicily",
+      "summary": "Planning a trip to the ancient island? These are the best Airbnbs in Sicily—including spots in Noto, Taormina, Palermo, and more.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The 20 Best Airbnbs in Sicily, From Historic Villas to Seaside Rooftop...",
+      "score": 0,
+      "published": "2026-04-19T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3acef8d2c2d0",
+      "title": "JLaw Just Styled The Row’s Viral Flip Flops With the Anti-Jeans Trend I Never Expected Her to Wear",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/floral-trousers-the-row-flip-flops-outfit-jennifer-lawrence-2026",
+      "summary": "Spring-ready.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-04-19T09:59:41+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "f51775acd1dd",
       "title": "Spring Jackets Look Great With Jeans, But Go Even Better With These Chic Dress Styles",
@@ -79,20 +163,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b2fe24c5b6a5",
-      "title": "FYI: This Is the Chicest Way to Wear a Skirt in 2026",
-      "link": "https://www.whowhatwear.com/fashion/trends/skirt-suit-trend-2026",
-      "summary": "Just ask Gucci, Tom Ford, The Row, Celine, and more.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: FYI: This Is the Chicest Way to Wear a Skirt in 2026...",
-      "score": 1,
-      "published": "2026-04-19T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "bdc9293fc3f5",
       "title": "These Highly Specific Festival Trends Were Impossible to Ignore at Revolve Festival",
       "link": "https://www.whowhatwear.com/fashion/vacation/revolve-festival-trends-2026",
@@ -103,6 +173,20 @@
       "aza_category": "Celebrity Style",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
+      "published": "2026-04-19T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b2fe24c5b6a5",
+      "title": "FYI: This Is the Chicest Way to Wear a Skirt in 2026",
+      "link": "https://www.whowhatwear.com/fashion/trends/skirt-suit-trend-2026",
+      "summary": "Just ask Gucci, Tom Ford, The Row, Celine, and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: FYI: This Is the Chicest Way to Wear a Skirt in 2026...",
+      "score": 1,
       "published": "2026-04-19T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -485,20 +569,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a5bf89a41e88",
-      "title": "Hold the Blue Jeans—These Petite-Girl-Approved Colour Trend Feel Much More Spring 2026",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/petite-white-jeans-silver-heels-outfit-nicola-coughlan-2026",
-      "summary": "An instant upgrade.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-04-18T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c3cf5bf98a29",
       "title": "Not Skinny, Not Wide-Leg—These Are the M&S Jeans Chic Women Will Be Wearing With Blouses All Spring",
       "link": "https://www.whowhatwear.com/fashion/shopping/marks-and-spencer-barrel-leg-jeans",
@@ -509,6 +579,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
+      "published": "2026-04-18T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a5bf89a41e88",
+      "title": "Hold the Blue Jeans—These Petite-Girl-Approved Colour Trend Feel Much More Spring 2026",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/petite-white-jeans-silver-heels-outfit-nicola-coughlan-2026",
+      "summary": "An instant upgrade.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
       "published": "2026-04-18T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -551,6 +635,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
+      "published": "2026-04-18T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "090afb592680",
+      "title": "7 Fashion People Share the Chicest Gifts They're Buying This Mother's Day",
+      "link": "https://www.whowhatwear.com/fashion/shopping/mothers-day-gift-guide-2026",
+      "summary": "Get inspired.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 7 Fashion People Share the Chicest Gifts They're Buying This Mother's ...",
+      "score": 1,
       "published": "2026-04-18T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -607,20 +705,6 @@
       "aza_category": "Designer Spotlight",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
-      "published": "2026-04-18T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "090afb592680",
-      "title": "7 Fashion People Share the Chicest Gifts They're Buying This Mother's Day",
-      "link": "https://www.whowhatwear.com/fashion/shopping/mothers-day-gift-guide-2026",
-      "summary": "Get inspired.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 7 Fashion People Share the Chicest Gifts They're Buying This Mother's ...",
-      "score": 1,
       "published": "2026-04-18T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1031,48 +1115,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c76cb056ebf9",
-      "title": "No Sandals in Sight: In NYC, This Is the Trendy Shoe People Are Wearing With Dresses and Skirts",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/glove-flats-trend-katie-holmes",
-      "summary": "No flip-flops on the sidewalk for Katie Holmes.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-04-17T18:16:27+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2d6c1fcc43e2",
-      "title": "Natalie Portman Is Pregnant With Her Third Child",
-      "link": "https://www.vogue.com/article/natalie-portman-is-pregnant-with-her-third-child",
-      "summary": "“I’m just very grateful,” the actor Natalie Portman said of becoming pregnant again at 44. “I know it’s such a privilege and a miracle.”",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Natalie Portman Is Pregnant With Her Third Child...",
-      "score": 0,
-      "published": "2026-04-17T18:13:56+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ddc5050e5688",
-      "title": "8 Engagement Photo Outfit Ideas for Every Type of Bride",
-      "link": "https://www.vogue.com/article/engagement-photo-outfit-ideas",
-      "summary": "Newly engaged? Whatever you choose to wear in your photos should feel worthy of such a momentous occasion. Shop engagement photo outfit ideas ahead.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: 8 Engagement Photo Outfit Ideas for Every Type of Bride — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-04-17T18:05:25+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c65d872cc151",
       "title": "Olivia Rodrigo Seemingly Pays Homage to Jane Birkin in Her New “Drop Dead” Music Video",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71052700/olivia-rodrigo-outfit-jane-birkin-reference-dress-drop-dead-music-video/",
@@ -1084,20 +1126,6 @@
       "angle": "Fashion Intelligence: Olivia Rodrigo Seemingly Pays Homage to Jane Birkin in Her New “Drop D...",
       "score": 1,
       "published": "2026-04-17T17:56:55+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d171990c301e",
-      "title": "The Best Dermaplaning Tools for a Flawless Makeup Base",
-      "link": "https://www.vogue.com/article/dermaplaning-tools",
-      "summary": "Experts weigh in on what to look for in the best dermaplaning tools and how to properly use them for brows, the upper-lip area, and more.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Best Dermaplaning Tools for a Flawless Makeup Base...",
-      "score": 0,
-      "published": "2026-04-17T17:48:19+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1168,34 +1196,6 @@
       "angle": "Fashion Intelligence: EXCLUSIVE: Natalie Portman Feels “Lucky” and “Grateful” to Be Welcomin...",
       "score": 0,
       "published": "2026-04-17T16:56:58+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "682a89a06ea1",
-      "title": "Rosé Had Fun Dripping in Diamonds for the Tiffany & Co. Blue Book Gala",
-      "link": "https://www.vogue.com/slideshow/rose-tiffany-and-co-blue-book-event-diary",
-      "summary": "“The more and more I get into fashion and dressing myself, I think I’m gravitating towards classic and timeless pieces,” Rosé says of her latest glamorous look.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Rosé Had Fun Dripping in Diamonds for the Tiffany & Co. Blue Book Gala...",
-      "score": 2,
-      "published": "2026-04-17T16:55:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ca4288463433",
-      "title": "Olivia Rodrigo’s “Drop Dead” Music Video Is Jam-Packed With Fashion References",
-      "link": "https://www.vogue.com/article/olivia-rodrigos-drop-dead-music-video-is-jam-packed-with-fashion-references",
-      "summary": "Do Olivia Rodrigo’s nods to Marie Antoinette and Jane Birkin hint at what’s to come from her third album, ‘you seem pretty sad for a girl so in love?’",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Olivia Rodrigo’s “Drop Dead” Music Video Is Jam-Packed With Fashion Re...",
-      "score": 1,
-      "published": "2026-04-17T16:09:58+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2601,54 +2601,54 @@
   ],
   "trends": [
     {
-      "term": "নরেন্দ্র মোদী",
+      "term": "वरुण चक्रवर्ती",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ramayana",
+      "term": "sa-w vs indw",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "കുംഭമേള",
+      "term": "elena rybakina",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ചൈന",
+      "term": "hyderabad weather",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "coventry city football",
+      "term": "anil agarwal",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "lottery sambad result",
+      "term": "glory",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ચોમાસું",
+      "term": "क्रिस गेल",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "തമിഴ് നാട്",
+      "term": "आम्रपाली दुबे",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "கடன்",
+      "term": "ന്യൂസ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "motorola edge 70 pro launch date",
+      "term": "tata sierra",
       "summary": "",
-      "aza_category": "Designer Spotlight"
+      "aza_category": "Fashion & Style"
     }
   ],
   "tracked_keywords": [

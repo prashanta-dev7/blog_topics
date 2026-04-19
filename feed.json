@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T11:36:26.981402+00:00",
+  "generated_at": "2026-04-19T04:45:44.527746+00:00",
   "owned_count": 10,
   "competitor_count": 21,
   "industry_count": 160,
@@ -9,17 +9,241 @@
   },
   "articles": [
     {
-      "id": "0c9d163b89c2",
-      "title": "Emilio Pucci Spring 2026 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2026-ready-to-wear/emilio-pucci",
-      "summary": "",
-      "source": "Vogue US",
+      "id": "bb88858d1c52",
+      "title": "These 5 Outfits Prove That Fashion's Favourite \"Ugly\" Shoe Looks So Stylish with Denim",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/jeans-and-birkenstock-outfits",
+      "summary": "An easy pairing.",
+      "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Emilio Pucci Spring 2026 Ready-to-Wear...",
+      "angle": "Fashion Intelligence: These 5 Outfits Prove That Fashion's Favourite \"Ugly\" Shoe Looks So St...",
+      "score": 2,
+      "published": "2026-04-19T04:20:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fdfca5659eae",
+      "title": "Meryl Streep’s Latest Style Streak Offers Up Two Different Takes on the Spring Coat",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a71060895/meryl-streep-spring-style-streak-green-polka-dot-coat-vinyl-trench/",
+      "summary": "Polka dot or vinyl, take your pick",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Meryl Streep’s Latest Style Streak Offers Up Two Different Takes on th...",
       "score": 1,
-      "published": "2026-04-18T11:34:11+00:00",
+      "published": "2026-04-18T20:01:46+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e4e9ab13bb47",
+      "title": "Everything Meghan Markle Wore on Her Australia Visit With Prince Harry",
+      "link": "https://www.vogue.com/slideshow/meghan-markle-australia-tour-2026-fashion",
+      "summary": "In Australia for a four-day tour with Prince Harry, the Duchess of Sussex brought her pared-back tour wardrobe—paying special attention to Australian brands.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-04-18T18:51:35+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5695f2f192e0",
+      "title": "Michelle Obama’s 1930s-Inspired Floral Skirt Is a Work of Art",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a71060701/michelle-obama-white-tee-tory-burch-floral-slip-skirt-spring-look/",
+      "summary": "She gives it the perfect springtime treatment with a white tee",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Michelle Obama’s 1930s-Inspired Floral Skirt Is a Work of Art...",
+      "score": 0,
+      "published": "2026-04-18T18:31:25+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "985c0b7f685a",
+      "title": "The Best Celebrity Coachella Outfits of 2026 So Far: Katseye, Ethel Cain & More",
+      "link": "https://www.vogue.com/slideshow/best-celebrity-coachella-outfits-2026-weekend-2",
+      "summary": "From the headliners to the VIP guests, Coachella is always a star-studded affair. See the best sightings and fashions from the 2026 music festival here.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-04-18T17:47:35+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cc8ad4721cd0",
+      "title": "Congress mentioned 59 times, women barely: Kharge slams PM's address to nation",
+      "link": "https://www.indiatoday.in/india/story/pm-modis-speech-sparks-political-clash-after-womens-bill-defeat-congress-hits-back-2898331-2026-04-18?utm_source=rss",
+      "summary": "Congress mentioned 59 times, women barely: Kharge slams PM's address to nation",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Congress mentioned 59 times, women barely: Kharge slams PM's address t...",
+      "score": 1,
+      "published": "2026-04-18T17:20:21+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "debd8f8953de",
+      "title": "Natalie Portman’s New Chapter of Maternity Style Includes a 1970s Hermès Cape Coat",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a71060272/natalie-portman-maternity-style-vintage-hermes-cape-coat-photos/",
+      "summary": "She is welcoming her first child with Tanguy Destable",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Natalie Portman’s New Chapter of Maternity Style Includes a 1970s Herm...",
+      "score": 1,
+      "published": "2026-04-18T16:18:24+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "93bb9cadd964",
+      "title": "Dior Fashioned Ethel Cain a “Haunted” Dress for Coachella",
+      "link": "https://www.vogue.com/article/ethel-cain-custom-dior-coachella-2026",
+      "summary": "Last weekend, Ethel Cain hit the Coachella stage in couture overalls. This weekend, Jonathan Anderson helped her do a complete 180.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Dior Fashioned Ethel Cain a “Haunted” Dress for Coachella...",
+      "score": 3,
+      "published": "2026-04-18T15:13:24+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "36b98364b684",
+      "title": "Kylie Jenner Teases Her Latest Khy Collection With a Pair of Yellow Jeans",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a71060152/kylie-jenner-teases-new-khy-collection-faded-yellow-jeans-coachella-weekend-2/",
+      "summary": "She kicks off Coachella Weekend 2 with a sneak peak at the denim line",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-04-18T15:08:47+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e39abc888814",
+      "title": "You May Disagree, But It Girls Think This Pretty Shoe Trend Looks Chicer With Jeans Than Mesh Flats",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/baggy-jeans-navy-flats-outfit-laura-harrier",
+      "summary": "Spotted in NYC.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-04-18T14:26:28+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "364f1e3e2374",
+      "title": "Madonna Joins Sabrina Carpenter for a Surprise Coachella Performance",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a71059988/madonna-joins-sabrina-carpenter-surprise-coachella-performance/",
+      "summary": "In a look pulled straight from her 2006 festival set",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Madonna Joins Sabrina Carpenter for a Surprise Coachella Performance...",
+      "score": 0,
+      "published": "2026-04-18T14:12:58+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8f92a10ee50d",
+      "title": "Bindi, tilak, hijab all welcome: Lenskart releases new style guide after backlash",
+      "link": "https://www.indiatoday.in/india/story/lenskart-apologises-after-backlash-introduces-inclusive-store-policy-on-religious-symbols-2898276-2026-04-18?utm_source=rss",
+      "summary": "Bindi, tilak, hijab all welcome: Lenskart releases new style guide after backlash",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-04-18T14:10:12+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "66fbc5d4f2b4",
+      "title": "Retail pioneer Joan Burstein has died, aged 100",
+      "link": "https://www.vogue.com/article/retail-pioneer-joan-burstein-has-died-aged-100",
+      "summary": "She transformed British retail with her boutique store Browns, championing young designers and international names – from John Galliano and Paul Smith to Missoni and Giorgio Armani.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Retail pioneer Joan Burstein has died, aged 100...",
+      "score": 1,
+      "published": "2026-04-18T13:58:01+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9bf27aacb437",
+      "title": "A Full-Circle Moment for Designer Daniella Kallmeyer at the Martha Graham Dance Company’s 100th Anniversary Gala",
+      "link": "https://www.vogue.com/article/daniella-kallmeyer-costumes-martha-graham-100th-anniversary-gala",
+      "summary": "For Daniella Kallmeyer, designing costumes for the stage felt like a culmination of many of her life's interests—one of them being an appreciation of Martha Graham from a young age.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: A Full-Circle Moment for Designer Daniella Kallmeyer at the Martha Gra...",
+      "score": 1,
+      "published": "2026-04-18T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "87871f0789c3",
+      "title": "Recreating the Energy of an English Pub in New York City? It’s Harder Than You’d Think",
+      "link": "https://www.vogue.com/article/deans-soho-restaurant-english-pub-interiors",
+      "summary": "Here’s how cofounders Jess Shadbolt and Annie Shi worked with designer Jason Chen to bring the interiors of their buzzy new English pub-inspired joint Dean’s in SoHo to life.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Recreating the Energy of an English Pub in New York City? It’s Harder ...",
+      "score": 1,
+      "published": "2026-04-18T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "af08d5787db4",
+      "title": "Ripped Jeans Are Trending—It Girls in Paris and Oslo Are Wearing Them Like This in 2026",
+      "link": "https://www.whowhatwear.com/fashion/denim/ripped-jeans-outfits-2026",
+      "summary": "Ripped Jeans Are Trending—It Girls in Paris and Oslo Are Wearing Them Like This in 2026",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-04-18T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b74f5613789a",
+      "title": "ICYMI: Samantha Barry Exits 'Glamour,' Inside Diptyque's Candle Redesign & Coachella's 2026 Fashion and Beauty Activations",
+      "link": "https://fashionista.com/2026/04/fashion-news-you-need-to-know-april-18",
+      "summary": "A must-read roundup of our most popular stories of the week.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: ICYMI: Samantha Barry Exits 'Glamour,' Inside Diptyque's Candle Redesi...",
+      "score": 2,
+      "published": "2026-04-18T12:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -149,20 +373,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e33538b3bcf2",
-      "title": "PM Modi will address the nation at 8.30 pm, a day after women's quota bill defeat",
-      "link": "https://www.indiatoday.in/india/story/pm-modi-will-address-the-nation-today-at-830-pm-a-day-after-womens-quota-bill-defeat-2898132-2026-04-18?utm_source=rss",
-      "summary": "PM Modi will address the nation at 8.30 pm, a day after women's quota bill defeat",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: PM Modi will address the nation at 8.30 pm, a day after women's quota ...",
-      "score": 1,
-      "published": "2026-04-18T08:58:14+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7916fcad1c3e",
       "title": "Sarah Pidgeon Is in Full '90s Minimalism Mode in This CBK-Approved Spring Dress Trend",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/sarah-pidgeon-knit-dress-knee-high-boots-outfit-2026",
@@ -219,16 +429,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0d1ff56ae0eb",
-      "title": "The Cult Tory Burch Shoe Every Fashion Person Is Wearing in 2026",
-      "link": "https://www.whowhatwear.com/fashion/luxury/tory-burch-romy-sport-mary-jane",
-      "summary": "Along with other designer Mary Jane sneakers.",
+      "id": "050023618886",
+      "title": "Stovepipe Jeans Are The Style of the Season—5 Sandals That Actually Look Good With Them",
+      "link": "https://www.whowhatwear.com/sandals-to-wear-with-stovepipe-jeans",
+      "summary": "Only the best made the cut.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
       "published": "2026-04-18T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -243,6 +453,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: 7 Fashion People Share the Chicest Gifts They're Buying This Mother's ...",
       "score": 1,
+      "published": "2026-04-18T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "11ab7e87edee",
+      "title": "The Best White Tops to Wear With Your Jeans This Spring, Period",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-white-tops-to-wear-with-jeans",
+      "summary": "There's a look for every style sensibility.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best White Tops to Wear With Your Jeans This Spring, Period...",
+      "score": 2,
       "published": "2026-04-18T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -275,30 +499,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "11ab7e87edee",
-      "title": "The Best White Tops to Wear With Your Jeans This Spring, Period",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-white-tops-to-wear-with-jeans",
-      "summary": "There's a look for every style sensibility.",
+      "id": "0d1ff56ae0eb",
+      "title": "The Cult Tory Burch Shoe Every Fashion Person Is Wearing in 2026",
+      "link": "https://www.whowhatwear.com/fashion/luxury/tory-burch-romy-sport-mary-jane",
+      "summary": "Along with other designer Mary Jane sneakers.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best White Tops to Wear With Your Jeans This Spring, Period...",
-      "score": 2,
-      "published": "2026-04-18T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "050023618886",
-      "title": "Stovepipe Jeans Are The Style of the Season—5 Sandals That Actually Look Good With Them",
-      "link": "https://www.whowhatwear.com/sandals-to-wear-with-stovepipe-jeans",
-      "summary": "Only the best made the cut.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
+      "aza_category": "Designer Spotlight",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
       "published": "2026-04-18T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -370,20 +580,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 4,
       "published": "2026-04-18T02:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f66e98fef4df",
-      "title": "Pune airport runway opens for flights after shutdown due to IAF jet's hard landing",
-      "link": "https://www.indiatoday.in/india/story/pune-airport-runway-shut-after-incident-of-hard-landing-of-an-indian-air-force-jet-flights-diverted-2898014-2026-04-18?utm_source=rss",
-      "summary": "Pune airport runway opens for flights after shutdown due to IAF jet's hard landing",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-04-18T01:41:15+00:00",
       "discovered_via": "feed"
     },
     {
@@ -510,20 +706,6 @@
       "angle": "Fashion Intelligence: How to Style a T-Shirt and Jeans Like the Fashion Crowd...",
       "score": 4,
       "published": "2026-04-17T21:16:07+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "67848fe04aad",
-      "title": "2 arrested over Vishu poster of eatery showing Lord Krishna with non-veg dish",
-      "link": "https://www.indiatoday.in/india/story/two-arrested-over-vishu-poster-of-eatery-showing-lord-krishna-with-non-veg-dish-2898008-2026-04-18?utm_source=rss",
-      "summary": "2 arrested over Vishu poster of eatery showing Lord Krishna with non-veg dish",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: 2 arrested over Vishu poster of eatery showing Lord Krishna with non-v...",
-      "score": 1,
-      "published": "2026-04-17T21:15:05+00:00",
       "discovered_via": "feed"
     },
     {
@@ -933,20 +1115,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5adbe8ffd8f2",
-      "title": "A Night for Culture, Community, and Cause at The Bronx Museum’s Spring Gala and Art Auction",
-      "link": "https://www.vogue.com/slideshow/bronx-museum-spring-gala-2026",
-      "summary": "Mickalene Thomas, Ella Emhoff, Danielle Falls, rapper and actor Joey Bada$$, Bronx Borough President Vanessa L. Gibson, and Michael McGinnis were among those who came out for the celebration, which honored artist Awol Erizku, cultural patron Lois Plehn, and KidSuper designer and artist Colm Dillane.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: A Night for Culture, Community, and Cause at The Bronx Museum’s Spring...",
-      "score": 1,
-      "published": "2026-04-17T16:06:42+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "99fc462748b9",
       "title": "What to Read After You Finish Margo’s Got Money Troubles",
       "link": "https://www.harpersbazaar.com/culture/art-books-music/g70928585/books-like-margos-got-money-troubles/",
@@ -975,20 +1143,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e8e2d1e084d1",
-      "title": "Daniel Roseberry Plays Tour Guide at the V&A Museum’s Schiaparelli Exhibit",
-      "link": "https://www.vogue.com/article/objects-of-affection-schiaparelli-exhibition",
-      "summary": "British Vogue’s Chioma Nnadi joined Schiaparelli creative director Daniel Roseberry for a walk-through of their favorite pieces in our latest installment of “Objects of Affection.”",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Daniel Roseberry Plays Tour Guide at the V&A Museum’s Schiaparelli Exh...",
-      "score": 0,
-      "published": "2026-04-17T16:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "43b786ae5cad",
       "title": "It Girls in L.A. and NYC Are Wearing This \"Boring\" Shirt Trend With Jeans and Trousers",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/blue-button-down-shirt-trend-2026-celebrities",
@@ -1000,20 +1154,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
       "published": "2026-04-17T15:33:03+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "39ddfb631e6f",
-      "title": "‘I Think New York Is Absolutely Ready’: Gwyneth Paltrow on Bringing Goop Kitchen to the East Coast",
-      "link": "https://www.vogue.com/article/gwyneth-paltrow-goop-kitchen-new-york-interview",
-      "summary": "The fast-casual, clean-food concept that runs adjacent to Paltrow’s Goop debuts its first NYC outpost next week in Midtown West—and there are several more Goop Kitchens to come.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: ‘I Think New York Is Absolutely Ready’: Gwyneth Paltrow on Bringing Go...",
-      "score": 0,
-      "published": "2026-04-17T15:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1056,34 +1196,6 @@
       "angle": "Fashion Intelligence: Nicole Richie Is a Serious Vintage Collector, But She's Not Afraid to ...",
       "score": 1,
       "published": "2026-04-17T14:56:30+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4c08851d3d3c",
-      "title": "Tiffany & Co. Brought an Indoor Garden—and a Surprise Mariah Carey Concert—to Manhattan for the Blue Book Gala",
-      "link": "https://www.vogue.com/slideshow/tiffany-blue-book-collection-gala-2026",
-      "summary": "Teyana Taylor, Connor Storrie, Naomi Watts, Amanda Seyfried, Gabrielle Union, Dwyane Wade, Rosé, Greta Lee, and Rosie Huntington-Whitely were among those who attended the black tie gala at Park Avenue Armory.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Tiffany & Co. Brought an Indoor Garden—and a Surprise Mariah Carey Con...",
-      "score": 0,
-      "published": "2026-04-17T14:53:36+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "60fa97435741",
-      "title": "Leather, Denim, Suede? Margot Robbie Is Anti-Boho Chic for Summer",
-      "link": "https://www.vogue.com/article/margot-robbie-is-anti-boho-chic-for-summer",
-      "summary": "So much for boho chic: Margot Robbie was photographed on a summer trip to Saint-Tropez, but dressed as if she was attending an Oasis concert in the depths of winter.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Leather, Denim, Suede? Margot Robbie Is Anti-Boho Chic for Summer...",
-      "score": 1,
-      "published": "2026-04-17T14:27:09+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1325,34 +1437,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d6715240feb2",
-      "title": "Mark My Words: The Most Elegant Women Will Be Wearing This Scent for Summer",
-      "link": "https://www.whowhatwear.com/beauty/fragrance/phlur-honey-moon-perfume-review",
-      "summary": "Sweet, subtle and delicate.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-04-17T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "14610d64477c",
-      "title": "You May Disagree, But We Think These 7 Colour Trends Are \"Dated\" in Spring 2026",
-      "link": "https://www.whowhatwear.com/fashion/spring/dated-spring-colour-trends-2026",
-      "summary": "Plus, the seven we'll be wearing instead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-04-17T05:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f6309d3cc4f7",
       "title": "Carey Mulligan’s Tangerine Set From Colleen Allen Is Just Too Good",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71041118/carey-mulligan-colleen-allen-set-beef-season-two-screening-nyc-red-carpet-photos/",
@@ -1535,20 +1619,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9f25e1380880",
-      "title": "Katie Holmes Brightens Up a White Tee With a Fabulous Two-Tone Maxi Skirt",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a71040582/katie-holmes-white-t-shirt-two-tone-blue-red-maxi-skirt/",
-      "summary": "And the coolest pearl necklace",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Katie Holmes Brightens Up a White Tee With a Fabulous Two-Tone Maxi Sk...",
-      "score": 0,
-      "published": "2026-04-16T17:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "425a4e6e55f4",
       "title": "Must Read: Stella McCartney Announces Second Collaboration With H&M, Victoria Beckham Talks New Gap Collection and Business Growth",
       "link": "https://fashionista.com/2026/04/stella-mccartney-hm-collaboration-2026",
@@ -1560,62 +1630,6 @@
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 1,
       "published": "2026-04-16T16:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "754f6fd41b85",
-      "title": "Hermès Dedicates A Space in Their Upper East Side Boutique to The Horizons Metier",
-      "link": "https://www.harpersbazaar.com/fashion/a71030383/hermes-horizons-metier-new-york-store-installation/",
-      "summary": "Could we interest you in a bespoke surfboard? What about a custom foosball table?",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Hermès Dedicates A Space in Their Upper East Side Boutique to The Hori...",
-      "score": 0,
-      "published": "2026-04-16T16:01:43+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "30ad8ae0ef4b",
-      "title": "Here Are all the Looks Duchess Meghan Has Worn During Her Australia Tour",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a71014800/all-the-outfits-meghan-markle-australia-tour/",
-      "summary": "Plus, a matching moment or two with Prince Harry",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Here Are all the Looks Duchess Meghan Has Worn During Her Australia To...",
-      "score": 0,
-      "published": "2026-04-16T15:56:30+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "025fdbed99f6",
-      "title": "What Happens When Women With ADHD Get Married?",
-      "link": "https://www.harpersbazaar.com/culture/features/a71015815/adhd-women-marriage/",
-      "summary": "The expectations of being a wife can clash with the abilities of neurodivergent women",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: What Happens When Women With ADHD Get Married?...",
-      "score": 0,
-      "published": "2026-04-16T15:52:35+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0fbff87704b3",
-      "title": "Alex Mill and J.Press Have Made the Perfect Rugby Shirt",
-      "link": "https://www.harpersbazaar.com/fashion/trends/a71017952/jpress-alex-mill-collection/",
-      "summary": "The second drop from Alex Mill x J.Press has arrived. Shop spring-ready rugbies, cable-knit V-neck sweaters, and more.",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Alex Mill and J.Press Have Made the Perfect Rugby Shirt...",
-      "score": 0,
-      "published": "2026-04-16T15:35:39+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2235,20 +2249,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a91879759cb0",
-      "title": "Must Read: Victoria's Secret Fashion Show Launches Model Search, Saks Global Secures $500 Million in Exit Financing",
-      "link": "https://fashionista.com/2026/04/victorias-secret-fashion-show-launches-model-open-casting-call-2026",
-      "summary": "Plus, Saie and Sephora partner on Planet Beautiful 2026.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 4,
-      "published": "2026-04-03T16:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "5fe2e6faa42d",
       "title": "Vinisha Gandhi’s Melbourne Magic: From Dancefloor Sparks to Red Lehenga Bliss!",
       "link": "https://blog.kalkifashion.com/vinisha-gandhis-melbourne-magic-from-dancefloor-sparks-to-red-lehenga-bliss/",
@@ -2685,52 +2685,52 @@
   ],
   "trends": [
     {
-      "term": "महंगाई भत्ता",
+      "term": "fbi director kash patel",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cricbuzz live score",
+      "term": "डीज़ल",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "जितेश शर्मा",
+      "term": "आज का तापमान",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "jitesh sharma",
+      "term": "open",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ತುಟ್ಟಿಭತ್ಯೆ",
+      "term": "ఇషాన్ కిషన్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "सोमी अली",
+      "term": "काव्या मारन",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "রাশিয়া",
+      "term": "indian air force",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "allan border",
+      "term": "auckland fc vs central coast mariners",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "live score ipl",
+      "term": "gold price today",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "जापान",
+      "term": "शिक्षक",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

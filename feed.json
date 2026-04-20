@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T09:59:59.348076+00:00",
+  "generated_at": "2026-04-20T12:05:44.945619+00:00",
   "owned_count": 10,
   "competitor_count": 21,
   "industry_count": 156,
@@ -8,6 +8,104 @@
     "US": 1791
   },
   "articles": [
+    {
+      "id": "d792709601ac",
+      "title": "I Work in Fashion—These Are the Stylish Pieces I Always Pack for a Warm-Weather Vacation",
+      "link": "https://www.whowhatwear.com/fashion/shopping/packing-warm-weather-vacation",
+      "summary": "Easy and chic outfit formulas.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Work in Fashion—These Are the Stylish Pieces I Always Pack for a War...",
+      "score": 2,
+      "published": "2026-04-20T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6699e237959b",
+      "title": "I Know You're a Fashion Person If You Wear These Two Specific Colors Together",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/tracee-ellis-ross-color-combo-spring-2026",
+      "summary": "It's a clash that's a match.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Know You're a Fashion Person If You Wear These Two Specific Colors T...",
+      "score": 2,
+      "published": "2026-04-20T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4258d919653f",
+      "title": "This Cult Milan Design Studio Introduces Its First Design Collaborations During Salone del Mobile",
+      "link": "https://www.vogue.com/article/casa-milana-beni-rugs-laguna-b-glassware",
+      "summary": "During Milan Design Week, the couple behind Casa Milana is introducing a capsule collection of rugs with Beni, ritualistic glassware by Laguna~B, and new pieces by Mario Milana.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: This Cult Milan Design Studio Introduces Its First Design Collaboratio...",
+      "score": 1,
+      "published": "2026-04-20T11:42:22+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "66b665d9998d",
+      "title": "Victoria Beckham on Her Collaboration with Gap",
+      "link": "https://www.vogue.com/article/victoria-beckham-gap-collaboration",
+      "summary": "Ahead of Victoria Beckham’s Gap collection launch, the designer speaks with Vogue about the inspiration behind the designs—available to shop on April 24.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Victoria Beckham on Her Collaboration with Gap...",
+      "score": 3,
+      "published": "2026-04-20T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0afec6a67c8e",
+      "title": "The Highlights From 080 Barcelona Fashion Week",
+      "link": "https://www.vogue.com/article/all-the-highlights-from-080-barcelona-fashion-week",
+      "summary": "Mark Holgate, an 080 Barcelona Fashion first-timer, weighs in on the week’s standout shows from Adolfo Dominguez, Txell Miras, Doblas, and Dominnico.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: The Highlights From 080 Barcelona Fashion Week...",
+      "score": 2,
+      "published": "2026-04-20T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "715ecd1310c0",
+      "title": "Lip Oils! Lace Shorts! Linens! The Gorgeous Under-$100 Beauty, Fashion, and Home Finds A Shopping Editor Is Eyeing This Month",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-under-100-beauty-fashion-home-finds-2026",
+      "summary": "Basically just my spring wishlist.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Lip Oils! Lace Shorts! Linens! The Gorgeous Under-$100 Beauty, Fashion...",
+      "score": 2,
+      "published": "2026-04-20T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d75b13e62ecc",
+      "title": "Spotted in Montecito: The Sneaker Color Trend That'll Take Off This Summer",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/behati-prinsloo-sneaker-outfit",
+      "summary": "As worn by Behati Prinsloo.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-04-20T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "656215c6f624",
       "title": "It's Official: This Is the 2026 Way to Wear the Biggest Skirt Trend of the Decade",
@@ -527,20 +625,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b2fe24c5b6a5",
-      "title": "FYI: This Is the Chicest Way to Wear a Skirt in 2026",
-      "link": "https://www.whowhatwear.com/fashion/trends/skirt-suit-trend-2026",
-      "summary": "Just ask Gucci, Tom Ford, The Row, Celine, and more.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: FYI: This Is the Chicest Way to Wear a Skirt in 2026...",
-      "score": 1,
-      "published": "2026-04-19T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "bdc9293fc3f5",
       "title": "These Highly Specific Festival Trends Were Impossible to Ignore at Revolve Festival",
       "link": "https://www.whowhatwear.com/fashion/vacation/revolve-festival-trends-2026",
@@ -551,6 +635,20 @@
       "aza_category": "Celebrity Style",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
+      "published": "2026-04-19T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b2fe24c5b6a5",
+      "title": "FYI: This Is the Chicest Way to Wear a Skirt in 2026",
+      "link": "https://www.whowhatwear.com/fashion/trends/skirt-suit-trend-2026",
+      "summary": "Just ask Gucci, Tom Ford, The Row, Celine, and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: FYI: This Is the Chicest Way to Wear a Skirt in 2026...",
+      "score": 1,
       "published": "2026-04-19T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -863,20 +961,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "dfc46c09de07",
-      "title": "After a Hiatus, It's Officially Cool to Wear This \"Dated\" Denim Trend With Heels Again",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/frayed-hem-jeans-trend-anne-hathaway",
-      "summary": "Solidified by Anne Hathaway.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-04-18T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a94c8564214c",
       "title": "Understated, Intentional, Timeless: Your Fashion Guide to Fine Jewelry for Beginners",
       "link": "https://www.whowhatwear.com/fashion/jewelry/best-brands-for-a-fine-jewelry-collection",
@@ -887,6 +971,20 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Understated, Intentional, Timeless: Your Fashion Guide to Fine Jewelry...",
       "score": 1,
+      "published": "2026-04-18T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dfc46c09de07",
+      "title": "After a Hiatus, It's Officially Cool to Wear This \"Dated\" Denim Trend With Heels Again",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/frayed-hem-jeans-trend-anne-hathaway",
+      "summary": "Solidified by Anne Hathaway.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
       "published": "2026-04-18T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -985,62 +1083,6 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
-      "published": "2026-04-18T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "090afb592680",
-      "title": "7 Fashion People Share the Chicest Gifts They're Buying This Mother's Day",
-      "link": "https://www.whowhatwear.com/fashion/shopping/mothers-day-gift-guide-2026",
-      "summary": "Get inspired.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 7 Fashion People Share the Chicest Gifts They're Buying This Mother's ...",
-      "score": 1,
-      "published": "2026-04-18T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "11ab7e87edee",
-      "title": "The Best White Tops to Wear With Your Jeans This Spring, Period",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-white-tops-to-wear-with-jeans",
-      "summary": "There's a look for every style sensibility.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best White Tops to Wear With Your Jeans This Spring, Period...",
-      "score": 2,
-      "published": "2026-04-18T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e06c8d475830",
-      "title": "Goodbye, Basic Outfits—10Elevated Ways Fashion People Are Styling Spring Essentials",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/spring-basics-outfits-2026",
-      "summary": "Easy upgrades to elevate your style.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Goodbye, Basic Outfits—10Elevated Ways Fashion People Are Styling Spri...",
-      "score": 3,
-      "published": "2026-04-18T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0d1ff56ae0eb",
-      "title": "The Cult Tory Burch Shoe Every Fashion Person Is Wearing in 2026",
-      "link": "https://www.whowhatwear.com/fashion/luxury/tory-burch-romy-sport-mary-jane",
-      "summary": "Along with other designer Mary Jane sneakers.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
       "published": "2026-04-18T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1154,48 +1196,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
       "published": "2026-04-17T21:06:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8e5ea4e2e03c",
-      "title": "The ‘Proof’ Is in the Play: Inside the Opening Night of One of Broadway’s Most Anticipated Revivals",
-      "link": "https://www.vogue.com/slideshow/proof-broadway-opening",
-      "summary": "On an unusually hot April day in New York, guests gathered at the Booth Theatre for the opening night of “Proof,” Thomas Kail’s revival of the hit Tony- and Pulitzer Prize–winning play, starring Don Cheadle and Ayo Edebiri.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The ‘Proof’ Is in the Play: Inside the Opening Night of One of Broadwa...",
-      "score": 0,
-      "published": "2026-04-17T21:06:02+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "832c1bf82c2b",
-      "title": "The Youth America Grand Prix Gala United Ballet-Lovers in a Sea of Pink",
-      "link": "https://www.vogue.com/slideshow/youth-america-grand-prix-2026",
-      "summary": "After searching the globe for standout talent ages nine to nineteen, the Youth America Grand Prix returned to New York with the best of the best—young dancers from leading companies around the world poised to share the stage with the “stars of today.”",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The Youth America Grand Prix Gala United Ballet-Lovers in a Sea of Pin...",
-      "score": 0,
-      "published": "2026-04-17T21:01:03+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e8bdde7008e6",
-      "title": "Inside Olympian Anna Hall and NFL Player Darius Slayton’s Wedding at Oheka Castle",
-      "link": "https://www.vogue.com/slideshow/anna-hall-and-darius-slayton-wedding",
-      "summary": "The reigning heptathlon world champion bride’s wedding dreams came to life in a celebration that honored the friends and family who make up the sports power couple’s village.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Inside Olympian Anna Hall and NFL Player Darius Slayton’s Wedding at Oheka Castle — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-04-17T20:31:56+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2571,6 +2571,48 @@
       "discovered_via": "feed"
     },
     {
+      "id": "b05ce72c50f6",
+      "title": "The Complete Guide to Timeless Kundan Jewelry",
+      "link": "https://www.azafashions.com/blog/the-complete-guide-to-timeless-kundan-jewelry/?utm_source=rss&utm_medium=rss&utm_campaign=the-complete-guide-to-timeless-kundan-jewelry",
+      "summary": "Indian&#160;weddings&#160;overflow with vibrant colors, rich fabrics, and spectacular accessories. Among all the beautiful adornments, one specific style of accessory stands out for its royal charm and breathtaking sparkle. Kundan jewelry&#8230; The post The Complete Guide to Timeless Kundan Jewelry appeared first on A",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Fashion Intelligence: The Complete Guide to Timeless Kundan Jewelry...",
+      "score": 3,
+      "published": "2026-04-16T11:05:14+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f5550f5df9fe",
+      "title": "The Ultimate Guide to Bengali Wedding Traditions",
+      "link": "https://www.azafashions.com/blog/the-ultimate-guide-to-bengali-wedding-traditions/?utm_source=rss&utm_medium=rss&utm_campaign=the-ultimate-guide-to-bengali-wedding-traditions",
+      "summary": "Close your eyes and imagine the rich sound of a conch shell echoing through a vibrant courtyard. Picture women creating rhythmic ululation sounds while draped in stunning white&#160;sarees&#160;with deep red&#8230; The post The Ultimate Guide to Bengali Wedding Traditions appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Bridal Edit: The Ultimate Guide to Bengali Wedding Traditions — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-04-16T10:59:48+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "169b0feeaa0b",
+      "title": "The Ultimate Guide to Tulle Fabric in Designer Fashion",
+      "link": "https://www.azafashions.com/blog/the-ultimate-guide-to-tulle-fabric-in-designer-fashion/?utm_source=rss&utm_medium=rss&utm_campaign=the-ultimate-guide-to-tulle-fabric-in-designer-fashion",
+      "summary": "Have you ever wondered what gives a fairytale gown its magical, airy volume? The secret usually lies in a special material called Tulle fabric. Designers across the globe love this&#8230; The post The Ultimate Guide to Tulle Fabric in Designer Fashion appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Ultimate Guide to Tulle Fabric in Designer Fashion...",
+      "score": 3,
+      "published": "2026-04-16T10:53:42+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "809f85f22178",
       "title": "Pearls Just Got a Summer Makeover—Here’s How to Wear Them This Season",
       "link": "https://www.azafashions.com/blog/summer-pearl-styling/?utm_source=rss&utm_medium=rss&utm_campaign=summer-pearl-styling",
@@ -2583,98 +2625,56 @@
       "score": 3,
       "published": "2026-04-15T20:04:00+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "6a204d2779c8",
-      "title": "This Is Your Sign to Finally Invest in a Good Kurta Set for Summers (Sonam Bajwa Said So)",
-      "link": "https://www.azafashions.com/blog/sonam-bajwa-summer-kurta-sets/?utm_source=rss&utm_medium=rss&utm_campaign=sonam-bajwa-summer-kurta-sets",
-      "summary": "There's a certain effortlessness to the way Sonam Bajwa wears a kurta. Not the stiff, occasion-only kind, but the sort that makes you believe she just floated in from a garden, golden-hour light&#8230; The post This Is Your Sign to Finally Invest in a Good Kurta Set for Summers (Sonam Bajwa Said So) appeared first on A",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: This Is Your Sign to Finally Invest in a Good Kurta Set for Summers (S...",
-      "score": 3,
-      "published": "2026-04-15T14:42:08+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5af5cb878e27",
-      "title": "How India is Falling Back in Love with Its Own Fashion",
-      "link": "https://www.azafashions.com/blog/rooted-in-gold-india-fashion-revival/?utm_source=rss&utm_medium=rss&utm_campaign=rooted-in-gold-india-fashion-revival",
-      "summary": "There is a particular kind of power that lives in a handwoven cotton saree, in the clinking of oxidised silver at a woman's wrist, in the precise print of a&#8230; The post How India is Falling Back in Love with Its Own Fashion appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How India is Falling Back in Love with Its Own Fashion...",
-      "score": 2,
-      "published": "2026-04-15T13:46:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b55752eb36d3",
-      "title": "Top 15 Casual Wear Designer Brands to Know Right Now",
-      "link": "https://www.azafashions.com/blog/top-casual-wear-designer-brands/?utm_source=rss&utm_medium=rss&utm_campaign=top-casual-wear-designer-brands",
-      "summary": "Getting dressed for the day is no longer an afterthought. Casual wear has fundamentally shifted from throwing on basic tees to embracing design-led, everyday fashion. As our daily routines evolve,&#8230; The post Top 15 Casual Wear Designer Brands to Know Right Now appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Top 15 Casual Wear Designer Brands to Know Right Now...",
-      "score": 5,
-      "published": "2026-04-15T08:01:17+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "सूर्यकांत",
+      "term": "sridhar vembu",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "efootball",
+      "term": "chhattisgarh",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "west bengal election 2026",
+      "term": "മണ്ണെണ്ണ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಕ್ರಿಕೆಟ್",
+      "term": "brady corporation",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "தேர்தல்",
+      "term": "lee cronin the mummy",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "உதயநிதி ஸ்டாலின்",
+      "term": "கார்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "lyrid meteor shower tonight",
-      "summary": "",
-      "aza_category": "Designer Spotlight"
-    },
-    {
-      "term": "सुप्रिया सुळे",
+      "term": "oneplus nord ce6",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "from season 4 release date episodes",
+      "term": "cohsem exam result",
       "summary": "",
-      "aza_category": "Trend Alert"
+      "aza_category": "Fashion & Style"
     },
     {
-      "term": "trump iran",
+      "term": "physics wallah",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "महंगाई भत्ता कैबिनेट फैसला",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

@@ -1,13 +1,69 @@
 {
-  "generated_at": "2026-04-20T07:17:14.358725+00:00",
+  "generated_at": "2026-04-20T09:59:59.348076+00:00",
   "owned_count": 10,
   "competitor_count": 21,
-  "industry_count": 153,
+  "industry_count": 156,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "656215c6f624",
+      "title": "It's Official: This Is the 2026 Way to Wear the Biggest Skirt Trend of the Decade",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/lace-trimmed-skirt-outfit-2026-zendaya",
+      "summary": "Look no further than the outfit Zendaya just wore.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-04-20T09:15:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "145235322dfd",
+      "title": "I’m a 5'2\" Shopping Editor—This Is the High-Street Brand I Rely on for Spring Chic Dresses",
+      "link": "https://www.whowhatwear.com/fashion/shopping/marks-and-spencer-petite-dresses",
+      "summary": "Petites, rejoice.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I’m a 5'2\" Shopping Editor—This Is the High-Street Brand I Rely on for...",
+      "score": 2,
+      "published": "2026-04-20T09:04:39+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d6d0d765c66c",
+      "title": "When Jeans Feel Too Casual, L.A. It Girls Wear Kylie Jenner's Y2K-Coded Pant Trend",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/kylie-jenner-low-rise-leather-pants",
+      "summary": "She's the king of cool.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-04-20T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9d6620dd7dec",
+      "title": "Congress blames PM for Pak's new branding: 'Dalal' country hosting Iran talks 2.0",
+      "link": "https://www.indiatoday.in/india/story/pakistan-hosts-us-iran-peace-talks-amid-economic-challenges-new-delhi-failure-pm-modi-congress-asim-munir-2898873-2026-04-20?utm_source=rss",
+      "summary": "Congress blames PM for Pak's new branding: 'Dalal' country hosting Iran talks 2.0",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Congress blames PM for Pak's new branding: 'Dalal' country hosting Ira...",
+      "score": 1,
+      "published": "2026-04-20T08:38:24+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "c89aadc5a572",
       "title": "From Runway to Cart: The Top Spring 2026 Runway Looks That Have Finally Hit The Shelves",
@@ -401,20 +457,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f44e9e5c7fdc",
-      "title": "Spotted In London and NYC: The Affordable, Quiet Luxury Handbag Stylish Women Can’t Stop Wearing",
-      "link": "https://www.whowhatwear.com/fashion/shopping/strathberry-kite-hobo-bag",
-      "summary": "The perfect spring carry-all.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-04-19T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f51775acd1dd",
       "title": "Spring Jackets Look Great With Jeans, But Go Even Better With These Chic Dress Styles",
       "link": "https://www.whowhatwear.com/fashion/spring/spring-jackets-to-wear-with-dresses-2026",
@@ -439,6 +481,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
+      "published": "2026-04-19T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f44e9e5c7fdc",
+      "title": "Spotted In London and NYC: The Affordable, Quiet Luxury Handbag Stylish Women Can’t Stop Wearing",
+      "link": "https://www.whowhatwear.com/fashion/shopping/strathberry-kite-hobo-bag",
+      "summary": "The perfect spring carry-all.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
       "published": "2026-04-19T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -471,20 +527,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "bdc9293fc3f5",
-      "title": "These Highly Specific Festival Trends Were Impossible to Ignore at Revolve Festival",
-      "link": "https://www.whowhatwear.com/fashion/vacation/revolve-festival-trends-2026",
-      "summary": "If you want summer fashion inspiration, start here.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-04-19T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b2fe24c5b6a5",
       "title": "FYI: This Is the Chicest Way to Wear a Skirt in 2026",
       "link": "https://www.whowhatwear.com/fashion/trends/skirt-suit-trend-2026",
@@ -495,6 +537,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: FYI: This Is the Chicest Way to Wear a Skirt in 2026...",
       "score": 1,
+      "published": "2026-04-19T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bdc9293fc3f5",
+      "title": "These Highly Specific Festival Trends Were Impossible to Ignore at Revolve Festival",
+      "link": "https://www.whowhatwear.com/fashion/vacation/revolve-festival-trends-2026",
+      "summary": "If you want summer fashion inspiration, start here.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
       "published": "2026-04-19T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -807,20 +863,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a94c8564214c",
-      "title": "Understated, Intentional, Timeless: Your Fashion Guide to Fine Jewelry for Beginners",
-      "link": "https://www.whowhatwear.com/fashion/jewelry/best-brands-for-a-fine-jewelry-collection",
-      "summary": "Back to basics.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Understated, Intentional, Timeless: Your Fashion Guide to Fine Jewelry...",
-      "score": 1,
-      "published": "2026-04-18T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "dfc46c09de07",
       "title": "After a Hiatus, It's Officially Cool to Wear This \"Dated\" Denim Trend With Heels Again",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/frayed-hem-jeans-trend-anne-hathaway",
@@ -831,6 +873,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
+      "published": "2026-04-18T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a94c8564214c",
+      "title": "Understated, Intentional, Timeless: Your Fashion Guide to Fine Jewelry for Beginners",
+      "link": "https://www.whowhatwear.com/fashion/jewelry/best-brands-for-a-fine-jewelry-collection",
+      "summary": "Back to basics.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Understated, Intentional, Timeless: Your Fashion Guide to Fine Jewelry...",
+      "score": 1,
       "published": "2026-04-18T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -863,16 +919,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a5bf89a41e88",
-      "title": "Hold the Blue Jeans—These Petite-Girl-Approved Colour Trend Feel Much More Spring 2026",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/petite-white-jeans-silver-heels-outfit-nicola-coughlan-2026",
-      "summary": "An instant upgrade.",
+      "id": "7916fcad1c3e",
+      "title": "Sarah Pidgeon Is in Full '90s Minimalism Mode in This CBK-Approved Spring Dress Trend",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/sarah-pidgeon-knit-dress-knee-high-boots-outfit-2026",
+      "summary": "So chic.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
+      "score": 2,
       "published": "2026-04-18T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -891,16 +947,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7916fcad1c3e",
-      "title": "Sarah Pidgeon Is in Full '90s Minimalism Mode in This CBK-Approved Spring Dress Trend",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/sarah-pidgeon-knit-dress-knee-high-boots-outfit-2026",
-      "summary": "So chic.",
+      "id": "a5bf89a41e88",
+      "title": "Hold the Blue Jeans—These Petite-Girl-Approved Colour Trend Feel Much More Spring 2026",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/petite-white-jeans-silver-heels-outfit-nicola-coughlan-2026",
+      "summary": "An instant upgrade.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
+      "score": 1,
       "published": "2026-04-18T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -985,20 +1041,6 @@
       "aza_category": "Designer Spotlight",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
-      "published": "2026-04-18T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3040997fa5b7",
-      "title": "From Dôen to Mango, Here's Everything I'm Buying for Spring 2026",
-      "link": "https://www.whowhatwear.com/fashion/shopping/fashion-editor-shopping-list-spring-2026",
-      "summary": "For fans of understated and elegant style.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: From Dôen to Mango, Here's Everything I'm Buying for Spring 2026...",
-      "score": 1,
       "published": "2026-04-18T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -2151,6 +2193,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "2742eecff35d",
+      "title": "Why Designers Are Turning Back to Block Print Sarees",
+      "link": "https://blog.kalkifashion.com/why-designers-are-turning-back-to-block-print-sarees/",
+      "summary": "We have often heard the famous quotation “old is gold”, and we can see it come true in our love for handblock print sarees, one of the oldest textile art forms. Intricate patterns created on fabrics using hand-carved wooden blocks and natural dyes are spectacular works of art. Handblock print sarees and Handblock print",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Why Designers Are Turning Back to Block Print Sarees...",
+      "score": 2,
+      "published": "2026-04-20T07:23:42+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "44d3ddcac2a0",
       "title": "1 Minute Saree Hack Is Changing Wedding Fashion Forever",
       "link": "https://blog.kalkifashion.com/1-minute-saree-hack-is-changing-wedding-fashion-forever/",
@@ -2347,20 +2403,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8e5f2e81b398",
-      "title": "How to Choose a Groom Outfit That Matches the Bride’s Lehenga",
-      "link": "https://blog.kalkifashion.com/how-to-choose-a-groom-outfit-that-matches-the-brides-lehenga/",
-      "summary": "A wedding is the union of two people who choose to be a part of each other’s lives through thick and thin and to be each other’s better halves at all times. What better way to begin this journey than by opting for wedding outfits that complement each other? The bride and groom walking down [&#8230;] The post How to Cho",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: How to Choose a Groom Outfit That Matches the Bride’s Lehenga — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-04-11T04:50:08+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "97f1cc3398d7",
       "title": "Pathani Suit vs Kurta Pajama: What Should Men Wear for Weddings and Festivals?",
       "link": "https://www.indianclothstore.com/blog/pathani-suit-vs-kurta-pajama-wedding-india",
@@ -2504,7 +2546,7 @@
       "id": "3fb2bc159671",
       "title": "From Runways to Cricket Stands — Samreen Kaur’s Style Is Having a Moment & We’re Here for It",
       "link": "https://www.azafashions.com/blog/from-runways-to-cricket-stands-samreen-kaurs-style-is-having-a-moment-were-here-for-it/?utm_source=rss&utm_medium=rss&utm_campaign=from-runways-to-cricket-stands-samreen-kaurs-style-is-having-a-moment-were-here-for-it",
-      "summary": "She walked into Wankhede Stadium on a Thursday evening, and the cameras couldn't look away — not just because of who she was waiting for, but because of how she looked doing&#8230; The post From Runways to Cricket Stands — Samreen Kaur&#8217;s Style Is Having a Moment &#038; We&#8217;re Here for It appeared first on Az",
+      "summary": "She walked into Wankhede Stadium on a Thursday evening, and the cameras&#160;couldn't&#160;look away — not just because of who she was waiting for, but because of how she looked doing&#8230; The post From Runways to Cricket Stands — Samreen Kaur&#8217;s Style Is Having a Moment &#038; We&#8217;re Here for It appeared f",
       "source": "AZA Blog",
       "tier": "owned",
       "is_competitor": false,
@@ -2587,52 +2629,52 @@
   ],
   "trends": [
     {
-      "term": "anish giri",
+      "term": "सूर्यकांत",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "fitbit air",
+      "term": "efootball",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "nifty 50 sensex today",
+      "term": "west bengal election 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "प्रयागराज जंक्शन",
+      "term": "ಕ್ರಿಕೆಟ್",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hs result 2026 date assam ahsec",
+      "term": "தேர்தல்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bse sensex today",
+      "term": "உதயநிதி ஸ்டாலின்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "nahid rana",
+      "term": "lyrid meteor shower tonight",
+      "summary": "",
+      "aza_category": "Designer Spotlight"
+    },
+    {
+      "term": "सुप्रिया सुळे",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ब्रॉक लेसनर",
+      "term": "from season 4 release date episodes",
       "summary": "",
-      "aza_category": "Fashion & Style"
+      "aza_category": "Trend Alert"
     },
     {
-      "term": "తిరుమల",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "bombay high court",
+      "term": "trump iran",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

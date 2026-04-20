@@ -1,13 +1,69 @@
 {
-  "generated_at": "2026-04-20T04:52:03.131941+00:00",
+  "generated_at": "2026-04-20T07:17:14.358725+00:00",
   "owned_count": 10,
   "competitor_count": 21,
-  "industry_count": 154,
+  "industry_count": 153,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "c89aadc5a572",
+      "title": "From Runway to Cart: The Top Spring 2026 Runway Looks That Have Finally Hit The Shelves",
+      "link": "https://www.whowhatwear.com/fashion/luxury/spring-2026-runway-collections",
+      "summary": "That runway look burned in the back of your mind? It’s finally available to shop.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: From Runway to Cart: The Top Spring 2026 Runway Looks That Have Finall...",
+      "score": 1,
+      "published": "2026-04-20T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0c673394f91f",
+      "title": "I'm a Shopping Director, and I Talk About Bags a Lot—These Are the Gorgeous Styles I Care About",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-designer-handbags-spring-2026",
+      "summary": "The Row! Chanel! Loewe!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I'm a Shopping Director, and I Talk About Bags a Lot—These Are the Gor...",
+      "score": 1,
+      "published": "2026-04-20T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d579ed2a5cb3",
+      "title": "Chic, Expensive-Looking But Not What You Think—“Ladylike” Dressing Is the Spring Trend to Know",
+      "link": "https://www.whowhatwear.com/fashion/ladylike-dressing",
+      "summary": "Less trad wife, more real life.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-04-20T06:45:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f824196a05ad",
+      "title": "Thar, gun, cash: Amravati sex scandal accused's luxury lifestyle under probe",
+      "link": "https://www.indiatoday.in/india/story/thar-gun-cash-iphones-amravati-sex-scandal-accused-ayan-ahmed-luxury-lifestyle-viral-videos-reels-financial-racket-sit-probe-2898750-2026-04-20?utm_source=rss",
+      "summary": "Thar, gun, cash: Amravati sex scandal accused's luxury lifestyle under probe",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Thar, gun, cash: Amravati sex scandal accused's luxury lifestyle under...",
+      "score": 2,
+      "published": "2026-04-20T05:05:34+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "60f51d203acc",
       "title": "Euphoria Can’t Escape the Male Gaze",
@@ -345,6 +401,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "f44e9e5c7fdc",
+      "title": "Spotted In London and NYC: The Affordable, Quiet Luxury Handbag Stylish Women Can’t Stop Wearing",
+      "link": "https://www.whowhatwear.com/fashion/shopping/strathberry-kite-hobo-bag",
+      "summary": "The perfect spring carry-all.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-04-19T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "f51775acd1dd",
       "title": "Spring Jackets Look Great With Jeans, But Go Even Better With These Chic Dress Styles",
       "link": "https://www.whowhatwear.com/fashion/spring/spring-jackets-to-wear-with-dresses-2026",
@@ -369,20 +439,6 @@
       "aza_category": "Fashion & Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
-      "published": "2026-04-19T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f44e9e5c7fdc",
-      "title": "Spotted In London and NYC: The Affordable, Quiet Luxury Handbag Stylish Women Can’t Stop Wearing",
-      "link": "https://www.whowhatwear.com/fashion/shopping/strathberry-kite-hobo-bag",
-      "summary": "The perfect spring carry-all.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
       "published": "2026-04-19T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -415,20 +471,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b2fe24c5b6a5",
-      "title": "FYI: This Is the Chicest Way to Wear a Skirt in 2026",
-      "link": "https://www.whowhatwear.com/fashion/trends/skirt-suit-trend-2026",
-      "summary": "Just ask Gucci, Tom Ford, The Row, Celine, and more.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: FYI: This Is the Chicest Way to Wear a Skirt in 2026...",
-      "score": 1,
-      "published": "2026-04-19T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "bdc9293fc3f5",
       "title": "These Highly Specific Festival Trends Were Impossible to Ignore at Revolve Festival",
       "link": "https://www.whowhatwear.com/fashion/vacation/revolve-festival-trends-2026",
@@ -439,6 +481,20 @@
       "aza_category": "Celebrity Style",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
+      "published": "2026-04-19T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b2fe24c5b6a5",
+      "title": "FYI: This Is the Chicest Way to Wear a Skirt in 2026",
+      "link": "https://www.whowhatwear.com/fashion/trends/skirt-suit-trend-2026",
+      "summary": "Just ask Gucci, Tom Ford, The Row, Celine, and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: FYI: This Is the Chicest Way to Wear a Skirt in 2026...",
+      "score": 1,
       "published": "2026-04-19T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -807,16 +863,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7916fcad1c3e",
-      "title": "Sarah Pidgeon Is in Full '90s Minimalism Mode in This CBK-Approved Spring Dress Trend",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/sarah-pidgeon-knit-dress-knee-high-boots-outfit-2026",
-      "summary": "So chic.",
+      "id": "a5bf89a41e88",
+      "title": "Hold the Blue Jeans—These Petite-Girl-Approved Colour Trend Feel Much More Spring 2026",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/petite-white-jeans-silver-heels-outfit-nicola-coughlan-2026",
+      "summary": "An instant upgrade.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
+      "score": 1,
       "published": "2026-04-18T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -835,16 +891,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a5bf89a41e88",
-      "title": "Hold the Blue Jeans—These Petite-Girl-Approved Colour Trend Feel Much More Spring 2026",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/petite-white-jeans-silver-heels-outfit-nicola-coughlan-2026",
-      "summary": "An instant upgrade.",
+      "id": "7916fcad1c3e",
+      "title": "Sarah Pidgeon Is in Full '90s Minimalism Mode in This CBK-Approved Spring Dress Trend",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/sarah-pidgeon-knit-dress-knee-high-boots-outfit-2026",
+      "summary": "So chic.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
+      "score": 2,
       "published": "2026-04-18T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -863,57 +919,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3040997fa5b7",
-      "title": "From Dôen to Mango, Here's Everything I'm Buying for Spring 2026",
-      "link": "https://www.whowhatwear.com/fashion/shopping/fashion-editor-shopping-list-spring-2026",
-      "summary": "For fans of understated and elegant style.",
+      "id": "050023618886",
+      "title": "Stovepipe Jeans Are The Style of the Season—5 Sandals That Actually Look Good With Them",
+      "link": "https://www.whowhatwear.com/sandals-to-wear-with-stovepipe-jeans",
+      "summary": "Only the best made the cut.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: From Dôen to Mango, Here's Everything I'm Buying for Spring 2026...",
-      "score": 1,
-      "published": "2026-04-18T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0d1ff56ae0eb",
-      "title": "The Cult Tory Burch Shoe Every Fashion Person Is Wearing in 2026",
-      "link": "https://www.whowhatwear.com/fashion/luxury/tory-burch-romy-sport-mary-jane",
-      "summary": "Along with other designer Mary Jane sneakers.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-04-18T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e06c8d475830",
-      "title": "Goodbye, Basic Outfits—10Elevated Ways Fashion People Are Styling Spring Essentials",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/spring-basics-outfits-2026",
-      "summary": "Easy upgrades to elevate your style.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Goodbye, Basic Outfits—10Elevated Ways Fashion People Are Styling Spri...",
-      "score": 3,
-      "published": "2026-04-18T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "11ab7e87edee",
-      "title": "The Best White Tops to Wear With Your Jeans This Spring, Period",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-white-tops-to-wear-with-jeans",
-      "summary": "There's a look for every style sensibility.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best White Tops to Wear With Your Jeans This Spring, Period...",
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-04-18T07:00:00+00:00",
       "discovered_via": "feed"
@@ -933,87 +947,59 @@
       "discovered_via": "feed"
     },
     {
-      "id": "050023618886",
-      "title": "Stovepipe Jeans Are The Style of the Season—5 Sandals That Actually Look Good With Them",
-      "link": "https://www.whowhatwear.com/sandals-to-wear-with-stovepipe-jeans",
-      "summary": "Only the best made the cut.",
+      "id": "11ab7e87edee",
+      "title": "The Best White Tops to Wear With Your Jeans This Spring, Period",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-white-tops-to-wear-with-jeans",
+      "summary": "There's a look for every style sensibility.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best White Tops to Wear With Your Jeans This Spring, Period...",
       "score": 2,
       "published": "2026-04-18T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "d83e7e2e803f",
-      "title": "Obviously, H&M Has Pretty Spring Dresses—These Styles Will Sell Out First",
-      "link": "https://www.whowhatwear.com/fashion/dresses/best-hm-spring-dresses-2026",
-      "summary": "Good luck choosing just one.",
+      "id": "e06c8d475830",
+      "title": "Goodbye, Basic Outfits—10Elevated Ways Fashion People Are Styling Spring Essentials",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/spring-basics-outfits-2026",
+      "summary": "Easy upgrades to elevate your style.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Obviously, H&M Has Pretty Spring Dresses—These Styles Will Sell Out Fi...",
-      "score": 2,
-      "published": "2026-04-18T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a6f32b694698",
-      "title": "The Most Stylish Women Over 50 Are Wearing These 5 Spring Fashion Trends in 2026",
-      "link": "https://www.whowhatwear.com/fashion/trends/spring-2026-fashion-trends-for-over-50s",
-      "summary": "They know best.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "angle": "Fashion Intelligence: Goodbye, Basic Outfits—10Elevated Ways Fashion People Are Styling Spri...",
       "score": 3,
-      "published": "2026-04-18T05:00:00+00:00",
+      "published": "2026-04-18T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "6cc0c61d0a25",
-      "title": "British Brand, Damson Madder Just Launched Their New Spring Collection—Here's What All the Cool Girls Will Be Wearing",
-      "link": "https://www.whowhatwear.com/fashion/shopping/damson-madder-spring-summer-collection-2026",
-      "summary": "Unique pieces to add to your wardrobe.",
+      "id": "0d1ff56ae0eb",
+      "title": "The Cult Tory Burch Shoe Every Fashion Person Is Wearing in 2026",
+      "link": "https://www.whowhatwear.com/fashion/luxury/tory-burch-romy-sport-mary-jane",
+      "summary": "Along with other designer Mary Jane sneakers.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Designer Spotlight",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 4,
-      "published": "2026-04-18T04:32:35+00:00",
+      "score": 3,
+      "published": "2026-04-18T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "53566be57286",
-      "title": "5 Spring Trends This Chic Parisian Mom Borrows From Her Daughters",
-      "link": "https://www.whowhatwear.com/fashion/spring/elisabeth-bento-spring-2026-french-fashion-trends",
-      "summary": "Style runs in the family.",
+      "id": "3040997fa5b7",
+      "title": "From Dôen to Mango, Here's Everything I'm Buying for Spring 2026",
+      "link": "https://www.whowhatwear.com/fashion/shopping/fashion-editor-shopping-list-spring-2026",
+      "summary": "For fans of understated and elegant style.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-04-18T04:00:15+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "901e5307d599",
-      "title": "Celebs in Their 50s and 70s Are Styling Jeans With This Flat Shoe Trend",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/meryl-streep-jennifer-aniston-clog-trend",
-      "summary": "It's maybe actually groundbreaking.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: From Dôen to Mango, Here's Everything I'm Buying for Spring 2026...",
       "score": 1,
-      "published": "2026-04-18T04:00:00+00:00",
+      "published": "2026-04-18T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2601,52 +2587,52 @@
   ],
   "trends": [
     {
-      "term": "iex",
+      "term": "anish giri",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sbi share",
+      "term": "fitbit air",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "dr reddy share price",
+      "term": "nifty 50 sensex today",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bse sensex today live",
+      "term": "प्रयागराज जंक्शन",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "itbp",
+      "term": "hs result 2026 date assam ahsec",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "मुकेश अंबानी",
+      "term": "bse sensex today",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ultratech cement share price",
+      "term": "nahid rana",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "latest news in hindi",
+      "term": "ब्रॉक लेसनर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "suzlon share price",
+      "term": "తిరుమల",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "adani power share price",
+      "term": "bombay high court",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

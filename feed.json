@@ -1,13 +1,41 @@
 {
-  "generated_at": "2026-04-21T06:59:51.176204+00:00",
+  "generated_at": "2026-04-21T09:27:54.644560+00:00",
   "owned_count": 10,
   "competitor_count": 21,
-  "industry_count": 154,
+  "industry_count": 155,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "307879cf4b16",
+      "title": "Experts and My Pinterest Feed Agree: These 5 Lip Trends Are Dominating Spring 2026",
+      "link": "https://www.whowhatwear.com/beauty/makeup/spring-lip-trends-2026",
+      "summary": "Fresh and dreamy.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-04-21T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "197a685cb1ac",
+      "title": "Not Linen Pants, Not Jeans: The Chic Pant Trend Fashion People Come Back to Every Spring",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/capri-pant-trend-spring-2026",
+      "summary": "Fashion girls can't get enough of the bottoms.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-04-21T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "42f52dd89a5d",
       "title": "*Not* Boots and Ballet Flats—J.Law’s Chicest Looks Rely On These 5 Major Trainer Trends",
@@ -891,20 +919,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d75b13e62ecc",
-      "title": "Spotted in Montecito: The Sneaker Color Trend That'll Take Off This Summer",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/behati-prinsloo-sneaker-outfit",
-      "summary": "As worn by Behati Prinsloo.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-04-20T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "715ecd1310c0",
       "title": "Lip Oils! Lace Shorts! Linens! The Gorgeous Under-$100 Beauty, Fashion, and Home Finds a Shopping Editor Is Eyeing This Month",
       "link": "https://www.whowhatwear.com/fashion/shopping/best-under-100-beauty-fashion-home-finds-2026",
@@ -915,6 +929,20 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Lip Oils! Lace Shorts! Linens! The Gorgeous Under-$100 Beauty, Fashion...",
       "score": 2,
+      "published": "2026-04-20T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d75b13e62ecc",
+      "title": "Spotted in Montecito: The Sneaker Color Trend That'll Take Off This Summer",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/behati-prinsloo-sneaker-outfit",
+      "summary": "As worn by Behati Prinsloo.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
       "published": "2026-04-20T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1185,6 +1213,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "c50668720645",
+      "title": "I'm Temporarily Retiring My Trench Coat and Wearing These 5 Alternatives Instead",
+      "link": "https://www.whowhatwear.com/fashion/outerwear/trench-coat-alternatives",
+      "summary": "You've got options.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-04-19T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "f44e9e5c7fdc",
       "title": "Spotted In London and NYC: The Affordable, Quiet Luxury Handbag Stylish Women Can’t Stop Wearing",
       "link": "https://www.whowhatwear.com/fashion/shopping/strathberry-kite-hobo-bag",
@@ -1209,20 +1251,6 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Spring Jackets Look Great With Jeans, But Go Even Better With These Ch...",
       "score": 3,
-      "published": "2026-04-19T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c50668720645",
-      "title": "I'm Temporarily Retiring My Trench Coat and Wearing These 5 Alternatives Instead",
-      "link": "https://www.whowhatwear.com/fashion/outerwear/trench-coat-alternatives",
-      "summary": "You've got options.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
       "published": "2026-04-19T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1255,20 +1283,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "bdc9293fc3f5",
-      "title": "These Highly Specific Festival Trends Were Impossible to Ignore at Revolve Festival",
-      "link": "https://www.whowhatwear.com/fashion/vacation/revolve-festival-trends-2026",
-      "summary": "If you want summer fashion inspiration, start here.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-04-19T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b2fe24c5b6a5",
       "title": "FYI: This Is the Chicest Way to Wear a Skirt in 2026",
       "link": "https://www.whowhatwear.com/fashion/trends/skirt-suit-trend-2026",
@@ -1283,17 +1297,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "909b9d5876e3",
-      "title": "Minimalist and Eclectic Dressers Rarely Agree, But Both Know This \"Dated\" Blouse Pairs Best With Jeans, Linen and Skirts",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/scarf-blouse-outfits",
-      "summary": "The chicest spring top.",
+      "id": "bdc9293fc3f5",
+      "title": "These Highly Specific Festival Trends Were Impossible to Ignore at Revolve Festival",
+      "link": "https://www.whowhatwear.com/fashion/vacation/revolve-festival-trends-2026",
+      "summary": "If you want summer fashion inspiration, start here.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Minimalist and Eclectic Dressers Rarely Agree, But Both Know This \"Dat...",
-      "score": 1,
-      "published": "2026-04-19T06:45:00+00:00",
+      "aza_category": "Celebrity Style",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-04-19T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2601,52 +2615,52 @@
   ],
   "trends": [
     {
-      "term": "bengaluru",
+      "term": "ইনিংস",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ராதிகா சரத்குமார்",
+      "term": "lahore qalandars vs quetta gladiators",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sbi yono",
+      "term": "नमिता थापर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बीबीसी",
+      "term": "bmw m5",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "rwanda women vs usa women",
+      "term": "रिलायंस पावर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "আসিম মুনির",
+      "term": "cancer horoscope today 21 april 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "rose",
+      "term": "पाऊस",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "শতাব্দী রায়",
+      "term": "anushka sharma virat kohli vrindavan",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "reid wiseman",
+      "term": "gta v",
       "summary": "",
-      "aza_category": "Occasion Dressing"
+      "aza_category": "Fashion & Style"
     },
     {
-      "term": "dinamalar",
+      "term": "देवेंद्र फडणवीस",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

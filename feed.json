@@ -1,13 +1,55 @@
 {
-  "generated_at": "2026-04-21T04:43:14.352391+00:00",
+  "generated_at": "2026-04-21T06:59:51.176204+00:00",
   "owned_count": 10,
   "competitor_count": 21,
-  "industry_count": 155,
+  "industry_count": 154,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "42f52dd89a5d",
+      "title": "*Not* Boots and Ballet Flats—J.Law’s Chicest Looks Rely On These 5 Major Trainer Trends",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/jennifer-lawrence-trainer-trends-2026",
+      "summary": "She's one step ahead.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-04-21T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9c049d2115dc",
+      "title": "Dress Season Is Officially Here—5 Spring Dress Trends Zara, H&M and COS Have Already Perfected",
+      "link": "https://www.whowhatwear.com/fashion/dresses/zara-hm-cos-dress-trends",
+      "summary": "From classic shirt dresses to playful prints.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-04-21T05:55:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3a664649d95c",
+      "title": "Out of All the New Designer Bags, Stylish Women Keep Coming Back to This Timeless, Anti-Trend Style",
+      "link": "https://www.whowhatwear.com/fashion/handbags/loewe-flamenco-clutch-bag",
+      "summary": "A modern classic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-04-21T05:45:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "2da99558afee",
       "title": "Who Will Win the Supplement Battle?",
@@ -639,20 +681,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "552592b917b6",
-      "title": "Items From the Estate of Diane Keaton Are Headed to Bonhams in June",
-      "link": "https://www.vogue.com/article/diane-keaton-bonhams-announcement",
-      "summary": "Personal effects of the actor and aesthete including clothing, furniture, books, and artworks will be divided into four landmark sales in New York and Los Angeles.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Items From the Estate of Diane Keaton Are Headed to Bonhams in June...",
-      "score": 0,
-      "published": "2026-04-20T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "347e9de94a3f",
       "title": "Grace Coddington Will Release Her Next Book, ‘Grace: Now,’ This Fall",
       "link": "https://www.vogue.com/article/grace-now-phaidon-announcement",
@@ -663,6 +691,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Grace Coddington Will Release Her Next Book, ‘Grace: Now,’ This Fall...",
       "score": 1,
+      "published": "2026-04-20T14:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "552592b917b6",
+      "title": "Items From the Estate of Diane Keaton Are Headed to Bonhams in June",
+      "link": "https://www.vogue.com/article/diane-keaton-bonhams-announcement",
+      "summary": "Personal effects of the actor and aesthete including clothing, furniture, books, and artworks will be divided into four landmark sales in New York and Los Angeles.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Items From the Estate of Diane Keaton Are Headed to Bonhams in June...",
+      "score": 0,
       "published": "2026-04-20T14:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -919,20 +961,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c89aadc5a572",
-      "title": "From Runway to Cart: The Top Spring 2026 Runway Looks That Have Finally Hit the Shelves",
-      "link": "https://www.whowhatwear.com/fashion/luxury/spring-2026-runway-collections",
-      "summary": "That runway look burned in the back of your mind? It's finally available to shop.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: From Runway to Cart: The Top Spring 2026 Runway Looks That Have Finall...",
-      "score": 1,
-      "published": "2026-04-20T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "0c673394f91f",
       "title": "I'm a Shopping Director, and I Talk About Bags a Lot—These Are the Gorgeous Styles I Care About",
       "link": "https://www.whowhatwear.com/fashion/shopping/best-designer-handbags-spring-2026",
@@ -942,6 +970,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I'm a Shopping Director, and I Talk About Bags a Lot—These Are the Gor...",
+      "score": 1,
+      "published": "2026-04-20T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c89aadc5a572",
+      "title": "From Runway to Cart: The Top Spring 2026 Runway Looks That Have Finally Hit the Shelves",
+      "link": "https://www.whowhatwear.com/fashion/luxury/spring-2026-runway-collections",
+      "summary": "That runway look burned in the back of your mind? It's finally available to shop.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: From Runway to Cart: The Top Spring 2026 Runway Looks That Have Finall...",
       "score": 1,
       "published": "2026-04-20T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1143,20 +1185,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c50668720645",
-      "title": "I'm Temporarily Retiring My Trench Coat and Wearing These 5 Alternatives Instead",
-      "link": "https://www.whowhatwear.com/fashion/outerwear/trench-coat-alternatives",
-      "summary": "You've got options.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-04-19T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f44e9e5c7fdc",
       "title": "Spotted In London and NYC: The Affordable, Quiet Luxury Handbag Stylish Women Can’t Stop Wearing",
       "link": "https://www.whowhatwear.com/fashion/shopping/strathberry-kite-hobo-bag",
@@ -1181,6 +1209,20 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Spring Jackets Look Great With Jeans, But Go Even Better With These Ch...",
       "score": 3,
+      "published": "2026-04-19T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c50668720645",
+      "title": "I'm Temporarily Retiring My Trench Coat and Wearing These 5 Alternatives Instead",
+      "link": "https://www.whowhatwear.com/fashion/outerwear/trench-coat-alternatives",
+      "summary": "You've got options.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
       "published": "2026-04-19T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1255,48 +1297,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4d02bdf4af22",
-      "title": "Zara Just Perfected the Most Elegant Spring Dress Trends—5 Styles That Will Sell Out First",
-      "link": "https://www.whowhatwear.com/fashion/dresses/zara-dress-trends-spring-2026",
-      "summary": "Just in time for the sunshine.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-04-19T05:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bb88858d1c52",
-      "title": "These 5 Outfits Prove That Fashion's Favourite \"Ugly\" Shoe Looks So Stylish with Denim",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/jeans-and-birkenstock-outfits",
-      "summary": "An easy pairing.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: These 5 Outfits Prove That Fashion's Favourite \"Ugly\" Shoe Looks So St...",
-      "score": 2,
-      "published": "2026-04-19T04:20:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1fc9942e746e",
-      "title": "Forget Slips—Olivia Rodrigo Just Wore the \"Dated\" Dress Trend Set to Define Pretty Style in 2026",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/olivia-rodrigo-babydoll-dress-spring-2026",
-      "summary": "Siri, play \"Drop Dead.\"",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-04-19T04:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "fdfca5659eae",
       "title": "Meryl Streep’s Latest Style Streak Offers Up Two Different Takes on the Spring Coat",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71060895/meryl-streep-spring-style-streak-green-polka-dot-coat-vinyl-trench/",
@@ -1350,20 +1350,6 @@
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 1,
       "published": "2026-04-18T15:08:47+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e39abc888814",
-      "title": "You May Disagree, But It Girls Think This Pretty Shoe Trend Looks Chicer With Jeans Than Mesh Flats",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/baggy-jeans-navy-flats-outfit-laura-harrier",
-      "summary": "Spotted in NYC.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-04-18T14:26:28+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2615,52 +2601,52 @@
   ],
   "trends": [
     {
-      "term": "adani enterprises share price",
+      "term": "bengaluru",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bajaj housing finance share",
+      "term": "ராதிகா சரத்குமார்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sbi share price",
+      "term": "sbi yono",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "tata steel share price",
+      "term": "बीबीसी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "nifty 50",
+      "term": "rwanda women vs usa women",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "itc share price",
+      "term": "আসিম মুনির",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bajaj finance share price",
+      "term": "rose",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ashneer grover",
+      "term": "শতাব্দী রায়",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hdfc bank share price",
+      "term": "reid wiseman",
       "summary": "",
-      "aza_category": "Fashion & Style"
+      "aza_category": "Occasion Dressing"
     },
     {
-      "term": "asian paints share price",
+      "term": "dinamalar",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

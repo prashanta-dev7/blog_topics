@@ -1,13 +1,125 @@
 {
-  "generated_at": "2026-04-21T09:27:54.644560+00:00",
+  "generated_at": "2026-04-21T12:00:53.772673+00:00",
   "owned_count": 10,
   "competitor_count": 21,
-  "industry_count": 155,
+  "industry_count": 156,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "cc01b1e25209",
+      "title": "Why Summer’s Beloved Net Bag Should Be Your Spring Staple—And How",
+      "link": "https://www.vogue.com/article/how-to-style-net-bags",
+      "summary": "Designers revisited the humble net bag this spring, elevating it in lively color and intricate leather handicraft—shop and style out our favorites ones.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Why Summer’s Beloved Net Bag Should Be Your Spring Staple—And How...",
+      "score": 3,
+      "published": "2026-04-21T11:25:41+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7a7123c7a49b",
+      "title": "Kate Moss’s Airport Look Includes the One Shoe Trend I Personally Would Never Fly In",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/heeled-boots-wide-leg-trousers-airport-outfit-kate-moss-2026",
+      "summary": "Practical? No. Chic? Absolutely.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-04-21T11:12:01+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bd3d74792656",
+      "title": "On the Podcast: Adrien Brody and Tessa Thompson on Making Their Broadway Debuts in ‘The Fear of 13’",
+      "link": "https://www.vogue.com/article-on-the-podcast-adrien-brody-and-tessa-thompson",
+      "summary": "“The Run-Through” continues its spring theater coverage this week!",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 0,
+      "published": "2026-04-21T10:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2539e11f4f4a",
+      "title": "Cecilie Bahnsen and Uniqlo Have a Meet-Cute With New LifeWear Collaboration",
+      "link": "https://www.vogue.com/article/cecilie-bahnsen-and-uniqlo-have-a-meet-cute-with-new-lifewear-collaboration",
+      "summary": "The development of this summery collection for women and girls was, Bahnsen said, a “constant balance between romance and minimalism.”",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Cecilie Bahnsen and Uniqlo Have a Meet-Cute With New LifeWear Collabor...",
+      "score": 2,
+      "published": "2026-04-21T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "152963a232d3",
+      "title": "10 Best Peptide Lip Treatments for a Smoother, Fuller Pout",
+      "link": "https://www.vogue.com/article/peptide-lip-treatments",
+      "summary": "Do peptides really work on the lips? Two experts weigh in on the peptide lip treatment trend, plus the best formulas by Rhode, U Beauty, Eadem and more to shop.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 10 Best Peptide Lip Treatments for a Smoother, Fuller Pout...",
+      "score": 2,
+      "published": "2026-04-21T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1f0a3b814604",
+      "title": "Plot Twist: This Color Trend Is Quietly Replacing Gold and Silver as Fashion's Metallic of Choice",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/kerry-washington-copper-color-trend",
+      "summary": "Let Kerry Washington show you how it's done.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-04-21T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "615cd41c8a1d",
+      "title": "I Started Using This Chanel Concealer Daily, and Yes, My Skin Looks Better (These Other Products Are Also Divine)",
+      "link": "https://www.whowhatwear.com/beauty/makeup/best-chanel-makeup-skincare",
+      "summary": "My beauty routine got an upgrade.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: I Started Using This Chanel Concealer Daily, and Yes, My Skin Looks Be...",
+      "score": 1,
+      "published": "2026-04-21T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b5246c083189",
+      "title": "The Vogue Business People Moves Tracker",
+      "link": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
+      "summary": "Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Vogue Business People Moves Tracker...",
+      "score": 0,
+      "published": "2026-04-21T09:35:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "307879cf4b16",
       "title": "Experts and My Pinterest Feed Agree: These 5 Lip Trends Are Dominating Spring 2026",
@@ -121,6 +233,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "b35b15f86d74",
+      "title": "Buy a Ticket — Vogue Business Global Summit: Chantilly",
+      "link": "https://www.vogue.com/article/buy-a-ticket-vogue-business-global-summit-chantilly",
+      "summary": "Join us in France for the Vogue Business Global Summit: Chantilly in May 2026.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Buy a Ticket — Vogue Business Global Summit: Chantilly...",
+      "score": 0,
+      "published": "2026-04-21T03:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "da23dbdc7af2",
       "title": "UP teen kills brother with scissors for wanting to wear his new shoes",
       "link": "https://www.indiatoday.in/india/story/teen-mahrajganj-uttar-pradesh-younger-brother-scissors-attack-spat-over-new-shoes-fatal-dispute-2899227-2026-04-21?utm_source=rss",
@@ -136,7 +262,7 @@
     },
     {
       "id": "4c9372ec0beb",
-      "title": "I've Done the Research—These Are the Five Accessory Trends French Women are Wearing in Spring 2026",
+      "title": "I've Done the Research—These Are the Five Accessory Trends French Women Are Wearing in Spring 2026",
       "link": "https://www.whowhatwear.com/fashion/trends/french-girl-accessories-spring-2026",
       "summary": "It's all in the finishing touches.",
       "source": "Who What Wear",
@@ -555,20 +681,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b5246c083189",
-      "title": "The Vogue Business People Moves Tracker",
-      "link": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
-      "summary": "Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Vogue Business People Moves Tracker...",
-      "score": 0,
-      "published": "2026-04-20T16:15:35+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "1121dedd4673",
       "title": "5 Small Garden Ideas for Making the Most of Your City Greenscape",
       "link": "https://www.vogue.com/article/small-garden-ideas",
@@ -696,14 +808,14 @@
     },
     {
       "id": "73810985e44f",
-      "title": "Wait, Did Kate Moss Just Bring Back the Jeans and Boots Outfit Formula I Thought We Left in 2015?",
+      "title": "Wait: Did Kate Moss Just Bring Back the Jeans-and-Boot Outfit Formula I Thought We Left in 2015?",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/skinny-jeans-knee-high-boots-outfit-kate-moss-2026",
       "summary": "Retro.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Wait, Did Kate Moss Just Bring Back the Jeans and Boots Outfit Formula...",
+      "angle": "Fashion Intelligence: Wait: Did Kate Moss Just Bring Back the Jeans-and-Boot Outfit Formula ...",
       "score": 1,
       "published": "2026-04-20T14:20:51+00:00",
       "discovered_via": "feed"
@@ -835,16 +947,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7166556d80f3",
-      "title": "Where to Watch the 2026 Met Gala Livestream",
-      "link": "https://www.vogue.com/article/where-to-watch-the-2026-met-gala-livestream",
-      "summary": "Hosts Ashley Graham, La La Anthony, and Cara Delevingne will be talking viewers through all the fun and fashion at the 2026 Met Gala, with Emma Chamberlain reprising her past role as Red Carpet Correspondent.",
-      "source": "Vogue US",
+      "id": "6699e237959b",
+      "title": "I Know You're a Fashion Person If You Wear These 2 Specific Colors Together",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/tracee-ellis-ross-color-combo-spring-2026",
+      "summary": "It's a clash that's a match.",
+      "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Where to Watch the 2026 Met Gala Livestream...",
-      "score": 1,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Know You're a Fashion Person If You Wear These 2 Specific Colors Tog...",
+      "score": 2,
       "published": "2026-04-20T12:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -860,62 +972,6 @@
       "angle": "Fashion Intelligence: I Work in Fashion—These Are the Stylish Pieces I Always Pack for a War...",
       "score": 2,
       "published": "2026-04-20T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6699e237959b",
-      "title": "I Know You're a Fashion Person If You Wear These 2 Specific Colors Together",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/tracee-ellis-ross-color-combo-spring-2026",
-      "summary": "It's a clash that's a match.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Know You're a Fashion Person If You Wear These 2 Specific Colors Tog...",
-      "score": 2,
-      "published": "2026-04-20T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4258d919653f",
-      "title": "This Cult Milan Design Studio Introduces Its First Collaborations During Salone del Mobile",
-      "link": "https://www.vogue.com/article/casa-milana-beni-rugs-laguna-b-glassware",
-      "summary": "During Milan Design Week, the couple behind Casa Milana is introducing a capsule collection of rugs with Beni, ritualistic glassware by Laguna~B, and new pieces by Mario Milana.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: This Cult Milan Design Studio Introduces Its First Collaborations Duri...",
-      "score": 1,
-      "published": "2026-04-20T11:42:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "66b665d9998d",
-      "title": "Victoria Beckham on Her Collaboration with Gap",
-      "link": "https://www.vogue.com/article/victoria-beckham-gap-collaboration",
-      "summary": "Ahead of Victoria Beckham’s Gap collection launch, the designer speaks with Vogue about the inspiration behind the designs—available to shop on April 24.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Victoria Beckham on Her Collaboration with Gap...",
-      "score": 3,
-      "published": "2026-04-20T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0afec6a67c8e",
-      "title": "The Highlights From 080 Barcelona Fashion Week",
-      "link": "https://www.vogue.com/article/all-the-highlights-from-080-barcelona-fashion-week",
-      "summary": "Mark Holgate, an 080 Barcelona Fashion first-timer, weighs in on the week’s standout shows from Adolfo Dominguez, Txell Miras, Doblas, and Dominnico.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: The Highlights From 080 Barcelona Fashion Week...",
-      "score": 2,
-      "published": "2026-04-20T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1028,20 +1084,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-04-20T06:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f1055246f2fe",
-      "title": "Holly Humberstone Was a Goth Pop Princess—With the Wardrobe To Match—at Coachella",
-      "link": "https://www.vogue.com/slideshow/holly-humberstone-coachella-2026-diary",
-      "summary": "British pop star Holly Humberstone returns to Coachella with her second album “Cruel World,” building out a darkly romantic visual universe with Dilara Findikoglu babydolls, Chloé ruffles, and vintage brooches.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Holly Humberstone Was a Goth Pop Princess—With the Wardrobe To Match—a...",
-      "score": 0,
-      "published": "2026-04-20T05:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1213,6 +1255,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "f44e9e5c7fdc",
+      "title": "Spotted in London and NYC: The Affordable Quiet-Luxury Handbag Stylish Women Can’t Stop Wearing",
+      "link": "https://www.whowhatwear.com/fashion/shopping/strathberry-kite-hobo-bag",
+      "summary": "The perfect spring carry-all.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-04-19T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "c50668720645",
       "title": "I'm Temporarily Retiring My Trench Coat and Wearing These 5 Alternatives Instead",
       "link": "https://www.whowhatwear.com/fashion/outerwear/trench-coat-alternatives",
@@ -1223,20 +1279,6 @@
       "aza_category": "Fashion & Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
-      "published": "2026-04-19T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f44e9e5c7fdc",
-      "title": "Spotted In London and NYC: The Affordable, Quiet Luxury Handbag Stylish Women Can’t Stop Wearing",
-      "link": "https://www.whowhatwear.com/fashion/shopping/strathberry-kite-hobo-bag",
-      "summary": "The perfect spring carry-all.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
       "published": "2026-04-19T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1256,7 +1298,7 @@
     },
     {
       "id": "56cb507384f8",
-      "title": "5 \"Dated\" Shoe Trends I Won't Be Wearing In 2026, And the 5 I'm Styling Instead",
+      "title": "5 \"Dated\" Shoe Trends I Won't Be Wearing in 2026, and the 5 I'm Styling Instead",
       "link": "https://www.whowhatwear.com/fashion/trends/dated-spring-shoe-trends-2026",
       "summary": "They're not what you think.",
       "source": "Who What Wear",
@@ -1280,34 +1322,6 @@
       "angle": "Fashion Intelligence: I Never Wear High Heels—7 2-Inch-and-Under Shoes I Wear Instead...",
       "score": 1,
       "published": "2026-04-19T07:05:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b2fe24c5b6a5",
-      "title": "FYI: This Is the Chicest Way to Wear a Skirt in 2026",
-      "link": "https://www.whowhatwear.com/fashion/trends/skirt-suit-trend-2026",
-      "summary": "Just ask Gucci, Tom Ford, The Row, Celine, and more.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: FYI: This Is the Chicest Way to Wear a Skirt in 2026...",
-      "score": 1,
-      "published": "2026-04-19T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bdc9293fc3f5",
-      "title": "These Highly Specific Festival Trends Were Impossible to Ignore at Revolve Festival",
-      "link": "https://www.whowhatwear.com/fashion/vacation/revolve-festival-trends-2026",
-      "summary": "If you want summer fashion inspiration, start here.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-04-19T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2615,52 +2629,52 @@
   ],
   "trends": [
     {
-      "term": "ইনিংস",
+      "term": "asianet news live",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "lahore qalandars vs quetta gladiators",
+      "term": "पप्पू यादव",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "नमिता थापर",
+      "term": "ss516 lottery result",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bmw m5",
+      "term": "earth",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "रिलायंस पावर",
+      "term": "physics wallah",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cancer horoscope today 21 april 2026",
+      "term": "lee cronin the mummy",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "पाऊस",
+      "term": "khanapara teer result today",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "anushka sharma virat kohli vrindavan",
+      "term": "রণবীর সিং",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "gta v",
+      "term": "ಅಭಿಷೇಕ್ ಬಚ್ಚನ್",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "देवेंद्र फडणवीस",
+      "term": "adeeb usmani",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

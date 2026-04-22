@@ -1,13 +1,153 @@
 {
-  "generated_at": "2026-04-22T06:59:13.533084+00:00",
+  "generated_at": "2026-04-22T09:22:12.945561+00:00",
   "owned_count": 10,
   "competitor_count": 21,
-  "industry_count": 158,
+  "industry_count": 157,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "5516876f7e78",
+      "title": "Zara, H&M and COS Called It—These Are The Blouse Trends That Make Every Outfit Instantly Chicer",
+      "link": "https://www.whowhatwear.com/fashion/shopping/zara-hm-cos-blouse-trends-2026",
+      "summary": "Ruffles! Lace! Polka-dots!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-04-22T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "19c650825026",
+      "title": "Stylish Women Have Declared This DeMellier Bag the \"It\" Bag of the Season—And It’s Selling Fast",
+      "link": "https://www.whowhatwear.com/fashion/shopping/demellier-new-york-shoulder-bag",
+      "summary": "The most stylish women already own it.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-04-22T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "694ced3282a0",
+      "title": "I'm a Personal Stylist—These Are the 5 Non-Baggy Pant Styles I Keep Reaching For",
+      "link": "https://www.whowhatwear.com/fashion/pants-trousers/personal-stylist-pant-trends-2026",
+      "summary": "They're lighter, cleaner, and a little more body-skimming.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I'm a Personal Stylist—These Are the 5 Non-Baggy Pant Styles I Keep Re...",
+      "score": 1,
+      "published": "2026-04-22T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "73c43b0e0d12",
+      "title": "Not Paris, Not NYC—Tokyo's Best Celebrity Outfits Are Setting the New Style Agenda",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/best-celebrity-style-outfits-tokyo",
+      "summary": "Sorry, but this is the fashion city to know for celeb style moments.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 4,
+      "published": "2026-04-22T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "769fec8e7050",
+      "title": "If You Want Your Basic Outfits to Look Cool This Spring, Wear This Sock Trend With Them",
+      "link": "https://www.whowhatwear.com/fashion/trends/colorful-sock-trend-spring-2026",
+      "summary": "Trust us. It's a fun addition to an outfit.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-04-22T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4571650dd707",
+      "title": "I'm Shopping for Spring in NYC—Here's What's in My Carts at Revolve, Zara, and H&M",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-basics-zara-revolve-hm-spring-2026",
+      "summary": "Button-downs, capris, midi dresses, and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I'm Shopping for Spring in NYC—Here's What's in My Carts at Revolve, Z...",
+      "score": 1,
+      "published": "2026-04-22T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cd423cd8d57b",
+      "title": "In L.A., Every Fashion Person Is Wearing These Skirt Trends to Look Cool and Current",
+      "link": "https://www.whowhatwear.com/fashion/trends/skirt-trends-los-angeles-spring-2026",
+      "summary": "So long, trousers.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-04-22T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "91e0afb5567d",
+      "title": "From London to L.A., This Pretty Trend Is Dominating Among the Best Dressed Women in Fashion",
+      "link": "https://www.whowhatwear.com/fashion/shopping/lace-trim-trend",
+      "summary": "A must-buy this warm-weather season.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 4,
+      "published": "2026-04-22T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2bbba0d17528",
+      "title": "I Studied Paris Street Style—These French Handbag Brands Are Everywhere",
+      "link": "https://www.whowhatwear.com/fashion/handbags/french-handbag-brands",
+      "summary": "To know these labels is to love them.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: I Studied Paris Street Style—These French Handbag Brands Are Everywher...",
+      "score": 3,
+      "published": "2026-04-22T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "736f9ea77772",
+      "title": "I Just Know the Fashion Crowd Will Want to Mix and Match These New Arrivals From J.Crew, Reformation, and COS",
+      "link": "https://www.whowhatwear.com/fashion/shopping/easy-spring-summer-basics-jcrew-reformation-cos",
+      "summary": "Including the pants everyone is wearing.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Just Know the Fashion Crowd Will Want to Mix and Match These New Arr...",
+      "score": 2,
+      "published": "2026-04-22T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "595ca69a5b13",
       "title": "Everyone Knows ’90s Jeans Are the Best Jeans—5 Trends To Wear for Spring 2026",
@@ -177,20 +317,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6930b856e13a",
-      "title": "Welcome to the Future of AI",
-      "link": "https://www.vogue.com/article/welcome-to-the-future-of-ai",
-      "summary": "A collection of articles and images created using human intelligence.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Welcome to the Future of AI...",
-      "score": 1,
-      "published": "2026-04-22T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "205053dbee6a",
       "title": "Inside Retail’s AI-Enhanced Future",
       "link": "https://www.vogue.com/article/inside-retails-ai-enhanced-future",
@@ -201,6 +327,20 @@
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: Inside Retail’s AI-Enhanced Future...",
       "score": 3,
+      "published": "2026-04-22T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6930b856e13a",
+      "title": "Welcome to the Future of AI",
+      "link": "https://www.vogue.com/article/welcome-to-the-future-of-ai",
+      "summary": "A collection of articles and images created using human intelligence.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Welcome to the Future of AI...",
+      "score": 1,
       "published": "2026-04-22T04:30:00+00:00",
       "discovered_via": "feed"
     },
@@ -1353,20 +1493,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "73810985e44f",
-      "title": "Wait: Did Kate Moss Just Bring Back the Jeans-and-Boot Outfit Formula I Thought We Left in 2015?",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/skinny-jeans-knee-high-boots-outfit-kate-moss-2026",
-      "summary": "Retro.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Wait: Did Kate Moss Just Bring Back the Jeans-and-Boot Outfit Formula ...",
-      "score": 1,
-      "published": "2026-04-20T14:20:51+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b0fbd5c109b7",
       "title": "Katydid: A Texas-Based Line of Playful Fashion and Accessories",
       "link": "https://fashionista.com/2026/04/katydid-a-texas-based-line-of-playful-fashion-and-accessories",
@@ -1378,20 +1504,6 @@
       "angle": "Fashion Intelligence: Katydid: A Texas-Based Line of Playful Fashion and Accessories...",
       "score": 2,
       "published": "2026-04-20T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c218e8192e2a",
-      "title": "Peplums Are Back on Top This Year—Here's the Updated Way to Wear Them in 2026",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/peplum-outfit-ideas",
-      "summary": "Peplums Are Back on Top This Year—Here's the Updated Way to Wear Them in 2026",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Peplums Are Back on Top This Year—Here's the Updated Way to Wear Them ...",
-      "score": 1,
-      "published": "2026-04-20T13:53:34+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1434,132 +1546,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
       "published": "2026-04-20T13:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6699e237959b",
-      "title": "I Know You're a Fashion Person If You Wear These 2 Specific Colors Together",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/tracee-ellis-ross-color-combo-spring-2026",
-      "summary": "It's a clash that's a match.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Know You're a Fashion Person If You Wear These 2 Specific Colors Tog...",
-      "score": 2,
-      "published": "2026-04-20T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d792709601ac",
-      "title": "I Work in Fashion—These Are the Stylish Pieces I Always Pack for a Warm-Weather Vacation",
-      "link": "https://www.whowhatwear.com/fashion/shopping/packing-warm-weather-vacation",
-      "summary": "Easy and chic outfit formulas.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Work in Fashion—These Are the Stylish Pieces I Always Pack for a War...",
-      "score": 2,
-      "published": "2026-04-20T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "715ecd1310c0",
-      "title": "Lip Oils! Lace Shorts! Linens! The Gorgeous Under-$100 Beauty, Fashion, and Home Finds a Shopping Editor Is Eyeing This Month",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-under-100-beauty-fashion-home-finds-2026",
-      "summary": "Basically just my spring wish list.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Lip Oils! Lace Shorts! Linens! The Gorgeous Under-$100 Beauty, Fashion...",
-      "score": 2,
-      "published": "2026-04-20T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d75b13e62ecc",
-      "title": "Spotted in Montecito: The Sneaker Color Trend That'll Take Off This Summer",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/behati-prinsloo-sneaker-outfit",
-      "summary": "As worn by Behati Prinsloo.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-04-20T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "656215c6f624",
-      "title": "It's Official: This Is the 2026 Way to Wear the Biggest Skirt Trend of the Decade",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/lace-trimmed-skirt-outfit-2026-zendaya",
-      "summary": "Look no further than the outfit Zendaya just wore.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-04-20T09:15:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "145235322dfd",
-      "title": "I’m a 5'2\" Shopping Editor—This Is the High-Street Brand I Rely on for Spring Chic Dresses",
-      "link": "https://www.whowhatwear.com/fashion/shopping/marks-and-spencer-petite-dresses",
-      "summary": "Petites, rejoice.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I’m a 5'2\" Shopping Editor—This Is the High-Street Brand I Rely on for...",
-      "score": 2,
-      "published": "2026-04-20T09:04:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d6d0d765c66c",
-      "title": "When Jeans Feel Too Casual, L.A. It Girls Wear Kylie Jenner's Y2K-Coded Pant Trend",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/kylie-jenner-low-rise-leather-pants",
-      "summary": "She's the king of cool.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-04-20T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c89aadc5a572",
-      "title": "From Runway to Cart: The Top Spring 2026 Runway Looks That Have Finally Hit the Shelves",
-      "link": "https://www.whowhatwear.com/fashion/luxury/spring-2026-runway-collections",
-      "summary": "That runway look burned in the back of your mind? It's finally available to shop.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: From Runway to Cart: The Top Spring 2026 Runway Looks That Have Finall...",
-      "score": 1,
-      "published": "2026-04-20T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0c673394f91f",
-      "title": "I'm a Shopping Director, and I Talk About Bags a Lot—These Are the Gorgeous Styles I Care About",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-designer-handbags-spring-2026",
-      "summary": "The Row! Chanel! Loewe!",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I'm a Shopping Director, and I Talk About Bags a Lot—These Are the Gor...",
-      "score": 1,
-      "published": "2026-04-20T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2221,6 +2207,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "940eb5984b1a",
+      "title": "Homa Varmora’s Lehenga Nightmare Turned Royal Dream at Heritage Khirasara Palace",
+      "link": "https://blog.kalkifashion.com/homa-varmoras-lehenga-nightmare-turned-royal-dream-at-heritage-khirasara-palace/",
+      "summary": "Ever hunted for the perfect wedding lehenga only to face a parade of disasters—wrong colors like mismatched red lehenga shades, itchy fabrics, and designer lehenga creators who just don&#8217;t get it? Yeah, we&#8217;ve all been there. But hold onto your dupattas, because Homa Varmora&#8217;s story flips that script in",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Homa Varmora’s Lehenga Nightmare Turned Royal Dream at Heritage Khirasara Palace — A Complete Style Guide",
+      "score": 4,
+      "published": "2026-04-22T07:13:45+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "34d7be8fa381",
       "title": "Before You Buy Your Lehenga, Check This Ahmedabad Store First",
       "link": "https://blog.kalkifashion.com/before-you-buy-your-lehenga-check-this-ahmedabad-store-first/",
@@ -2386,20 +2386,6 @@
       "angle": "Bridal Edit: Pre-Draped Sarees — A Complete Style Guide",
       "score": 4,
       "published": "2026-04-14T04:17:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ec1521a4ec4b",
-      "title": "Customising Your Bridal Lehenga: What You Should Know",
-      "link": "https://blog.kalkifashion.com/customising-your-bridal-lehenga-what-you-should-know/",
-      "summary": "Couples these days are putting their heart and soul into curating a wedding that is not just a ritual but also a fairytale affair. From customised bridal lehengas, unique wedding themes, to personalised gifts, every detail is planned carefully. A customised bridal lehenga speaks volumes about a bride’s personality, whe",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Customising Your Bridal Lehenga — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-04-13T04:46:03+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2657,52 +2643,52 @@
   ],
   "trends": [
     {
-      "term": "moto edge 70 pro",
+      "term": "karachi kings vs peshawar zalmi",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "വിരാട് കോഹ്ലി",
+      "term": "missile",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "world cup 2026",
+      "term": "बांग्लादेश क्रिकेट टीम",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "isro",
+      "term": "upmsp",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ranveer singh farhan akhtar dispute",
+      "term": "kar vs pes",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "அரசாங்கம்",
+      "term": "ന്യൂസ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "irtc",
+      "term": "సాక్షి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "adani power",
+      "term": "മന്ത്രി",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cruise missile",
+      "term": "ఫ్లిప్కార్ట్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sergey brin",
+      "term": "neet mds 2026 city slip",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

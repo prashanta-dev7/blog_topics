@@ -1,25 +1,53 @@
 {
-  "generated_at": "2026-04-22T04:41:26.835721+00:00",
+  "generated_at": "2026-04-22T06:59:13.533084+00:00",
   "owned_count": 10,
   "competitor_count": 21,
-  "industry_count": 157,
+  "industry_count": 158,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
     {
-      "id": "73f32cc0d56b",
-      "title": "Register Now | The Future of AI, Live Webinar",
-      "link": "https://www.vogue.com/article/the-future-of-ai-live-webinar",
-      "summary": "Discover the key findings from our exploration into how AI is reshaping how we shop and how brands can keep up.",
-      "source": "Vogue US",
+      "id": "595ca69a5b13",
+      "title": "Everyone Knows ’90s Jeans Are the Best Jeans—5 Trends To Wear for Spring 2026",
+      "link": "https://www.whowhatwear.com/fashion/denim/90s-jeans-trends-spring-2026",
+      "summary": "So chic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-04-22T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "83e3a97fe64e",
+      "title": "No, Not Mint—The Chic Pastel Nail Shade That's Set to Dominate This Season",
+      "link": "https://www.whowhatwear.com/beauty/nails/pistachio-nail-trend",
+      "summary": "I'm in love.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-04-22T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b964c6f389c4",
+      "title": "I Know You’re a Fashion Person If You’re Wearing One of These Sandal Brands This Summer",
+      "link": "https://www.whowhatwear.com/fashion/shoes/best-sandal-brands-2026",
+      "summary": "From Zara to The Row.",
+      "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Register Now | The Future of AI, Live Webinar...",
-      "score": 1,
-      "published": "2026-04-22T04:30:00+00:00",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-04-22T05:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -79,6 +107,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "73f32cc0d56b",
+      "title": "Register Now | The Future of AI, Live Webinar",
+      "link": "https://www.vogue.com/article/the-future-of-ai-live-webinar",
+      "summary": "Discover the key findings from our exploration into how AI is reshaping how we shop and how brands can keep up.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Register Now | The Future of AI, Live Webinar...",
+      "score": 1,
+      "published": "2026-04-22T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "e5a24cbcfee5",
       "title": "The AI Startups Promising a Sustainable Future for Fashion",
       "link": "https://www.vogue.com/article/the-ai-startups-promising-a-sustainable-future-for-fashion",
@@ -102,6 +144,34 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Where Will AI Take Fashion in 10 Years?...",
+      "score": 2,
+      "published": "2026-04-22T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "056f1ac10754",
+      "title": "Will AI Kill the Creator Economy?",
+      "link": "https://www.vogue.com/article/will-ai-kill-the-creator-economy",
+      "summary": "From deepfakes to AI-enhanced images, AI influencers are on the rise. For now, it won’t replace the human touch.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Will AI Kill the Creator Economy?...",
+      "score": 0,
+      "published": "2026-04-22T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a8335689fcab",
+      "title": "How the AI Race Will Impact the Global Luxury Market",
+      "link": "https://www.vogue.com/article/how-will-the-ai-race-impact-the-global-luxury-market",
+      "summary": "AI is evolving at different speeds across regions, creating fragmented systems that are reshaping consumer expectations — and forcing luxury brands to think carefully about how they use the tech in each market.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: How the AI Race Will Impact the Global Luxury Market...",
       "score": 2,
       "published": "2026-04-22T04:30:00+00:00",
       "discovered_via": "feed"
@@ -131,34 +201,6 @@
       "aza_category": "Designer Spotlight",
       "angle": "Fashion Intelligence: Inside Retail’s AI-Enhanced Future...",
       "score": 3,
-      "published": "2026-04-22T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "056f1ac10754",
-      "title": "Will AI Kill the Creator Economy?",
-      "link": "https://www.vogue.com/article/will-ai-kill-the-creator-economy",
-      "summary": "From deepfakes to AI-enhanced images, AI influencers are on the rise. For now, it won’t replace the human touch.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Will AI Kill the Creator Economy?...",
-      "score": 0,
-      "published": "2026-04-22T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a8335689fcab",
-      "title": "How the AI Race Will Impact the Global Luxury Market",
-      "link": "https://www.vogue.com/article/how-will-the-ai-race-impact-the-global-luxury-market",
-      "summary": "AI is evolving at different speeds across regions, creating fragmented systems that are reshaping consumer expectations — and forcing luxury brands to think carefully about how they use the tech in each market.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: How the AI Race Will Impact the Global Luxury Market...",
-      "score": 2,
       "published": "2026-04-22T04:30:00+00:00",
       "discovered_via": "feed"
     },
@@ -555,15 +597,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ec86711c4c2d",
-      "title": "I’m in My First Age-Gap Relationship—And I’ve Never Been Happier",
-      "link": "https://www.vogue.com/article/my-boyfriend-is-double-my-age-and-ive-never-been-happier",
+      "id": "31d08abf2f5d",
+      "title": "I’m in My First Age-Gap Relationship—And I’m as Happy as Ever",
+      "link": "https://www.vogue.com/article/my-boyfriend-is-double-my-age",
       "summary": "Is it really so difficult to imagine that connection can exist across generations, and that two people of different ages can find something real in each other?",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I’m in My First Age-Gap Relationship—And I’ve Never Been Happier...",
+      "angle": "Fashion Intelligence: I’m in My First Age-Gap Relationship—And I’m as Happy as Ever...",
       "score": 0,
       "published": "2026-04-21T16:46:46+00:00",
       "discovered_via": "feed"
@@ -1423,20 +1465,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d75b13e62ecc",
-      "title": "Spotted in Montecito: The Sneaker Color Trend That'll Take Off This Summer",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/behati-prinsloo-sneaker-outfit",
-      "summary": "As worn by Behati Prinsloo.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-04-20T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "715ecd1310c0",
       "title": "Lip Oils! Lace Shorts! Linens! The Gorgeous Under-$100 Beauty, Fashion, and Home Finds a Shopping Editor Is Eyeing This Month",
       "link": "https://www.whowhatwear.com/fashion/shopping/best-under-100-beauty-fashion-home-finds-2026",
@@ -1447,6 +1475,20 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Lip Oils! Lace Shorts! Linens! The Gorgeous Under-$100 Beauty, Fashion...",
       "score": 2,
+      "published": "2026-04-20T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d75b13e62ecc",
+      "title": "Spotted in Montecito: The Sneaker Color Trend That'll Take Off This Summer",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/behati-prinsloo-sneaker-outfit",
+      "summary": "As worn by Behati Prinsloo.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
       "published": "2026-04-20T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1521,20 +1563,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d579ed2a5cb3",
-      "title": "Chic, Expensive-Looking But Not What You Think—\"Ladylike\" Dressing Is the Spring Trend to Know",
-      "link": "https://www.whowhatwear.com/fashion/ladylike-dressing",
-      "summary": "Less trad wife, more real life.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-04-20T06:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "60f51d203acc",
       "title": "Euphoria Can’t Escape the Male Gaze",
       "link": "https://www.harpersbazaar.com/culture/film-tv/a71053741/euphoria-season-3-episode-2-recap/",
@@ -1546,20 +1574,6 @@
       "angle": "Fashion Intelligence: Euphoria Can’t Escape the Male Gaze...",
       "score": 1,
       "published": "2026-04-20T02:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "17739b32c30b",
-      "title": "This Trending Jewelry Style Will Be Huge for Spring and Summer",
-      "link": "https://www.whowhatwear.com/fashion/jewelry/best-beaded-necklaces-april-2026",
-      "summary": "Shop colorful beaded necklace finds ahead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-04-20T01:24:32+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2643,52 +2657,52 @@
   ],
   "trends": [
     {
-      "term": "air arabia",
+      "term": "moto edge 70 pro",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ind",
+      "term": "വിരാട് കോഹ്ലി",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "divyabhaskar",
+      "term": "world cup 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "दिल्ली – देहरादून एक्सप्रेसवे",
+      "term": "isro",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "nyt connections hints",
+      "term": "ranveer singh farhan akhtar dispute",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "nestle india share price",
+      "term": "அரசாங்கம்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "persistent share price",
+      "term": "irtc",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "tata elxsi share price",
+      "term": "adani power",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "murali kunnumpurath",
+      "term": "cruise missile",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "rolex rings",
+      "term": "sergey brin",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

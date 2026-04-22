@@ -1,25 +1,109 @@
 {
-  "generated_at": "2026-04-22T09:22:12.945561+00:00",
+  "generated_at": "2026-04-22T12:01:13.047489+00:00",
   "owned_count": 10,
   "competitor_count": 21,
-  "industry_count": 157,
+  "industry_count": 158,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
     {
-      "id": "5516876f7e78",
-      "title": "Zara, H&M and COS Called It—These Are The Blouse Trends That Make Every Outfit Instantly Chicer",
-      "link": "https://www.whowhatwear.com/fashion/shopping/zara-hm-cos-blouse-trends-2026",
-      "summary": "Ruffles! Lace! Polka-dots!",
+      "id": "c878824b47e0",
+      "title": "Shopping Has Become an Extreme Sport: Meet the Super Shoppers",
+      "link": "https://www.harpersbazaar.com/fashion/a70975848/designer-fashion-shopping-guide/",
+      "summary": "Resale alerts. Proxy services. Secret WhatsApps. This is what it takes to buy the best—and most coveted—clothes.",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Shopping Has Become an Extreme Sport: Meet the Super Shoppers...",
+      "score": 0,
+      "published": "2026-04-22T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f6ef46d62340",
+      "title": "Here’s What Rihanna Wears To Party All Night Long in Paris",
+      "link": "https://www.vogue.com/article/what-rihanna-wears-to-party-all-night-long-in-paris",
+      "summary": "Rihanna lives by two mantras: every appearance is cause for a high-fashion moment, and time is a total construct. Both are particularly true in Paris.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Here’s What Rihanna Wears To Party All Night Long in Paris...",
+      "score": 2,
+      "published": "2026-04-22T11:14:33+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "afe2b6c53bcd",
+      "title": "It's Official: This Spring's Most Lovable Blush Trends Are Blurred, Romantic, and Borderline Painterly",
+      "link": "https://www.whowhatwear.com/beauty/makeup/spring-blush-trends-2026",
+      "summary": "Prepare to fall in love.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-04-22T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "650470dbde6f",
+      "title": "Forget Heels in Black or Brown, Fashion People are Wearing This Flat Shoe Trend In A More Interesting Neutral",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/burgundy-flat-shoe-trend-margot-robbie",
+      "summary": "Just as chic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-04-22T10:21:07+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "51bd79b6dc42",
+      "title": "Grab Your Jeans and Basket Bag—This Viral Blouse Trend Marks the Official Start of Boho Spring",
+      "link": "https://www.whowhatwear.com/fashion/tops/peasant-top-trend-spring-2026",
+      "summary": "A Euro summer staple.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-04-22T10:14:28+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b705eaa6c121",
+      "title": "How to Decorate a Mantel in 5 Easy Steps, According to Design Pros",
+      "link": "https://www.vogue.com/article/mantel-styling-tips",
+      "summary": "From creating symmetry to layering light and purposefully breaking it up, experts’ tips on how to style a mantel show how small details can leave a big impact.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: How to Decorate a Mantel in 5 Easy Steps, According to Design Pros...",
       "score": 2,
-      "published": "2026-04-22T08:00:00+00:00",
+      "published": "2026-04-22T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "524765fd94fa",
+      "title": "When in Milano: Margot Robbie Tests Out Sciura Style",
+      "link": "https://www.vogue.com/article/margot-robbie-milan-armani-suit",
+      "summary": "Amid Milan Design Week, Margot Robbie pivoted from “Wuthering Heights” method dressing to suave Italiano, wearing—what else—but an Armani suit.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: When in Milano: Margot Robbie Tests Out Sciura Style...",
+      "score": 3,
+      "published": "2026-04-22T09:40:01+00:00",
       "discovered_via": "feed"
     },
     {
@@ -37,16 +121,30 @@
       "discovered_via": "feed"
     },
     {
-      "id": "694ced3282a0",
-      "title": "I'm a Personal Stylist—These Are the 5 Non-Baggy Pant Styles I Keep Reaching For",
-      "link": "https://www.whowhatwear.com/fashion/pants-trousers/personal-stylist-pant-trends-2026",
-      "summary": "They're lighter, cleaner, and a little more body-skimming.",
+      "id": "5516876f7e78",
+      "title": "Zara, H&M and COS Called It—These Are The Blouse Trends That Make Every Outfit Instantly Chicer",
+      "link": "https://www.whowhatwear.com/fashion/shopping/zara-hm-cos-blouse-trends-2026",
+      "summary": "Ruffles! Lace! Polka-dots!",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I'm a Personal Stylist—These Are the 5 Non-Baggy Pant Styles I Keep Re...",
-      "score": 1,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-04-22T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "769fec8e7050",
+      "title": "If You Want Your Basic Outfits to Look Cool This Spring, Wear This Sock Trend With Them",
+      "link": "https://www.whowhatwear.com/fashion/trends/colorful-sock-trend-spring-2026",
+      "summary": "Trust us. It's a fun addition to an outfit.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
       "published": "2026-04-22T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -65,16 +163,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "769fec8e7050",
-      "title": "If You Want Your Basic Outfits to Look Cool This Spring, Wear This Sock Trend With Them",
-      "link": "https://www.whowhatwear.com/fashion/trends/colorful-sock-trend-spring-2026",
-      "summary": "Trust us. It's a fun addition to an outfit.",
+      "id": "694ced3282a0",
+      "title": "I'm a Personal Stylist—These Are the 5 Non-Baggy Pant Styles I Keep Reaching For",
+      "link": "https://www.whowhatwear.com/fashion/pants-trousers/personal-stylist-pant-trends-2026",
+      "summary": "They're lighter, cleaner, and a little more body-skimming.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I'm a Personal Stylist—These Are the 5 Non-Baggy Pant Styles I Keep Re...",
+      "score": 1,
       "published": "2026-04-22T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -275,20 +373,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b1ab8e4835cc",
-      "title": "Where Will AI Take Fashion in 10 Years?",
-      "link": "https://www.vogue.com/article/where-will-ai-take-fashion-in-10-years",
-      "summary": "Technologists say AI could replicate human outputs within the next decade. But luxury could remain one of the few domains where that simply isn’t enough.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Where Will AI Take Fashion in 10 Years?...",
-      "score": 2,
-      "published": "2026-04-22T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "056f1ac10754",
       "title": "Will AI Kill the Creator Economy?",
       "link": "https://www.vogue.com/article/will-ai-kill-the-creator-economy",
@@ -312,6 +396,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: How the AI Race Will Impact the Global Luxury Market...",
+      "score": 2,
+      "published": "2026-04-22T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b1ab8e4835cc",
+      "title": "Where Will AI Take Fashion in 10 Years?",
+      "link": "https://www.vogue.com/article/where-will-ai-take-fashion-in-10-years",
+      "summary": "Technologists say AI could replicate human outputs within the next decade. But luxury could remain one of the few domains where that simply isn’t enough.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Where Will AI Take Fashion in 10 Years?...",
       "score": 2,
       "published": "2026-04-22T04:30:00+00:00",
       "discovered_via": "feed"
@@ -639,20 +737,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "568cd29c5fe0",
-      "title": "5 Indore cops break into businessman's home, steal jewellery worth over Rs 35 lakh",
-      "link": "https://www.indiatoday.in/india/story/5-indore-cops-enter-businessmans-home-disable-cctv-steal-gold-suspended-2899662-2026-04-21?utm_source=rss",
-      "summary": "5 Indore cops break into businessman's home, steal jewellery worth over Rs 35 lakh",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 5 Indore cops break into businessman's home, steal jewellery worth ove...",
-      "score": 1,
-      "published": "2026-04-21T17:51:54+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "8682b514fb34",
       "title": "How to Wear Color, According to Celebrities | Vogue",
       "link": "https://www.vogue.com/article/colorful-celebrity-outfit-ideas",
@@ -737,20 +821,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "31d08abf2f5d",
-      "title": "I’m in My First Age-Gap Relationship—And I’m as Happy as Ever",
-      "link": "https://www.vogue.com/article/my-boyfriend-is-double-my-age",
-      "summary": "Is it really so difficult to imagine that connection can exist across generations, and that two people of different ages can find something real in each other?",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I’m in My First Age-Gap Relationship—And I’m as Happy as Ever...",
-      "score": 0,
-      "published": "2026-04-21T16:46:46+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "140b8a7ace11",
       "title": "The Devil Wears Prada Premiere Looks—Then and Now",
       "link": "https://www.harpersbazaar.com/celebrity/red-carpet-dresses/a71084505/devil-wears-prada-premiere-2006-2026-looks-then-and-now-red-carpet-photos/",
@@ -776,34 +846,6 @@
       "angle": "Fashion Intelligence: Emily Blunt’s After-Party Look Gives Her Red-Carpet Gown a Run for its...",
       "score": 1,
       "published": "2026-04-21T16:12:06+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6ebc18c789d5",
-      "title": "8 Ways to Wear the ’90s-Inspired Sheer Skirt Trend This Spring",
-      "link": "https://www.vogue.com/article/sheer-skirt-outfit-ideas",
-      "summary": "From Chanel to Prada, sheer skirts continue to reign on the runways. Here are the best skirts to shop, plus how to style them.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 4,
-      "published": "2026-04-21T16:10:01+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1406cbd8e658",
-      "title": "Armani/Archivio Is the Capsule Collection Giving the Armani Archives a New Life",
-      "link": "https://www.vogue.com/article/armani-archivio-capsule-collection-gives-the-armani-archives-a-new-life",
-      "summary": "“Giorgio was not nostalgic and did not like looking back, but he was also aware of the value of his own journey—this is why he wanted this bridge between past and future to exist,” Leo Dell’Orco said.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-04-21T16:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1087,6 +1129,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "581d8f69aec5",
+      "title": "GUESS celebra Marilyn Monroe: la mostra al MUDEC e la capsule collection. Un progetto che unisce moda, fotografia e cultura contemporanea",
+      "link": "https://www.theblondesalad.com/fashion/guess-celebra-marilyn-monroe-la-mostra-al-mudec-e-la-capsule-collection-un-progetto-che-unisce-moda-fotografia-e-cultura-contemporanea/",
+      "summary": "C’è un momento preciso in cui la moda smette di essere solo prodotto e diventa racconto culturale. È quello che [&#8230;] The post GUESS celebra Marilyn Monroe: la mostra al MUDEC e la capsule collection. Un progetto che unisce moda, fotografia e cultura contemporanea first appeared on The Blonde Salad .",
+      "source": "The Blonde Salad",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-04-21T10:00:12+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "1f0a3b814604",
       "title": "Plot Twist: This Color Trend Is Quietly Replacing Gold and Silver as Fashion's Metallic of Choice",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/kerry-washington-copper-color-trend",
@@ -1311,20 +1367,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "02aca6e52e09",
-      "title": "Victoria Beckham Brings the Capri Trend to Gap in Upcoming Collab—Here's What I'm Eyeing Before the Launch",
-      "link": "https://www.whowhatwear.com/fashion/shopping/gap-victoria-beckham-collaboration-spring-2026",
-      "summary": "Mark your calendars—available April 24.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 2,
-      "published": "2026-04-20T19:15:42+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "441ae1d81130",
       "title": "Rihanna Runs Her Paris Errands in ’80s-Era Fur Earrings From Thierry Mugler",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71074946/rihanna-fur-earrings-80s-thierry-mugler-paris-street-style/",
@@ -1392,20 +1434,6 @@
       "angle": "Fashion Intelligence: Talking Beauty and Music With Zoe Saldaña...",
       "score": 1,
       "published": "2026-04-20T17:39:35+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5b0d8cc8e97e",
-      "title": "It's Denim-Shorts Season—You’ll Love These Blue, White, Brown, and Black Pairs From Nordstrom",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-denim-shorts-nordstrom-april-2026",
-      "summary": "Shop the best of the best by category.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-04-20T17:32:42+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1602,20 +1630,6 @@
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 0,
       "published": "2026-04-19T18:45:19+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b30ab15ba9a7",
-      "title": "All the Red-Carpet Looks From the 2026 Breakthrough Prize Ceremony",
-      "link": "https://www.harpersbazaar.com/celebrity/red-carpet-dresses/a71064670/every-celebrity-look-2026-breakthrough-prize-ceremony-red-carpet-photos/",
-      "summary": "From Gigi Hadid to Anne Hathaway",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: All the Red-Carpet Looks From the 2026 Breakthrough Prize Ceremony...",
-      "score": 0,
-      "published": "2026-04-19T16:37:38+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2501,6 +2515,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "496e1932aa97",
+      "title": "Iconic Looks at The Devil Wears Prada 2 World Premiere: A Sartorial Sequel",
+      "link": "https://www.azafashions.com/blog/the-devil-wears-prada-2-premiere-looks/?utm_source=rss&utm_medium=rss&utm_campaign=the-devil-wears-prada-2-premiere-looks",
+      "summary": "The most&#160;anticipated&#160;sequel in fashion cinema has finally arrived.&#160;The Devil Wears Prada 2&#160;held its world premiere in New York City, bringing together the original icons for a new chapter. While the&#8230; The post Iconic Looks at The Devil Wears Prada 2 World Premiere: A Sartorial Sequel appeared f",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Iconic Looks at The Devil Wears Prada 2 World Premiere: A Sartorial Se...",
+      "score": 2,
+      "published": "2026-04-22T10:43:10+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "30052a39fc9f",
       "title": "Vidya Balan’s Red Anarkali Look Celebrates Traditional Indian Craftsmanship",
       "link": "https://www.azafashions.com/blog/vidya-balan-in-mrunalini-rao/?utm_source=rss&utm_medium=rss&utm_campaign=vidya-balan-in-mrunalini-rao",
@@ -2599,6 +2627,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "1952397a03a1",
+      "title": "The Pag Phera Ceremony: Traditions, Meaning and Style",
+      "link": "https://www.azafashions.com/blog/the-pag-phera-ceremony-traditions-meaning-and-style/?utm_source=rss&utm_medium=rss&utm_campaign=the-pag-phera-ceremony-traditions-meaning-and-style",
+      "summary": "A Punjabi wedding brings unmatched energy, loud music, and non-stop dancing. After days of heavy outfits and sleepless nights, the main wedding concludes with the emotional Vidaai, where the bride leaves&#8230; The post The Pag Phera Ceremony: Traditions, Meaning and Style appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Fashion Intelligence: The Pag Phera Ceremony: Traditions, Meaning and Style...",
+      "score": 3,
+      "published": "2026-04-17T10:59:45+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "027811153010",
       "title": "Karisma Kapoor’s Black Floral Outfit Is the Statement Look You Need to See",
       "link": "https://www.azafashions.com/blog/karisma-kapoor-black-floral-outfit/?utm_source=rss&utm_medium=rss&utm_campaign=karisma-kapoor-black-floral-outfit",
@@ -2611,84 +2653,56 @@
       "score": 2,
       "published": "2026-04-17T09:01:10+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "f22b1634d200",
-      "title": "Evening Elegance, Reimagined Through Sculptural Draping",
-      "link": "https://www.azafashions.com/blog/sculptural-draping-in-evening-wear/?utm_source=rss&utm_medium=rss&utm_campaign=sculptural-draping-in-evening-wear",
-      "summary": "The sun dips below the horizon, bringing a shift in how we dress for the night. Eveningwear no longer means stiff fabrics or restrictive gowns. Instead, sculptural draping evening wear&#8230; The post Evening Elegance, Reimagined Through Sculptural Draping appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Evening Elegance, Reimagined Through Sculptural Draping...",
-      "score": 3,
-      "published": "2026-04-17T08:35:01+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3fb2bc159671",
-      "title": "From Runways to Cricket Stands — Samreen Kaur’s Style Is Having a Moment & We’re Here for It",
-      "link": "https://www.azafashions.com/blog/from-runways-to-cricket-stands-samreen-kaurs-style-is-having-a-moment-were-here-for-it/?utm_source=rss&utm_medium=rss&utm_campaign=from-runways-to-cricket-stands-samreen-kaurs-style-is-having-a-moment-were-here-for-it",
-      "summary": "She walked into Wankhede Stadium on a Thursday evening, and the cameras&#160;couldn't&#160;look away — not just because of who she was waiting for, but because of how she looked doing&#8230; The post From Runways to Cricket Stands — Samreen Kaur&#8217;s Style Is Having a Moment &#038; We&#8217;re Here for It appeared f",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: From Runways to Cricket Stands — Samreen Kaur’s Style Is Having a Mome...",
-      "score": 2,
-      "published": "2026-04-16T12:17:43+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "karachi kings vs peshawar zalmi",
+      "term": "psl live score",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "missile",
+      "term": "குஷ்பு சுந்தர்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बांग्लादेश क्रिकेट टीम",
+      "term": "all india result",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "upmsp",
+      "term": "শমীক ভট্টাচার্য",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "kar vs pes",
+      "term": "pnb so recruitment 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ന്യൂസ്",
+      "term": "jkbose 12th result 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "సాక్షి",
+      "term": "മോഷണം",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "മന്ത്രി",
+      "term": "விராட் கோலி",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ఫ్లిప్కార్ట్",
+      "term": "पप्पू यादव",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "neet mds 2026 city slip",
+      "term": "mojtaba khamenei",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

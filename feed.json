@@ -1,13 +1,167 @@
 {
-  "generated_at": "2026-04-23T09:30:28.687619+00:00",
+  "generated_at": "2026-04-23T12:00:29.058237+00:00",
   "owned_count": 10,
   "competitor_count": 21,
-  "industry_count": 159,
+  "industry_count": 157,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "03e382874a44",
+      "title": "Dakota Johnson Triples up on The Row, Accessorizes With Role Model",
+      "link": "https://www.vogue.com/article/dakota-johnson-wears-the-row-role-model",
+      "summary": "With Role Model—real name Tucker Pillsbury—on one arm and an Astra bag on the other, Dakota Johnson nails springtime dressing in the city.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Dakota Johnson Triples up on The Row, Accessorizes With Role Model...",
+      "score": 2,
+      "published": "2026-04-23T11:56:04+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f4946c34c51c",
+      "title": "Katie Holmes Brings Spring’s Controversial Glove Shoe Trend to the Red Carpet",
+      "link": "https://www.vogue.com/article/katie-holmes-spring-summer-glove-shoe-trend-red-carpet",
+      "summary": "Katie Holmes is arguing against the toe cleavage return for spring and summer with these IYKYK designer slingback pumps.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-04-23T11:43:53+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fdc4611c90a3",
+      "title": "The Best Zara New Arrivals to Shop for Spring 2026 | Vogue",
+      "link": "https://www.vogue.com/article/best-zara-finds",
+      "summary": "Funnel-neck outerwear, slip skirts, and lace-trimmed shorts are a few of the best Zara new arrival finds we’re eyeing this week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best Zara New Arrivals to Shop for Spring 2026 | Vogue...",
+      "score": 1,
+      "published": "2026-04-23T11:36:21+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ac504857aca2",
+      "title": "Why Travel Can Worsen Body Dysmorphia—and How I Broke the Cycle",
+      "link": "https://www.vogue.com/article/why-travel-can-worsen-body-dysmorphia-and-how-i-broke-the-cycle",
+      "summary": "“With all the blessings that come with being a Millennial, the trap of social media comparison seems to be one of our curses—in everyday life, of course, but also when it comes to travel,” writes Michaela Trimble.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Why Travel Can Worsen Body Dysmorphia—and How I Broke the Cycle...",
+      "score": 0,
+      "published": "2026-04-23T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "19306289623a",
+      "title": "In His East London Home, This Debut Cookbook Writer Served Cake, Caviar Chips, and Chaos",
+      "link": "https://www.vogue.com/article/jago-rackham-to-entertain-book-launch-party",
+      "summary": "Part-memoir, part-cookbook, Jago Rackham’s “To Entertain” was put into action with a revelrous gathering of London creatives.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 0,
+      "published": "2026-04-23T10:45:54+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c36da6328840",
+      "title": "Feels Like a Steal: Shop Vogue Favorite Under-$300 Finds",
+      "link": "https://www.vogue.com/article/feels-like-a-steal",
+      "summary": "Love a good fashion find? Same. And while there’s plenty we recommend on a daily basis, what makes us play for keeps is in the name: when it feels like a steal.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Feels Like a Steal: Shop Vogue Favorite Under-$300 Finds...",
+      "score": 1,
+      "published": "2026-04-23T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "11b4d822d351",
+      "title": "The Magazine as Museum: 18 Vogue Editorials Inspired by Art",
+      "link": "https://www.vogue.com/article/the-magazine-as-museum-18-vogue-editorials-inspired-by-art",
+      "summary": "Throughout its history Vogue has published fashion photographs inspired by paintings and sculptures by some of the world’s greatest artists. See how the work of the likes of Edgar Degas, John Singer Sargent, Vincent Van Gogh, and Edward Hopper, got the fashion treatment.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Magazine as Museum: 18 Vogue Editorials Inspired by Art...",
+      "score": 1,
+      "published": "2026-04-23T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1745debec3cb",
+      "title": "The Row Has Done It Again—Meet The Marcel Bag",
+      "link": "https://www.vogue.com/article/the-row-marcel-bag",
+      "summary": "The Row’s Marcel bag is the brand’s latest heirloom-in-the-making style that you can still get your hands on. Shop it now—before it sells out.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Row Has Done It Again—Meet The Marcel Bag...",
+      "score": 2,
+      "published": "2026-04-23T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e685175d0be5",
+      "title": "13 Beautiful Airbnb Beach Houses for the Ultimate Ocean Escape",
+      "link": "https://www.vogue.com/article/best-airbnb-beach-house-rentals",
+      "summary": "Craving a bit of sun? These Airbnb beach houses from around the world put you right on (or within walking distance of) the shoreline.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 13 Beautiful Airbnb Beach Houses for the Ultimate Ocean Escape...",
+      "score": 0,
+      "published": "2026-04-23T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3bdc78d4e652",
+      "title": "Not Butter Yellow, But Not Boring—Shoes Look Chicest in This Grown-up Colour Trend",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/victoria-beckham-grey-shoe-trend-2026",
+      "summary": "So elegant.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-04-23T09:31:01+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9f193c10ef47",
+      "title": "How to Tell a Sustainability Story Today",
+      "link": "https://www.vogue.com/article/how-to-tell-a-sustainability-story-today",
+      "summary": "After greenwashing allegations tainted the industry’s reputation, experts say brands need to focus on what consumers want in order to tell sustainability stories that land.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How to Tell a Sustainability Story Today...",
+      "score": 1,
+      "published": "2026-04-23T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "d0598834dd01",
       "title": "Costume Designer Molly Rogers on Crafting The Devil Wears Prada 2’s Fashion Fun",
@@ -79,34 +233,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2d00200f08df",
-      "title": "6 Flip-Flop Trends That Will Be Everywhere By May 31",
-      "link": "https://www.whowhatwear.com/fashion/shoes/flip-flop-trends-2026",
-      "summary": "The offshoots are here.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-04-23T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ef2669df8510",
-      "title": "Sophisticated, Minimal, and Cool: The Dress Trend to Know For 2026",
-      "link": "https://www.whowhatwear.com/fashion/tank-dress-trend",
-      "summary": "Sophisticated, Minimal, and Cool: The Dress Trend to Know For 2026",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-04-23T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b9223bfc02c6",
       "title": "Linen-Pant Season Is Here, and These Under-$100 Pairs Will Be the Center of My Summer Wardrobe",
       "link": "https://www.whowhatwear.com/fashion/shopping/best-affordable-linen-pants",
@@ -135,6 +261,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "2d00200f08df",
+      "title": "6 Flip-Flop Trends That Will Be Everywhere By May 31",
+      "link": "https://www.whowhatwear.com/fashion/shoes/flip-flop-trends-2026",
+      "summary": "The offshoots are here.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-04-23T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ef2669df8510",
+      "title": "Sophisticated, Minimal, and Cool: The Dress Trend to Know For 2026",
+      "link": "https://www.whowhatwear.com/fashion/tank-dress-trend",
+      "summary": "Sophisticated, Minimal, and Cool: The Dress Trend to Know For 2026",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-04-23T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "ae8581882fcc",
       "title": "Gird Your Loins! These are The Best Red Carpet Looks from The Devil Wears Prada 2 Premiers",
       "link": "https://www.whowhatwear.com/fashion/celebrity/the-devil-wears-prada-two-red-carpet-outfits-2026",
@@ -149,20 +303,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7c96f35803d4",
-      "title": "I Hate Wearing Lipstick—8 Hydrating Alternatives I Swear by Instead",
-      "link": "https://www.whowhatwear.com/beauty/makeup/best-glossy-lip-balms",
-      "summary": "The perfect pout.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-04-23T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2a260b4028a9",
       "title": "I Spent Weeks Testing the Best Facial Sculpting Tools—These Are the Ones That Really Worked",
       "link": "https://www.whowhatwear.com/beauty/skin/best-facial-sculpting-tools",
@@ -172,6 +312,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I Spent Weeks Testing the Best Facial Sculpting Tools—These Are the On...",
+      "score": 1,
+      "published": "2026-04-23T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7c96f35803d4",
+      "title": "I Hate Wearing Lipstick—8 Hydrating Alternatives I Swear by Instead",
+      "link": "https://www.whowhatwear.com/beauty/makeup/best-glossy-lip-balms",
+      "summary": "The perfect pout.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-04-23T06:00:00+00:00",
       "discovered_via": "feed"
@@ -653,20 +807,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b150d7d9ed0e",
-      "title": "Touching Grass on Earth Day: 35 Flora-Filled Looks From the Runways",
-      "link": "https://www.vogue.com/article/earth-day-on-the-runway",
-      "summary": "From cyclamen at Dior to Moss at Miu Miu, this season once again reminded us of how fashion takes inspiration from the natural world.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Touching Grass on Earth Day: 35 Flora-Filled Looks From the Runways...",
-      "score": 3,
-      "published": "2026-04-22T15:52:04+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "0068f8a83770",
       "title": "Kylie—Minogue, That Is—Gets a Netflix Documentary",
       "link": "https://www.harpersbazaar.com/culture/art-books-music/a71096737/kylie-minogue-netflix-documentary/",
@@ -723,34 +863,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "356aa5b891b3",
-      "title": "Jane Fonda, V, and Maya Penn on Making Noise and Taking Action With ‘Dear Everything’",
-      "link": "https://www.vogue.com/article/jane-fonda-v-maya-penn-dear-everything-bam",
-      "summary": "“I believe that our original sin is that we forgot we’re part of nature. We forgot that everything is interconnected and, to me, that’s what this play is about.”",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Jane Fonda, V, and Maya Penn on Making Noise and Taking Action With ‘D...",
-      "score": 0,
-      "published": "2026-04-22T15:15:14+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "26a214478666",
-      "title": "The 2026 Swimsuit Trends We Can’t Wait to Dive Into",
-      "link": "https://www.vogue.com/article/swimsuit-trends-2026",
-      "summary": "From embellished bikinis to chic one-pieces, these 10 swimsuit trends are ready for whatever your 2026 summer may hold.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-04-22T15:11:51+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b9e6e15f3f8a",
       "title": "Rihanna Finishes Her Sporty Look With a Pair of Bright-Red, Lace-Up Alaïa Heels",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71095396/rihanna-red-lace-up-alaia-heels-street-style-photos-paris/",
@@ -793,20 +905,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "808ef01ace97",
-      "title": "Man objects to wife wearing nightdress instead of saree at home, sets her on fire",
-      "link": "https://www.indiatoday.in/india/karnataka/story/karnataka-man-sets-wife-on-fire-ablaze-over-nightdress-constant-dispute-saree-sari-arrested-nangdad-2900094-2026-04-22?utm_source=rss",
-      "summary": "Man objects to wife wearing nightdress instead of saree at home, sets her on fire",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-04-22T14:11:21+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "72aabcad8cb5",
       "title": "Solara Suncare: A Mineral SPF Brand Formulated for Sensitive Skin",
       "link": "https://fashionista.com/2026/04/solara-suncare-sunscreen-brand",
@@ -818,20 +916,6 @@
       "angle": "Fashion Intelligence: Solara Suncare: A Mineral SPF Brand Formulated for Sensitive Skin...",
       "score": 1,
       "published": "2026-04-22T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4d8bbdc54d80",
-      "title": "A celebration of Earth Day through the images of the best environmental photographers",
-      "link": "https://www.vogue.com/article/a-celebration-of-earth-day-through-the-images-of-the-best-environmental-photographers",
-      "summary": "On the occasion of Earth Day and Jane Goodall’s birthday, Vital Impacts has created a collection of images for purchase, with proceeds going to initiatives that support youth environmental education.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: A celebration of Earth Day through the images of the best environmenta...",
-      "score": 2,
-      "published": "2026-04-22T13:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -849,20 +933,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3ffa15920ccd",
-      "title": "Ahead of the 2026 Met Gala, We Assembled a Stellar Lineup of Creatives in Fashion Worthy of a Museum",
-      "link": "https://www.vogue.com/article/creatives-in-fashion-met-gala-2026",
-      "summary": "Artists, models, performers, and activists animate spring’s most beguiling silhouettes.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Ahead of the 2026 Met Gala, We Assembled a Stellar Lineup of Creatives...",
-      "score": 2,
-      "published": "2026-04-22T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c878824b47e0",
       "title": "Shopping Has Become an Extreme Sport: Meet the Super Shoppers",
       "link": "https://www.harpersbazaar.com/fashion/a70975848/designer-fashion-shopping-guide/",
@@ -874,20 +944,6 @@
       "angle": "Fashion Intelligence: Shopping Has Become an Extreme Sport: Meet the Super Shoppers...",
       "score": 0,
       "published": "2026-04-22T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f6ef46d62340",
-      "title": "Here’s What Rihanna Wears To Party All Night Long in Paris",
-      "link": "https://www.vogue.com/article/what-rihanna-wears-to-party-all-night-long-in-paris",
-      "summary": "Rihanna lives by two mantras: every appearance is cause for a high-fashion moment, and time is a total construct. Both are particularly true in Paris.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Here’s What Rihanna Wears To Party All Night Long in Paris...",
-      "score": 2,
-      "published": "2026-04-22T11:14:33+00:00",
       "discovered_via": "feed"
     },
     {
@@ -933,34 +989,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b705eaa6c121",
-      "title": "How to Decorate a Mantel in 5 Easy Steps, According to Design Pros",
-      "link": "https://www.vogue.com/article/mantel-styling-tips",
-      "summary": "From creating symmetry to layering light and purposefully breaking it up, experts’ tips on how to style a mantel show how small details can leave a big impact.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: How to Decorate a Mantel in 5 Easy Steps, According to Design Pros...",
-      "score": 2,
-      "published": "2026-04-22T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "524765fd94fa",
-      "title": "When in Milano: Margot Robbie Tests Out Sciura Style",
-      "link": "https://www.vogue.com/article/margot-robbie-milan-armani-suit",
-      "summary": "Amid Milan Design Week, Margot Robbie pivoted from “Wuthering Heights” method dressing to suave Italiano, wearing—what else—but an Armani suit.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: When in Milano: Margot Robbie Tests Out Sciura Style...",
-      "score": 3,
-      "published": "2026-04-22T09:40:01+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "19c650825026",
       "title": "Stylish Women Have Declared This DeMellier Bag the \"It\" Bag of the Season—And It’s Selling Fast",
       "link": "https://www.whowhatwear.com/fashion/shopping/demellier-new-york-shoulder-bag",
@@ -989,20 +1017,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "73c43b0e0d12",
-      "title": "Not Paris, Not NYC—Tokyo's Best Celebrity Outfits Are Setting the New Style Agenda",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/best-celebrity-style-outfits-tokyo",
-      "summary": "Sorry, but this is the fashion city to know for celeb style moments.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 4,
-      "published": "2026-04-22T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2bbba0d17528",
       "title": "I Studied Paris Street Style—These French Handbag Brands Are Everywhere",
       "link": "https://www.whowhatwear.com/fashion/handbags/french-handbag-brands",
@@ -1027,6 +1041,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
+      "published": "2026-04-22T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "73c43b0e0d12",
+      "title": "Not Paris, Not NYC—Tokyo's Best Celebrity Outfits Are Setting the New Style Agenda",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/best-celebrity-style-outfits-tokyo",
+      "summary": "Sorry, but this is the fashion city to know for celeb style moments.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 4,
       "published": "2026-04-22T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1143,48 +1171,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "73f32cc0d56b",
-      "title": "Register Now | The Future of AI, Live Webinar",
-      "link": "https://www.vogue.com/article/the-future-of-ai-live-webinar",
-      "summary": "Discover the key findings from our exploration into how AI is reshaping how we shop and how brands can keep up.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Register Now | The Future of AI, Live Webinar...",
-      "score": 1,
-      "published": "2026-04-22T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "11c8d9233cb1",
-      "title": "4 AI Startups Shaping the Future of Beauty",
-      "link": "https://www.vogue.com/article/4-ai-startups-shaping-the-future-of-beauty",
-      "summary": "The beauty AI space is evolving at a quick pace and billion-dollar businesses could soon be created and operated by a single person, according to tech founders.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: 4 AI Startups Shaping the Future of Beauty...",
-      "score": 1,
-      "published": "2026-04-22T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "50dfc4abc4a3",
-      "title": "Is AI Just, Like, Basic?",
-      "link": "https://www.vogue.com/article/is-ai-just-like-basic",
-      "summary": "As AI becomes more accessible to the masses, human-led design, customer service, and influence could become a luxury exclusively available to VICs. What will that mean for the rest of us?",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Is AI Just, Like, Basic?...",
-      "score": 1,
-      "published": "2026-04-22T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "0b8a264ef128",
       "title": "Zoë Kravitz Wore the Cool-Girl Flat-Shoe Trend That's Ideal for Those Long London Walks With Harry Styles",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/soft-loafers-trend-zoe-kravitz",
@@ -1266,20 +1252,6 @@
       "angle": "Fashion Intelligence: Zoë Kravitz and Harry Styles Up Their Couple’s Style With Monochromati...",
       "score": 1,
       "published": "2026-04-21T19:56:58+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fef702806111",
-      "title": "Dakota Johnson's Italy Outfit Includes the Dress, Flat Shoes, and Bag I Never Go on a Summer Trip Without",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/summer-travel-dress-outfit-dakota-johnson",
-      "summary": "The chicest travel look of 2026 is here.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Dakota Johnson's Italy Outfit Includes the Dress, Flat Shoes, and Bag ...",
-      "score": 2,
-      "published": "2026-04-21T19:47:08+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2529,6 +2501,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "4378cd6aa1f1",
+      "title": "The Perfect Kurta for Men Is the Key to Easy Summer Dressing",
+      "link": "https://www.azafashions.com/blog/the-perfect-summer-kurta-for-men/?utm_source=rss&utm_medium=rss&utm_campaign=the-perfect-summer-kurta-for-men",
+      "summary": "When the temperature rises, getting dressed becomes a daily challenge. You want to look sharp, but the scorching heat reduces your tolerance for heavy fabrics, tight collars, and restrictive tailoring. You need a&#8230; The post The Perfect Kurta for Men Is the Key to Easy Summer Dressing appeared first on Aza Editoria",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Perfect Kurta for Men Is the Key to Easy Summer Dressing...",
+      "score": 2,
+      "published": "2026-04-23T10:01:38+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "496e1932aa97",
       "title": "Iconic Looks at The Devil Wears Prada 2 World Premiere: A Sartorial Sequel",
       "link": "https://www.azafashions.com/blog/the-devil-wears-prada-2-premiere-looks/?utm_source=rss&utm_medium=rss&utm_campaign=the-devil-wears-prada-2-premiere-looks",
@@ -2571,6 +2557,48 @@
       "discovered_via": "feed"
     },
     {
+      "id": "938b567ce4ba",
+      "title": "Best Summer Fabrics Designers Actually Swear By to Beat the Heat",
+      "link": "https://www.azafashions.com/blog/best-summer-fabrics-designers-recommend/?utm_source=rss&utm_medium=rss&utm_campaign=best-summer-fabrics-designers-recommend",
+      "summary": "Summer dressing often looks brilliant on a mood board but completely falls apart the second you step outside. You layer a beautiful outfit, step into the sun, and suddenly find&#8230; The post Best Summer Fabrics Designers Actually Swear By to Beat the Heat appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Best Summer Fabrics Designers Actually Swear By to Beat the Heat...",
+      "score": 4,
+      "published": "2026-04-21T10:51:56+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b6250153b5b7",
+      "title": "Kentucky Derby 2026 Fashion: The Best Dresses, Hats & Race Day Looks",
+      "link": "https://www.azafashions.com/blog/kentucky-derby-2026-fashion-dresses-hats/?utm_source=rss&utm_medium=rss&utm_campaign=kentucky-derby-2026-fashion-dresses-hats",
+      "summary": "On the first Saturday of May, the Churchill Downs racetrack in Louisville, Kentucky transforms into one of the most spectacular fashion showcases in the entire world. The Kentucky Derby is&#8230; The post Kentucky Derby 2026 Fashion: The Best Dresses, Hats &amp; Race Day Looks appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Kentucky Derby 2026 Fashion: The Best Dresses, Hats & Race Day Looks...",
+      "score": 3,
+      "published": "2026-04-21T09:55:51+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "955445971c01",
+      "title": "Earth Day 2026: How to Build a Sustainable Wardrobe Without Losing an Ounce of Style",
+      "link": "https://www.azafashions.com/blog/earth-day-2026-how-to-build-a-sustainable-wardrobe-without-losing-an-ounce-of-style/?utm_source=rss&utm_medium=rss&utm_campaign=earth-day-2026-how-to-build-a-sustainable-wardrobe-without-losing-an-ounce-of-style",
+      "summary": "Every year on April 22nd, the world pauses to celebrate Earth Day a global reminder of our collective responsibility to protect the planet we call home. The fashion choices we&#8230; The post Earth Day 2026: How to Build a Sustainable Wardrobe Without Losing an Ounce of Style appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Earth Day 2026: How to Build a Sustainable Wardrobe Without Losing an ...",
+      "score": 3,
+      "published": "2026-04-21T09:47:46+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "22413744c165",
       "title": "Move Over Butter Yellow — Aquamarine Is Summer 2026’s Most Wanted Shade",
       "link": "https://www.azafashions.com/blog/aquamarine-summer-colour-trend/?utm_source=rss&utm_medium=rss&utm_campaign=aquamarine-summer-colour-trend",
@@ -2585,138 +2613,82 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5a76de6c5311",
-      "title": "Your Guide to Maharashtrian Wedding Traditions",
-      "link": "https://www.azafashions.com/blog/your-guide-to-maharashtrian-wedding-traditions/?utm_source=rss&utm_medium=rss&utm_campaign=your-guide-to-maharashtrian-wedding-traditions",
-      "summary": "Picture a wedding filled with joyful chants, vibrant colors, and deep spiritual meaning. If you have ever attended a Marathi wedding, you know it feels both deeply sacred and incredibly fun. These&#8230; The post Your Guide to Maharashtrian Wedding Traditions appeared first on Aza Editorials .",
+      "id": "2cfdcdb9d4eb",
+      "title": "Coachella 2026 Fashion: Bold Festival Looks You Can Actually Re-Wear",
+      "link": "https://www.azafashions.com/blog/coachella-2026-fashion-festival-outfits/?utm_source=rss&utm_medium=rss&utm_campaign=coachella-2026-fashion-festival-outfits",
+      "summary": "The desert is calling, and your outfit needs to answer. Coachella 2026 is here, and with it comes the most anticipated fashion moment of the spring season. Every year, the&#8230; The post Coachella 2026 Fashion: Bold Festival Looks You Can Actually Re-Wear appeared first on Aza Editorials .",
       "source": "AZA Blog",
       "tier": "owned",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Bridal Edit: Your Guide to Maharashtrian Wedding Traditions — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-04-19T13:50:02+00:00",
+      "angle": "Fashion Intelligence: Coachella 2026 Fashion: Bold Festival Looks You Can Actually Re-Wear...",
+      "score": 4,
+      "published": "2026-04-20T09:30:37+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "fc71fc6385ee",
-      "title": "Mashru and Himroo: The Royal Fabrics of Maharashtra You Need to Know",
-      "link": "https://www.azafashions.com/blog/mashru-himroo-fabrics-maharashtra/?utm_source=rss&utm_medium=rss&utm_campaign=mashru-himroo-fabrics-maharashtra",
-      "summary": "India is a land of extraordinary fabrics. Among the most unique are two textiles from Maharashtra Mashru and Himroo. Both have a history that goes back hundreds of years.&#8230; The post Mashru and Himroo: The Royal Fabrics of Maharashtra You Need to Know appeared first on Aza Editorials .",
+      "id": "eb417358e616",
+      "title": "Spring Break Fashion 2026: Outfit Ideas for Beach, Travel & City Trips",
+      "link": "https://www.azafashions.com/blog/spring-break-fashion-2026-outfit-ideas/?utm_source=rss&utm_medium=rss&utm_campaign=spring-break-fashion-2026-outfit-ideas",
+      "summary": "Spring break is finally here and whether you are jet-setting to a tropical beach, exploring a vibrant new city, or embarking on a road trip with your closest friends, one&#8230; The post Spring Break Fashion 2026: Outfit Ideas for Beach, Travel &amp; City Trips appeared first on Aza Editorials .",
       "source": "AZA Blog",
       "tier": "owned",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Mashru and Himroo: The Royal Fabrics of Maharashtra You Need to Know...",
-      "score": 0,
-      "published": "2026-04-19T13:34:36+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d1906fd76ee5",
-      "title": "Bihar and Jharkhand Wedding Traditions: A Complete Guide",
-      "link": "https://www.azafashions.com/blog/bihar-jharkhand-wedding-traditions-guide/?utm_source=rss&utm_medium=rss&utm_campaign=bihar-jharkhand-wedding-traditions-guide",
-      "summary": "Bihar and Jharkhand weddings are full of colour, culture, and deep meaning. Every ritual has a story. Every ceremony connects families not just two people. If you're attending one of&#8230; The post Bihar and Jharkhand Wedding Traditions: A Complete Guide appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Bridal Edit: Bihar and Jharkhand Wedding Traditions — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-04-19T06:01:31+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "07b0c61565e3",
-      "title": "Know Your Designer-Episode 42: Joules by Radhika",
-      "link": "https://www.azafashions.com/blog/know-your-designer-joules-by-radhika/?utm_source=rss&utm_medium=rss&utm_campaign=know-your-designer-joules-by-radhika",
-      "summary": "Joules by Radhika is not just another jewellery brand but&#160;a name that has quietly transformed how modern women think about festive accessories. Loved and embraced&#160;for bold, conversation-starting designs, the label&#8230; The post Know Your Designer-Episode 42: Joules by Radhika appeared first on Aza Editorial",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Know Your Designer-Episode 42: Joules by Radhika...",
-      "score": 5,
-      "published": "2026-04-19T04:22:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ab9f8c6a3e8a",
-      "title": "The Rajasthani Pithi Ceremony: Rituals, Meaning & Style",
-      "link": "https://www.azafashions.com/blog/pithi-ceremony-rajasthan-haldi-rituals/?utm_source=rss&utm_medium=rss&utm_campaign=pithi-ceremony-rajasthan-haldi-rituals",
-      "summary": "A Rajasthani wedding is a breathtaking visual treat. You see grand palaces, vibrant colors, and hear the soulful sounds of traditional folk music echoing through courtyards. Before the couple takes&#8230; The post The Rajasthani Pithi Ceremony: Rituals, Meaning &amp; Style appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Fashion Intelligence: The Rajasthani Pithi Ceremony: Rituals, Meaning & Style...",
-      "score": 3,
-      "published": "2026-04-18T13:16:08+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "de651a7f8597",
-      "title": "The Punjabi Chooda Ceremony: Rituals, Meaning & Style",
-      "link": "https://www.azafashions.com/blog/the-punjabi-chooda-ceremony-rituals-meaning-style/?utm_source=rss&utm_medium=rss&utm_campaign=the-punjabi-chooda-ceremony-rituals-meaning-style",
-      "summary": "A Punjabi wedding brings unmatched energy, loud music, and non-stop dancing. You can hear the beat of the dhol from miles away, and you can see the vibrant colors lighting up every&#8230; The post The Punjabi Chooda Ceremony: Rituals, Meaning &amp; Style appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Fashion Intelligence: The Punjabi Chooda Ceremony: Rituals, Meaning & Style...",
+      "angle": "Fashion Intelligence: Spring Break Fashion 2026: Outfit Ideas for Beach, Travel & City Trips...",
       "score": 2,
-      "published": "2026-04-18T12:02:53+00:00",
+      "published": "2026-04-20T09:15:03+00:00",
       "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "സ്വര്ണം",
+      "term": "sam altman",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "dhurandhar revenge movie",
+      "term": "khanapara teer result today",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "islamabad united vs pindiz",
+      "term": "कानपुर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अरविंद केजरीवाल",
+      "term": "missile",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "2026 बंगाल विधानसभा चुनाव",
+      "term": "பேருந்து",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "islamic republic of iran navy",
+      "term": "ക്രിക്കറ്റ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "വിവാഹം",
+      "term": "दोषसिद्धि",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "infosys results",
+      "term": "তাপপ্রবাহ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "weather hyderabad",
+      "term": "jackky bhagnani",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "jac 10th board",
+      "term": "పాట్ కమ్మిన్స్",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

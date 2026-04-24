@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T07:05:58.177950+00:00",
+  "generated_at": "2026-04-24T09:46:16.756119+00:00",
   "owned_count": 10,
   "competitor_count": 20,
   "industry_count": 162,
@@ -9,17 +9,143 @@
   },
   "articles": [
     {
-      "id": "353f20bed954",
-      "title": "I've Nailed It: These Are The 5 Pretty Top Styles to Wear With Jeans RN",
-      "link": "https://www.whowhatwear.com/fashion/tops/best-pretty-tops-to-wear-with-jeans",
-      "summary": "A classic combo.",
+      "id": "60a32ac7e0de",
+      "title": "Is Vichy L’Oréal’s Next Billion-Euro Brand?",
+      "link": "https://www.vogue.com/article/is-vichy-loreals-next-billion-euro-brand",
+      "summary": "The L’Oréal-owned dermatological brand is betting on the men’s category and supplements to help reach €1 billion in annual revenue.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Is Vichy L’Oréal’s Next Billion-Euro Brand?...",
+      "score": 1,
+      "published": "2026-04-24T09:41:53+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "904f20a31d4f",
+      "title": "The Vogue Business Beauty Trend Tracker",
+      "link": "https://www.vogue.com/article/the-vogue-business-beauty-tracker",
+      "summary": "Vogue Business brings you weekly exclusive data from Spate tracking historic growth across brands, trends and ingredients. Stay tuned as we spotlight a different beauty category each week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-04-24T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2c3e353b88a1",
+      "title": "Minimalists Agree—Knitwear Looks Chicest With This '90s Jeans Trend",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/jeans-navy-jumper-outfit-pamela-anderson-2026",
+      "summary": "Cool every time.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-04-24T09:29:05+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "339d78f6ea12",
+      "title": "I Love Barbra Streisand and Her Gorgeous Goyishe Guy, James Brolin",
+      "link": "https://www.vogue.com/article/i-want-what-they-have-barbra-streisand-and-james-brolin",
+      "summary": "Insanely enough, Streisand and Brolin’s relationship was the spark behind the Aerosmith song “I Don’t Want to Miss a Thing”.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Love Barbra Streisand and Her Gorgeous Goyishe Guy, James Brolin...",
+      "score": 0,
+      "published": "2026-04-24T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d4b729848ede",
+      "title": "Not \"Dressed Up\", Not \"Dressed Down\"—3 Ways to Make Your Outfits Feel More Intentional",
+      "link": "https://www.whowhatwear.com/fashion/blanca-miro-style-advice",
+      "summary": "Notes from a seasoned stylist.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Not \"Dressed Up\", Not \"Dressed Down\"—3 Ways to Make Your Outfits Feel ...",
+      "score": 3,
+      "published": "2026-04-24T08:05:46+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d5b626b74738",
+      "title": "Short Nails Are Effortlessly Chic—20 Spring-Ready Looks to Send Your Manicurist",
+      "link": "https://www.whowhatwear.com/beauty/nails/short-spring-nail-ideas",
+      "summary": "Dopamine dressing for nails.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I've Nailed It: These Are The 5 Pretty Top Styles to Wear With Jeans R...",
-      "score": 2,
-      "published": "2026-04-24T07:00:00+00:00",
+      "angle": "Fashion Intelligence: Short Nails Are Effortlessly Chic—20 Spring-Ready Looks to Send Your M...",
+      "score": 1,
+      "published": "2026-04-24T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fc1fcee23616",
+      "title": "Victoria Beckham's Gap Collection Is Officially Here—9 Elegant Basics Already Selling Fast",
+      "link": "https://www.whowhatwear.com/fashion/shopping/victoria-beckham-gap-collaboration",
+      "summary": "Drop everything.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-04-24T07:46:44+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "99bd4ca54af9",
+      "title": "Dakota Johnson (And Everyone Else) Embraces the Red Carpet Cape",
+      "link": "https://www.vogue.com/article/dakota-johnson-time-100-gala-valentino-cape",
+      "summary": "The Time 100 gala saw a flurry of sheer and shimmering shawls hit the step and repeat—led first by Dakota Johnson in Valentino.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 0,
+      "published": "2026-04-24T07:34:55+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a4678f1406af",
+      "title": "Dress Code: Kiln",
+      "link": "https://www.fashionbeans.com/article/kiln/",
+      "summary": "",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Dress Code: Kiln...",
+      "score": 1,
+      "published": "2026-04-24T07:30:01+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9dd534dd7fc2",
+      "title": "Hailey Bieber Updates the Carolyn Bessette-Kennedy Codes of Red Carpet Style",
+      "link": "https://www.vogue.com/article/hailey-bieber-time-100-gala-vintage-calvin-klein",
+      "summary": "With Bieberchella in the rear view mirror, Hailey Bieber is returning to her classic red carpet rhythms—starting with the Time 100 gala.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-04-24T07:02:57+00:00",
       "discovered_via": "feed"
     },
     {
@@ -32,6 +158,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-04-24T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "353f20bed954",
+      "title": "I've Nailed It: These Are The 5 Pretty Top Styles to Wear With Jeans RN",
+      "link": "https://www.whowhatwear.com/fashion/tops/best-pretty-tops-to-wear-with-jeans",
+      "summary": "A classic combo.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I've Nailed It: These Are The 5 Pretty Top Styles to Wear With Jeans R...",
       "score": 2,
       "published": "2026-04-24T07:00:00+00:00",
       "discovered_via": "feed"
@@ -93,16 +233,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "28883d2da171",
-      "title": "If You're Over Your Ballet Flats, These Are the 5 Elevated Shoe Trends to Try This Spring Instead",
-      "link": "https://www.whowhatwear.com/fashion/shoes/alternatives-to-ballet-flats-spring-2026",
-      "summary": "Move over ballet flats.",
+      "id": "2fb507a04f7c",
+      "title": "Zendaya! Rihanna! Princess Diana! These 13 Best Met Dresses Made Fashion History",
+      "link": "https://www.whowhatwear.com/fashion/red-carpet/best-met-gala-dresses-of-all-time",
+      "summary": "Met Monday is just around the corner!",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Zendaya! Rihanna! Princess Diana! These 13 Best Met Dresses Made Fashi...",
+      "score": 2,
       "published": "2026-04-24T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -121,16 +261,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2fb507a04f7c",
-      "title": "Zendaya! Rihanna! Princess Diana! These 13 Best Met Dresses Made Fashion History",
-      "link": "https://www.whowhatwear.com/fashion/red-carpet/best-met-gala-dresses-of-all-time",
-      "summary": "Met Monday is just around the corner!",
+      "id": "28883d2da171",
+      "title": "If You're Over Your Ballet Flats, These Are the 5 Elevated Shoe Trends to Try This Spring Instead",
+      "link": "https://www.whowhatwear.com/fashion/shoes/alternatives-to-ballet-flats-spring-2026",
+      "summary": "Move over ballet flats.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Zendaya! Rihanna! Princess Diana! These 13 Best Met Dresses Made Fashi...",
-      "score": 2,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
       "published": "2026-04-24T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -597,20 +737,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6c0e81fb726c",
-      "title": "Vogue’s Global Spa Guide Contributors",
-      "link": "https://www.vogue.com/article/vogue-global-spa-guide-contributors",
-      "summary": "Meet the editors and writers who put together Vogue’s first-ever Global Spa Guide—and get a sampling of what they really recommend.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Vogue’s Global Spa Guide Contributors...",
-      "score": 0,
-      "published": "2026-04-23T16:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e486c62e391e",
       "title": "Waldorf Astoria New York",
       "link": "https://www.vogue.com/article/waldorf-astoria-new-york-spa",
@@ -620,20 +746,6 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Waldorf Astoria New York...",
-      "score": 0,
-      "published": "2026-04-23T16:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "01918f2b0b15",
-      "title": "Terme di Saturnia",
-      "link": "https://www.vogue.com/article/terme-di-saturnia-spa",
-      "summary": "Tuscany, Italy",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Terme di Saturnia...",
       "score": 0,
       "published": "2026-04-23T16:00:00+00:00",
       "discovered_via": "feed"
@@ -779,57 +891,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f313ae689564",
-      "title": "Lumina Spa at Namia River Retreat",
-      "link": "https://www.vogue.com/article/lumina-spa-at-namia-river-retreat",
-      "summary": "Hoi An, Vietnam",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Lumina Spa at Namia River Retreat...",
-      "score": 0,
-      "published": "2026-04-23T16:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "de1ab64f8e3c",
-      "title": "Canyon Ranch",
-      "link": "https://www.vogue.com/article/canyon-ranch-spa",
-      "summary": "Tucson, Arizona",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Canyon Ranch...",
-      "score": 0,
-      "published": "2026-04-23T16:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7382c5129793",
-      "title": "AyurMa at Four Seasons Resort Maldives at Landaa Giraavaru",
-      "link": "https://www.vogue.com/article/ayurma-at-four-seasons-resort-maldives-at-landaa-giraavaru",
-      "summary": "Baa Atoll, Maldives",
+      "id": "6c0e81fb726c",
+      "title": "Vogue’s Global Spa Guide Contributors",
+      "link": "https://www.vogue.com/article/vogue-global-spa-guide-contributors",
+      "summary": "Meet the editors and writers who put together Vogue’s first-ever Global Spa Guide—and get a sampling of what they really recommend.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-04-23T16:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8175fb20531d",
-      "title": "Brenners Park-Hotel & Spa",
-      "link": "https://www.vogue.com/article/brenners-park-hotel-and-spa",
-      "summary": "Baden-Baden, Germany",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Brenners Park-Hotel & Spa...",
+      "angle": "Fashion Intelligence: Vogue’s Global Spa Guide Contributors...",
       "score": 0,
       "published": "2026-04-23T16:00:00+00:00",
       "discovered_via": "feed"
@@ -1059,6 +1129,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "b1e08c60fd0f",
+      "title": "Not Flats, Not Really Heels—This Is the Shoe Trend I Keep Seeing the Coolest Girls in Europe Wearing",
+      "link": "https://www.whowhatwear.com/fashion/shoes/wedge-sandal-trend-2026",
+      "summary": "These are a game-changer.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-04-23T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "ef2669df8510",
       "title": "Sophisticated, Minimalist, and Cool: The Dress Trend to Know for 2026",
       "link": "https://www.whowhatwear.com/fashion/tank-dress-trend",
@@ -1097,20 +1181,6 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
-      "published": "2026-04-23T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b1e08c60fd0f",
-      "title": "Not Flats, Not Really Heels—This Is the Shoe Trend I Keep Seeing the Coolest Girls in Europe Wearing",
-      "link": "https://www.whowhatwear.com/fashion/shoes/wedge-sandal-trend-2026",
-      "summary": "These are a game-changer.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
       "published": "2026-04-23T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1283,20 +1353,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c94d3ed644b6",
-      "title": "Rihanna Just Confirmed the Spring Beauty Trend I’ve Been Forecasting for Months",
-      "link": "https://www.whowhatwear.com/beauty/makeup/rihanna-purple-eye-shadow-trend",
-      "summary": "Called it.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-04-22T19:41:52+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "be44980d2c6f",
       "title": "Meryl Streep Pairs Her Prada Coat With a Runway Clutch at the London Premiere of The Devil Wears Prada 2",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71098071/meryl-streep-runway-clutch-the-devil-wears-prada-2-london-premiere-red-carpet-photos/",
@@ -1364,34 +1420,6 @@
       "angle": "Fashion Intelligence: How Demi Moore Gets Better With Age...",
       "score": 0,
       "published": "2026-04-22T17:42:28+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "afff696b2520",
-      "title": "Costume Designer Molly Rogers on Her Creative Process for The Devil Wears Prada 2",
-      "link": "https://www.whowhatwear.com/living/who-what-wear-podcast-molly-rogers",
-      "summary": "And the cerulean-sweater origin story.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Costume Designer Molly Rogers on Her Creative Process for The Devil We...",
-      "score": 2,
-      "published": "2026-04-22T17:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ead1af5f0cba",
-      "title": "I've Traveled for My Fashion Job for Over a Decade, and This Is My New Favorite Hack",
-      "link": "https://www.whowhatwear.com/living/travel/airbnb-experiences-services-review",
-      "summary": "This is on my itinerary every time.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I've Traveled for My Fashion Job for Over a Decade, and This Is My New...",
-      "score": 1,
-      "published": "2026-04-22T16:51:38+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1532,20 +1560,6 @@
       "angle": "Fashion Intelligence: Shopping Has Become an Extreme Sport: Meet the Super Shoppers...",
       "score": 0,
       "published": "2026-04-22T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "afe2b6c53bcd",
-      "title": "It's Official: This Spring's Most Lovable Blush Trends Are Blurred, Romantic, and Borderline Painterly",
-      "link": "https://www.whowhatwear.com/beauty/makeup/spring-blush-trends-2026",
-      "summary": "Prepare to fall in love.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-04-22T11:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2263,20 +2277,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "df9206208633",
-      "title": "The Masters 2026: The Men’s Fashion Guide Inspired by Augusta’s Greatest Style Moments",
-      "link": "https://www.fashionbeans.com/article/masters-2026-mens-fashion-golf-style-guide/",
-      "summary": "The 90th Masters Tournament tees off today at Augusta National — and if you think the only thing worth watching is who takes home the green jacket, you&#8217;re missing half the show. There is no sporting event on earth with a dress code as quietly powerful as The Masters. Since 1934, Augusta National has imposed &#823",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: The Masters 2026: The Men’s Fashion Guide Inspired by Augusta’s Greate...",
-      "score": 4,
-      "published": "2026-04-09T07:04:14+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a7bc4fa4a14e",
       "title": "Rinkal Jain’s Blue and White Carnival Magic at Her Bangalore Wedding",
       "link": "https://blog.kalkifashion.com/rinkal-jains-blue-and-white-carnival-magic-at-her-bangalore-wedding/",
@@ -2557,6 +2557,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "9e549fa0a70d",
+      "title": "Graduation Season 2026: Stunning Outfits for Every Ceremony, Dinner & After-Party",
+      "link": "https://www.azafashions.com/blog/graduation-outfits-2026-ceremony-dinner-after-party/?utm_source=rss&utm_medium=rss&utm_campaign=graduation-outfits-2026-ceremony-dinner-after-party",
+      "summary": "Graduation is one of the most significant milestones of your life. It represents years of hard work, sleepless nights, and relentless determination all culminating in a single, triumphant moment when&#8230; The post Graduation Season 2026: Stunning Outfits for Every Ceremony, Dinner &amp; After-Party appeared first on ",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-04-24T07:12:35+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "4378cd6aa1f1",
       "title": "The Perfect Kurta for Men Is the Key to Easy Summer Dressing",
       "link": "https://www.azafashions.com/blog/the-perfect-summer-kurta-for-men/?utm_source=rss&utm_medium=rss&utm_campaign=the-perfect-summer-kurta-for-men",
@@ -2681,70 +2695,56 @@
       "score": 1,
       "published": "2026-04-21T06:24:22+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "a44e2c1afef9",
-      "title": "9 Wedding After-Party Mini Dresses for Brides That Were Made to Dance All Night",
-      "link": "https://www.azafashions.com/blog/after-party-mini-dresses-for-bride/?utm_source=rss&utm_medium=rss&utm_campaign=after-party-mini-dresses-for-bride",
-      "summary": "American weddings are no longer one-and-done affairs, especially for the bride. The after-party has officially become the moment where you swap formal elegance for full-on celebration. After hours of photos,&#8230; The post 9 Wedding After-Party Mini Dresses for Brides That Were Made to Dance All Night appeared first o",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: 9 Wedding After-Party Mini Dresses for Brides That Were Made to Dance All Night — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-04-21T01:01:00+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "japan",
+      "term": "nirmala sitharaman idbi stake sale",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sonam kapoor",
+      "term": "mitchell starc ipl",
+      "summary": "",
+      "aza_category": "Celebrity Style"
+    },
+    {
+      "term": "adani green share price",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "शामली",
+      "term": "रुतुराज गायकवाड़",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "microsoft voluntary retirement",
+      "term": "२४ अप्रैल",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "karnataka sslc examination",
+      "term": "हावड़ा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "arrest",
+      "term": "ಹಾರ್ದಿಕ್ ಪಾಂಡ್ಯ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "rakesh bedi dhurandhar bonus",
+      "term": "hindustan zinc share price",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "assassin creed black flag resynced",
+      "term": "stock",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "వాణిజ్యం",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "पूजा ददलानी",
+      "term": "dhurandhar film",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

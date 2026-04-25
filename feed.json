@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T08:53:59.585710+00:00",
+  "generated_at": "2026-04-25T11:40:46.762365+00:00",
   "owned_count": 10,
   "competitor_count": 20,
   "industry_count": 163,
@@ -8,6 +8,76 @@
     "US": 1791
   },
   "articles": [
+    {
+      "id": "117be462ac13",
+      "title": "The Devils of Street Style Wear Prada",
+      "link": "https://www.vogue.com/article/prada-in-street-style-history",
+      "summary": "One thing about the fashion crowd is that everyone’s bound to own a piece of Prada or two. See how street stylers wear their Prada from 2015 to today.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Devils of Street Style Wear Prada...",
+      "score": 3,
+      "published": "2026-04-25T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9ec49f0a7cd0",
+      "title": "How to Style Sage Green—Spring’s Most Grounding Hue",
+      "link": "https://www.vogue.com/article/how-to-style-sage-green",
+      "summary": "Sage—as seen on the runways of Dior, Kallmeyer, Alaïa, and Jil Sander—brings a soft touch to spring dressing. Here’s how to style sage green for the season.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How to Style Sage Green—Spring’s Most Grounding Hue...",
+      "score": 4,
+      "published": "2026-04-25T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8e6fe8a7f3f2",
+      "title": "19 Best Hawaii Airbnbs for Your Next Tropical Island Adventure",
+      "link": "https://www.vogue.com/article/best-airbnbs-in-hawaii",
+      "summary": "From the Big Island to Oahu, here are the best Airbnbs in Hawaii for families, couples, and solo travelers alike.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 19 Best Hawaii Airbnbs for Your Next Tropical Island Adventure...",
+      "score": 0,
+      "published": "2026-04-25T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5ede780480a3",
+      "title": "The Highly Specific Way to Wear a T-Shirt in 2026 If You Want to Look Cool",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/layered-colorful-tshirt-trend-alexa-chung",
+      "summary": "Yes, as cool as Alexa Chung.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Highly Specific Way to Wear a T-Shirt in 2026 If You Want to Look ...",
+      "score": 1,
+      "published": "2026-04-25T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "38ba07b6e105",
+      "title": "15 Throwback Photos of a Young Renée Zellweger Before ‘Bridget Jones’",
+      "link": "https://www.vogue.com/slideshow/throwback-photos-of-renee-zellweger",
+      "summary": "Featuring minimalist slips, naked dressing, CBK-inspired staples, and her then-boyfriend Jim Carrey.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 15 Throwback Photos of a Young Renée Zellweger Before ‘Bridget Jones’...",
+      "score": 1,
+      "published": "2026-04-25T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "07f487c0fd35",
       "title": "From London to New York, It Girls Are Wearing the Runway Trend That’s Suddenly All Over H&M",
@@ -34,6 +104,20 @@
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 1,
       "published": "2026-04-25T08:19:42+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fcbf8a10ecb0",
+      "title": "I’ve Been Observing for 8 Weeks—These Are the Beauty Products It Girls Are Secretly Using Right Now",
+      "link": "https://www.whowhatwear.com/beauty/it-girl-beauty-products",
+      "summary": "From Vaseline to luxury French skincare.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I’ve Been Observing for 8 Weeks—These Are the Beauty Products It Girls...",
+      "score": 2,
+      "published": "2026-04-25T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -65,44 +149,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "fcbf8a10ecb0",
-      "title": "I’ve Been Observing for 8 Weeks—These Are the Beauty Products It Girls Are Secretly Using Right Now",
-      "link": "https://www.whowhatwear.com/beauty/it-girl-beauty-products",
-      "summary": "From Vaseline to luxury French skincare.",
+      "id": "fc6d9633c262",
+      "title": "I'm a Fashion Editor—7 Chic Heels I'm Styling With My Jeans This Spring",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-heels-to-wear-with-jeans-spring-2026",
+      "summary": "Elevate your outfit.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I’ve Been Observing for 8 Weeks—These Are the Beauty Products It Girls...",
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I'm a Fashion Editor—7 Chic Heels I'm Styling With My Jeans This Sprin...",
       "score": 2,
-      "published": "2026-04-25T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c8913dc254d8",
-      "title": "This 3-Piece Outfit Is Always Stylish—Every New York Fashion Person I Know Wears It",
-      "link": "https://www.whowhatwear.com/fashion/shopping/trench-coat-capris-kitten-heels-outfit",
-      "summary": "A perfect outfit formula.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: This 3-Piece Outfit Is Always Stylish—Every New York Fashion Person I ...",
-      "score": 3,
-      "published": "2026-04-25T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8569446f0f0a",
-      "title": "Every Chic French Woman Knows These 8 Items Make Outfits Look Expensive",
-      "link": "https://www.whowhatwear.com/fashion/basics/expensive-looking-french-wardrobe-basics",
-      "summary": "See (and shop) for yourself.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Every Chic French Woman Knows These 8 Items Make Outfits Look Expensiv...",
-      "score": 1,
       "published": "2026-04-25T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -135,16 +191,30 @@
       "discovered_via": "feed"
     },
     {
-      "id": "fc6d9633c262",
-      "title": "I'm a Fashion Editor—7 Chic Heels I'm Styling With My Jeans This Spring",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-heels-to-wear-with-jeans-spring-2026",
-      "summary": "Elevate your outfit.",
+      "id": "8569446f0f0a",
+      "title": "Every Chic French Woman Knows These 8 Items Make Outfits Look Expensive",
+      "link": "https://www.whowhatwear.com/fashion/basics/expensive-looking-french-wardrobe-basics",
+      "summary": "See (and shop) for yourself.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I'm a Fashion Editor—7 Chic Heels I'm Styling With My Jeans This Sprin...",
-      "score": 2,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Every Chic French Woman Knows These 8 Items Make Outfits Look Expensiv...",
+      "score": 1,
+      "published": "2026-04-25T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c8913dc254d8",
+      "title": "This 3-Piece Outfit Is Always Stylish—Every New York Fashion Person I Know Wears It",
+      "link": "https://www.whowhatwear.com/fashion/shopping/trench-coat-capris-kitten-heels-outfit",
+      "summary": "A perfect outfit formula.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: This 3-Piece Outfit Is Always Stylish—Every New York Fashion Person I ...",
+      "score": 3,
       "published": "2026-04-25T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -178,14 +248,14 @@
     },
     {
       "id": "2a953e5a3343",
-      "title": "Mark My Words—This Expensive-Looking M&S Dress Will Be Summer’s Viral Hit",
+      "title": "Mark My Words: This Expensive-Looking M&S Dress Will Be Summer’s Viral Hit",
       "link": "https://www.whowhatwear.com/fashion/shopping/pure-cotton-drop-waist-midi-waisted-dress",
-      "summary": "Find me a chicer dress.",
+      "summary": "Find me a more perfect dress.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Mark My Words—This Expensive-Looking M&S Dress Will Be Summer’s Viral ...",
+      "angle": "Fashion Intelligence: Mark My Words: This Expensive-Looking M&S Dress Will Be Summer’s Viral...",
       "score": 1,
       "published": "2026-04-25T06:55:00+00:00",
       "discovered_via": "feed"
@@ -1171,34 +1241,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3692b107ff11",
-      "title": "10 Best Nantucket Airbnbs for a Quintessential New England Getaway",
-      "link": "https://www.vogue.com/article/best-nantucket-airbnbs",
-      "summary": "Searching for the best Nantucket airbnbs? Here are some of our favorites that are close to both the beach and town.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 10 Best Nantucket Airbnbs for a Quintessential New England Getaway...",
-      "score": 0,
-      "published": "2026-04-24T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "60a32ac7e0de",
-      "title": "Is Vichy L’Oréal’s Next Billion-Euro Brand?",
-      "link": "https://www.vogue.com/article/is-vichy-loreals-next-billion-euro-brand",
-      "summary": "The L’Oréal-owned dermatological brand is betting on the men’s category and supplements to help reach €1 billion in annual revenue.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Is Vichy L’Oréal’s Next Billion-Euro Brand?...",
-      "score": 1,
-      "published": "2026-04-24T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7da6fb5ce273",
       "title": "Once Dated, This Antique Jewelry Trend Is Now Defining the Most-Wanted Pieces of 2026",
       "link": "https://www.whowhatwear.com/fashion/jewelry/georgian-set-jewelry-trend",
@@ -1213,20 +1255,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "904f20a31d4f",
-      "title": "The Vogue Business Beauty Trend Tracker",
-      "link": "https://www.vogue.com/article/the-vogue-business-beauty-tracker",
-      "summary": "Vogue Business brings you weekly exclusive data from Spate tracking historic growth across brands, trends and ingredients. Stay tuned as we spotlight a different beauty category each week.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-04-24T09:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2c3e353b88a1",
       "title": "Minimalists Agree: Knitwear Looks Chicest With This '90s Jeans Trend",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/jeans-navy-jumper-outfit-pamela-anderson-2026",
@@ -1238,20 +1266,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-04-24T09:29:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "339d78f6ea12",
-      "title": "I Love Barbra Streisand and Her Gorgeous Goyishe Guy, James Brolin",
-      "link": "https://www.vogue.com/article/i-want-what-they-have-barbra-streisand-and-james-brolin",
-      "summary": "Insanely enough, Streisand and Brolin’s relationship was the spark behind the Aerosmith song “I Don’t Want to Miss a Thing”.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Love Barbra Streisand and Her Gorgeous Goyishe Guy, James Brolin...",
-      "score": 0,
-      "published": "2026-04-24T09:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1311,6 +1325,48 @@
       "discovered_via": "feed"
     },
     {
+      "id": "3b2c0d76b5d2",
+      "title": "I Found It: The Anti-Jeans Pant Trend All the It Girls Will Wear for Summer 2026",
+      "link": "https://www.whowhatwear.com/fashion/trends/black-capri-pants-summer-2026",
+      "summary": "Bring on the stretchy pants.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-04-24T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "39d19edb7a13",
+      "title": "The Shoes, Sunglasses, and Bags Our Fashion Editors Consider Timeless",
+      "link": "https://www.whowhatwear.com/fashion/shopping/editor-favorite-timeless-signature-pieces",
+      "summary": "Forever pieces to wear for years to come.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Shoes, Sunglasses, and Bags Our Fashion Editors Consider Timeless...",
+      "score": 2,
+      "published": "2026-04-24T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e6b377c634f8",
+      "title": "The Summer Trends You'll See on Every UES Corner, From Bemelmans to the RL Mansion",
+      "link": "https://www.whowhatwear.com/fashion/trends/summer/upper-east-side-summer-trends-2026",
+      "summary": "Spotted.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-04-24T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "18d7ee3d436f",
       "title": "If You're Wearing One of These Spring 2026 Microtrends, You're Obviously a Fashion Person",
       "link": "https://www.whowhatwear.com/fashion/trends/best-spring-microtrends-2026",
@@ -1339,48 +1395,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3b2c0d76b5d2",
-      "title": "I Found It: The Anti-Jeans Pant Trend All the It Girls Will Wear for Summer 2026",
-      "link": "https://www.whowhatwear.com/fashion/trends/black-capri-pants-summer-2026",
-      "summary": "Bring on the stretchy pants.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-04-24T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e6b377c634f8",
-      "title": "The Summer Trends You'll See on Every UES Corner, From Bemelmans to the RL Mansion",
-      "link": "https://www.whowhatwear.com/fashion/trends/summer/upper-east-side-summer-trends-2026",
-      "summary": "Spotted.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-04-24T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "39d19edb7a13",
-      "title": "The Shoes, Sunglasses, and Bags Our Fashion Editors Consider Timeless",
-      "link": "https://www.whowhatwear.com/fashion/shopping/editor-favorite-timeless-signature-pieces",
-      "summary": "Forever pieces to wear for years to come.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Shoes, Sunglasses, and Bags Our Fashion Editors Consider Timeless...",
-      "score": 2,
-      "published": "2026-04-24T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "581f36f8f6ed",
       "title": "Sorry, French-Girl Style—The \"New\" New York Minimalism Is Our Latest Obsession",
       "link": "https://www.whowhatwear.com/fashion/trends/are-new-yorkers-the-new-french-girls",
@@ -1392,20 +1406,6 @@
       "angle": "Fashion Intelligence: Sorry, French-Girl Style—The \"New\" New York Minimalism Is Our Latest O...",
       "score": 1,
       "published": "2026-04-24T06:20:35+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "deecd8e4f581",
-      "title": "The New \"F\" Word: Are We Compromising Our Style for the Sake of Wearing Something \"Flattering\"?",
-      "link": "https://www.whowhatwear.com/fashion/flattering-fashion-2026",
-      "summary": "Flattered, I’m sure",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-04-24T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2585,6 +2585,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "5a4a889df609",
+      "title": "Summer Dresses: UK Style Guide for the Sun-Drenched Season",
+      "link": "https://www.azafashions.com/blog/summer-dresses-uk-style-guide/?utm_source=rss&utm_medium=rss&utm_campaign=summer-dresses-uk-style-guide",
+      "summary": "There is a sort of fleeting joy when the sky clears, and you finally step out in a dress made for the light.&#160;Whether you plan to lounge in a city&#8230; The post Summer Dresses: UK Style Guide for the Sun-Drenched Season appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-04-24T10:14:59+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "9e549fa0a70d",
       "title": "Graduation Season 2026: Stunning Outfits for Every Ceremony, Dinner & After-Party",
       "link": "https://www.azafashions.com/blog/graduation-outfits-2026-ceremony-dinner-after-party/?utm_source=rss&utm_medium=rss&utm_campaign=graduation-outfits-2026-ceremony-dinner-after-party",
@@ -2695,70 +2709,56 @@
       "score": 1,
       "published": "2026-04-21T15:25:23+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "938b567ce4ba",
-      "title": "Best Summer Fabrics Designers Actually Swear By to Beat the Heat",
-      "link": "https://www.azafashions.com/blog/best-summer-fabrics-designers-recommend/?utm_source=rss&utm_medium=rss&utm_campaign=best-summer-fabrics-designers-recommend",
-      "summary": "Summer dressing often looks brilliant on a mood board but completely falls apart the second you step outside. You layer a beautiful outfit, step into the sun, and suddenly find&#8230; The post Best Summer Fabrics Designers Actually Swear By to Beat the Heat appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Best Summer Fabrics Designers Actually Swear By to Beat the Heat...",
-      "score": 4,
-      "published": "2026-04-21T10:51:56+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "akshdeep nath",
+      "term": "ipl highest score",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "हरभजन सिंह",
+      "term": "bank holiday",
+      "summary": "",
+      "aza_category": "Occasion Dressing"
+    },
+    {
+      "term": "ipl highest run scorer",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hpcl",
+      "term": "റസൂല് പൂക്കുട്ടി",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "psssb",
+      "term": "kl rahul runs in ipl 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "lg",
+      "term": "शामली",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अपर्णा यादव",
+      "term": "अनुष्का शर्मा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "डिजायर",
+      "term": "ajitesh argal",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "stock",
+      "term": "मध्य प्रदेश",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बल्लेबाज़ी",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "gta6",
+      "term": "salim wastik",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

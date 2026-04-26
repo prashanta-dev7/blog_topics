@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T11:40:46.762365+00:00",
+  "generated_at": "2026-04-26T04:53:35.215486+00:00",
   "owned_count": 10,
   "competitor_count": 20,
   "industry_count": 163,
@@ -8,6 +8,216 @@
     "US": 1791
   },
   "articles": [
+    {
+      "id": "5897af17b357",
+      "title": "Fashion Editors Know a Zara Outfit Hits Differently—Here Are 9 Stylish Looks I Love",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-spring-zara-outfits-april-2026",
+      "summary": "Chic outfits for the warmer months ahead.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Fashion Editors Know a Zara Outfit Hits Differently—Here Are 9 Stylish...",
+      "score": 2,
+      "published": "2026-04-26T04:50:13+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "94dded3bfb1d",
+      "title": "The Story Behind Kate Middleton’s Rare Jewels as She Steps Out Solo for Anzac Day",
+      "link": "https://www.vogue.com/article/kate-middleton-anzac-day-memorial-service-london-jewelry",
+      "summary": "Jewelry is often imbued with sentimental, personal meaning for Catherine, Princess of Wales. Stepping out at the Cenotaph, the royal gave sartorial nods to both her husband and Princess Diana.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Story Behind Kate Middleton’s Rare Jewels as She Steps Out Solo fo...",
+      "score": 0,
+      "published": "2026-04-25T22:27:45+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "45eea04deae4",
+      "title": "I'm a 22-year-old Fashion Editor Who's Obsessed with the '80s—Here's How I Styled Agolde's Retro-Inspired Denim",
+      "link": "https://www.whowhatwear.com/fashion/shopping/agolde-80s-jean-try-on-2026",
+      "summary": "Spoiler: It's simple, classic, and a real timesaver.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I'm a 22-year-old Fashion Editor Who's Obsessed with the '80s—Here's H...",
+      "score": 2,
+      "published": "2026-04-25T20:53:22+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "27aa511130bf",
+      "title": "All of Anne Hathaway’s Fashion Moments From The Devil Wears Prada 2 Press Tour",
+      "link": "https://www.harpersbazaar.com/celebrity/red-carpet-dresses/a70897784/anne-hathaway-the-devil-wears-prada-2-press-tour-looks-style/",
+      "summary": "From nostalgic references to high-fashion statements",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: All of Anne Hathaway’s Fashion Moments From The Devil Wears Prada 2 Pr...",
+      "score": 2,
+      "published": "2026-04-25T19:09:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "860c36f32833",
+      "title": "Leighton Meester and Chace Crawford Reunite in Los Angeles 14 Years After Gossip Girl Wrapped",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a71126818/leighton-meester-chace-crawford-gossip-girl-reunion-los-angeles/",
+      "summary": "SPOTTED: Queen B and Golden Boy together again",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Leighton Meester and Chace Crawford Reunite in Los Angeles 14 Years Af...",
+      "score": 0,
+      "published": "2026-04-25T18:36:30+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e25825701b1b",
+      "title": "Rs 299 dress on Facebook turns into Rs 1 lakh scam for Mumbai nurse",
+      "link": "https://www.indiatoday.in/india/story/facebook-dress-scam-mumbai-nurse-loses-rs-1-lakh-over-rs-299-online-offer-2901581-2026-04-25?utm_source=rss",
+      "summary": "Rs 299 dress on Facebook turns into Rs 1 lakh scam for Mumbai nurse",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Rs 299 dress on Facebook turns into Rs 1 lakh scam for Mumbai nurse...",
+      "score": 1,
+      "published": "2026-04-25T18:17:55+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ef2367940f6a",
+      "title": "Kylie Jenner Is the Coolest Cat Mom Ever in a Strapless 2010s Gucci Bodysuit",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a71126610/kylie-jenner-strapless-cut-out-spring-2010-gucci-swimsuit/",
+      "summary": "Slashed with silver hardware",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Kylie Jenner Is the Coolest Cat Mom Ever in a Strapless 2010s Gucci Bo...",
+      "score": 0,
+      "published": "2026-04-25T17:20:57+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d764e38d6d48",
+      "title": "Rihanna Celebrates Her Fenty Beauty Mumbai Launch With Yellow Chartreuse, Black Snakeskin, and Tonal Dressing Galore",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a71126350/rihanna-celebrates-fenty-beauty-mumbai-launch-style-streak-chartreuse-yellow-mugler-black-snakeskin-alaia/",
+      "summary": "A little Mugler, a little Alaïa",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 3,
+      "published": "2026-04-25T15:24:56+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b6fe9845f689",
+      "title": "A Major Star Has Already Checked Out Of The White Lotus Season 4",
+      "link": "https://www.vogue.com/article/everything-we-know-so-far-about-the-white-lotus-season-4",
+      "summary": "More news on the residents of Mike White’s sun-soaked satire has landed. Here’s absolutely everything we know so far about “The White Lotus”’s upcoming fourth season.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-04-25T14:42:05+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "603a10013ed8",
+      "title": "Beauty Marks: The Best Beauty Looks of the Week",
+      "link": "https://www.vogue.com/slideshow/best-beauty-looks-of-the-week-april-25",
+      "summary": "From Tyla and Zara Larsson’s sparkly music video glam to Ashley Graham and Uma Jammeh’s high-gloss hair—this week in celebrity beauty embraced the glow of a summer-to-come.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Beauty Marks: The Best Beauty Looks of the Week...",
+      "score": 2,
+      "published": "2026-04-25T14:36:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bd4a51a6abd9",
+      "title": "Princess Kate’s New Navy-Blue Dress Looks Made for a Royal",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a71126184/kate-middleton-new-navy-blue-dress-anzac-day/",
+      "summary": "The Princess of Wales commemorates ANZAC Day alongside Princess Anne",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Princess Kate’s New Navy-Blue Dress Looks Made for a Royal...",
+      "score": 1,
+      "published": "2026-04-25T13:57:49+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8feabc712e18",
+      "title": "Confectioner tied up, hands mutilated with grinder over wedding dues in Delhi",
+      "link": "https://www.indiatoday.in/india/story/delhi-halwai-attack-man-injured-with-power-grinder-in-dwarka-payment-dispute-2901529-2026-04-25?utm_source=rss",
+      "summary": "Confectioner tied up, hands mutilated with grinder over wedding dues in Delhi",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Confectioner tied up, hands mutilated with grinder over wedding dues in Delhi — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-04-25T13:06:30+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "276a14075ee8",
+      "title": "These Aren't \"Wedding Dresses,\" But I'm a Fashion Editor, and I'd Get Married in Every Single One",
+      "link": "https://www.whowhatwear.com/living/wedding/ready-to-wear-bridal-looks",
+      "summary": "From Cult Gaia to Khaite.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: These Aren't \"Wedding Dresses,\" But I'm a Fashion Editor, and I'd Get Married in Every Single One — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-04-25T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6ebfc613bc41",
+      "title": "Poplin Skirts Are Nice, But in Spring 2026, It Girls Are Wearing This Easy Pant Trend With Flip-Flops",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/flip-flops-drawstring-pants-outfit-elsa-hosk",
+      "summary": "Elsa Hosk approves.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-04-25T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "61da19ec48d7",
+      "title": "ICYMI: Ulta Beauty World's Impact on Emerging Brands, SCAD's New Dior Exhibit & Gap and Victoria Beckham Announce Multi-Season Collaboration",
+      "link": "https://fashionista.com/2026/04/fashion-news-you-need-to-know-april-25",
+      "summary": "A must-read roundup of our most popular stories of the week.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-04-25T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "117be462ac13",
       "title": "The Devils of Street Style Wear Prada",
@@ -93,20 +303,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "37b2cf51d8fc",
-      "title": "Colgate, coolgate: BRS takes veiled dig at K Kavitha after her party launch",
-      "link": "https://www.indiatoday.in/india/story/k-chandrashekhar-rao-bharat-rashtra-samiti-dig-k-kavitha-own-party-telangana-rashtra-sena-trs-brs-2901399-2026-04-25?utm_source=rss",
-      "summary": "Colgate, coolgate: BRS takes veiled dig at K Kavitha after her party launch",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-04-25T08:19:42+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "fcbf8a10ecb0",
       "title": "I’ve Been Observing for 8 Weeks—These Are the Beauty Products It Girls Are Secretly Using Right Now",
       "link": "https://www.whowhatwear.com/beauty/it-girl-beauty-products",
@@ -149,16 +345,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "fc6d9633c262",
-      "title": "I'm a Fashion Editor—7 Chic Heels I'm Styling With My Jeans This Spring",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-heels-to-wear-with-jeans-spring-2026",
-      "summary": "Elevate your outfit.",
+      "id": "c3bcae4bb05b",
+      "title": "It's Already Summer at Zara—29 Trendy Items I Know Will Sell Out in 2 Weeks Flat",
+      "link": "https://www.whowhatwear.com/fashion/summer/trendy/zara/items/summer/2026",
+      "summary": "I'm not the betting kind.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I'm a Fashion Editor—7 Chic Heels I'm Styling With My Jeans This Sprin...",
-      "score": 2,
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
       "published": "2026-04-25T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -177,20 +373,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c3bcae4bb05b",
-      "title": "It's Already Summer at Zara—29 Trendy Items I Know Will Sell Out in 2 Weeks Flat",
-      "link": "https://www.whowhatwear.com/fashion/summer/trendy/zara/items/summer/2026",
-      "summary": "I'm not the betting kind.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-04-25T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "8569446f0f0a",
       "title": "Every Chic French Woman Knows These 8 Items Make Outfits Look Expensive",
       "link": "https://www.whowhatwear.com/fashion/basics/expensive-looking-french-wardrobe-basics",
@@ -205,20 +387,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c8913dc254d8",
-      "title": "This 3-Piece Outfit Is Always Stylish—Every New York Fashion Person I Know Wears It",
-      "link": "https://www.whowhatwear.com/fashion/shopping/trench-coat-capris-kitten-heels-outfit",
-      "summary": "A perfect outfit formula.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: This 3-Piece Outfit Is Always Stylish—Every New York Fashion Person I ...",
-      "score": 3,
-      "published": "2026-04-25T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "1a83fe6b8071",
       "title": "Inside the Buzzy Hotel Fashion People Living in L.A. Will Be Booking This Year",
       "link": "https://www.whowhatwear.com/living/travel/four-seasons-cabo-del-sol-review",
@@ -229,6 +397,34 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Inside the Buzzy Hotel Fashion People Living in L.A. Will Be Booking T...",
       "score": 1,
+      "published": "2026-04-25T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fc6d9633c262",
+      "title": "I'm a Fashion Editor—7 Chic Heels I'm Styling With My Jeans This Spring",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-heels-to-wear-with-jeans-spring-2026",
+      "summary": "Elevate your outfit.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I'm a Fashion Editor—7 Chic Heels I'm Styling With My Jeans This Sprin...",
+      "score": 2,
+      "published": "2026-04-25T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c8913dc254d8",
+      "title": "This 3-Piece Outfit Is Always Stylish—Every New York Fashion Person I Know Wears It",
+      "link": "https://www.whowhatwear.com/fashion/shopping/trench-coat-capris-kitten-heels-outfit",
+      "summary": "A perfect outfit formula.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: This 3-Piece Outfit Is Always Stylish—Every New York Fashion Person I ...",
+      "score": 3,
       "published": "2026-04-25T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -258,20 +454,6 @@
       "angle": "Fashion Intelligence: Mark My Words: This Expensive-Looking M&S Dress Will Be Summer’s Viral...",
       "score": 1,
       "published": "2026-04-25T06:55:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8d768aa539bc",
-      "title": "Video: BJP accuses Kejriwal of abandoning party principles over lavish lifestyle",
-      "link": "https://www.indiatoday.in/india/video/bjp-attacks-aap-arvind-kejriwal-lodhi-road-bungalow-parvesh-verma-2901359-2026-04-25?utm_source=rss",
-      "summary": "Video: BJP accuses Kejriwal of abandoning party principles over lavish lifestyle",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Video: BJP accuses Kejriwal of abandoning party principles over lavish...",
-      "score": 1,
-      "published": "2026-04-25T06:47:23+00:00",
       "discovered_via": "feed"
     },
     {
@@ -331,20 +513,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ddc8ba1fc9b2",
-      "title": "The Most Fashionable People Are All Wearing These 6 Trends Between Spring and Summer",
-      "link": "https://www.whowhatwear.com/fashion/trends/spring-summer-transitional-trends-2026",
-      "summary": "Your segue into summer.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-04-25T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a993837c120d",
       "title": "*Not* a White Blouse—This Timeless Colour Is Much Chicer and Just as Versatile",
       "link": "https://www.whowhatwear.com/fashion/tops/best-black-blouses-2026",
@@ -359,17 +527,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b6d26d869f33",
-      "title": "K Kavitha launches her own party in Telangana months after being suspended from BRS",
-      "link": "https://www.indiatoday.in/india/telangana/story/k-kavitha-launches-her-own-political-party-in-telangana-months-after-being-suspended-from-brs-2901334-2026-04-25?utm_source=rss",
-      "summary": "K Kavitha launches her own party in Telangana months after being suspended from BRS",
-      "source": "India Today Fashion",
+      "id": "ddc8ba1fc9b2",
+      "title": "The Most Fashionable People Are All Wearing These 6 Trends Between Spring and Summer",
+      "link": "https://www.whowhatwear.com/fashion/trends/spring-summer-transitional-trends-2026",
+      "summary": "Your segue into summer.",
+      "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-04-25T04:57:52+00:00",
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-04-25T05:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -429,20 +597,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "bbd96a63daa0",
-      "title": "Thongs! Fishnets! Platforms! ‘The Rocky Horror Show’ Celebrated Its Broadway Revival with a Glitzy Opening Night",
-      "link": "https://www.vogue.com/slideshow/the-rocky-horror-show-opening-night",
-      "summary": "On Thursday night, the Roundabout Theatre Company’s highly anticipated revival of “The Rocky Horror Show” opened at New York’s storied Studio 54—with Tony-winning Oh, Mary! director Sam Pinkleton at the helm and an all-star cast.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Thongs! Fishnets! Platforms! ‘The Rocky Horror Show’ Celebrated Its Br...",
-      "score": 1,
-      "published": "2026-04-24T22:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "cce9bac0a46c",
       "title": "Here’s Everything Coming to Netflix in May 2026",
       "link": "https://www.vogue.com/article/everything-coming-to-netflix-may-2026",
@@ -453,6 +607,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Here’s Everything Coming to Netflix in May 2026...",
       "score": 0,
+      "published": "2026-04-24T22:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bbd96a63daa0",
+      "title": "Thongs! Fishnets! Platforms! ‘The Rocky Horror Show’ Celebrated Its Broadway Revival with a Glitzy Opening Night",
+      "link": "https://www.vogue.com/slideshow/the-rocky-horror-show-opening-night",
+      "summary": "On Thursday night, the Roundabout Theatre Company’s highly anticipated revival of “The Rocky Horror Show” opened at New York’s storied Studio 54—with Tony-winning Oh, Mary! director Sam Pinkleton at the helm and an all-star cast.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Thongs! Fishnets! Platforms! ‘The Rocky Horror Show’ Celebrated Its Br...",
+      "score": 1,
       "published": "2026-04-24T22:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -500,7 +668,7 @@
     },
     {
       "id": "74ecafc8b305",
-      "title": "The \"Dated\" Jeans Trend Millennials Used to Love Is Now Being Adopted By Gen Z Fashion Girls",
+      "title": "The \"Dated\" Jean Trend Millennials Used to Love Is Now Being Adopted by Gen Z Fashion Girls",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/light-wash-bootcut-jeans-trend-sadie-sink",
       "summary": "We love a nostalgic fashion trend.",
       "source": "Who What Wear",
@@ -650,6 +818,20 @@
       "angle": "Fashion Intelligence: French Blending Is the Low-Maintenance Answer to Embracing Your Gray H...",
       "score": 0,
       "published": "2026-04-24T19:07:35+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "87145d4966fa",
+      "title": "92 Thoughts I Had While Rewatching The Devil Wears Prada",
+      "link": "https://www.vogue.com/article/92-thoughts-i-had-while-rewatching-the-devil-wears-prada",
+      "summary": "I unironically think “Just deal with it, you have to be here” to myself every time I’m stuck in a work obligation I’d like to leave, and honestly, it helps!",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 92 Thoughts I Had While Rewatching The Devil Wears Prada...",
+      "score": 1,
+      "published": "2026-04-24T19:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1185,20 +1367,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "512a6a99e1d9",
-      "title": "Here Are the 2026 LVMH Prize Finalists",
-      "link": "https://www.vogue.com/article/here-are-the-2026-lvmh-prize-finalists",
-      "summary": "In September, nine finalists will present to the jury of experts to determine the winners of the LVMH Prize, Karl Lagerfeld Prize, and Savoir-Faire Prize.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Here Are the 2026 LVMH Prize Finalists...",
-      "score": 0,
-      "published": "2026-04-24T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f923aea10819",
       "title": "My 59-Year-Old Mum and I Went to Zara, COS and M&S—15 Designer-Looking Pieces We Both Loved",
       "link": "https://www.whowhatwear.com/fashion/affordable/over-50-zara-cos-marks-and-spencer-edit-summer-2026",
@@ -1210,34 +1378,6 @@
       "angle": "Fashion Intelligence: My 59-Year-Old Mum and I Went to Zara, COS and M&S—15 Designer-Looking...",
       "score": 1,
       "published": "2026-04-24T10:52:38+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5ab27753890b",
-      "title": "Taraji P. Henson’s Next Act",
-      "link": "https://www.vogue.com/article/taraji-p-henson-joe-turners-come-and-gone-interview",
-      "summary": "At the Ethel Barrymore Theatre in New York, Henson is making her Broadway debut as Bertha Holly in August Wilson’s “Joe Turner’s Come and Gone”—and not a moment too soon.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Taraji P. Henson’s Next Act...",
-      "score": 0,
-      "published": "2026-04-24T10:45:27+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8aa92798a29a",
-      "title": "30+ Summer Wedding Guest Dresses That'll Ensure You’re the Chicest Attendee",
-      "link": "https://www.vogue.com/slideshow/summer-wedding-guest-dresses",
-      "summary": "For the best summer wedding guest dresses, look no further—we’ve rounded up options at every price point from Ulla Johnson, Staud, and more.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: 30+ Summer Wedding Guest Dresses That'll Ensure You’re the Chicest Attendee — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-04-24T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1350,62 +1490,6 @@
       "angle": "Fashion Intelligence: The Shoes, Sunglasses, and Bags Our Fashion Editors Consider Timeless...",
       "score": 2,
       "published": "2026-04-24T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e6b377c634f8",
-      "title": "The Summer Trends You'll See on Every UES Corner, From Bemelmans to the RL Mansion",
-      "link": "https://www.whowhatwear.com/fashion/trends/summer/upper-east-side-summer-trends-2026",
-      "summary": "Spotted.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-04-24T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "18d7ee3d436f",
-      "title": "If You're Wearing One of These Spring 2026 Microtrends, You're Obviously a Fashion Person",
-      "link": "https://www.whowhatwear.com/fashion/trends/best-spring-microtrends-2026",
-      "summary": "Cooler outfits ahead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 4,
-      "published": "2026-04-24T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "353f20bed954",
-      "title": "I've Nailed It: These Are the 5 Pretty Top Styles to Wear With Jeans RN",
-      "link": "https://www.whowhatwear.com/fashion/tops/best-pretty-tops-to-wear-with-jeans",
-      "summary": "A classic combo.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I've Nailed It: These Are the 5 Pretty Top Styles to Wear With Jeans R...",
-      "score": 2,
-      "published": "2026-04-24T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "581f36f8f6ed",
-      "title": "Sorry, French-Girl Style—The \"New\" New York Minimalism Is Our Latest Obsession",
-      "link": "https://www.whowhatwear.com/fashion/trends/are-new-yorkers-the-new-french-girls",
-      "summary": "CBK style 2.0.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Sorry, French-Girl Style—The \"New\" New York Minimalism Is Our Latest O...",
-      "score": 1,
-      "published": "2026-04-24T06:20:35+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1633,20 +1717,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f312a0647a11",
-      "title": "Kensington Palace Shares Adorable Posts of Prince Louis for His Eighth Birthday",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a71107078/prince-louis-eighth-birthday-royal-portrait-video-seaside-vacation/",
-      "summary": "“Thank you for all the birthday wishes for Prince Louis. 8 is great!”",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Kensington Palace Shares Adorable Posts of Prince Louis for His Eighth...",
-      "score": 0,
-      "published": "2026-04-23T13:39:41+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "8613485b2082",
       "title": "The Fashion Brands Most Vulnerable to Counterfeiting in 2026",
       "link": "https://fashionista.com/2026/04/entrupy-state-of-fake-report-2026-fashion-brands-authentication-counterfeit",
@@ -1661,20 +1731,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "72fd20a78481",
-      "title": "Chloë Sevigny Says She “Never Felt Pretty”",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a71099659/chloe-sevigny-never-felt-pretty-quote-cover-interview/",
-      "summary": "The actor and beloved fashion It girl gets real about beauty standards and aging in Hollywood, with Harper’s Bazaar",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Chloë Sevigny Says She “Never Felt Pretty”...",
-      "score": 2,
-      "published": "2026-04-23T12:06:49+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "49c0b1045796",
       "title": "Danielle Guizio Wants Her Brand to Be a 'One-Stop Shop' for Customers",
       "link": "https://fashionista.com/2026/04/danielle-guizio-handbag-launch",
@@ -1686,48 +1742,6 @@
       "angle": "Fashion Intelligence: Danielle Guizio Wants Her Brand to Be a 'One-Stop Shop' for Customers...",
       "score": 2,
       "published": "2026-04-23T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c857999b0fc6",
-      "title": "The Real Deal",
-      "link": "https://www.harpersbazaar.com/culture/film-tv/a71016638/chloe-sevigny-the-five-star-weekend-interview-2026/",
-      "summary": "For three decades, Chloë Sevigny has cut a singular path, both on screen and in fashion, building a body of work that feels as unexpected as it does authentically her own",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Real Deal...",
-      "score": 1,
-      "published": "2026-04-23T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d71437252d22",
-      "title": "Invited to a Million Weddings This Spring and Summer? Here’s What to Wear",
-      "link": "https://www.harpersbazaar.com/fashion/trends/a71017764/spring-wedding-guest-outfits/",
-      "summary": "Cue the compliments",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Invited to a Million Weddings This Spring and Summer? Here’s What to Wear — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-04-22T21:16:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e90644ec2062",
-      "title": "It’s Time to Stop Wearing All Black",
-      "link": "https://www.harpersbazaar.com/fashion/a71015919/why-dont-you-april-2026/",
-      "summary": "And other tips for making April a more satisfying fashion month",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-04-22T20:50:21+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2277,20 +2291,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "109bd376a7e5",
-      "title": "Weekly Drop Watch: Alo Newness, Staud Home, Levi's x Bode and More",
-      "link": "https://fashionista.com/2026/04/best-fashion-beauty-launches-collabs-april-10",
-      "summary": "Shop the best of this week’s fashion and beauty launches.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Weekly Drop Watch: Alo Newness, Staud Home, Levi's x Bode and More...",
-      "score": 3,
-      "published": "2026-04-10T15:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "9b95b4e86bb6",
       "title": "Rinkal Jain’s Red Varmala Lehenga Moment in Bangalore",
       "link": "https://blog.kalkifashion.com/rinkal-jains-red-varmala-lehenga-moment-in-bangalore/",
@@ -2571,6 +2571,48 @@
       "discovered_via": "feed"
     },
     {
+      "id": "e581f021b4d6",
+      "title": "Did You Know Chikankari Takes Up to 6 Months to Embroider by Hand?",
+      "link": "https://www.azafashions.com/blog/chikankari-takes-up-to-6-months-to-embroider/?utm_source=rss&utm_medium=rss&utm_campaign=chikankari-takes-up-to-6-months-to-embroider",
+      "summary": "When you hold a piece of delicate fabric adorned with fine white threads, it feels weightless and effortless, as if the patterns simply floated onto the cloth. Yet, this striking lightness&#8230; The post Did You Know Chikankari Takes Up to 6 Months to Embroider by Hand? appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Did You Know Chikankari Takes Up to 6 Months to Embroider by Hand?...",
+      "score": 0,
+      "published": "2026-04-25T23:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dda7c0e70d32",
+      "title": "Know Your Designer – Episode 43: Balance by Rohit Bal",
+      "link": "https://www.azafashions.com/blog/know-your-designer-balance-by-rohit-bal/?utm_source=rss&utm_medium=rss&utm_campaign=know-your-designer-balance-by-rohit-bal",
+      "summary": "If you love the grandeur of Indian couture but crave something lighter for everyday wear, a new chapter in designer fashion awaits you. Balance by Rohit Bal stands out as a premier&#8230; The post Know Your Designer – Episode 43: Balance by Rohit Bal appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Know Your Designer – Episode 43: Balance by Rohit Bal...",
+      "score": 4,
+      "published": "2026-04-25T22:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fd8e58a9787d",
+      "title": "Bridal Notes: Steal Shreya Ghoshal’s Most Exquisite Indian Looks for Your Wedding Season",
+      "link": "https://www.azafashions.com/blog/shreya-ghoshal-inspired-outfits-for-brides/?utm_source=rss&utm_medium=rss&utm_campaign=shreya-ghoshal-inspired-outfits-for-brides",
+      "summary": "Shreya Ghoshal&#160;needs no introduction. Her voice has been the emotional backbone of Bollywood for over two decades — tender, timeless, and breathtaking. But away from the microphone,&#160;there's&#160;another art form Shreya&#8230; The post Bridal Notes: Steal Shreya Ghoshal&#8217;s Most Exquisite Indian Looks for ",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Bridal Notes — A Complete Style Guide",
+      "score": 4,
+      "published": "2026-04-25T18:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "eea8d9749990",
       "title": "How Aza’s Virtual Try-On Is Changing the Way We Shop for Designer Wear Online",
       "link": "https://www.azafashions.com/blog/aza-virtual-try-on/?utm_source=rss&utm_medium=rss&utm_campaign=aza-virtual-try-on",
@@ -2667,98 +2709,56 @@
       "score": 2,
       "published": "2026-04-22T10:43:10+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "99c4ed107643",
-      "title": "The Right Earrings for Every Event on Your Calendar",
-      "link": "https://www.azafashions.com/blog/the-right-earrings-for-every-event/?utm_source=rss&utm_medium=rss&utm_campaign=the-right-earrings-for-every-event",
-      "summary": "Your calendar is packed with plans. Between casual weekend brunches, high-stakes office presentations, and grand evening weddings, figuring out what to wear can feel like a part-time job. Fortunately, the&#8230; The post The Right Earrings for Every Event on Your Calendar appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Right Earrings for Every Event on Your Calendar...",
-      "score": 2,
-      "published": "2026-04-22T09:27:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "30052a39fc9f",
-      "title": "Vidya Balan’s Red Anarkali Look Celebrates Traditional Indian Craftsmanship",
-      "link": "https://www.azafashions.com/blog/vidya-balan-in-mrunalini-rao/?utm_source=rss&utm_medium=rss&utm_campaign=vidya-balan-in-mrunalini-rao",
-      "summary": "Vidya Balan has long been a loyalist of Indian ethnic wear, and her recent appearance at the trailer launch of Raja Shivaji stayed true to that signature aesthetic. Dolled up in a deep red anarkali by Mrunalini Rao, the actor&#8230; The post Vidya Balan’s Red Anarkali Look Celebrates Traditional Indian Craftsmanship ap",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
-      "score": 6,
-      "published": "2026-04-21T17:17:16+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d29424212c3b",
-      "title": "Aza Influencer Spotlight: Sachin Anand’s Ivory and Gold Sherwani Is Pure Royal Goals",
-      "link": "https://www.azafashions.com/blog/aza-influencer-spotlight-sachin-anand/?utm_source=rss&utm_medium=rss&utm_campaign=aza-influencer-spotlight-sachin-anand",
-      "summary": "In a digital space often driven by excess, Sachin Anand has built his presence on something far more enduring — discipline, intention, and authenticity. A fitness coach by profession and a passionate advocate for sustainable&#8230; The post Aza Influencer Spotlight: Sachin Anand’s Ivory and Gold Sherwani Is Pure Royal ",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Art & Craft",
-      "angle": "Fashion Intelligence: Aza Influencer Spotlight: Sachin Anand’s Ivory and Gold Sherwani Is Pu...",
-      "score": 1,
-      "published": "2026-04-21T15:25:23+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "ipl highest score",
+      "term": "உலக சாதனை",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bank holiday",
-      "summary": "",
-      "aza_category": "Occasion Dressing"
-    },
-    {
-      "term": "ipl highest run scorer",
+      "term": "amit shah",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "റസൂല് പൂക്കുട്ടി",
+      "term": "పాట్ కమ్మిన్స్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "kl rahul runs in ipl 2026",
+      "term": "israel iran war",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "शामली",
+      "term": "taarak mehta ka ooltah chashmah",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अनुष्का शर्मा",
+      "term": "రియాన్ పరాగ్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ajitesh argal",
+      "term": "ఈనాడు రాశి ఫలాలు",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "मध्य प्रदेश",
+      "term": "ashu reddy",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "salim wastik",
+      "term": "bajaj broking",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "vancouver vs colorado",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

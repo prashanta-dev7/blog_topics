@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-04-27T07:35:41.511884+00:00",
+  "generated_at": "2026-04-27T10:16:17.232368+00:00",
   "owned_count": 10,
   "competitor_count": 20,
-  "industry_count": 158,
+  "industry_count": 157,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
     {
-      "id": "8285732f0e8d",
-      "title": "The 35 Best Spring Wedding Guest Dresses Under $500, According to a Bridal Stylist",
-      "link": "https://www.whowhatwear.com/fashion/dresses/best-spring-wedding-guest-dresses-anny-choi",
-      "summary": "After the RSVP comes the outfit.",
-      "source": "Who What Wear",
+      "id": "e8c9e5c2ef5e",
+      "title": "50+ Best Raffia Bags to Carry All Season Long",
+      "link": "https://www.vogue.com/slideshow/best-raffia-bags",
+      "summary": "Nothing screams chic spring style quite like the best raffia bags. Shop our favorites from Khaite, The Row, Toteme, Hunting Season, and more.",
+      "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: The 35 Best Spring Wedding Guest Dresses Under $500, According to a Bridal Stylist — A Complete Style Guide",
-      "score": 4,
-      "published": "2026-04-27T07:00:00+00:00",
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-04-27T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,6 +33,20 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: 4 Hours of Scrolling Later—These Are the Best Sandals From Ref, Zara, ...",
       "score": 1,
+      "published": "2026-04-27T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8285732f0e8d",
+      "title": "The 35 Best Spring Wedding Guest Dresses Under $500, According to a Bridal Stylist",
+      "link": "https://www.whowhatwear.com/fashion/dresses/best-spring-wedding-guest-dresses-anny-choi",
+      "summary": "After the RSVP comes the outfit.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: The 35 Best Spring Wedding Guest Dresses Under $500, According to a Bridal Stylist — A Complete Style Guide",
+      "score": 4,
       "published": "2026-04-27T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -359,20 +373,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8d94bea011c4",
-      "title": "Eagle Eye on… Modernism",
-      "link": "https://www.vogue.com/article/eagle-eye-modernism",
-      "summary": "Designer and creative director Alex Eagle on why modernism feels so current—and how to bring the design movement home.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Eagle Eye on… Modernism...",
-      "score": 1,
-      "published": "2026-04-26T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f5ab7ff52402",
       "title": "25 Silver Sneakers to Wear This Spring",
       "link": "https://www.vogue.com/article/silver-sneakers",
@@ -382,6 +382,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: 25 Silver Sneakers to Wear This Spring...",
+      "score": 1,
+      "published": "2026-04-26T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8d94bea011c4",
+      "title": "Eagle Eye on… Modernism",
+      "link": "https://www.vogue.com/article/eagle-eye-modernism",
+      "summary": "Designer and creative director Alex Eagle on why modernism feels so current—and how to bring the design movement home.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Eagle Eye on… Modernism...",
       "score": 1,
       "published": "2026-04-26T10:00:00+00:00",
       "discovered_via": "feed"
@@ -695,20 +709,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "117be462ac13",
-      "title": "The Devils of Street Style Wear Prada",
-      "link": "https://www.vogue.com/article/prada-in-street-style-history",
-      "summary": "One thing about the fashion crowd is that everyone’s bound to own a piece of Prada or two. See how street stylers wear their Prada from 2015 to today.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Devils of Street Style Wear Prada...",
-      "score": 3,
-      "published": "2026-04-25T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "9ec49f0a7cd0",
       "title": "How to Style Sage Green—Spring’s Most Grounding Hue",
       "link": "https://www.vogue.com/article/how-to-style-sage-green",
@@ -719,6 +719,20 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: How to Style Sage Green—Spring’s Most Grounding Hue...",
       "score": 4,
+      "published": "2026-04-25T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "117be462ac13",
+      "title": "The Devils of Street Style Wear Prada",
+      "link": "https://www.vogue.com/article/prada-in-street-style-history",
+      "summary": "One thing about the fashion crowd is that everyone’s bound to own a piece of Prada or two. See how street stylers wear their Prada from 2015 to today.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Devils of Street Style Wear Prada...",
+      "score": 3,
       "published": "2026-04-25T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -863,16 +877,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c8913dc254d8",
-      "title": "This 3-Piece Outfit Is Always Stylish—Every New York Fashion Person I Know Wears It",
-      "link": "https://www.whowhatwear.com/fashion/shopping/trench-coat-capris-kitten-heels-outfit",
-      "summary": "A perfect outfit formula.",
+      "id": "d29068007c32",
+      "title": "My Friend Asked Which Accessories Will Be Trending This Season—No Doubt, These 6 Will",
+      "link": "https://www.whowhatwear.com/fashion/shopping/luxury-accessories-summer-2026",
+      "summary": "The finishing touches make all the difference.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: This 3-Piece Outfit Is Always Stylish—Every New York Fashion Person I ...",
-      "score": 3,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
       "published": "2026-04-25T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -905,6 +919,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "c8913dc254d8",
+      "title": "This 3-Piece Outfit Is Always Stylish—Every New York Fashion Person I Know Wears It",
+      "link": "https://www.whowhatwear.com/fashion/shopping/trench-coat-capris-kitten-heels-outfit",
+      "summary": "A perfect outfit formula.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: This 3-Piece Outfit Is Always Stylish—Every New York Fashion Person I ...",
+      "score": 3,
+      "published": "2026-04-25T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "8569446f0f0a",
       "title": "Every Chic French Woman Knows These 8 Items Make Outfits Look Expensive",
       "link": "https://www.whowhatwear.com/fashion/basics/expensive-looking-french-wardrobe-basics",
@@ -915,20 +943,6 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Every Chic French Woman Knows These 8 Items Make Outfits Look Expensiv...",
       "score": 1,
-      "published": "2026-04-25T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d29068007c32",
-      "title": "My Friend Asked Which Accessories Will Be Trending This Season—No Doubt, These 6 Will",
-      "link": "https://www.whowhatwear.com/fashion/shopping/luxury-accessories-summer-2026",
-      "summary": "The finishing touches make all the difference.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
       "published": "2026-04-25T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1252,34 +1266,6 @@
       "angle": "Fashion Intelligence: Lily Collins Reminds Us She Is the Anti-Emily Cooper With Her Mom-Off-...",
       "score": 1,
       "published": "2026-04-24T17:29:04+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "45777d3bd3a8",
-      "title": "Biarritz Is Set to Be This Summer’s Buzziest Resort Town",
-      "link": "https://www.vogue.com/article/biarritz-travel-guide",
-      "summary": "As Chanel lands in Biarritz for its cruise 2027 show on Tuesday, here’s why you should skip the French Riviera and head southwest instead.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Biarritz Is Set to Be This Summer’s Buzziest Resort Town...",
-      "score": 1,
-      "published": "2026-04-24T17:19:01+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "05eb02da5bcc",
-      "title": "The 25 Best Restaurants in Brooklyn, According to Vogue Staff",
-      "link": "https://www.vogue.com/article/best-restaurants-in-brooklyn",
-      "summary": "Looking for a good place to eat in Brooklyn? From wine bars to diners, here are some of our favorite spots.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The 25 Best Restaurants in Brooklyn, According to Vogue Staff...",
-      "score": 0,
-      "published": "2026-04-24T17:06:15+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2501,6 +2487,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "c5234b13dc32",
+      "title": "5 Summer Looks That Travel From Amalfi to Paris",
+      "link": "https://www.azafashions.com/blog/indian-outfits-for-european-summer/?utm_source=rss&utm_medium=rss&utm_campaign=indian-outfits-for-european-summer",
+      "summary": "An Indian Wardrobe for a European Summer There is a certain mythology to the European summer, shaped as much by cinema and memory as by the present moment. From the&#8230; The post 5 Summer Looks That Travel From Amalfi to Paris appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 5 Summer Looks That Travel From Amalfi to Paris...",
+      "score": 0,
+      "published": "2026-04-27T10:05:52+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "e581f021b4d6",
       "title": "Did You Know Chikankari Takes Up to 6 Months to Embroider by Hand?",
       "link": "https://www.azafashions.com/blog/chikankari-takes-up-to-6-months-to-embroider/?utm_source=rss&utm_medium=rss&utm_campaign=chikankari-takes-up-to-6-months-to-embroider",
@@ -2560,7 +2560,7 @@
       "id": "5a4a889df609",
       "title": "Summer Dresses: UK Style Guide for the Sun-Drenched Season",
       "link": "https://www.azafashions.com/blog/summer-dresses-uk-style-guide/?utm_source=rss&utm_medium=rss&utm_campaign=summer-dresses-uk-style-guide",
-      "summary": "There is a sort of fleeting joy when the sky clears, and you finally step out in a dress made for the light. Whether you plan to lounge in a city&#8230; The post Summer Dresses: UK Style Guide for the Sun-Drenched Season appeared first on Aza Editorials .",
+      "summary": "There is a sort of fleeting joy when the sky clears, and you finally step out in a dress made for the light.&#160;Whether you plan to lounge in a city&#8230; The post Summer Dresses: UK Style Guide for the Sun-Drenched Season appeared first on Aza Editorials .",
       "source": "AZA Blog",
       "tier": "owned",
       "is_competitor": false,
@@ -2625,70 +2625,56 @@
       "score": 3,
       "published": "2026-04-23T09:42:00+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "496e1932aa97",
-      "title": "Iconic Looks at The Devil Wears Prada 2 World Premiere: A Sartorial Sequel",
-      "link": "https://www.azafashions.com/blog/the-devil-wears-prada-2-premiere-looks/?utm_source=rss&utm_medium=rss&utm_campaign=the-devil-wears-prada-2-premiere-looks",
-      "summary": "The most&#160;anticipated&#160;sequel in fashion cinema has finally arrived.&#160;The Devil Wears Prada 2&#160;held its world premiere in New York City, bringing together the original icons for a new chapter. While the&#8230; The post Iconic Looks at The Devil Wears Prada 2 World Premiere: A Sartorial Sequel appeared f",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Iconic Looks at The Devil Wears Prada 2 World Premiere: A Sartorial Se...",
-      "score": 2,
-      "published": "2026-04-22T10:43:10+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "ban vs nz",
+      "term": "रेमो डीसूजा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "gold rate",
+      "term": "सुनीता आहूजा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "திவ்யா சத்யராஜ்",
+      "term": "चिराग पासवान",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "அரவிந்த் கெஜ்ரிவால்",
+      "term": "ಅರವಿಂದ್ ಕೇಜ್ರಿವಾಲ್",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mahavitaran",
+      "term": "the times of india",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "শনি",
+      "term": "અમદાવાદ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "आज सोने का रेट",
+      "term": "शुबमन गिल",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "jaipur temperature",
+      "term": "ਛੁੱਟੀ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "मौसम विज्ञान",
+      "term": "ultratech cement share",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ముంబై ఇండియన్స్",
+      "term": "watermelon",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

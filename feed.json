@@ -1,13 +1,97 @@
 {
-  "generated_at": "2026-04-27T10:16:17.232368+00:00",
+  "generated_at": "2026-04-27T12:21:30.421570+00:00",
   "owned_count": 10,
   "competitor_count": 20,
-  "industry_count": 157,
+  "industry_count": 156,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "b5246c083189",
+      "title": "The Vogue Business People Moves Tracker",
+      "link": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
+      "summary": "Bringing you the latest hires and exits, and highlighting the leaders shaping the industry of tomorrow.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Vogue Business People Moves Tracker...",
+      "score": 0,
+      "published": "2026-04-27T12:01:33+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "503ea82125c4",
+      "title": "What Drawing the Naked Body Taught Me",
+      "link": "https://www.vogue.com/article/what-drawing-the-naked-body-taught-me",
+      "summary": "There was a lack of ceremony when the model stepped onto the platform, the room tightening around the sudden nudity. Everyone knew to be polite—even a little blasé.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: What Drawing the Naked Body Taught Me...",
+      "score": 1,
+      "published": "2026-04-27T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9d0650c46a67",
+      "title": "The Unexpected Delight of Getting Older",
+      "link": "https://www.vogue.com/article/the-unexpected-delight-of-getting-older",
+      "summary": "Perhaps I benefited from the inculcation of age-dread; in comparison to what I had been taught to anticipate, what I got was pretty great.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Unexpected Delight of Getting Older...",
+      "score": 0,
+      "published": "2026-04-27T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a063b7b412b4",
+      "title": "Starving Myself for the Sake of ‘Perfection’",
+      "link": "https://www.vogue.com/article/starving-myself-for-the-sake-of-perfection",
+      "summary": "I wanted to be seamless and invincible, and in order to achieve this I believed I needed to be skinny.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Starving Myself for the Sake of ‘Perfection’...",
+      "score": 0,
+      "published": "2026-04-27T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3ce8f509b600",
+      "title": "At 44, I Started Using Lip Liner—Now It’s a Non-Negotiable",
+      "link": "https://www.vogue.com/article/lip-liner-tips-forty",
+      "summary": "Two makeup artists share tips on how to use lip liner for a natural, plumped look—and this Vogue writer is officially a convert.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: At 44, I Started Using Lip Liner—Now It’s a Non-Negotiable...",
+      "score": 0,
+      "published": "2026-04-27T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9de8ea34bf03",
+      "title": "Gwyneth Paltrow Just Updated Her Ageless Summer Dress Trend With the Prettiest Accessories",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/white-dress-trend-over-50s-gwyneth-paltrow-2026",
+      "summary": "So chic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-04-27T10:29:06+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "e8c9e5c2ef5e",
       "title": "50+ Best Raffia Bags to Carry All Season Long",
@@ -37,20 +121,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8285732f0e8d",
-      "title": "The 35 Best Spring Wedding Guest Dresses Under $500, According to a Bridal Stylist",
-      "link": "https://www.whowhatwear.com/fashion/dresses/best-spring-wedding-guest-dresses-anny-choi",
-      "summary": "After the RSVP comes the outfit.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: The 35 Best Spring Wedding Guest Dresses Under $500, According to a Bridal Stylist — A Complete Style Guide",
-      "score": 4,
-      "published": "2026-04-27T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "70c4cd1d57c4",
       "title": "The “Rich-Looking” Summer Outfits Everyone inL.A. Is Already Wearing",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/los-angeles-summer-outfit-ideas-2026",
@@ -75,6 +145,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
+      "published": "2026-04-27T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8285732f0e8d",
+      "title": "The 35 Best Spring Wedding Guest Dresses Under $500, According to a Bridal Stylist",
+      "link": "https://www.whowhatwear.com/fashion/dresses/best-spring-wedding-guest-dresses-anny-choi",
+      "summary": "After the RSVP comes the outfit.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: The 35 Best Spring Wedding Guest Dresses Under $500, According to a Bridal Stylist — A Complete Style Guide",
+      "score": 4,
       "published": "2026-04-27T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -244,20 +328,6 @@
       "angle": "Fashion Intelligence: I'm a Fashion Editor—Here's Everything On My Highly-Curated Summer Sho...",
       "score": 1,
       "published": "2026-04-26T20:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3a447e62e73d",
-      "title": "Ahmedabad customs seize 61 designer pens worth up to Rs 30 lakh",
-      "link": "https://www.indiatoday.in/india/gujarat/story/ahmedabad-airport-customs-seize-61-designer-pens-worth-rs-30-lakh-2901979-2026-04-27?utm_source=rss",
-      "summary": "Ahmedabad customs seize 61 designer pens worth up to Rs 30 lakh",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Ahmedabad customs seize 61 designer pens worth up to Rs 30 lakh...",
-      "score": 1,
-      "published": "2026-04-26T19:28:43+00:00",
       "discovered_via": "feed"
     },
     {
@@ -457,20 +527,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c7c4cf87a5a2",
-      "title": "*This* Is How Fashion People Find the Most Expensive-Looking Zara Pieces, Plus My Favorite Chic Items",
-      "link": "https://www.whowhatwear.com/fashion/shopping/zara-zw-collection-april-2026",
-      "summary": "According to editors.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: *This* Is How Fashion People Find the Most Expensive-Looking Zara Piec...",
-      "score": 1,
-      "published": "2026-04-26T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "39f277f5900f",
       "title": "I Asked Petite Fashion Editors: These Are the 7 Transitional Capsule-Wardrobe Pieces They Swear By in Spring",
       "link": "https://www.whowhatwear.com/fashion/spring-summer-transitional-capsule-wardrobe-petite-women",
@@ -481,6 +537,20 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: I Asked Petite Fashion Editors: These Are the 7 Transitional Capsule-W...",
       "score": 3,
+      "published": "2026-04-26T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c7c4cf87a5a2",
+      "title": "*This* Is How Fashion People Find the Most Expensive-Looking Zara Pieces, Plus My Favorite Chic Items",
+      "link": "https://www.whowhatwear.com/fashion/shopping/zara-zw-collection-april-2026",
+      "summary": "According to editors.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: *This* Is How Fashion People Find the Most Expensive-Looking Zara Piec...",
+      "score": 1,
       "published": "2026-04-26T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -667,20 +737,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "276a14075ee8",
-      "title": "These Aren't \"Wedding Dresses,\" But I'm a Fashion Editor, and I'd Get Married in Every Single One",
-      "link": "https://www.whowhatwear.com/living/wedding/ready-to-wear-bridal-looks",
-      "summary": "From Cult Gaia to Khaite.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: These Aren't \"Wedding Dresses,\" But I'm a Fashion Editor, and I'd Get Married in Every Single One — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-04-25T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "6ebfc613bc41",
       "title": "Poplin Skirts Are Nice, But in Spring 2026, It Girls Are Wearing This Easy Pant Trend With Flip-Flops",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/flip-flops-drawstring-pants-outfit-elsa-hosk",
@@ -691,6 +747,20 @@
       "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
+      "published": "2026-04-25T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "276a14075ee8",
+      "title": "These Aren't \"Wedding Dresses,\" But I'm a Fashion Editor, and I'd Get Married in Every Single One",
+      "link": "https://www.whowhatwear.com/living/wedding/ready-to-wear-bridal-looks",
+      "summary": "From Cult Gaia to Khaite.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: These Aren't \"Wedding Dresses,\" But I'm a Fashion Editor, and I'd Get Married in Every Single One — A Complete Style Guide",
+      "score": 3,
       "published": "2026-04-25T12:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -836,7 +906,7 @@
     },
     {
       "id": "107d7adb4500",
-      "title": "H&M Just Dropped Its Most Elegant, Minimalist Collection Yet—9 Items That Will Sell Out By May 1",
+      "title": "H&M Just Dropped Its Most Elegant, Minimalist Collection Yet—9 Items That Will Sell Out by 1 May",
       "link": "https://www.whowhatwear.com/fashion/shopping/hm-minimalist-collection-2026",
       "summary": "An elegant line-up.",
       "source": "Who What Wear",
@@ -877,30 +947,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d29068007c32",
-      "title": "My Friend Asked Which Accessories Will Be Trending This Season—No Doubt, These 6 Will",
-      "link": "https://www.whowhatwear.com/fashion/shopping/luxury-accessories-summer-2026",
-      "summary": "The finishing touches make all the difference.",
+      "id": "c8913dc254d8",
+      "title": "This 3-Piece Outfit Is Always Stylish—Every New York Fashion Person I Know Wears It",
+      "link": "https://www.whowhatwear.com/fashion/shopping/trench-coat-capris-kitten-heels-outfit",
+      "summary": "A perfect outfit formula.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-04-25T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fc6d9633c262",
-      "title": "I'm a Fashion Editor—7 Chic Heels I'm Styling With My Jeans This Spring",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-heels-to-wear-with-jeans-spring-2026",
-      "summary": "Elevate your outfit.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I'm a Fashion Editor—7 Chic Heels I'm Styling With My Jeans This Sprin...",
-      "score": 2,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: This 3-Piece Outfit Is Always Stylish—Every New York Fashion Person I ...",
+      "score": 3,
       "published": "2026-04-25T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -919,16 +975,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c8913dc254d8",
-      "title": "This 3-Piece Outfit Is Always Stylish—Every New York Fashion Person I Know Wears It",
-      "link": "https://www.whowhatwear.com/fashion/shopping/trench-coat-capris-kitten-heels-outfit",
-      "summary": "A perfect outfit formula.",
+      "id": "fc6d9633c262",
+      "title": "I'm a Fashion Editor—7 Chic Heels I'm Styling With My Jeans This Spring",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-heels-to-wear-with-jeans-spring-2026",
+      "summary": "Elevate your outfit.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: This 3-Piece Outfit Is Always Stylish—Every New York Fashion Person I ...",
-      "score": 3,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I'm a Fashion Editor—7 Chic Heels I'm Styling With My Jeans This Sprin...",
+      "score": 2,
       "published": "2026-04-25T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1143,48 +1199,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c633ba269592",
-      "title": "Matcha Nails: All About Spring’s Latest Manicure Trend",
-      "link": "https://www.vogue.com/article/matcha-nail-trend",
-      "summary": "Inspired by its signature green color, matcha nails are trending for spring and summer 2026.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-04-24T19:28:28+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "40a10ccb5114",
-      "title": "French Blending Is the Low-Maintenance Answer to Embracing Your Gray Hair",
-      "link": "https://www.vogue.com/article/what-is-french-blending-for-gray-hair",
-      "summary": "What is French blending? Here, experts break down the coloring technique and help you decide if this is the right option for you and your grays.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: French Blending Is the Low-Maintenance Answer to Embracing Your Gray H...",
-      "score": 0,
-      "published": "2026-04-24T19:07:35+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "87145d4966fa",
-      "title": "92 Thoughts I Had While Rewatching The Devil Wears Prada",
-      "link": "https://www.vogue.com/article/92-thoughts-i-had-while-rewatching-the-devil-wears-prada",
-      "summary": "I unironically think “Just deal with it, you have to be here” to myself every time I’m stuck in a work obligation I’d like to leave, and honestly, it helps!",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 92 Thoughts I Had While Rewatching The Devil Wears Prada...",
-      "score": 1,
-      "published": "2026-04-24T19:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "dd0dfae07ada",
       "title": "Block Heels Are Back",
       "link": "https://www.harpersbazaar.com/fashion/trends/a71099155/block-heels-trend-2026/",
@@ -1213,20 +1227,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2535dfcd04c7",
-      "title": "Butter Yellow Is Dead and Rihanna Killed It",
-      "link": "https://www.vogue.com/article/rihanna-butter-yellow-chartreuse-mumbai",
-      "summary": "Rihanna eschewed the soft butter yellow in favor of a bold chartreuse look at a Fenty Beauty pop-up event in Mumbai, India.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Butter Yellow Is Dead and Rihanna Killed It...",
-      "score": 1,
-      "published": "2026-04-24T18:24:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "cbeed33f359e",
       "title": "Zoë Kravitz Has Perfected the Zoë Kravitz Uniform",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71121136/zoe-kravitz-personal-uniform-street-style-photos-nyc/",
@@ -1252,20 +1252,6 @@
       "angle": "Fashion Intelligence: Can Paul Rudd Outsing Nick Jonas?...",
       "score": 0,
       "published": "2026-04-24T17:45:44+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c8e1171d3264",
-      "title": "Lily Collins Reminds Us She Is the Anti-Emily Cooper With Her Mom-Off-Duty Style",
-      "link": "https://www.vogue.com/article/lily-collins-anti-emily-cooper-mom-off-duty-style",
-      "summary": "While the outré Emily Cooper never met a pattern she didn’t like, Lily Collins’s own tastes lean grounded and earthy.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Lily Collins Reminds Us She Is the Anti-Emily Cooper With Her Mom-Off-...",
-      "score": 1,
-      "published": "2026-04-24T17:29:04+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2629,52 +2615,52 @@
   ],
   "trends": [
     {
-      "term": "रेमो डीसूजा",
+      "term": "લગ્ન",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "सुनीता आहूजा",
+      "term": "வேட்பாளர்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "चिराग पासवान",
+      "term": "petrol shortage in hyderabad",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಅರವಿಂದ್ ಕೇಜ್ರಿವಾಲ್",
+      "term": "south africa women's national cricket team vs india women's national cricket team match scorecard",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "the times of india",
+      "term": "എം ചിന്നസ്വാമി സ്റ്റേഡിയം",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "અમદાવાદ",
+      "term": "दक्षिण अफ़्रीका महिलाएं बनाम भारतीय महिला",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "शुबमन गिल",
+      "term": "స్టాక్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ਛੁੱਟੀ",
+      "term": "mpsc",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ultratech cement share",
+      "term": "indian oil corporation",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "watermelon",
+      "term": "தி வேல்முருகன்",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

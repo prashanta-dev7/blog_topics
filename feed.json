@@ -1,13 +1,111 @@
 {
-  "generated_at": "2026-04-28T10:15:09.728282+00:00",
+  "generated_at": "2026-04-28T12:26:17.430314+00:00",
   "owned_count": 10,
   "competitor_count": 20,
-  "industry_count": 154,
+  "industry_count": 157,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "94e3a4de15fe",
+      "title": "How Have GLP-1s Affected the Modeling Industry?",
+      "link": "https://www.vogue.com/article/glp-1s-the-modeling-industry",
+      "summary": "In an industry where the typical sample is a size zero, weight has always been central to a model’s success. But now, GLP-1 weight-loss medications offer a tempting short-cut to thinness.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: How Have GLP-1s Affected the Modeling Industry?...",
+      "score": 1,
+      "published": "2026-04-28T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "364790b8a7a6",
+      "title": "Someone save me: Video shows Mumbai man's relentless knife attack on guards",
+      "link": "https://www.indiatoday.in/india/story/mumbai-video-mira-road-knife-attack-video-man-relentless-assault-security-guards-2902761-2026-04-28?utm_source=rss",
+      "summary": "Someone save me: Video shows Mumbai man's relentless knife attack on guards",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Someone save me: Video shows Mumbai man's relentless knife attack on g...",
+      "score": 1,
+      "published": "2026-04-28T11:35:01+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8ffc9d0cea90",
+      "title": "Bye, Brunette! Dakota Johnson Is Now a “Dirty Blonde”",
+      "link": "https://www.vogue.com/article/dakota-johnson-dirty-blonde",
+      "summary": "Vogue speaks to colorist Tracey Cuningham about the actor’s hair makeover.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Bye, Brunette! Dakota Johnson Is Now a “Dirty Blonde”...",
+      "score": 0,
+      "published": "2026-04-28T11:14:37+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "66fd5b777f6d",
+      "title": "Victoria Beckham’s Curated Lunch Is “Nutrient-Dense and Well-Rounded”",
+      "link": "https://www.vogue.com/article/victoria-beckhams-curated-lunch",
+      "summary": "After dining with the designer, Vogue editor Margaux Anbouba reflects on her famous lunch order.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Victoria Beckham’s Curated Lunch Is “Nutrient-Dense and Well-Rounded”...",
+      "score": 1,
+      "published": "2026-04-28T11:13:22+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dc59736cbe50",
+      "title": "My Life Since ‘The Devil Wears Prada’",
+      "link": "https://www.vogue.com/article/life-after-the-devil-wears-prada-lauren-weisberger",
+      "summary": "“For more than two decades, people have been meeting the early 20s version of me,” writer “The Devil Wears Prada” author Lauren Weisberger. “Meanwhile, I have gotten married, raised two children, and evolved into someone a little more nuanced and a little less certain. Andy feels very far away.”",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: My Life Since ‘The Devil Wears Prada’...",
+      "score": 1,
+      "published": "2026-04-28T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c28001d5a6b9",
+      "title": "Flip-Flops Are So Elegant When You Wear Them in These 6 Exact Ways",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/elegant-flip-flop-outfits-2026",
+      "summary": "Chic and simple.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Flip-Flops Are So Elegant When You Wear Them in These 6 Exact Ways...",
+      "score": 1,
+      "published": "2026-04-28T10:42:35+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "956cea5f1231",
+      "title": "It’s Official—This is the Elegant Ring Trend Every Cool Girl is Coveting",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/zoe-kravitz-engagement-ring",
+      "summary": "It girls adore it.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-04-28T10:32:07+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "71bcc3ce3880",
       "title": "24 Best Airbnb Los Angeles: The Most Stylish Spots to Stay in 2026",
@@ -19,6 +117,34 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: 24 Best Airbnb Los Angeles: The Most Stylish Spots to Stay in 2026...",
       "score": 0,
+      "published": "2026-04-28T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "82ee2331ab6f",
+      "title": "Michael Arden Isn’t Afraid of Being Earnest",
+      "link": "https://www.vogue.com/article/michael-arden-the-lost-boys-interview",
+      "summary": "One of Broadway’s busiest directors talks “The Lost Boys,” navigating controversy, and why he feels “The Queen of Versailles” didn’t get a fair shake.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Michael Arden Isn’t Afraid of Being Earnest...",
+      "score": 0,
+      "published": "2026-04-28T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "91a7b8e5555f",
+      "title": "Three Seasons of ‘Euphoria’ In, I’m Watching for Jules",
+      "link": "https://www.vogue.com/article/three-seasons-of-euphoria-in-im-watching-for-jules",
+      "summary": "Hunter Schafer is great at making Jules’s internal ambiguity read less like questionable writing and more like a choice.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
       "published": "2026-04-28T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -174,20 +300,6 @@
       "angle": "Fashion Intelligence: Why Are So Many Influencers Speaking at Harvard Business School?...",
       "score": 0,
       "published": "2026-04-28T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b59a2d36eb5f",
-      "title": "Watch: Storm rips through mass wedding, 36 couples flee mid-ritual",
-      "link": "https://www.indiatoday.in/india/story/rajasthan-viral-video-tonk-mass-wedding-dust-storm-36-couples-ceremony-wrecked-guests-injured-2902484-2026-04-28?utm_source=rss",
-      "summary": "Watch: Storm rips through mass wedding, 36 couples flee mid-ritual",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Watch — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-04-28T02:48:41+00:00",
       "discovered_via": "feed"
     },
     {
@@ -835,62 +947,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "503ea82125c4",
-      "title": "What Drawing the Naked Body Taught Me",
-      "link": "https://www.vogue.com/article/what-drawing-the-naked-body-taught-me",
-      "summary": "There was a lack of ceremony when the model stepped onto the platform, the room tightening around the sudden nudity. Everyone knew to be polite—even a little blasé.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: What Drawing the Naked Body Taught Me...",
-      "score": 1,
-      "published": "2026-04-27T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9d0650c46a67",
-      "title": "The Unexpected Delight of Getting Older",
-      "link": "https://www.vogue.com/article/the-unexpected-delight-of-getting-older",
-      "summary": "Perhaps I benefited from the inculcation of age-dread; in comparison to what I had been taught to anticipate, what I got was pretty great.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Unexpected Delight of Getting Older...",
-      "score": 0,
-      "published": "2026-04-27T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a063b7b412b4",
-      "title": "Starving Myself for the Sake of ‘Perfection’",
-      "link": "https://www.vogue.com/article/starving-myself-for-the-sake-of-perfection",
-      "summary": "I wanted to be seamless and invincible, and in order to achieve this I believed I needed to be skinny.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Starving Myself for the Sake of ‘Perfection’...",
-      "score": 0,
-      "published": "2026-04-27T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3ce8f509b600",
-      "title": "At 44, I Started Using Lip Liner—Now It’s a Non-Negotiable",
-      "link": "https://www.vogue.com/article/lip-liner-tips-forty",
-      "summary": "Two makeup artists share tips on how to use lip liner for a natural, plumped look—and this Vogue writer is officially a convert.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: At 44, I Started Using Lip Liner—Now It’s a Non-Negotiable...",
-      "score": 0,
-      "published": "2026-04-27T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "9de8ea34bf03",
       "title": "Gwyneth Paltrow Just Updated Her Ageless Summer Dress Trend With the Prettiest Accessories",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/white-dress-trend-over-50s-gwyneth-paltrow-2026",
@@ -905,44 +961,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e8c9e5c2ef5e",
-      "title": "50+ Best Raffia Bags to Carry All Season Long",
-      "link": "https://www.vogue.com/slideshow/best-raffia-bags",
-      "summary": "Nothing screams chic spring style quite like the best raffia bags. Shop our favorites from Khaite, The Row, Toteme, Hunting Season, and more.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-04-27T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1c8583805fc0",
-      "title": "4 Hours of Scrolling Later—These Are the Best Sandals From Ref, Zara, and Revolve",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-sandals-reformation-zara-revolve",
-      "summary": "Open-toe season!",
+      "id": "8285732f0e8d",
+      "title": "The 35 Best Spring Wedding Guest Dresses Under $500, According to a Bridal Stylist",
+      "link": "https://www.whowhatwear.com/fashion/dresses/best-spring-wedding-guest-dresses-anny-choi",
+      "summary": "After the RSVP comes the outfit.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 4 Hours of Scrolling Later—These Are the Best Sandals From Ref, Zara, ...",
-      "score": 1,
-      "published": "2026-04-27T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "70c4cd1d57c4",
-      "title": "The “Rich-Looking” Summer Outfits Everyone inL.A. Is Already Wearing",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/los-angeles-summer-outfit-ideas-2026",
-      "summary": "Effortless, luxe, and perfectly put together.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: The 35 Best Spring Wedding Guest Dresses Under $500, According to a Bridal Stylist — A Complete Style Guide",
+      "score": 4,
       "published": "2026-04-27T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -961,16 +989,30 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8285732f0e8d",
-      "title": "The 35 Best Spring Wedding Guest Dresses Under $500, According to a Bridal Stylist",
-      "link": "https://www.whowhatwear.com/fashion/dresses/best-spring-wedding-guest-dresses-anny-choi",
-      "summary": "After the RSVP comes the outfit.",
+      "id": "70c4cd1d57c4",
+      "title": "The “Rich-Looking” Summer Outfits Everyone inL.A. Is Already Wearing",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/los-angeles-summer-outfit-ideas-2026",
+      "summary": "Effortless, luxe, and perfectly put together.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: The 35 Best Spring Wedding Guest Dresses Under $500, According to a Bridal Stylist — A Complete Style Guide",
-      "score": 4,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-04-27T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1c8583805fc0",
+      "title": "4 Hours of Scrolling Later—These Are the Best Sandals From Ref, Zara, and Revolve",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-sandals-reformation-zara-revolve",
+      "summary": "Open-toe season!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 4 Hours of Scrolling Later—These Are the Best Sandals From Ref, Zara, ...",
+      "score": 1,
       "published": "2026-04-27T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -2587,52 +2629,52 @@
   ],
   "trends": [
     {
-      "term": "sensex index",
+      "term": "gta 5",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sara arjun",
+      "term": "बैंक अवकाश",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "மோகன்லால்",
+      "term": "भुसावळ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "పదో తరగతి",
+      "term": "ओरिएंट ग्रीन पावर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "പോലീസ്",
+      "term": "കേരള",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ক্যান্সার",
+      "term": "హైదరాబాద్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "high court of gujarat",
+      "term": "செலவு",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "arthur fils",
+      "term": "ముడి చమురు",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "jannik sinner",
+      "term": "2026 assembly election exit polls",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cg board result 2026",
+      "term": "mirra andreeva",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

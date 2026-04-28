@@ -1,13 +1,69 @@
 {
-  "generated_at": "2026-04-28T07:33:43.556621+00:00",
+  "generated_at": "2026-04-28T10:15:09.728282+00:00",
   "owned_count": 10,
   "competitor_count": 20,
-  "industry_count": 155,
+  "industry_count": 154,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "71bcc3ce3880",
+      "title": "24 Best Airbnb Los Angeles: The Most Stylish Spots to Stay in 2026",
+      "link": "https://www.vogue.com/article/best-airbnb-los-angeles",
+      "summary": "Searching for the best Airbnb Los Angeles has to offer? Look no further—we rounded up the best listings, from Silver Lake to the Hollywood Hills to Venice Beach.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 24 Best Airbnb Los Angeles: The Most Stylish Spots to Stay in 2026...",
+      "score": 0,
+      "published": "2026-04-28T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7c032076dbb9",
+      "title": "Vintage Grandpa show: Congress mocks PM Modi's football with Sikkim children",
+      "link": "https://www.indiatoday.in/india/story/pm-modi-playing-football-congress-mocks-video-goalkeeper-eci-jibe-2902635-2026-04-28?utm_source=rss",
+      "summary": "Vintage Grandpa show: Congress mocks PM Modi's football with Sikkim children",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Vintage Grandpa show: Congress mocks PM Modi's football with Sikkim ch...",
+      "score": 1,
+      "published": "2026-04-28T08:02:27+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b7eb08497752",
+      "title": "Behind the Beauty: Every Secret Glam Detail You Missed From Euphoria Season 3",
+      "link": "https://www.whowhatwear.com/beauty/donni-davy-euphoria-season-3-beauty-interview",
+      "summary": "Plus, an analysis of *that* wedding scene.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-04-28T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6b59cce0e470",
+      "title": "Hold the Jeans—These Are the Chic Anti-Denim Trousers Stylish Women Will Wear All Summer",
+      "link": "https://www.whowhatwear.com/fashion/shopping/leset-kyoto-trousers",
+      "summary": "*Adds to basket*",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Hold the Jeans—These Are the Chic Anti-Denim Trousers Stylish Women Wi...",
+      "score": 1,
+      "published": "2026-04-28T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "b89017841e85",
       "title": "7 Major 2026 Sandal Trends I'm Shopping From Nordstrom This Summer",
@@ -738,7 +794,7 @@
     },
     {
       "id": "c1b47d7ac84e",
-      "title": "No, Not Black Leggings—JLo Just Wore Her Anti-Trend Trainers With This Much CoolerStyle",
+      "title": "No, Not Black Leggings—J.Lo Just Wore Her Anti-Trend Trainers With This Much CoolerStyle",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/patterned-leggings-chunky-trainers-outfit-jennifer-lopez-2026",
       "summary": "An instant upgrade.",
       "source": "Who What Wear",
@@ -922,7 +978,7 @@
       "id": "5ddf22c8c85a",
       "title": "Not Milky White, Not Pink—This Is the Understated Nail Colour Fashion People Can’t Get Enough Of",
       "link": "https://www.whowhatwear.com/beauty/nails/milky-grey-nails",
-      "summary": "Move over, milky white nails.",
+      "summary": "Move over, milky-white nails.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -934,7 +990,7 @@
     },
     {
       "id": "3e4aa30bee6c",
-      "title": "All My Chicest Friends Own This Pretty Skirt Trend—Here's How to Wear It In 2026",
+      "title": "All My Chicest Friends Own This Pretty Skirt Trend—Here's How to Wear It in 2026",
       "link": "https://www.whowhatwear.com/fashion/trends/lace-trim-slip-skirt-trend-2026",
       "summary": "So ethereal.",
       "source": "Who What Wear",
@@ -958,20 +1014,6 @@
       "angle": "Fashion Intelligence: If You're a Fashion Girl With Wide Feet, These Shoes Should Be on Your...",
       "score": 1,
       "published": "2026-04-27T04:52:42+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "48120c345122",
-      "title": "Fashion Has Officially Infiltrated Milan’s Famed Furniture Fair",
-      "link": "https://www.vogue.com/article/fashion-has-officially-infiltrated-milans-famed-furniture-fair",
-      "summary": "Salone del Mobile, staged during Milan Design Week, has become a magnet for fashion brands hoping to lure in design-conscious consumers.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Fashion Has Officially Infiltrated Milan’s Famed Furniture Fair...",
-      "score": 2,
-      "published": "2026-04-27T04:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1157,20 +1199,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "39f277f5900f",
-      "title": "I Asked Petite Fashion Editors: These Are the 7 Transitional Capsule-Wardrobe Pieces They Swear By in Spring",
-      "link": "https://www.whowhatwear.com/fashion/spring-summer-transitional-capsule-wardrobe-petite-women",
-      "summary": "Style, wear and repeat.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I Asked Petite Fashion Editors: These Are the 7 Transitional Capsule-W...",
-      "score": 3,
-      "published": "2026-04-26T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c7c4cf87a5a2",
       "title": "*This* Is How Fashion People Find the Most Expensive-Looking Zara Pieces, Plus My Favorite Chic Items",
       "link": "https://www.whowhatwear.com/fashion/shopping/zara-zw-collection-april-2026",
@@ -1181,6 +1209,20 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: *This* Is How Fashion People Find the Most Expensive-Looking Zara Piec...",
       "score": 1,
+      "published": "2026-04-26T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "39f277f5900f",
+      "title": "I Asked Petite Fashion Editors: These Are the 7 Transitional Capsule-Wardrobe Pieces They Swear By in Spring",
+      "link": "https://www.whowhatwear.com/fashion/spring-summer-transitional-capsule-wardrobe-petite-women",
+      "summary": "Style, wear and repeat.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I Asked Petite Fashion Editors: These Are the 7 Transitional Capsule-W...",
+      "score": 3,
       "published": "2026-04-26T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1196,62 +1238,6 @@
       "angle": "Bridal Edit: Forget Floral Dresses—8 Alternative Wedding-Guest Outfits to Wear Instead in 2026 — A Complete Style Guide",
       "score": 4,
       "published": "2026-04-26T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ee3ae93016d9",
-      "title": "Everywhere I Look, Stylish Women Are Wearing These Exact Ballet Flats to Make Dresses and Jeans Feel More Elegant",
-      "link": "https://www.whowhatwear.com/fashion/shoes/alohas-rosalind-ballet-flats",
-      "summary": "Sleek and comfortable.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-04-26T05:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "096d40ecb90f",
-      "title": "Not Loafers, Not Ballet Flats—This Is the New It Flat-Shoe Trend of 2026",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/soft-oxford-flat-shoe-trend-charlize-theron-uk",
-      "summary": "Spotted on Charlize Theron in Manhattan.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-04-26T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5897af17b357",
-      "title": "Fashion Editors Know a Zara Outfit Hits Different—Here Are 9 Stylish Looks I Love",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-spring-zara-outfits-april-2026",
-      "summary": "Chic outfits for the warmer months ahead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Fashion Editors Know a Zara Outfit Hits Different—Here Are 9 Stylish L...",
-      "score": 2,
-      "published": "2026-04-26T04:50:13+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "45eea04deae4",
-      "title": "I'm a 22-Year-Old Fashion Editor Who's Obsessed With the '80s—Here's How I Styled Agolde's Retro-Inspired Denim",
-      "link": "https://www.whowhatwear.com/fashion/shopping/agolde-80s-jean-try-on-2026",
-      "summary": "Spoiler: It's simple, classic, and a real time-saver.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I'm a 22-Year-Old Fashion Editor Who's Obsessed With the '80s—Here's H...",
-      "score": 2,
-      "published": "2026-04-25T20:53:22+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2179,6 +2165,48 @@
       "discovered_via": "feed"
     },
     {
+      "id": "78ba5e5b2e59",
+      "title": "How the Right Saree Border Can Transform Your Entire Outfit",
+      "link": "https://blog.kalkifashion.com/test-2-2/",
+      "summary": "The post How the Right Saree Border Can Transform Your Entire Outfit appeared first on Kalki Fashion Blog – Latest Fashion Trends, Bridal Fashion, Style Tips, News and Many More .",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Fashion Intelligence: How the Right Saree Border Can Transform Your Entire Outfit...",
+      "score": 6,
+      "published": "2026-04-28T08:17:17+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0b201705edce",
+      "title": "Pratik Test",
+      "link": "https://blog.kalkifashion.com/test-2/",
+      "summary": "Pratik The post Pratik Test appeared first on Kalki Fashion Blog – Latest Fashion Trends, Bridal Fashion, Style Tips, News and Many More .",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Fashion Intelligence: Pratik Test...",
+      "score": 4,
+      "published": "2026-04-28T07:59:07+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6673f50f9dfb",
+      "title": "P2",
+      "link": "https://blog.kalkifashion.com/p2/",
+      "summary": "P2 The post P2 appeared first on Kalki Fashion Blog – Latest Fashion Trends, Bridal Fashion, Style Tips, News and Many More .",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Fashion Intelligence: P2...",
+      "score": 4,
+      "published": "2026-04-28T07:39:31+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "deb37c92545b",
       "title": "Stop Wearing Basic Kurtas: Upgrade to These Premium Styles Now",
       "link": "https://blog.kalkifashion.com/stop-wearing-basic-kurtas-upgrade-to-these-premium-styles-now/",
@@ -2344,48 +2372,6 @@
       "angle": "Bridal Edit: How to Choose the Perfect Indian Bridal Outfit for Your Skin Tone — A Complete Style Guide",
       "score": 5,
       "published": "2026-04-09T04:55:45+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "49ab560b09d5",
-      "title": "Traditional Silk Sarees That Will Always Stay in Style",
-      "link": "https://blog.kalkifashion.com/traditional-silk-sarees-that-will-always-stay-in-style/",
-      "summary": "Are you tired of discarding your gorgeous sarees because they are out of fashion and no longer resonate with current fashion trends? I&#8217;m sure you must be wanting to buy something that makes you look elegant, and that will always stay in trend forever. Let me put an end to your search and introduce you [&#8230;] T",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Traditional Silk Sarees That Will Always Stay in Style...",
-      "score": 6,
-      "published": "2026-04-08T04:55:50+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d475c1145f9e",
-      "title": "Top 5 Summer Ethnic Outfits Every Woman Should Have In Her Wardrobe",
-      "link": "https://blog.kalkifashion.com/top-5-summer-ethnic-outfits-every-woman-should-have-in-her-wardrobe/",
-      "summary": "Come summers and, it&#8217;s time to pack away the bulky winter clothing and switch to light, breathable outfits that are uber comfortable and cool. From sunshine yellow to pale pink, soft, soothing summer outfits for women make you look graceful and feel at ease in the heat. Let us have a look at the top [&#8230;] The",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Top 5 Summer Ethnic Outfits Every Woman Should Have In Her Wardrobe...",
-      "score": 2,
-      "published": "2026-04-07T05:35:55+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0a76f6ba9934",
-      "title": "There’s Something About Awinka’s Reception Look You Can’t Ignore",
-      "link": "https://blog.kalkifashion.com/theres-something-about-awinkas-reception-look-you-cant-ignore/",
-      "summary": "Once Upon a Reception (Setting the Scene) Some shoots don’t feel like productions—they feel like moments unfolding in real time. This one carries that energy, but with the added anticipation of an evening celebration. It moves between spaces that feel almost symbolic of a reception itself—starting with something ground",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: There’s Something About Awinka’s Reception Look You Can’t Ignore...",
-      "score": 0,
-      "published": "2026-04-03T06:14:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2601,52 +2587,52 @@
   ],
   "trends": [
     {
-      "term": "ಡೆಲ್ಲಿ ಕ್ಯಾಪಿಟಲ್ಸ್",
+      "term": "sensex index",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "banw vs sl-w",
+      "term": "sara arjun",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "nepal women vs rwanda women",
+      "term": "மோகன்லால்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अजीतेश अर्गल",
+      "term": "పదో తరగతి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "સુરત મહાનગરપાલિકા",
+      "term": "പോലീസ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ഷിയാസ് കരീം",
+      "term": "ক্যান্সার",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ghmc",
+      "term": "high court of gujarat",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "அரசியல் கட்சி",
+      "term": "arthur fils",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಚೇತನ್ ಕುಮಾರ್",
+      "term": "jannik sinner",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "census",
+      "term": "cg board result 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

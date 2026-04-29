@@ -1,27 +1,13 @@
 {
-  "generated_at": "2026-04-29T05:21:36.702328+00:00",
+  "generated_at": "2026-04-29T07:25:39.858802+00:00",
   "owned_count": 10,
   "competitor_count": 20,
-  "industry_count": 160,
+  "industry_count": 161,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
-    {
-      "id": "55eb50c6789b",
-      "title": "Chanel Resort 2027",
-      "link": "https://www.vogue.com/fashion-shows/resort-2027/chanel",
-      "summary": "",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Chanel Resort 2027...",
-      "score": 0,
-      "published": "2026-04-29T05:20:23+00:00",
-      "discovered_via": "feed"
-    },
     {
       "id": "38c4bc0c4d09",
       "title": "Rag & Bone Resort 2027 Menswear",
@@ -33,7 +19,161 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Rag & Bone Resort 2027 Menswear...",
       "score": 2,
-      "published": "2026-04-29T05:20:22+00:00",
+      "published": "2026-04-29T07:20:23+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "abc6a90c028c",
+      "title": "I Travel at Least 20 Times a Year—These Are the Airport Outfits I Wear on Repeat",
+      "link": "https://www.whowhatwear.com/fashion/airport-style/airport-outfits-sara-walker",
+      "summary": "Shop my staple looks.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-04-29T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b8abe4e2dbd8",
+      "title": "We’re Fashion Editors—These Are the Dated Summer Dress Trends We're Leaving Behind in 2026",
+      "link": "https://www.whowhatwear.com/fashion/trends/dated-summer-dress-trends-2026",
+      "summary": "Look modern and chic this season.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 4,
+      "published": "2026-04-29T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b7681d8ab07a",
+      "title": "The Updated Summer Basics Fashion People Will Wear in 2026",
+      "link": "https://www.whowhatwear.com/fashion/shopping/basics-summer-2026",
+      "summary": "Boatneck tank tops, colorful tops, capris, knee-length skirts, and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Updated Summer Basics Fashion People Will Wear in 2026...",
+      "score": 2,
+      "published": "2026-04-29T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "170cbc84609b",
+      "title": "Suddenly, Everyone Cool Is Wearing Sun-Faded Jeans—Here's How to Style Them This Spring",
+      "link": "https://www.whowhatwear.com/fashion/denim/sun-faded-jeans-trend-2026",
+      "summary": "The effortlessly cool denim trend.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-04-29T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "12127daa4b12",
+      "title": "The 3 Most Important Trends for Summer 2026, According to WWW Editors",
+      "link": "https://www.whowhatwear.com/fashion/summer/fashion-editor-summer-2026-trends",
+      "summary": "The 3 Most Important Trends for Summer 2026, According to WWW Editors",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-04-29T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1830444618a0",
+      "title": "Yes, High-Rise Jeans Are Coming Back—Wear Them With These Shoes to Look Relevant, Not Dated",
+      "link": "https://www.whowhatwear.com/fashion/denim/shoes-to-wear-with-high-waisted-jeans",
+      "summary": "Every chic girl's favorite denim shape is trending again.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Yes, High-Rise Jeans Are Coming Back—Wear Them With These Shoes to Loo...",
+      "score": 2,
+      "published": "2026-04-29T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "371458f5eede",
+      "title": "I'm a Fashion Editor—These Are 5 Ways I'll Be Wearing Capri Trousers in 2026",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/capri-trousers-outfit-ideas",
+      "summary": "Sleek and sophisticated.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-04-29T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "49e357889f98",
+      "title": "Wait: I've Just Pinpointed the Chicest Low-Maintenance Braid Hairstyles to Copy This Summer",
+      "link": "https://www.whowhatwear.com/beauty/hair/low-maintenance-braid-hairstyles",
+      "summary": "Easy and impactful.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Wait: I've Just Pinpointed the Chicest Low-Maintenance Braid Hairstyle...",
+      "score": 1,
+      "published": "2026-04-29T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "64cdc2316e73",
+      "title": "The Art Of Airport Style: One Seasoned Editor On Why She Still Dresses Up for the Airport—And How To Do It",
+      "link": "https://www.whowhatwear.com/fashion/airport-style/the-art-of-airport-style",
+      "summary": "My kind on runway.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 4,
+      "published": "2026-04-29T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fac948959609",
+      "title": "Retire Your Trainers, These 6 Outfits Prove Heels are So Much Chicer For Spring",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/spring-outfits-with-heels-2026",
+      "summary": "6 Spring outfits with heels worthy of any moodboard",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Retire Your Trainers, These 6 Outfits Prove Heels are So Much Chicer F...",
+      "score": 1,
+      "published": "2026-04-29T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "815c26274439",
+      "title": "It's Official: This Is the Pretty Blouse Trend Stylish Women Will Be Wearing With Jeans, Trousers and Skirts",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-romantic-blouses-2026",
+      "summary": "The sweetest spring trend.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-04-29T05:50:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -132,6 +272,20 @@
       "angle": "Fashion Intelligence: The New Museum Gala Honored Lisa Phillips and the Future of Art...",
       "score": 0,
       "published": "2026-04-28T22:02:45+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "abe254af2c9e",
+      "title": "Emma Copley Eisenberg on Her New Book ‘Fat Swim’ and the Glories of Writing Out of Spite",
+      "link": "https://www.vogue.com/article/emma-copley-eisenberg-fat-swim-interview",
+      "summary": "Eisenberg’s linked story collection is out now from Penguin Random House.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Emma Copley Eisenberg on Her New Book ‘Fat Swim’ and the Glories of Wr...",
+      "score": 1,
+      "published": "2026-04-28T22:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -835,20 +989,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "364790b8a7a6",
-      "title": "Someone save me: Video shows Mumbai man's relentless knife attack on guards",
-      "link": "https://www.indiatoday.in/india/story/mumbai-video-mira-road-knife-attack-video-man-relentless-assault-security-guards-2902761-2026-04-28?utm_source=rss",
-      "summary": "Someone save me: Video shows Mumbai man's relentless knife attack on guards",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Someone save me: Video shows Mumbai man's relentless knife attack on g...",
-      "score": 1,
-      "published": "2026-04-28T11:35:01+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c28001d5a6b9",
       "title": "Flip-Flops Are So Elegant When You Wear Them in These 6 Exact Ways",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/elegant-flip-flop-outfits-2026",
@@ -877,20 +1017,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b7eb08497752",
-      "title": "Behind the Beauty: Every Secret Glam Detail You Missed From Euphoria Season 3",
-      "link": "https://www.whowhatwear.com/beauty/donni-davy-euphoria-season-3-beauty-interview",
-      "summary": "Plus, an analysis of *that* wedding scene.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-04-28T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "6b59cce0e470",
       "title": "Hold the Jeans—These Are the Chic Anti-Denim Trousers Stylish Women Will Wear All Summer",
       "link": "https://www.whowhatwear.com/fashion/shopping/leset-kyoto-trousers",
@@ -901,6 +1027,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Hold the Jeans—These Are the Chic Anti-Denim Trousers Stylish Women Wi...",
       "score": 1,
+      "published": "2026-04-28T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b7eb08497752",
+      "title": "Behind the Beauty: Every Secret Glam Detail You Missed From Euphoria Season 3",
+      "link": "https://www.whowhatwear.com/beauty/donni-davy-euphoria-season-3-beauty-interview",
+      "summary": "Plus, an analysis of *that* wedding scene.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
       "published": "2026-04-28T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1451,48 +1591,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3e4aa30bee6c",
-      "title": "All My Chicest Friends Own This Pretty Skirt Trend—Here's How to Wear It in 2026",
-      "link": "https://www.whowhatwear.com/fashion/trends/lace-trim-slip-skirt-trend-2026",
-      "summary": "So ethereal.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-04-27T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7f761727230d",
-      "title": "If You're a Fashion Girl With Wide Feet, These Shoes Should Be on Your Radar for Spring and Summer",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-wide-width-shoes-spring-summer-april-2026",
-      "summary": "It's time for a warm-weather shoe update.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: If You're a Fashion Girl With Wide Feet, These Shoes Should Be on Your...",
-      "score": 1,
-      "published": "2026-04-27T04:52:42+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2e5327f5a67c",
-      "title": "The Met Gala Is Next Week—Here's Everything We Know About the Dress Code",
-      "link": "https://www.whowhatwear.com/fashion/met-gala-dress-code",
-      "summary": "The theme is Fashion Is Art.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: The Met Gala Is Next Week—Here's Everything We Know About the Dress Co...",
-      "score": 2,
-      "published": "2026-04-27T04:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "5b0be32e1d32",
       "title": "Violence Takes Center Stage on a Bloody Euphoria",
       "link": "https://www.harpersbazaar.com/culture/film-tv/a71126711/euphoria-season-3-episode-3-recap/",
@@ -1507,20 +1605,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "595d3555807f",
-      "title": "Yep, This Is Officially the Cool-Girl It Item to Wear to the Airport Right Now",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/quarter-zip-pullover-trend-airport-anne-hathaway",
-      "summary": "Spotted on Anne Hathaway in the terminal.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-04-26T22:26:16+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "6d195b57c5e7",
       "title": "Katie Holmes Perfects Her Spring Weekend Wardrobe With Some Sailor Stripes and a Peace-Sign Necklace",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71130943/katie-holmes-perfect-weekend-look-peace-sign-necklace-sailor-stripes-photos/",
@@ -1532,20 +1616,6 @@
       "angle": "Fashion Intelligence: Katie Holmes Perfects Her Spring Weekend Wardrobe With Some Sailor Str...",
       "score": 0,
       "published": "2026-04-26T20:41:34+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "71d5f12acb55",
-      "title": "I'm a Fashion Editor—Here's Everything on My Highly Curated Summer Shopping List",
-      "link": "https://www.whowhatwear.com/fashion/fashion-editor-summer-shopping-2026",
-      "summary": "See the edit.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I'm a Fashion Editor—Here's Everything on My Highly Curated Summer Sho...",
-      "score": 1,
-      "published": "2026-04-26T20:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1574,62 +1644,6 @@
       "angle": "Fashion Intelligence: Sydney Sweeney Tosses Her Panties Into the Crowd During a Surprise Sta...",
       "score": 0,
       "published": "2026-04-26T16:36:58+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a5b6c67cf8a2",
-      "title": "I'm a 2026 Bride—6 Bridesmaid Dresses My Bridal Party and I Are All Swooning Over",
-      "link": "https://www.whowhatwear.com/fashion/dresses/azazie-bridesmaid-dress-reviews",
-      "summary": "No more uncomfortable straps.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: I'm a 2026 Bride—6 Bridesmaid Dresses My Bridal Party and I Are All Swooning Over — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-04-26T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "38cb66e3d3f1",
-      "title": "I'm Calling It: This Anti-Trend Outfit Will Be the Biggest Trend of 2026",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/tee-jeans-flip-flops-outfit-trend-hailey-bieber",
-      "summary": "You gotta love a low-key celeb look.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-04-26T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9b2b820da819",
-      "title": "If You’re Bored of Trainers, This Is the Comfortable Alt the Chicest Dressers Are Wearing Instead",
-      "link": "https://www.whowhatwear.com/fashion/shoes/white-derby-shoe-outfits",
-      "summary": "The coolest upgrade.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-04-26T09:19:18+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c5b8504855b6",
-      "title": "From Fiber Gummies to Blurring Blushes—WWW Beauty Editors Told Me the Best Products They Tried in April",
-      "link": "https://www.whowhatwear.com/beauty/best-new-beauty-products-april-2026",
-      "summary": "Fifteen truly impressive launches.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: From Fiber Gummies to Blurring Blushes—WWW Beauty Editors Told Me the ...",
-      "score": 2,
-      "published": "2026-04-26T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2671,52 +2685,52 @@
   ],
   "trends": [
     {
-      "term": "aditya dhar",
+      "term": "পশ্চিমবঙ্গ বিধানসভা নির্বাচন, ২০২৬",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "neet mds",
+      "term": "आदित्य धर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "aajtak live",
+      "term": "mbse hsslc result 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "icse",
+      "term": "हिमाचल प्रदेश स्कूल शिक्षा बोर्ड",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "update pf kyc online uan",
+      "term": "ரியான் பராக்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "may 1",
+      "term": "govinda",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "பாரதிய ஜனதா கட்சி",
+      "term": "ಪಾಯಲ್ ರಾಜ್ಪೂತ್",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बैंक",
+      "term": "రాబర్ట్ కియోసాకి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "gaur green avenue",
+      "term": "toxic",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ceat share price",
+      "term": "aaj tak live news",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

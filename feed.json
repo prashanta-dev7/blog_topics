@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T10:09:18.824004+00:00",
+  "generated_at": "2026-04-30T12:17:48.648695+00:00",
   "owned_count": 10,
   "competitor_count": 30,
   "industry_count": 166,
@@ -8,6 +8,118 @@
     "US": 1791
   },
   "articles": [
+    {
+      "id": "9311751d675f",
+      "title": "Chic Pajama Party Fashion Made For The Morning After The Met Gala",
+      "link": "https://www.vogue.com/article/chic-pajama-party-fashion-morning-after-met-gala",
+      "summary": "At Manhattan’s Mark Hotel, a fashionably lazy day of telling stories and recovering from the big night out.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Chic Pajama Party Fashion Made For The Morning After The Met Gala...",
+      "score": 1,
+      "published": "2026-04-30T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3ab501613a1a",
+      "title": "It's Going to Be a Track Shorts Summer",
+      "link": "https://fashionista.com/2026/04/shop-best-fashionable-track-shorts-trend",
+      "summary": "The fashion crowd has thoroughly embraced the comfy, practical athletic garment — for every occasion but working out.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: It's Going to Be a Track Shorts Summer...",
+      "score": 2,
+      "published": "2026-04-30T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3c925e681f0e",
+      "title": "Simone Ashley Takes Burberry x Hunza G Swim to the Beach",
+      "link": "https://www.fashiongonerogue.com/story/simone-ashley-burberry-hunza-g/",
+      "summary": "Simone Ashley and Alva Claire bring sun-drenched confidence to the new Burberry x Hunza G summer 2026 swimwear campaign. The ... Source",
+      "source": "Fashion Gone Rogue",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Simone Ashley Takes Burberry x Hunza G Swim to the Beach...",
+      "score": 1,
+      "published": "2026-04-30T11:30:08+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f3180f4044d6",
+      "title": "No, Not Stovepipe Jeans—New Yorkers in Their 20s and 50s are Wearing This Denim Trend Right Now",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/two-tone-jeans-trend-sarah-pidgeon-chloe-sevigny-2026",
+      "summary": "The chicest way to wear jeans.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-04-30T11:21:13+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5da2c4cc4e44",
+      "title": "Can Agolde Ride the Denim Wave Into Ready-to-Wear?",
+      "link": "https://www.vogue.com/article/can-agolde-ride-the-denim-wave-into-ready-to-wear",
+      "summary": "The California-based brand has conquered the jeans category. Now, it’s looking to the rest of the closet as room for growth.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Can Agolde Ride the Denim Wave Into Ready-to-Wear?...",
+      "score": 2,
+      "published": "2026-04-30T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "87c03a62b43a",
+      "title": "This Dress-and-Heel-Trend Combination Will Simply Never Look Dated",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/floral-print-mini-dress-bow-heels",
+      "summary": "A timeless, pretty pairing.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-04-30T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "09d4800e7c69",
+      "title": "It’s Official—This Viral Olsen Twin-Approved Summer Shoe Trend Is All Fashion People Are Wearing",
+      "link": "https://www.whowhatwear.com/fashion/shoes/red-and-black-flip-flops-trend-2026",
+      "summary": "Prepare your pedicure.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-04-30T10:54:24+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1a9cea06f0bf",
+      "title": "Jimmy Choo’s Summer Shoes Are Full Mirage Mode",
+      "link": "https://www.fashiongonerogue.com/story/jimmy-choo-summer-2026-campaign/",
+      "summary": "Jimmy Choo’s summer 2026 campaign looks like a desert daydream that got dressed up and refused to come back down. ... Source",
+      "source": "Fashion Gone Rogue",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Jimmy Choo’s Summer Shoes Are Full Mirage Mode...",
+      "score": 1,
+      "published": "2026-04-30T10:43:33+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "fc4071bbcc40",
       "title": "The Best Tote Bags Are Smaller Than Ever This Summer",
@@ -149,6 +261,48 @@
       "discovered_via": "feed"
     },
     {
+      "id": "c8de53ce0391",
+      "title": "I'm No Psychic, But I *Know* These 7 Dress Trends Will Dominate in 6 Months",
+      "link": "https://www.whowhatwear.com/fashion/runway/fall-winter-dress-trends-2026",
+      "summary": "Just a hunch.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-04-30T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "16028f1e985f",
+      "title": "French Women Are the Absolute Chicest—5 Spring Trends You’ll Never See Them Wear",
+      "link": "https://www.whowhatwear.com/fashion/spring/dated-french-girl-trends-spring-2026",
+      "summary": "Quelle horreur!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-04-30T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bdddb3cd7f04",
+      "title": "My Goal This Spring Is to Look Elegant and Expensive—These Minimalist Luxury Buys are All Over My Style Mood Board",
+      "link": "https://www.whowhatwear.com/fashion/luxury/luxury-spring-buys-2026",
+      "summary": "These picks are worth it.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: My Goal This Spring Is to Look Elegant and Expensive—These Minimalist ...",
+      "score": 2,
+      "published": "2026-04-30T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "d5089296a315",
       "title": "The 5 Summer Outfits Fashion People Always Come Back to (Year After Year)",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/timeless-summer-outfits",
@@ -177,20 +331,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c8de53ce0391",
-      "title": "I'm No Psychic, But I *Know* These 7 Dress Trends Will Dominate in 6 Months",
-      "link": "https://www.whowhatwear.com/fashion/runway/fall-winter-dress-trends-2026",
-      "summary": "Just a hunch.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-04-30T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d85c60aa280f",
       "title": "It’s Only April, But These Are the 7 Summer Micro Trends Fashion People Are Already Wearing",
       "link": "https://www.whowhatwear.com/fashion/summer/early-summer-micro-trends-2026",
@@ -205,16 +345,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0f93daef6330",
-      "title": "The 6 Sunglasses Brands Gen Z Is Wearing in 2026",
-      "link": "https://www.whowhatwear.com/fashion/shopping/gen-z-sunglasses-brands-2026",
-      "summary": "Take your outfits up a notch with these.",
+      "id": "442cc9fc8a16",
+      "title": "In New York and Paris, Fashion People Are Styling Their Blazers In These 6 Fresh Ways",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/how-to-style-a-blazer-summer-2026",
+      "summary": "Polished yet playful.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
+      "angle": "Fashion Intelligence: In New York and Paris, Fashion People Are Styling Their Blazers In The...",
+      "score": 1,
       "published": "2026-04-30T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -233,6 +373,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "0f93daef6330",
+      "title": "The 6 Sunglasses Brands Gen Z Is Wearing in 2026",
+      "link": "https://www.whowhatwear.com/fashion/shopping/gen-z-sunglasses-brands-2026",
+      "summary": "Take your outfits up a notch with these.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-04-30T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "c88c1c9631c7",
       "title": "I'm About to Move to L.A. for a Month—These L.A. It Girl Outfits Are Inspiring My West Coast Wardrobe",
       "link": "https://www.whowhatwear.com/fashion/shopping/los-angeles-spring-summer-outfits",
@@ -242,48 +396,6 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I'm About to Move to L.A. for a Month—These L.A. It Girl Outfits Are I...",
-      "score": 1,
-      "published": "2026-04-30T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "16028f1e985f",
-      "title": "French Women Are the Absolute Chicest—5 Spring Trends You’ll Never See Them Wear",
-      "link": "https://www.whowhatwear.com/fashion/spring/dated-french-girl-trends-spring-2026",
-      "summary": "Quelle horreur!",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-04-30T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bdddb3cd7f04",
-      "title": "My Goal This Spring Is to Look Elegant and Expensive—These Minimalist Luxury Buys are All Over My Style Mood Board",
-      "link": "https://www.whowhatwear.com/fashion/luxury/luxury-spring-buys-2026",
-      "summary": "C'est chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: My Goal This Spring Is to Look Elegant and Expensive—These Minimalist ...",
-      "score": 2,
-      "published": "2026-04-30T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "442cc9fc8a16",
-      "title": "In New York and Paris, Fashion People Are Styling Their Blazers In These 6 Fresh Ways",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/how-to-style-a-blazer-summer-2026",
-      "summary": "Polished yet playful.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: In New York and Paris, Fashion People Are Styling Their Blazers In The...",
       "score": 1,
       "published": "2026-04-30T07:00:00+00:00",
       "discovered_via": "feed"
@@ -877,20 +989,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3678d8783f28",
-      "title": "Olivia Rodrigo Gives Her Lover Girl Style a Vampy Twist",
-      "link": "https://www.vogue.com/article/olivia-rodrigo-lover-girl-style-vampy-twist",
-      "summary": "While Olivia Rodrigo has always embraced the likes of polka dots and sweet dresses, the ‘you seem pretty sad for a girl so in love’ era seems to pack a little punch.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Olivia Rodrigo Gives Her Lover Girl Style a Vampy Twist...",
-      "score": 2,
-      "published": "2026-04-29T14:41:38+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "6820e0c5555a",
       "title": "Parents-to-Be Aubrey Plaza and Christopher Abbott Keep Things Casual for a New York City Stroll",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71163026/aubrey-plaza-boyfriend-christopher-abbott-first-joint-appearance-since-pregnancy-news-photos/",
@@ -989,20 +1087,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "67da4faccf81",
-      "title": "How I Finally Found a Comfortable (and Chic) Desk Chair",
-      "link": "https://www.vogue.com/article/how-i-found-my-desk-chair",
-      "summary": "One writer's quest to find a desk chair that balances comfort and style—all at a reasonable price point.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: How I Finally Found a Comfortable (and Chic) Desk Chair...",
-      "score": 1,
-      "published": "2026-04-29T14:12:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7a65e1b36661",
       "title": "Roo Haircare: A Textured Hair-Care Brand Founded by a Public Health Scientist",
       "link": "https://fashionista.com/2026/04/roo-haircare-hair-brand",
@@ -1059,20 +1143,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0b58a7657e6c",
-      "title": "I'm an NYC Fashion Editor Who Just Spent a Week With My L.A. Friends—7 Spring Trends We're All Into",
-      "link": "https://www.whowhatwear.com/fashion/spring/la-and-nyc-spring-2026-trends",
-      "summary": "From WeHo to the West Side Highway.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-04-29T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "4e10c2467c8b",
       "title": "This Is How Petite Girls Are Wearing 2026's Tall-Girl-Favorite Shorts Trend",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/denim-bermuda-shorts-trend-for-petites-sadie-sink",
@@ -1082,6 +1152,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-04-29T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0b58a7657e6c",
+      "title": "I'm an NYC Fashion Editor Who Just Spent a Week With My L.A. Friends—7 Spring Trends We're All Into",
+      "link": "https://www.whowhatwear.com/fashion/spring/la-and-nyc-spring-2026-trends",
+      "summary": "From WeHo to the West Side Highway.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-04-29T11:00:00+00:00",
       "discovered_via": "feed"
@@ -1168,48 +1252,6 @@
       "angle": "Fashion Intelligence: From 1981 to 2025, These Met Gala Beauty Looks Are the Undisputed Best...",
       "score": 1,
       "published": "2026-04-29T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "abc6a90c028c",
-      "title": "I Travel at Least 20 Times a Year—These Are the Airport Outfits I Wear on Repeat",
-      "link": "https://www.whowhatwear.com/fashion/airport-style/airport-outfits-sara-walker",
-      "summary": "Shop my staple looks.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-04-29T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b7681d8ab07a",
-      "title": "The Updated Summer Basics Fashion People Will Wear in 2026",
-      "link": "https://www.whowhatwear.com/fashion/shopping/basics-summer-2026",
-      "summary": "Boatneck tank tops, colorful tops, capris, knee-length skirts, and more.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Updated Summer Basics Fashion People Will Wear in 2026...",
-      "score": 2,
-      "published": "2026-04-29T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "170cbc84609b",
-      "title": "Suddenly, Everyone Cool Is Wearing Sun-Faded Jeans—Here's How to Style Them This Spring",
-      "link": "https://www.whowhatwear.com/fashion/denim/sun-faded-jeans-trend-2026",
-      "summary": "The effortlessly cool denim trend.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-04-29T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1843,20 +1885,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8cdef1f1cadc",
-      "title": "Calvin Klein’s Soft Tailoring Sets Sail in Style",
-      "link": "https://www.fashiongonerogue.com/story/calvin-klein-soft-tailoring-2026/",
-      "summary": "Calvin Klein&#8217;s spring 2026 soft tailoring editorial arrives with the kind of light elegance that doesn&#8217;t need to announce itself. ... Source",
-      "source": "Fashion Gone Rogue",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Calvin Klein’s Soft Tailoring Sets Sail in Style...",
-      "score": 1,
-      "published": "2026-04-24T10:45:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a4678f1406af",
       "title": "Dress Code: Kiln",
       "link": "https://www.fashionbeans.com/article/kiln/",
@@ -1868,20 +1896,6 @@
       "angle": "Fashion Intelligence: Dress Code: Kiln...",
       "score": 1,
       "published": "2026-04-24T07:30:01+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9a38ce8b0fa3",
-      "title": "Laetitia Casta Dives Into Calzedonia’s Summer Swim",
-      "link": "https://www.fashiongonerogue.com/story/laetitia-casta-calzedonia-swim-2026/",
-      "summary": "Sun-drenched and styled, Laetitia Casta returns as the face of the Calzedonia Summer Swim 2026 campaign. The French model and ... Source",
-      "source": "Fashion Gone Rogue",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Laetitia Casta Dives Into Calzedonia’s Summer Swim...",
-      "score": 2,
-      "published": "2026-04-24T01:47:14+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2218,20 +2232,6 @@
       "angle": "Fashion Intelligence: Kinn Studio: An Fine Jewelry Brand Created for Everyday Wear...",
       "score": 3,
       "published": "2026-04-15T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0f3de0238ae9",
-      "title": "Uno de 50's Spring 2026 Collection Celebrates Spanish Architecture",
-      "link": "https://fashionista.com/2026/04/uno-de-50-limited-edition-spring-2026-jewelry-collection",
-      "summary": "As the jewelry brand's name indicates, it handcrafts only 50 units of its exclusive collection.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 3,
-      "published": "2026-04-15T10:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2767,6 +2767,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "3fa02aa1d46d",
+      "title": "Know Your Designer Episode 50: B’Infinite",
+      "link": "https://www.azafashions.com/blog/know-your-designer-binfinite/?utm_source=rss&utm_medium=rss&utm_campaign=know-your-designer-binfinite",
+      "summary": "Building a wardrobe that feels both fresh and timeless can often feel like an impossible task. We constantly seek pieces that make a bold statement but remain wearable enough for daily life. B'Infinite effortlessly bridges the&#8230; The post Know Your Designer Episode 50: B&#8217;Infinite appeared first on Aza Editori",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Know Your Designer Episode 50: B’Infinite...",
+      "score": 2,
+      "published": "2026-04-29T09:54:57+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "c1a988abe25e",
       "title": "What to Gift Your Brother This Brother’s Day (That Isn’t Basic)",
       "link": "https://www.azafashions.com/blog/what-to-gift-your-brother-this-brothers-day/?utm_source=rss&utm_medium=rss&utm_campaign=what-to-gift-your-brother-this-brothers-day",
@@ -2823,6 +2837,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "2ec9b6b863d6",
+      "title": "Know Your Designer – Episode 47: Philocaly",
+      "link": "https://www.azafashions.com/blog/know-your-designer-philocaly/?utm_source=rss&utm_medium=rss&utm_campaign=know-your-designer-philocaly",
+      "summary": "Indian menswear has experienced a massive shift over the last decade. Men no longer settle for safe, repetitive styles when dressing for weddings and celebrations. Instead, we see a strong&#8230; The post Know Your Designer &#8211; Episode 47: Philocaly appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Fashion Intelligence: Know Your Designer – Episode 47: Philocaly...",
+      "score": 6,
+      "published": "2026-04-26T11:18:28+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "e581f021b4d6",
       "title": "Did You Know Chikankari Takes Up to 6 Months to Embroider by Hand?",
       "link": "https://www.azafashions.com/blog/chikankari-takes-up-to-6-months-to-embroider/?utm_source=rss&utm_medium=rss&utm_campaign=chikankari-takes-up-to-6-months-to-embroider",
@@ -2863,84 +2891,56 @@
       "score": 4,
       "published": "2026-04-25T18:30:00+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "eea8d9749990",
-      "title": "How Aza’s Virtual Try-On Is Changing the Way We Shop for Designer Wear Online",
-      "link": "https://www.azafashions.com/blog/aza-virtual-try-on/?utm_source=rss&utm_medium=rss&utm_campaign=aza-virtual-try-on",
-      "summary": "Buying luxury clothes online often feels like a guessing game. You find a stunning lehenga or a sharp sherwani, but a nagging question stops you from checking out: Will this actually look good&#8230; The post How Aza’s Virtual Try-On Is Changing the Way We Shop for Designer Wear Online appeared first on Aza Editorials ",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Fashion Intelligence: How Aza’s Virtual Try-On Is Changing the Way We Shop for Designer Wear...",
-      "score": 4,
-      "published": "2026-04-24T11:34:24+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5a4a889df609",
-      "title": "Summer Dresses: UK Style Guide for the Sun-Drenched Season",
-      "link": "https://www.azafashions.com/blog/summer-dresses-uk-style-guide/?utm_source=rss&utm_medium=rss&utm_campaign=summer-dresses-uk-style-guide",
-      "summary": "There is a sort of fleeting joy when the sky clears, and you finally step out in a dress made for the light.&#160;Whether you plan to lounge in a city&#8230; The post Summer Dresses: UK Style Guide for the Sun-Drenched Season appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-04-24T10:14:59+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "pawan khera",
+      "term": "राशी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "चीन",
+      "term": "जमशेदपुर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "kangana ranaut",
+      "term": "அமைச்சர்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "एकनाथ शिंदे",
+      "term": "അവധി",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "खेसारी लाल यादव",
+      "term": "பெட்ரோல்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "weather noida",
+      "term": "ಬ್ಯಾಟಿಂಗ್",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "rajeev khandelwal",
+      "term": "വെള്ളാപ്പള്ളി നടേശന്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "shimla weather",
+      "term": "ஆதார்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "தி. வேல்முருகன்",
+      "term": "महाराष्ट्र विधान परिषद",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "weather ghaziabad",
+      "term": "khanapara teer result today",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

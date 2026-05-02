@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T09:08:23.920509+00:00",
+  "generated_at": "2026-05-02T11:47:16.730312+00:00",
   "owned_count": 10,
   "competitor_count": 31,
   "industry_count": 174,
@@ -8,6 +8,104 @@
     "US": 1791
   },
   "articles": [
+    {
+      "id": "ac2c2ef0b871",
+      "title": "The Best Mother’s Day and Father’s Day Jewellery Gifts for 2026",
+      "link": "https://www.fashionbeans.com/article/best-mothers-day-fathers-day-jewellery-gifts-2026/",
+      "summary": "A good piece of jewellery doesn&#8217;t just work in the moment — it stays with you. It&#8217;s worn often, picked up without thinking, and over time, it starts to mean more than it did the day it was given. With Mother&#8217;s Day and Father&#8217;s Day landing within weeks of each other, this is one of &#8230; Contin",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: The Best Mother’s Day and Father’s Day Jewellery Gifts for 2026...",
+      "score": 1,
+      "published": "2026-05-02T10:06:30+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d5b2eeba204c",
+      "title": "The Curator, the Artist, and the Artisans Bringing Morroco to Venice",
+      "link": "https://www.vogue.com/article/amina-agueznay-morocco-pavillion-venice-2026",
+      "summary": "When la Biennale de Venezia unveils its 61st International Arte Exhibition on May 9, the Kingdom of Morocco will have its first official national pavilion within the Arsenale. Last summer, artist Amina Agueznay was selected to represent her country, in tandem with curator Meriem Berrada.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
+      "score": 0,
+      "published": "2026-05-02T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6883d1d15eb2",
+      "title": "Get Inspired for the Kentucky Derby With the Best Hats in Street Style",
+      "link": "https://www.vogue.com/article/get-inspired-for-the-kentucky-derby-with-the-best-hats-in-street-style",
+      "summary": "Gear up for the Kentucky Derby in a statement hat.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Get Inspired for the Kentucky Derby With the Best Hats in Street Style...",
+      "score": 1,
+      "published": "2026-05-02T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "87b84f6b86de",
+      "title": "There’s a Reason the Smartest People I Know Are Watching Reality TV",
+      "link": "https://www.vogue.com/article/case-for-reality-tv",
+      "summary": "“RHONY” is still some of the best TV I’ve ever seen. Better than “The Wire” or “Peaky Blinders” or whatever else peoples’ boyfriends insist I watch.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: There’s a Reason the Smartest People I Know Are Watching Reality TV...",
+      "score": 0,
+      "published": "2026-05-02T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0d3c91b47e43",
+      "title": "The Best Cos New Arrivals to Shop for Spring 2026 | Vogue",
+      "link": "https://www.vogue.com/article/best-cos-finds",
+      "summary": "Great tailoring, lightweight knits, and relaxed jeans are a few of the best Cos new arrivals we’re eyeing for spring.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best Cos New Arrivals to Shop for Spring 2026 | Vogue...",
+      "score": 0,
+      "published": "2026-05-02T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "460c86a03f3c",
+      "title": "PSA: This Is the New It Bag to Wear With Jeans",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/gucci-jackie-slim-shoulder-bag-demi-moore",
+      "summary": "No explanation needed once you see it for yourself.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: PSA: This Is the New It Bag to Wear With Jeans...",
+      "score": 1,
+      "published": "2026-05-02T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "343860029042",
+      "title": "6 Scandi Outfit Ideas to Wear This Spring If You Want to Look Polished and Put-Together",
+      "link": "https://www.whowhatwear.com/fashion/shopping/scandi-outfit-ideas-spring-2026",
+      "summary": "Next stop Oslo.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 6 Scandi Outfit Ideas to Wear This Spring If You Want to Look Polished...",
+      "score": 2,
+      "published": "2026-05-02T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "b0e527746164",
       "title": "Sorry, Jeans—Fashion Insiders in London are Switching Stovepipes For This Trending Trouser Style",
@@ -93,44 +191,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b6485472e2c6",
-      "title": "These Are the First Summer Dresses I'm Buying—They'll Be Gone by June",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-early-summer-dresses-2026",
-      "summary": "Shop my list inside.",
+      "id": "47133024db6e",
+      "title": "In 2026, People With Cool Taste Are Wearing Jeans in These 5 Colors—Not Blue",
+      "link": "https://www.whowhatwear.com/fashion/denim/jean-color-trends-spring-2026",
+      "summary": "We have viral pairs from The Row and Still Here to thank.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: These Are the First Summer Dresses I'm Buying—They'll Be Gone by June...",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
-      "published": "2026-05-02T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e7836a442b0b",
-      "title": "Who What Wear Editors Told Me Their 15 Best Fashion Finds This Month",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-editor-fashion-items-may-2026",
-      "summary": "Shop the edit.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Who What Wear Editors Told Me Their 15 Best Fashion Finds This Month...",
-      "score": 2,
-      "published": "2026-05-02T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "331f7c023304",
-      "title": "I'm a Shopping Director—These New Zara Basics Are the Most Fashionable and Can Be Worn With Many Different Outfits",
-      "link": "https://www.whowhatwear.com/fashion/shopping/stylish-zara-spring-summer-clothing",
-      "summary": "Versatile and chic!",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I'm a Shopping Director—These New Zara Basics Are the Most Fashionable...",
-      "score": 2,
       "published": "2026-05-02T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -163,16 +233,44 @@
       "discovered_via": "feed"
     },
     {
-      "id": "47133024db6e",
-      "title": "In 2026, People With Cool Taste Are Wearing Jeans in These 5 Colors—Not Blue",
-      "link": "https://www.whowhatwear.com/fashion/denim/jean-color-trends-spring-2026",
-      "summary": "We have viral pairs from The Row and Still Here to thank.",
+      "id": "b6485472e2c6",
+      "title": "These Are the First Summer Dresses I'm Buying—They'll Be Gone by June",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-early-summer-dresses-2026",
+      "summary": "Shop my list inside.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "angle": "Fashion Intelligence: These Are the First Summer Dresses I'm Buying—They'll Be Gone by June...",
       "score": 1,
+      "published": "2026-05-02T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "331f7c023304",
+      "title": "I'm a Shopping Director—These New Zara Basics Are the Most Fashionable and Can Be Worn With Many Different Outfits",
+      "link": "https://www.whowhatwear.com/fashion/shopping/stylish-zara-spring-summer-clothing",
+      "summary": "Versatile and chic!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I'm a Shopping Director—These New Zara Basics Are the Most Fashionable...",
+      "score": 2,
+      "published": "2026-05-02T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e7836a442b0b",
+      "title": "Who What Wear Editors Told Me Their 15 Best Fashion Finds This Month",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-editor-fashion-items-may-2026",
+      "summary": "Shop the edit.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Who What Wear Editors Told Me Their 15 Best Fashion Finds This Month...",
+      "score": 2,
       "published": "2026-05-02T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1269,6 +1367,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "018df746568a",
+      "title": "9 Best Protein Treatments for Stronger, Shinier Hair",
+      "link": "https://www.vogue.com/article/best-protein-treatments-hair",
+      "summary": "More lustrous hair starts here—discover the best protein treatments to repair damage, boost softness, and bring brittle strands back to life.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: 9 Best Protein Treatments for Stronger, Shinier Hair...",
+      "score": 0,
+      "published": "2026-05-01T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "29491ea77d71",
       "title": "Recreate Our Favorite Looks from The Devil Wears Prada 2",
       "link": "https://www.vogue.com/article/devil-wears-prada-2-outfits",
@@ -1297,20 +1409,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "018df746568a",
-      "title": "9 Best Protein Treatments for Stronger, Shinier Hair",
-      "link": "https://www.vogue.com/article/best-protein-treatments-hair",
-      "summary": "More lustrous hair starts here—discover the best protein treatments to repair damage, boost softness, and bring brittle strands back to life.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: 9 Best Protein Treatments for Stronger, Shinier Hair...",
-      "score": 0,
-      "published": "2026-05-01T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "97fdb93f1a29",
       "title": "NYC and London It Girls Agree This Spring Outfit Formula Is the Easiest Way to Look Like a Fashion Person",
       "link": "https://www.whowhatwear.com/fashion/shopping/baggy-trousers-and-flip-flop-outfit-ideas-spring-2026",
@@ -1322,48 +1420,6 @@
       "angle": "Fashion Intelligence: NYC and London It Girls Agree This Spring Outfit Formula Is the Easies...",
       "score": 2,
       "published": "2026-05-01T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "904f20a31d4f",
-      "title": "The Vogue Business Beauty Trend Tracker",
-      "link": "https://www.vogue.com/article/the-vogue-business-beauty-tracker",
-      "summary": "Vogue Business brings you weekly exclusive data from Spate tracking historic growth across brands, trends and ingredients. Stay tuned as we spotlight a different beauty category each week.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-05-01T09:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "aef8ec06ffcb",
-      "title": "Signature Scent to Scent Stacking: The New Men’s Fragrance Opportunity",
-      "link": "https://www.vogue.com/article/signature-scent-to-scent-stacking-the-new-mens-fragrance-opportunity",
-      "summary": "Younger men’s fragrance consumers are swapping signature scents for fragrance closets, encouraging brands to rethink everything from formulation to format.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Signature Scent to Scent Stacking: The New Men’s Fragrance Opportunity...",
-      "score": 1,
-      "published": "2026-05-01T09:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4c646b151bcd",
-      "title": "16 Things to Do in NYC If You’re Not Attending the Met Gala",
-      "link": "https://www.vogue.com/article/16-things-to-do-in-nyc-if-not-attending-the-met-gala",
-      "summary": "While fashion’s biggest night is only days away, indulge in Met Gala counterprogramming with a Coney Island hot dog or Andy Warhol’s Polaroids at the Whitney.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: 16 Things to Do in NYC If You’re Not Attending the Met Gala...",
-      "score": 1,
-      "published": "2026-05-01T09:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1406,48 +1462,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-05-01T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0a617eae5e3d",
-      "title": "I Can't Stop Wearing This Under-$100 Top-and-Skirt Set—It's So Chic",
-      "link": "https://www.whowhatwear.com/fashion/shopping/free-people-spring-2026",
-      "summary": "And made from 100% cotton.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-05-01T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3c3a13a31b6b",
-      "title": "Word on the Street Is the Latest Zara Drop Is Full of Hits—27 Items I Know You'll Wear Over and Over",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-zara-arrivals-may-2026",
-      "summary": "Chic warm-weather styles ahead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Word on the Street Is the Latest Zara Drop Is Full of Hits—27 Items I ...",
-      "score": 2,
-      "published": "2026-05-01T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8846bdbcd3d8",
-      "title": "Olivia Rodrigo on Barça, Robert Smith, and the Countdown to ‘You Seem Pretty Sad for a Girl So in Love’",
-      "link": "https://www.vogue.com/article/olivia-rodrigo-fc-barcelona-spotify-you-seem-pretty-sad-for-a-girl-so-in-love",
-      "summary": "“There are so many different emotions injected into these love songs, and I’m excited for people to unpack them and see what they mean to them,” Rodrigo says of her next record, out in June.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Olivia Rodrigo on Barça, Robert Smith, and the Countdown to ‘You Seem ...",
-      "score": 0,
-      "published": "2026-05-01T06:05:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2431,20 +2445,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "db734174014d",
-      "title": "Rizz Is a Style Problem. Here’s How to Fix Yours.",
-      "link": "https://www.fashionbeans.com/article/rizz-mens-fashion-style-guide/",
-      "summary": "Let&#8217;s get something out of the way first. Rizz — the Gen Z shorthand for charisma, charm and the effortless ability to attract a room — is not new. It&#8217;s just got a better name than it used to. The word is believed to be a shortened form of &#8220;charisma,&#8221; carved from the middle of &#8230; Continue r",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Rizz Is a Style Problem. Here’s How to Fix Yours....",
-      "score": 1,
-      "published": "2026-04-14T08:45:19+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "6434bba17c84",
       "title": "What Is Indian Chic Dress Code? Outfit Ideas for Men & Women",
       "link": "https://www.lashkaraa.com/blogs/lashkaraa/indian-chic-dress-code",
@@ -3021,52 +3021,52 @@
   ],
   "trends": [
     {
-      "term": "ಕ್ರಿಕೆಟ್",
+      "term": "championship",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "पीलीभीत",
+      "term": "kolkata weather",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "கைல் ஜேமிசன்",
+      "term": "ipswich town vs qpr",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "shenyang j-35",
+      "term": "याचिका",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अजय राय",
+      "term": "tai tuivasa",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "हॉरर कॉमेडी",
+      "term": "aamir khan",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "multibagger stock",
+      "term": "ಧನಂಜಯ್",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "germany vs austria",
+      "term": "khanapara teer result today",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "nathan smith",
+      "term": "পেনশন",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sandeep pathak firs punjab",
+      "term": "മത്സ്യം",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T05:24:45.164124+00:00",
+  "generated_at": "2026-05-03T07:20:40.572728+00:00",
   "owned_count": 10,
   "competitor_count": 30,
   "industry_count": 172,
@@ -8,6 +8,146 @@
     "US": 1791
   },
   "articles": [
+    {
+      "id": "46809d9b6aa4",
+      "title": "Fashion People in Paris Know These Summer Shoe Trends Are Key to a Well-Styled Look",
+      "link": "https://www.whowhatwear.com/fashion/trends/french-girl-spring-summer-shoe-trends",
+      "summary": "These flats are perfect.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-05-03T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2894ce7b67e4",
+      "title": "Sorry, But These 5 Sandal Trends Are Officially Out for 2026",
+      "link": "https://www.whowhatwear.com/fashion/shoes/outdated-sandal-trends-2026",
+      "summary": "You need to see the chic swaps.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-05-03T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "133d25dc0938",
+      "title": "No, Not Cotton Dresses—French Women are Wearing These Chic Linen Trends On Repeat This Spring",
+      "link": "https://www.whowhatwear.com/fashion/french-girl-linen-trends-spring-2026",
+      "summary": "When it comes to prepping a wardrobe that's ready for the spring-to-summer transition, French women always nail the brief. Here's why they are swapping cotton and silk for linen way ahead of summer 2026.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 4,
+      "published": "2026-05-03T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bfced2f3dc41",
+      "title": "According to the Runways, This Is *the* Color Combo of 2026",
+      "link": "https://www.whowhatwear.com/fashion/shopping/red-blue-color-trend-2026",
+      "summary": "As seen at Celine, Loewe, Prada, and Jil Sander.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: According to the Runways, This Is *the* Color Combo of 2026...",
+      "score": 1,
+      "published": "2026-05-03T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0c632fbde85b",
+      "title": "Trust Me—You'll Never Regret These Designer Beachwear Buys",
+      "link": "https://www.whowhatwear.com/designer-beachwear",
+      "summary": "They're forever pieces.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Trust Me—You'll Never Regret These Designer Beachwear Buys...",
+      "score": 2,
+      "published": "2026-05-03T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "512ac27cd3ab",
+      "title": "\"I Don't Know What to Wear\" Isn't in My Vocab Since I Started Building All of My Summer Outfits Around These 8 Elegant Pieces",
+      "link": "https://www.whowhatwear.com/fashion/summer/summer-capsule-wardrobe-2026",
+      "summary": "So simple, so chic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: \"I Don't Know What to Wear\" Isn't in My Vocab Since I Started Building...",
+      "score": 2,
+      "published": "2026-05-03T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dd438ca076c3",
+      "title": "5 Easy and Stylish Transitional Spring Summer Outfits Ideas for 2026",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/transitional-spring-summer-outfit-ideas-2026",
+      "summary": "Chic and simple.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 5 Easy and Stylish Transitional Spring Summer Outfits Ideas for 2026...",
+      "score": 1,
+      "published": "2026-05-03T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "29e1472ddf99",
+      "title": "30 Chic Graduation-Day Dresses Everyone Will Compliment When Your Cap and Gown Come Off",
+      "link": "https://www.whowhatwear.com/fashion/dresses/best-graduation-dresses-2026",
+      "summary": "These are all stunning.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 30 Chic Graduation-Day Dresses Everyone Will Compliment When Your Cap ...",
+      "score": 2,
+      "published": "2026-05-03T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "efb648e4dfc0",
+      "title": "Zara Just Nailed Every Key Summer Trend in One Chic Drop—These Pieces Won’t Hang Around for Long",
+      "link": "https://www.whowhatwear.com/fashion/shopping/zara-summer-trends-2026",
+      "summary": "Standout buys.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-05-03T06:45:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c406b8907ef4",
+      "title": "If You're Wondering What Your Most Fashionable Friend Is Wearing This Summer, Look to These 5 Outfit Ideas",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/summer-outfit-formulas-2026",
+      "summary": "Summer is here!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-05-03T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "df69bc9578dc",
       "title": "Everyone Knows I Have Excellent Taste In Shoes—7 Summer Trends That Get My Approval",
@@ -303,20 +443,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0d3c91b47e43",
-      "title": "The Best Cos New Arrivals to Shop for Spring 2026 | Vogue",
-      "link": "https://www.vogue.com/article/best-cos-finds",
-      "summary": "Great tailoring, lightweight knits, and relaxed jeans are a few of the best Cos new arrivals we’re eyeing for spring.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Cos New Arrivals to Shop for Spring 2026 | Vogue...",
-      "score": 0,
-      "published": "2026-05-02T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d5b2eeba204c",
       "title": "The Curator, the Artist, and the Artisans Bringing Morroco to Venice",
       "link": "https://www.vogue.com/article/amina-agueznay-morocco-pavillion-venice-2026",
@@ -341,6 +467,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Get Inspired for the Kentucky Derby With the Best Hats in Street Style...",
       "score": 1,
+      "published": "2026-05-02T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0d3c91b47e43",
+      "title": "The Best Cos New Arrivals to Shop for Spring 2026 | Vogue",
+      "link": "https://www.vogue.com/article/best-cos-finds",
+      "summary": "Great tailoring, lightweight knits, and relaxed jeans are a few of the best Cos new arrivals we’re eyeing for spring.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best Cos New Arrivals to Shop for Spring 2026 | Vogue...",
+      "score": 0,
       "published": "2026-05-02T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -415,20 +555,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "675a3d960a59",
-      "title": "Not Ballet Flats—Jennifer Lawrence Just Styled Her LBD With an Even More Elegant Shoe",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/satin-kitten-heel-shoe-trend-jennifer-lawrence-2026",
-      "summary": "Impossibly chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Not Ballet Flats—Jennifer Lawrence Just Styled Her LBD With an Even Mo...",
-      "score": 1,
-      "published": "2026-05-02T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7ac147be726a",
       "title": "I Shoved Spring Into a Suitcase—Every Beauty and Fashion Staple I Packed for L.A., Miami, and Palm Springs",
       "link": "https://www.whowhatwear.com/beauty/spring-beauty-and-fashion-editor-travel-staples",
@@ -439,6 +565,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I Shoved Spring Into a Suitcase—Every Beauty and Fashion Staple I Pack...",
       "score": 3,
+      "published": "2026-05-02T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "675a3d960a59",
+      "title": "Not Ballet Flats—Jennifer Lawrence Just Styled Her LBD With an Even More Elegant Shoe",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/satin-kitten-heel-shoe-trend-jennifer-lawrence-2026",
+      "summary": "Impossibly chic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Not Ballet Flats—Jennifer Lawrence Just Styled Her LBD With an Even Mo...",
+      "score": 1,
       "published": "2026-05-02T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -709,20 +849,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7ffe5f68d73d",
-      "title": "Trust Me—These 15 Beauty Buys Make Perfect Last-Minute Mother's Day Gifts",
-      "link": "https://www.whowhatwear.com/beauty/mothers-day-beauty-gifts",
-      "summary": "From budget-friendly to splurge-worthy, we've got you covered.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Trust Me—These 15 Beauty Buys Make Perfect Last-Minute Mother's Day Gi...",
-      "score": 1,
-      "published": "2026-05-01T22:31:15+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "effdcd34698e",
       "title": "Lauren Sánchez Bezos’s Belted Top Features a Surprise Around Back",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71188350/lauren-sanchez-bezos-corset-belt-lace-up-back-pre-met-gala-outfit/",
@@ -734,20 +860,6 @@
       "angle": "Fashion Intelligence: Lauren Sánchez Bezos’s Belted Top Features a Surprise Around Back...",
       "score": 0,
       "published": "2026-05-01T22:18:03+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1f01e7272b9f",
-      "title": "If You Want to Look Trendier in Sneakers, Get the It Item Zendaya Just Wore",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/windbreaker-sneaker-outfit-trend-zendaya",
-      "summary": "Cool girls are into it.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-05-01T22:02:17+00:00",
       "discovered_via": "feed"
     },
     {
@@ -776,20 +888,6 @@
       "angle": "Fashion Intelligence: Which Stars Have Never Been to the Met Gala?...",
       "score": 0,
       "published": "2026-05-01T21:44:36+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "33730e38b844",
-      "title": "I'm Going to a Wedding in Mexico This May—I Tried On 20 Chic Dresses for the Occasion, and These 5 Made the Cut",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-wedding-guest-dresses-for-a-wedding-in-mexico",
-      "summary": "It's going to be hard choosing just one.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: I'm Going to a Wedding in Mexico This May—I Tried On 20 Chic Dresses for the Occasion, and These 5 Made the Cut — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-05-01T21:42:50+00:00",
       "discovered_via": "feed"
     },
     {
@@ -835,20 +933,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "29f9b0ca39f8",
-      "title": "I've Been Testing Beauty Products for Over 2 Decades—The Hair Extensions I'm Telling Everyone About",
-      "link": "https://www.whowhatwear.com/beauty/hair/hillary-kerr-bellami-extensions-review",
-      "summary": "I'm singing their praises to anyone who will listen.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I've Been Testing Beauty Products for Over 2 Decades—The Hair Extensio...",
-      "score": 1,
-      "published": "2026-05-01T20:43:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d66bb3ad5252",
       "title": "How I Styled Mix-Matched Bridesmaids Dresses for My Wedding",
       "link": "https://www.vogue.com/article/how-i-styled-mix-matched-bridesmaids-dresses",
@@ -877,34 +961,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "dbdfbec94563",
-      "title": "Amazon's Summer Beauty Event Is On—12 Tried-and-True Products I'm Adding to Cart",
-      "link": "https://www.whowhatwear.com/beauty/amazon-summer-beauty-event-2026",
-      "summary": "Here's my personal shopping guide.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Amazon's Summer Beauty Event Is On—12 Tried-and-True Products I'm Addi...",
-      "score": 1,
-      "published": "2026-05-01T20:23:04+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b20b1ba0dc83",
-      "title": "J.Lo Just Wore the Rich Boot Color Trend That Makes Floral Dresses Look Stylish (Not Basic)",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/floral-dress-cognac-boots-outfit-jennifer-lopez",
-      "summary": "Spotted in L.A.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-05-01T20:10:06+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "1fc57ef387a8",
       "title": "What Did the Met Gala Look Like Before Social Media?",
       "link": "https://www.harpersbazaar.com/fashion/a71179901/met-gala-pre-social-media-personal-accounts/",
@@ -916,20 +972,6 @@
       "angle": "Fashion Intelligence: What Did the Met Gala Look Like Before Social Media?...",
       "score": 1,
       "published": "2026-05-01T19:54:49+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a681fe82c4f8",
-      "title": "Spotted on the Upper East Side: The Chicest White-Pants-and-Flat-Shoe Outfit of the Season",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/white-pants-brown-suede-flats-outfit-karlie-kloss",
-      "summary": "Model approved.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-05-01T19:49:42+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1098,20 +1140,6 @@
       "angle": "Fashion Intelligence: Taylor Swift Shares a Mysterious Countdown Clock to Her Website, Seemi...",
       "score": 0,
       "published": "2026-05-01T17:35:53+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3f00a98edeec",
-      "title": "The Coolest Sneaker Color Trend to Wear With Black Pants in 2026 Is Here",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/butter-yellow-sneaker-trend-vittoria-ceretti",
-      "summary": "Take note for your future summer sneaker outfits.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-05-01T17:34:34+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1465,20 +1493,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "cb01044f1331",
-      "title": "I'm a Fashion Editor—Here's What I Predict It Girls Will Be Buying for Under $250 This Summer",
-      "link": "https://www.whowhatwear.com/fashion/shopping/under-250-summer-shopping-2026",
-      "summary": "From pendant necklaces to Bermuda shorts.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I'm a Fashion Editor—Here's What I Predict It Girls Will Be Buying for...",
-      "score": 1,
-      "published": "2026-05-01T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "4b255b4b8a9b",
       "title": "Weekly Drop Watch: Burberry x Hunza G, Khy's Refresh, a New Biologique Rechercche Serum and More",
       "link": "https://fashionista.com/2026/05/best-fashion-beauty-launches-collabs-may-1",
@@ -1518,20 +1532,6 @@
       "angle": "Fashion Intelligence: H&M’s Festival Fashion Gets a Bohemian Glow-Up...",
       "score": 1,
       "published": "2026-05-01T10:45:29+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1fd53d033cdf",
-      "title": "If You Want to Wear White Jeans This Summer, This Shoe Trend Always Makes Them Look Chic",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/white-jeans-suede-shoes-outfit-victoria-beckham-2026",
-      "summary": "Guaranteed.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-05-01T10:43:28+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2979,52 +2979,52 @@
   ],
   "trends": [
     {
-      "term": "scorpio horoscope today",
+      "term": "തിരഞ്ഞെടുപ്പ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "winter storm warning",
+      "term": "पंकजा मुंडे",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "આગાહી",
+      "term": "ముంబై ఇండియన్స్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bhoot bangla collection",
-      "summary": "",
-      "aza_category": "Designer Spotlight"
-    },
-    {
-      "term": "aquarius horoscope today",
+      "term": "విమానయానం",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "san diego fc vs lafc",
+      "term": "ग्वादर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "la galaxy",
-      "summary": "",
-      "aza_category": "Occasion Dressing"
-    },
-    {
-      "term": "ಭವಿಷ್ಯ",
+      "term": "gabriel bortoleto",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "vivek vihar",
+      "term": "ममता बनर्जी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "saptahik rashifal",
+      "term": "బండ్ల గణేష్",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "vijay devarakonda",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "सीरिया",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T07:20:40.572728+00:00",
+  "generated_at": "2026-05-03T09:24:39.798896+00:00",
   "owned_count": 10,
   "competitor_count": 30,
   "industry_count": 172,
@@ -8,6 +8,62 @@
     "US": 1791
   },
   "articles": [
+    {
+      "id": "512a601333eb",
+      "title": "16 Vintage Photos of Audrey Hepburn’s Idyllic Summertime Style",
+      "link": "https://www.vogue.com/slideshow/audrey-hepburn-summer-style",
+      "summary": "From gingham capris in Italy to white sundresses in Switzerland, here’s how Audrey Hepburn dressed during summer.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 16 Vintage Photos of Audrey Hepburn’s Idyllic Summertime Style...",
+      "score": 2,
+      "published": "2026-05-03T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a41d1f6e05d4",
+      "title": "Instead of Trainers, the Most Stylish Dressers Pair Cropped Jeans With This More Elegant Shoe",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/cropped-jeans-heels-outfit-sarah-pidgeon-2026",
+      "summary": "Such an upgrade.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Instead of Trainers, the Most Stylish Dressers Pair Cropped Jeans With...",
+      "score": 1,
+      "published": "2026-05-03T08:19:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a8b0542e1a00",
+      "title": "Amal Clooney Just Wore the Divisive Colour Trend That’s Suddenly All Over Prada and Zara",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/purple-dress-trend-amal-clooney-2026",
+      "summary": "Major trend incoming.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-05-03T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4a5333fdb734",
+      "title": "It’s Official: These Are the 5 Summer Basics Making Every Outfit Look More Elegant in 2026",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-summer-basics-2026",
+      "summary": "Simple but chic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: It’s Official: These Are the 5 Summer Basics Making Every Outfit Look ...",
+      "score": 1,
+      "published": "2026-05-03T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "46809d9b6aa4",
       "title": "Fashion People in Paris Know These Summer Shoe Trends Are Key to a Well-Styled Look",
@@ -443,6 +499,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "0d3c91b47e43",
+      "title": "The Best Cos New Arrivals to Shop for Spring 2026 | Vogue",
+      "link": "https://www.vogue.com/article/best-cos-finds",
+      "summary": "Great tailoring, lightweight knits, and relaxed jeans are a few of the best Cos new arrivals we’re eyeing for spring.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best Cos New Arrivals to Shop for Spring 2026 | Vogue...",
+      "score": 0,
+      "published": "2026-05-02T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "d5b2eeba204c",
       "title": "The Curator, the Artist, and the Artisans Bringing Morroco to Venice",
       "link": "https://www.vogue.com/article/amina-agueznay-morocco-pavillion-venice-2026",
@@ -467,20 +537,6 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Get Inspired for the Kentucky Derby With the Best Hats in Street Style...",
       "score": 1,
-      "published": "2026-05-02T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0d3c91b47e43",
-      "title": "The Best Cos New Arrivals to Shop for Spring 2026 | Vogue",
-      "link": "https://www.vogue.com/article/best-cos-finds",
-      "summary": "Great tailoring, lightweight knits, and relaxed jeans are a few of the best Cos new arrivals we’re eyeing for spring.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Cos New Arrivals to Shop for Spring 2026 | Vogue...",
-      "score": 0,
       "published": "2026-05-02T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -513,16 +569,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b0e527746164",
-      "title": "Sorry, Jeans—Fashion Insiders in London are Switching Stovepipes For This Trending Trouser Style",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/cobalt-blue-trouser-trend",
-      "summary": "I keep recommending these.",
+      "id": "14c6fc042157",
+      "title": "Nordstrom's Best-Selling Beauty Products Are Guaranteed to Please—Try This, This, and This",
+      "link": "https://www.whowhatwear.com/beauty/nordstrom-best-selling-spring-beauty-products",
+      "summary": "They're top-rated and highly recommended (by me).",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Nordstrom's Best-Selling Beauty Products Are Guaranteed to Please—Try ...",
+      "score": 1,
       "published": "2026-05-02T09:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -541,31 +597,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "14c6fc042157",
-      "title": "Nordstrom's Best-Selling Beauty Products Are Guaranteed to Please—Try This, This, and This",
-      "link": "https://www.whowhatwear.com/beauty/nordstrom-best-selling-spring-beauty-products",
-      "summary": "They're top-rated and highly recommended (by me).",
+      "id": "b0e527746164",
+      "title": "Sorry, Jeans—Fashion Insiders in London are Switching Stovepipes For This Trending Trouser Style",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/cobalt-blue-trouser-trend",
+      "summary": "I keep recommending these.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Nordstrom's Best-Selling Beauty Products Are Guaranteed to Please—Try ...",
-      "score": 1,
-      "published": "2026-05-02T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7ac147be726a",
-      "title": "I Shoved Spring Into a Suitcase—Every Beauty and Fashion Staple I Packed for L.A., Miami, and Palm Springs",
-      "link": "https://www.whowhatwear.com/beauty/spring-beauty-and-fashion-editor-travel-staples",
-      "summary": "How I tailor my look for different locations without losing personal style.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Shoved Spring Into a Suitcase—Every Beauty and Fashion Staple I Pack...",
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
-      "published": "2026-05-02T08:00:00+00:00",
+      "published": "2026-05-02T09:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -579,6 +621,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Not Ballet Flats—Jennifer Lawrence Just Styled Her LBD With an Even Mo...",
       "score": 1,
+      "published": "2026-05-02T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7ac147be726a",
+      "title": "I Shoved Spring Into a Suitcase—Every Beauty and Fashion Staple I Packed for L.A., Miami, and Palm Springs",
+      "link": "https://www.whowhatwear.com/beauty/spring-beauty-and-fashion-editor-travel-staples",
+      "summary": "How I tailor my look for different locations without losing personal style.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Shoved Spring Into a Suitcase—Every Beauty and Fashion Staple I Pack...",
+      "score": 3,
       "published": "2026-05-02T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -597,76 +653,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6e8de53626df",
-      "title": "Not Spring, Not Summer—These 6 Outfits Were Made for Wearing Between Seasons",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/spring-summer-transitional-outfits-2026",
-      "summary": "Options for the in-between.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-05-02T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "69c24ff7c007",
-      "title": "The Best European Beauty Secrets for Ultra-Glowy Skin, According to an Austrian Aesthetician",
-      "link": "https://www.whowhatwear.com/beauty/skin/best-european-beauty-tips-from-an-austrian-aesthetician",
-      "summary": "Taking rigorous notes.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best European Beauty Secrets for Ultra-Glowy Skin, According to an...",
-      "score": 1,
-      "published": "2026-05-02T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3f61a955b9fa",
-      "title": "The Bikini Trend Everyone Will Be Wearing This Summer",
-      "link": "https://www.whowhatwear.com/fashion/swimwear/bikini-shorts-swimwear-trend-2026",
-      "summary": "Mark my word.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-05-02T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0f081d7709bf",
-      "title": "Step Aside, Riding Boots—Lately I've Been Grabbing This Flat Boot Trend More Often",
-      "link": "https://www.whowhatwear.com/fashion/shoes/best-flat-stretch-knee-high-boots",
-      "summary": "It's just as comfortable and chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-05-02T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "47133024db6e",
-      "title": "In 2026, People With Cool Taste Are Wearing Jeans in These 5 Colors—Not Blue",
-      "link": "https://www.whowhatwear.com/fashion/denim/jean-color-trends-spring-2026",
-      "summary": "We have viral pairs from The Row and Still Here to thank.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-05-02T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d0fe1ed25b64",
       "title": "I Live in L.A. and Own a Fashion Brand—These Are My Wardrobe Staples and 5-Minute Makeup Routine",
       "link": "https://www.whowhatwear.com/fashion/shopping/charlie-hourston-charlie-beads",
@@ -676,6 +662,34 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I Live in L.A. and Own a Fashion Brand—These Are My Wardrobe Staples a...",
+      "score": 2,
+      "published": "2026-05-02T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b6485472e2c6",
+      "title": "These Are the First Summer Dresses I'm Buying—They'll Be Gone by June",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-early-summer-dresses-2026",
+      "summary": "Shop my list inside.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: These Are the First Summer Dresses I'm Buying—They'll Be Gone by June...",
+      "score": 1,
+      "published": "2026-05-02T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e7836a442b0b",
+      "title": "Who What Wear Editors Told Me Their 15 Best Fashion Finds This Month",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-editor-fashion-items-may-2026",
+      "summary": "Shop the edit.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Who What Wear Editors Told Me Their 15 Best Fashion Finds This Month...",
       "score": 2,
       "published": "2026-05-02T07:00:00+00:00",
       "discovered_via": "feed"
@@ -709,30 +723,72 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e7836a442b0b",
-      "title": "Who What Wear Editors Told Me Their 15 Best Fashion Finds This Month",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-editor-fashion-items-may-2026",
-      "summary": "Shop the edit.",
+      "id": "47133024db6e",
+      "title": "In 2026, People With Cool Taste Are Wearing Jeans in These 5 Colors—Not Blue",
+      "link": "https://www.whowhatwear.com/fashion/denim/jean-color-trends-spring-2026",
+      "summary": "We have viral pairs from The Row and Still Here to thank.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-05-02T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0f081d7709bf",
+      "title": "Step Aside, Riding Boots—Lately I've Been Grabbing This Flat Boot Trend More Often",
+      "link": "https://www.whowhatwear.com/fashion/shoes/best-flat-stretch-knee-high-boots",
+      "summary": "It's just as comfortable and chic.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Who What Wear Editors Told Me Their 15 Best Fashion Finds This Month...",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-05-02T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3f61a955b9fa",
+      "title": "The Bikini Trend Everyone Will Be Wearing This Summer",
+      "link": "https://www.whowhatwear.com/fashion/swimwear/bikini-shorts-swimwear-trend-2026",
+      "summary": "Mark my word.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
       "published": "2026-05-02T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "b6485472e2c6",
-      "title": "These Are the First Summer Dresses I'm Buying—They'll Be Gone by June",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-early-summer-dresses-2026",
-      "summary": "Shop my list inside.",
+      "id": "69c24ff7c007",
+      "title": "The Best European Beauty Secrets for Ultra-Glowy Skin, According to an Austrian Aesthetician",
+      "link": "https://www.whowhatwear.com/beauty/skin/best-european-beauty-tips-from-an-austrian-aesthetician",
+      "summary": "Taking rigorous notes.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: These Are the First Summer Dresses I'm Buying—They'll Be Gone by June...",
+      "angle": "Fashion Intelligence: The Best European Beauty Secrets for Ultra-Glowy Skin, According to an...",
       "score": 1,
+      "published": "2026-05-02T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6e8de53626df",
+      "title": "Not Spring, Not Summer—These 6 Outfits Were Made for Wearing Between Seasons",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/spring-summer-transitional-outfits-2026",
+      "summary": "Options for the in-between.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
       "published": "2026-05-02T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -790,48 +846,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-05-02T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "23f42d9a7af8",
-      "title": "I Wear Jeans Every Summer—5 It-Girl-Approved Trends That Make Them Instantly More Polished",
-      "link": "https://www.whowhatwear.com/fashion/denim/summer-trends-to-wear-with-jeans-2026",
-      "summary": "A new-season refresh.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-05-02T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b471a43809c5",
-      "title": "The Met Gala Naked Dresses Everyone *Still* Talks About",
-      "link": "https://www.whowhatwear.com/fashion/red-carpet/met-gala-best-naked-dresses-of-all-time",
-      "summary": "Worn by Zoë Kravitz, Blake Lively, Beyoncé, and more.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: The Met Gala Naked Dresses Everyone *Still* Talks About...",
-      "score": 1,
-      "published": "2026-05-01T23:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "acc5ebb1ef28",
-      "title": "White Jeans Plus This Flat-Shoe Trend Is the Ticket to Looking Like a Fashion Person Right Now",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/white-glove-flats-trend-tracee-ellis-ross",
-      "summary": "Cool girl-approved.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-05-01T22:54:23+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1433,20 +1447,6 @@
       "aza_category": "Designer Spotlight",
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 2,
-      "published": "2026-05-01T13:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d14c24891dc4",
-      "title": "Harry Styles and Zoë Kravitz: A Quick Timeline of Their Whirlwind Romance",
-      "link": "https://www.vogue.com/article/i-want-what-they-have-engagement-edition-zoe-kravitz-and-harry-styles",
-      "summary": "Maybe there’s something to be said for the quiet-luxury approach to a celebrity romantic relationship. As Bonnie Raitt once sang, “Don’t advertise your man.”",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Harry Styles and Zoë Kravitz: A Quick Timeline of Their Whirlwind Roma...",
-      "score": 3,
       "published": "2026-05-01T13:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -2979,52 +2979,52 @@
   ],
   "trends": [
     {
-      "term": "തിരഞ്ഞെടുപ്പ്",
+      "term": "விலை",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "पंकजा मुंडे",
+      "term": "பேட்ஸ்மேன்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ముంబై ఇండియన్స్",
+      "term": "ಚಿರಂಜೀವಿ ಸರ್ಜಾ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "విమానయానం",
+      "term": "austria national cricket team vs germany national cricket team match scorecard",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ग्वादर",
+      "term": "matheesha pathirana",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "gabriel bortoleto",
+      "term": "मकर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ममता बनर्जी",
+      "term": "बस",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "బండ్ల గణేష్",
+      "term": "நடிகர்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "vijay devarakonda",
+      "term": "শুভেন্দু অধিকারী",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "सीरिया",
+      "term": "delhi fire vivek vihar",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

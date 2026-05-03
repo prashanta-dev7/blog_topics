@@ -1,13 +1,83 @@
 {
-  "generated_at": "2026-05-03T09:24:39.798896+00:00",
+  "generated_at": "2026-05-03T11:46:29.160858+00:00",
   "owned_count": 10,
   "competitor_count": 30,
-  "industry_count": 172,
+  "industry_count": 173,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "195bea8fcfca",
+      "title": "UP groom, on way to wedding, shot dead by bride's relatives who didn't like him",
+      "link": "https://www.indiatoday.in/india/story/jaunpur-groom-shot-dead-on-way-to-wedding-bride-relative-under-scanner-2905035-2026-05-03?utm_source=rss",
+      "summary": "UP groom, on way to wedding, shot dead by bride's relatives who didn't like him",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: UP groom, on way to wedding, shot dead by bride's relatives who didn't like him — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-05-03T11:05:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7f3979de48e4",
+      "title": "Connections Between Fashion and Art From a 1945 Issue of Vogue",
+      "link": "https://www.vogue.com/article/1945-vogue-story-metropolitan-museum-of-art",
+      "summary": "Revisiting the museum’s 1945 sitting, photographed on location at the Metropolitan Museum of Art.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Connections Between Fashion and Art From a 1945 Issue of Vogue...",
+      "score": 1,
+      "published": "2026-05-03T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a26092866921",
+      "title": "10 Flavonoid-Rich Foods to Fight Inflammation",
+      "link": "https://www.vogue.com/article/flavonoid-rich-foods-inflammation",
+      "summary": "Found in a variety of fruits and vegetables, flavonoids are powerful antioxidants with anti-inflammatory properties.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 10 Flavonoid-Rich Foods to Fight Inflammation...",
+      "score": 0,
+      "published": "2026-05-03T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ba5838bd3ed6",
+      "title": "7 Aeolian Island Airbnbs to Book for an Off-the-Beaten-Path Italian Holiday",
+      "link": "https://www.vogue.com/article/aeolian-island-airbnbs",
+      "summary": "Just off the coast of Sicily, a volcanic archipelago offers rugged landscapes, a quieter pace, and beautiful beaches—book an Airbnb in the Aeolian Islands to experience it firsthand.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 0,
+      "published": "2026-05-03T10:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "69ffad6a857a",
+      "title": "Forget Loafers, ’90s Tennis Shoes Are Making a Surprise Comeback for Summer 2026",
+      "link": "https://www.vogue.com/article/white-canvas-shoes",
+      "summary": "White plimsolls à la Julia Roberts and Jennifer Aniston are an impending summer fave—shop the best pairs now.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Forget Loafers, ’90s Tennis Shoes Are Making a Surprise Comeback for S...",
+      "score": 0,
+      "published": "2026-05-03T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "512a601333eb",
       "title": "16 Vintage Photos of Audrey Hepburn’s Idyllic Summertime Style",
@@ -79,20 +149,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2894ce7b67e4",
-      "title": "Sorry, But These 5 Sandal Trends Are Officially Out for 2026",
-      "link": "https://www.whowhatwear.com/fashion/shoes/outdated-sandal-trends-2026",
-      "summary": "You need to see the chic swaps.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-05-03T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "133d25dc0938",
       "title": "No, Not Cotton Dresses—French Women are Wearing These Chic Linen Trends On Repeat This Spring",
       "link": "https://www.whowhatwear.com/fashion/french-girl-linen-trends-spring-2026",
@@ -116,6 +172,34 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: According to the Runways, This Is *the* Color Combo of 2026...",
+      "score": 1,
+      "published": "2026-05-03T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dd438ca076c3",
+      "title": "5 Easy and Stylish Transitional Spring Summer Outfits Ideas for 2026",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/transitional-spring-summer-outfit-ideas-2026",
+      "summary": "Chic and simple.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 5 Easy and Stylish Transitional Spring Summer Outfits Ideas for 2026...",
+      "score": 1,
+      "published": "2026-05-03T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2894ce7b67e4",
+      "title": "Sorry, But These 5 Sandal Trends Are Officially Out for 2026",
+      "link": "https://www.whowhatwear.com/fashion/shoes/outdated-sandal-trends-2026",
+      "summary": "You need to see the chic swaps.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-05-03T07:00:00+00:00",
       "discovered_via": "feed"
@@ -145,20 +229,6 @@
       "aza_category": "Celebrity Style",
       "angle": "Fashion Intelligence: \"I Don't Know What to Wear\" Isn't in My Vocab Since I Started Building...",
       "score": 2,
-      "published": "2026-05-03T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "dd438ca076c3",
-      "title": "5 Easy and Stylish Transitional Spring Summer Outfits Ideas for 2026",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/transitional-spring-summer-outfit-ideas-2026",
-      "summary": "Chic and simple.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 5 Easy and Stylish Transitional Spring Summer Outfits Ideas for 2026...",
-      "score": 1,
       "published": "2026-05-03T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -485,20 +555,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "87b84f6b86de",
-      "title": "There’s a Reason the Smartest People I Know Are Watching Reality TV",
-      "link": "https://www.vogue.com/article/case-for-reality-tv",
-      "summary": "“RHONY” is still some of the best TV I’ve ever seen. Better than “The Wire” or “Peaky Blinders” or whatever else peoples’ boyfriends insist I watch.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: There’s a Reason the Smartest People I Know Are Watching Reality TV...",
-      "score": 0,
-      "published": "2026-05-02T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "0d3c91b47e43",
       "title": "The Best Cos New Arrivals to Shop for Spring 2026 | Vogue",
       "link": "https://www.vogue.com/article/best-cos-finds",
@@ -508,20 +564,6 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: The Best Cos New Arrivals to Shop for Spring 2026 | Vogue...",
-      "score": 0,
-      "published": "2026-05-02T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d5b2eeba204c",
-      "title": "The Curator, the Artist, and the Artisans Bringing Morroco to Venice",
-      "link": "https://www.vogue.com/article/amina-agueznay-morocco-pavillion-venice-2026",
-      "summary": "When la Biennale de Venezia unveils its 61st International Arte Exhibition on May 9, the Kingdom of Morocco will have its first official national pavilion within the Arsenale. Last summer, artist Amina Agueznay was selected to represent her country, in tandem with curator Meriem Berrada.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Art & Craft",
-      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
       "score": 0,
       "published": "2026-05-02T10:00:00+00:00",
       "discovered_via": "feed"
@@ -537,6 +579,34 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Get Inspired for the Kentucky Derby With the Best Hats in Street Style...",
       "score": 1,
+      "published": "2026-05-02T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "87b84f6b86de",
+      "title": "There’s a Reason the Smartest People I Know Are Watching Reality TV",
+      "link": "https://www.vogue.com/article/case-for-reality-tv",
+      "summary": "“RHONY” is still some of the best TV I’ve ever seen. Better than “The Wire” or “Peaky Blinders” or whatever else peoples’ boyfriends insist I watch.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: There’s a Reason the Smartest People I Know Are Watching Reality TV...",
+      "score": 0,
+      "published": "2026-05-02T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d5b2eeba204c",
+      "title": "The Curator, the Artist, and the Artisans Bringing Morroco to Venice",
+      "link": "https://www.vogue.com/article/amina-agueznay-morocco-pavillion-venice-2026",
+      "summary": "When la Biennale de Venezia unveils its 61st International Arte Exhibition on May 9, the Kingdom of Morocco will have its first official national pavilion within the Arsenale. Last summer, artist Amina Agueznay was selected to represent her country, in tandem with curator Meriem Berrada.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
+      "score": 0,
       "published": "2026-05-02T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -583,20 +653,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5dd6387ba4a7",
-      "title": "I'm in My Short-Nail Era—6 Ultra-Chic Shades I'm Wearing This Spring",
-      "link": "https://www.whowhatwear.com/beauty/nails/short-nail-colors-for-spring",
-      "summary": "Consider this my personal color palette until further notice.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-05-02T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b0e527746164",
       "title": "Sorry, Jeans—Fashion Insiders in London are Switching Stovepipes For This Trending Trouser Style",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/cobalt-blue-trouser-trend",
@@ -611,17 +667,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "675a3d960a59",
-      "title": "Not Ballet Flats—Jennifer Lawrence Just Styled Her LBD With an Even More Elegant Shoe",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/satin-kitten-heel-shoe-trend-jennifer-lawrence-2026",
-      "summary": "Impossibly chic.",
+      "id": "5dd6387ba4a7",
+      "title": "I'm in My Short-Nail Era—6 Ultra-Chic Shades I'm Wearing This Spring",
+      "link": "https://www.whowhatwear.com/beauty/nails/short-nail-colors-for-spring",
+      "summary": "Consider this my personal color palette until further notice.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Not Ballet Flats—Jennifer Lawrence Just Styled Her LBD With an Even Mo...",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
-      "published": "2026-05-02T08:00:00+00:00",
+      "published": "2026-05-02T09:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -653,6 +709,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "675a3d960a59",
+      "title": "Not Ballet Flats—Jennifer Lawrence Just Styled Her LBD With an Even More Elegant Shoe",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/satin-kitten-heel-shoe-trend-jennifer-lawrence-2026",
+      "summary": "Impossibly chic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Not Ballet Flats—Jennifer Lawrence Just Styled Her LBD With an Even Mo...",
+      "score": 1,
+      "published": "2026-05-02T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "d0fe1ed25b64",
       "title": "I Live in L.A. and Own a Fashion Brand—These Are My Wardrobe Staples and 5-Minute Makeup Routine",
       "link": "https://www.whowhatwear.com/fashion/shopping/charlie-hourston-charlie-beads",
@@ -662,6 +732,62 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I Live in L.A. and Own a Fashion Brand—These Are My Wardrobe Staples a...",
+      "score": 2,
+      "published": "2026-05-02T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0391eadfb77f",
+      "title": "7 Wedge-Sandal Outfits I'm Suddenly Seeing Everywhere",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/wedge-sandal-outfits",
+      "summary": "These outfits are living in my mind rent-free.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 7 Wedge-Sandal Outfits I'm Suddenly Seeing Everywhere...",
+      "score": 1,
+      "published": "2026-05-02T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "47133024db6e",
+      "title": "In 2026, People With Cool Taste Are Wearing Jeans in These 5 Colors—Not Blue",
+      "link": "https://www.whowhatwear.com/fashion/denim/jean-color-trends-spring-2026",
+      "summary": "We have viral pairs from The Row and Still Here to thank.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-05-02T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3f61a955b9fa",
+      "title": "The Bikini Trend Everyone Will Be Wearing This Summer",
+      "link": "https://www.whowhatwear.com/fashion/swimwear/bikini-shorts-swimwear-trend-2026",
+      "summary": "Mark my word.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-05-02T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "331f7c023304",
+      "title": "I'm a Shopping Director—These New Zara Basics Are the Most Fashionable and Can Be Worn With Many Different Outfits",
+      "link": "https://www.whowhatwear.com/fashion/shopping/stylish-zara-spring-summer-clothing",
+      "summary": "Versatile and chic!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I'm a Shopping Director—These New Zara Basics Are the Most Fashionable...",
       "score": 2,
       "published": "2026-05-02T07:00:00+00:00",
       "discovered_via": "feed"
@@ -695,48 +821,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0391eadfb77f",
-      "title": "7 Wedge-Sandal Outfits I'm Suddenly Seeing Everywhere",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/wedge-sandal-outfits",
-      "summary": "These outfits are living in my mind rent-free.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 7 Wedge-Sandal Outfits I'm Suddenly Seeing Everywhere...",
-      "score": 1,
-      "published": "2026-05-02T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "331f7c023304",
-      "title": "I'm a Shopping Director—These New Zara Basics Are the Most Fashionable and Can Be Worn With Many Different Outfits",
-      "link": "https://www.whowhatwear.com/fashion/shopping/stylish-zara-spring-summer-clothing",
-      "summary": "Versatile and chic!",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I'm a Shopping Director—These New Zara Basics Are the Most Fashionable...",
-      "score": 2,
-      "published": "2026-05-02T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "47133024db6e",
-      "title": "In 2026, People With Cool Taste Are Wearing Jeans in These 5 Colors—Not Blue",
-      "link": "https://www.whowhatwear.com/fashion/denim/jean-color-trends-spring-2026",
-      "summary": "We have viral pairs from The Row and Still Here to thank.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-05-02T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "0f081d7709bf",
       "title": "Step Aside, Riding Boots—Lately I've Been Grabbing This Flat Boot Trend More Often",
       "link": "https://www.whowhatwear.com/fashion/shoes/best-flat-stretch-knee-high-boots",
@@ -747,20 +831,6 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
-      "published": "2026-05-02T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3f61a955b9fa",
-      "title": "The Bikini Trend Everyone Will Be Wearing This Summer",
-      "link": "https://www.whowhatwear.com/fashion/swimwear/bikini-shorts-swimwear-trend-2026",
-      "summary": "Mark my word.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
       "published": "2026-05-02T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1381,34 +1451,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8ecd0bdd03e3",
-      "title": "Kate Middleton Just Cosigned Summer’s Hottest Color Pairing",
-      "link": "https://www.vogue.com/article/kate-middleton-summer-hottest-color-pairing",
-      "summary": "Light blue and brown has become the preferred color combination of the street-style set for spring 2026, being just the right amount of unexpected. Kate Middleton, the Princess of Wales, chose the approach for a charity visit in the week she celebrated her 15th wedding anniversary.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Fashion Intelligence: Kate Middleton Just Cosigned Summer’s Hottest Color Pairing...",
-      "score": 2,
-      "published": "2026-05-01T13:59:47+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "02f2b228051b",
-      "title": "Jennifer Lawrence Adds an It-Girl Favorite to Her Statement Bag Collection",
-      "link": "https://www.vogue.com/article/jennifer-lawrence-statement-see-through-handbag",
-      "summary": "While Jennifer Lawrence went through a period of toting around Hermès Kellys and Bolides, lately, she’s turned her attention to loud luxury.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 2,
-      "published": "2026-05-01T13:57:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "9d7d4c7da159",
       "title": "We’re So Back! Madonna and Sabrina Carpenter Duet on New Single",
       "link": "https://www.harpersbazaar.com/culture/art-books-music/a71140397/madonna-new-single-sabrina-carpenter/",
@@ -1420,34 +1462,6 @@
       "angle": "Fashion Intelligence: We’re So Back! Madonna and Sabrina Carpenter Duet on New Single...",
       "score": 0,
       "published": "2026-05-01T13:25:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2b951fca2005",
-      "title": "Ashley and Mary-Kate Olsen Are Twins, and So Are Their Handbags",
-      "link": "https://www.vogue.com/article/ashley-and-mary-kate-olsen-the-row-bags",
-      "summary": "A rare joint public sighting of Mary-Kate and Ashley Olsen in New York revealed the founders of The Row like to twin in every sense of the word.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Ashley and Mary-Kate Olsen Are Twins, and So Are Their Handbags...",
-      "score": 0,
-      "published": "2026-05-01T13:11:44+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b1f44b864e0b",
-      "title": "How the Lancôme Absolue Longevity MD Collection Supports Skin at All Life Stages",
-      "link": "https://www.vogue.com/article/lancome-absolue-longevity-md-collection",
-      "summary": "Catering to three different age ranges, the Lancôme Absolue Longevity MD collection uses Mitopure to address the visible skin concerns skin at different stages of aging.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 2,
-      "published": "2026-05-01T13:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2979,52 +2993,52 @@
   ],
   "trends": [
     {
-      "term": "விலை",
+      "term": "sudesh kumar",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "பேட்ஸ்மேன்",
+      "term": "nta to soon release cuet ug 2026 exam city slips",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಚಿರಂಜೀವಿ ಸರ್ಜಾ",
+      "term": "सुनील नारायण",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "austria national cricket team vs germany national cricket team match scorecard",
+      "term": "अधिकारी शुभेंदु",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "matheesha pathirana",
+      "term": "রাজস্থান রয়্যালস",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "मकर",
+      "term": "వర్షం",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बस",
+      "term": "vis raghavan",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "நடிகர்",
+      "term": "heinrich klaasen",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "শুভেন্দু অধিকারী",
+      "term": "apple iphone 18 pro max",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "delhi fire vivek vihar",
+      "term": "ஆர். எஸ். பாரதி",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

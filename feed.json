@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T07:49:50.672408+00:00",
+  "generated_at": "2026-05-04T10:16:24.901495+00:00",
   "owned_count": 10,
   "competitor_count": 30,
   "industry_count": 172,
@@ -9,17 +9,59 @@
   },
   "articles": [
     {
-      "id": "df99da48fd21",
-      "title": "Not Brown, Not Burgundy—The Pretty Shoe Color Trend That's Taking Over at Chanel and Prada",
-      "link": "https://www.whowhatwear.com/fashion/shoes/blue-shoe-color-trend-2026",
-      "summary": "Discover the shoe color every fashion girl will want come fall 2026 inside.",
+      "id": "7166556d80f3",
+      "title": "Where to Watch the 2026 Met Gala Livestream",
+      "link": "https://www.vogue.com/article/where-to-watch-the-2026-met-gala-livestream",
+      "summary": "On Monday, May 4, the 2026 Met Gala livestream will be broadcast exclusively by Vogue across our digital platforms, including on YouTube and TikTok.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Where to Watch the 2026 Met Gala Livestream...",
+      "score": 0,
+      "published": "2026-05-04T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b162881a401d",
+      "title": "Kylie Jenner and Timothée Chalamet Take Their Opposite Couples Style to Broadway",
+      "link": "https://www.vogue.com/article/kylie-jenner-timothee-chalamet-opposite-couples-style-broadway",
+      "summary": "Ahead of the 2026 Met Gala, Kylie Jenner and Timothée Chalamet stepped out for a performance of “The Fear of 13” with the rest of the Kardashian family.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Kylie Jenner and Timothée Chalamet Take Their Opposite Couples Style t...",
+      "score": 1,
+      "published": "2026-05-04T09:58:01+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e4bc38e3627f",
+      "title": "Pre-Met Gala, Kim Kardashian Brings the Body to Broadway",
+      "link": "https://www.vogue.com/article/pre-met-gala-kim-kardashian-brings-the-body-to-broadway",
+      "summary": "In town for the 2026 Met Gala, Kim Kardashian swerved the usual slew of parties for “The Fear of 13,” as a bonafide Broadway producer with sister Kylie and mom Kris Jenner.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Pre-Met Gala, Kim Kardashian Brings the Body to Broadway...",
+      "score": 0,
+      "published": "2026-05-04T09:40:52+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "672cc57a19e2",
+      "title": "Not Wide-Leg—The Fashion People In Their 30s and 60s Are Wearing These Elegant Trousers Instead",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/cropped-trouser-trend-meryl-streep-elsa-hosk-2026",
+      "summary": "Chic with heels and flats.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
-      "published": "2026-05-04T07:00:00+00:00",
+      "published": "2026-05-04T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,6 +75,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
+      "published": "2026-05-04T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "df99da48fd21",
+      "title": "Not Brown, Not Burgundy—The Pretty Shoe Color Trend That's Taking Over at Chanel and Prada",
+      "link": "https://www.whowhatwear.com/fashion/shoes/blue-shoe-color-trend-2026",
+      "summary": "Discover the shoe color every fashion girl will want come fall 2026 inside.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
       "published": "2026-05-04T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -373,20 +429,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a26092866921",
-      "title": "10 Flavonoid-Rich Foods to Fight Inflammation",
-      "link": "https://www.vogue.com/article/flavonoid-rich-foods-inflammation",
-      "summary": "Found in a variety of fruits and vegetables, flavonoids are powerful antioxidants with anti-inflammatory properties.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 10 Flavonoid-Rich Foods to Fight Inflammation...",
-      "score": 0,
-      "published": "2026-05-03T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7f3979de48e4",
       "title": "Connections Between Fashion and Art From a 1945 Issue of Vogue",
       "link": "https://www.vogue.com/article/1945-vogue-story-metropolitan-museum-of-art",
@@ -397,6 +439,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Connections Between Fashion and Art From a 1945 Issue of Vogue...",
       "score": 1,
+      "published": "2026-05-03T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a26092866921",
+      "title": "10 Flavonoid-Rich Foods to Fight Inflammation",
+      "link": "https://www.vogue.com/article/flavonoid-rich-foods-inflammation",
+      "summary": "Found in a variety of fruits and vegetables, flavonoids are powerful antioxidants with anti-inflammatory properties.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 10 Flavonoid-Rich Foods to Fight Inflammation...",
+      "score": 0,
       "published": "2026-05-03T11:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -485,30 +541,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "46809d9b6aa4",
-      "title": "Fashion People in Paris Know These Summer Shoe Trends Are Key to a Well-Styled Look",
-      "link": "https://www.whowhatwear.com/fashion/trends/french-girl-spring-summer-shoe-trends",
-      "summary": "These flats are perfect.",
+      "id": "133d25dc0938",
+      "title": "No, Not Cotton Dresses—French Women are Wearing These Chic Linen Trends On Repeat This Spring",
+      "link": "https://www.whowhatwear.com/fashion/french-girl-linen-trends-spring-2026",
+      "summary": "C'est chic, non?",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
-      "published": "2026-05-03T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2894ce7b67e4",
-      "title": "Sorry, But These 5 Sandal Trends Are Officially Out for 2026",
-      "link": "https://www.whowhatwear.com/fashion/shoes/outdated-sandal-trends-2026",
-      "summary": "You need to see the chic swaps.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
       "published": "2026-05-03T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -527,30 +569,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "dd438ca076c3",
-      "title": "5 Easy and Stylish Transitional Spring Summer Outfits Ideas for 2026",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/transitional-spring-summer-outfit-ideas-2026",
-      "summary": "Chic and simple.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 5 Easy and Stylish Transitional Spring Summer Outfits Ideas for 2026...",
-      "score": 1,
-      "published": "2026-05-03T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "133d25dc0938",
-      "title": "No, Not Cotton Dresses—French Women are Wearing These Chic Linen Trends On Repeat This Spring",
-      "link": "https://www.whowhatwear.com/fashion/french-girl-linen-trends-spring-2026",
-      "summary": "C'est chic, non?",
+      "id": "2894ce7b67e4",
+      "title": "Sorry, But These 5 Sandal Trends Are Officially Out for 2026",
+      "link": "https://www.whowhatwear.com/fashion/shoes/outdated-sandal-trends-2026",
+      "summary": "You need to see the chic swaps.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
       "published": "2026-05-03T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -564,6 +592,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: 30 Chic Graduation-Day Dresses Everyone Will Compliment When Your Cap ...",
+      "score": 2,
+      "published": "2026-05-03T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0c632fbde85b",
+      "title": "Trust Me—You'll Never Regret These Designer Beachwear Buys",
+      "link": "https://www.whowhatwear.com/designer-beachwear",
+      "summary": "They're forever pieces.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Trust Me—You'll Never Regret These Designer Beachwear Buys...",
       "score": 2,
       "published": "2026-05-03T07:00:00+00:00",
       "discovered_via": "feed"
@@ -583,16 +625,30 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0c632fbde85b",
-      "title": "Trust Me—You'll Never Regret These Designer Beachwear Buys",
-      "link": "https://www.whowhatwear.com/designer-beachwear",
-      "summary": "They're forever pieces.",
+      "id": "dd438ca076c3",
+      "title": "5 Easy and Stylish Transitional Spring Summer Outfits Ideas for 2026",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/transitional-spring-summer-outfit-ideas-2026",
+      "summary": "Chic and simple.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Trust Me—You'll Never Regret These Designer Beachwear Buys...",
-      "score": 2,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 5 Easy and Stylish Transitional Spring Summer Outfits Ideas for 2026...",
+      "score": 1,
+      "published": "2026-05-03T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "46809d9b6aa4",
+      "title": "Fashion People in Paris Know These Summer Shoe Trends Are Key to a Well-Styled Look",
+      "link": "https://www.whowhatwear.com/fashion/trends/french-girl-spring-summer-shoe-trends",
+      "summary": "These flats are perfect.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
       "published": "2026-05-03T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -975,20 +1031,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "14c6fc042157",
-      "title": "Nordstrom's Best-Selling Beauty Products Are Guaranteed to Please—Try This, This, and This",
-      "link": "https://www.whowhatwear.com/beauty/nordstrom-best-selling-spring-beauty-products",
-      "summary": "They're top-rated and highly recommended (by me).",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Nordstrom's Best-Selling Beauty Products Are Guaranteed to Please—Try ...",
-      "score": 1,
-      "published": "2026-05-02T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "5dd6387ba4a7",
       "title": "I'm in My Short-Nail Era—6 Ultra-Chic Shades I'm Wearing This Spring",
       "link": "https://www.whowhatwear.com/beauty/nails/short-nail-colors-for-spring",
@@ -1017,17 +1059,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "aabe9e38b46f",
-      "title": "As Comfortable as Leggings, As Chic as Jeans—The Trouser Trend That Will Be Everywhere This Summer",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/balloon-trouser-outfit-zoe-kravitz-2026",
-      "summary": "From Alaïa to Zoë.",
+      "id": "14c6fc042157",
+      "title": "Nordstrom's Best-Selling Beauty Products Are Guaranteed to Please—Try This, This, and This",
+      "link": "https://www.whowhatwear.com/beauty/nordstrom-best-selling-spring-beauty-products",
+      "summary": "They're top-rated and highly recommended (by me).",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Nordstrom's Best-Selling Beauty Products Are Guaranteed to Please—Try ...",
       "score": 1,
-      "published": "2026-05-02T08:00:00+00:00",
+      "published": "2026-05-02T09:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1059,17 +1101,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "69c24ff7c007",
-      "title": "The Best European Beauty Secrets for Ultra-Glowy Skin, According to an Austrian Aesthetician",
-      "link": "https://www.whowhatwear.com/beauty/skin/best-european-beauty-tips-from-an-austrian-aesthetician",
-      "summary": "Taking rigorous notes.",
+      "id": "aabe9e38b46f",
+      "title": "As Comfortable as Leggings, As Chic as Jeans—The Trouser Trend That Will Be Everywhere This Summer",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/balloon-trouser-outfit-zoe-kravitz-2026",
+      "summary": "From Alaïa to Zoë.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best European Beauty Secrets for Ultra-Glowy Skin, According to an...",
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
-      "published": "2026-05-02T07:00:00+00:00",
+      "published": "2026-05-02T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1087,16 +1129,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "331f7c023304",
-      "title": "I'm a Shopping Director—These New Zara Basics Are the Most Fashionable and Can Be Worn With Many Different Outfits",
-      "link": "https://www.whowhatwear.com/fashion/shopping/stylish-zara-spring-summer-clothing",
-      "summary": "Versatile and chic!",
+      "id": "69c24ff7c007",
+      "title": "The Best European Beauty Secrets for Ultra-Glowy Skin, According to an Austrian Aesthetician",
+      "link": "https://www.whowhatwear.com/beauty/skin/best-european-beauty-tips-from-an-austrian-aesthetician",
+      "summary": "Taking rigorous notes.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I'm a Shopping Director—These New Zara Basics Are the Most Fashionable...",
-      "score": 2,
+      "angle": "Fashion Intelligence: The Best European Beauty Secrets for Ultra-Glowy Skin, According to an...",
+      "score": 1,
       "published": "2026-05-02T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1199,20 +1241,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ec7b54fd2c55",
-      "title": "Stylist Erin Walsh Toasted Her New Book With Her All-Star Clients",
-      "link": "https://www.vogue.com/slideshow/erin-walsh-the-art-of-intentional-dressing-book-launch",
-      "summary": "Inside the mirrored halls of the Fifth Avenue Hotel, the Portrait Bar was packed with guests and flashing cameras on Thursday evening. The cause for celebration? Stylist Erin Walsh, who brought together a starry room to launch her new book, The Art of Intentional Dressing.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Stylist Erin Walsh Toasted Her New Book With Her All-Star Clients...",
-      "score": 2,
-      "published": "2026-05-01T21:18:42+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e33eadf1cbd4",
       "title": "Ear Seeding Is Everywhere, But Does It Really Help With Anxiety?",
       "link": "https://www.harpersbazaar.com/beauty/diet-fitness/a71168256/what-is-ear-seeding/",
@@ -1224,20 +1252,6 @@
       "angle": "Fashion Intelligence: Ear Seeding Is Everywhere, But Does It Really Help With Anxiety?...",
       "score": 0,
       "published": "2026-05-01T21:05:02+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d66bb3ad5252",
-      "title": "How I Styled Mix-Matched Bridesmaids Dresses for My Wedding",
-      "link": "https://www.vogue.com/article/how-i-styled-mix-matched-bridesmaids-dresses",
-      "summary": "Vogue’s contributing weddings editor needed 14 dresses for her bridal party—here’s how she found mix-matched bridesmaids dresses to fit everyone’s shape and style.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: How I Styled Mix-Matched Bridesmaids Dresses for My Wedding — A Complete Style Guide",
-      "score": 4,
-      "published": "2026-05-01T20:42:16+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1266,20 +1280,6 @@
       "angle": "Fashion Intelligence: What Did the Met Gala Look Like Before Social Media?...",
       "score": 1,
       "published": "2026-05-01T19:54:49+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "90b5eaad7065",
-      "title": "Checking In with Kimi Antonelli, Formula 1’s New Star, Before Sunday’s Race in Miami",
-      "link": "https://www.vogue.com/article/kimi-antonelli-miami-formula-1-2026",
-      "summary": "The 19-year-old Italian driver is leading the field early in the season.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Checking In with Kimi Antonelli, Formula 1’s New Star, Before Sunday’s...",
-      "score": 1,
-      "published": "2026-05-01T19:28:15+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2979,52 +2979,52 @@
   ],
   "trends": [
     {
-      "term": "விஜய்",
+      "term": "pakistan women vs zimbabwe women",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "chathannoor assembly constituency",
+      "term": "फिल सॉल्ट",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "तुषार मेहता",
+      "term": "തൃഷ കൃഷ്ണന്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "melur election result 2026",
+      "term": "अधिकारी शुभेंदु",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "पाकिस्तान सुपर लीग",
+      "term": "সর্বভারতীয় তৃণমূল কংগ্রেস",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "2",
+      "term": "narine",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "2021 election results in tamilnadu",
+      "term": "मीन",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "dharmendra pradhan",
+      "term": "hardik pandya mumbai indians ipl",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "women premier league",
+      "term": "melur",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बंगाल में कौन जीता",
+      "term": "flash flood risk",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T10:16:24.901495+00:00",
+  "generated_at": "2026-05-04T12:23:18.942476+00:00",
   "owned_count": 10,
   "competitor_count": 30,
   "industry_count": 172,
@@ -9,15 +9,57 @@
   },
   "articles": [
     {
-      "id": "7166556d80f3",
-      "title": "Where to Watch the 2026 Met Gala Livestream",
-      "link": "https://www.vogue.com/article/where-to-watch-the-2026-met-gala-livestream",
+      "id": "87e564010d52",
+      "title": "Met Gala 2026 Live Updates: What to Expect Ahead of Fashion’s Biggest Night",
+      "link": "https://www.vogue.com/live/met-gala-live-updates-2026",
+      "summary": "Get the latest 2026 Met Gala live updates from Vogue, including red carpet news, fashion highlights, editor reactions, and exclusive coverage.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Met Gala 2026 Live Updates: What to Expect Ahead of Fashion’s Biggest ...",
+      "score": 1,
+      "published": "2026-05-04T12:12:40+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8cb0c60a41ee",
+      "title": "No One Did Summer Dressing Like Jane Birkin—3 Timeless Trends To Wear in 2026",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/jane-birkin-summer-trends-2026",
+      "summary": "From the ultimate cool girl.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-05-04T11:41:07+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f975996a8f2f",
+      "title": "Zoë Kravitz Styles up Her Engagement Ring in See-Through Saint Laurent",
+      "link": "https://www.vogue.com/article/zoe-kravitz-styles-up-her-engagement-ring-in-see-through-saint-laurent",
+      "summary": "Stepping out solo for a pre-Met Gala dinner, Zoë Kravitz swathed herself in Saint Laurent—a peek at what’s to come on the steps of the Met today, perhaps?",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Fashion Intelligence: Zoë Kravitz Styles up Her Engagement Ring in See-Through Saint Laurent...",
+      "score": 1,
+      "published": "2026-05-04T10:33:51+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "19a64ddbddc8",
+      "title": "Where to Watch the 2026 Met Gala Livestream Tonight",
+      "link": "https://www.vogue.com/article/watch-the-2026-met-gala-livestream",
       "summary": "On Monday, May 4, the 2026 Met Gala livestream will be broadcast exclusively by Vogue across our digital platforms, including on YouTube and TikTok.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Where to Watch the 2026 Met Gala Livestream...",
+      "angle": "Fashion Intelligence: Where to Watch the 2026 Met Gala Livestream Tonight...",
       "score": 0,
       "published": "2026-05-04T10:00:00+00:00",
       "discovered_via": "feed"
@@ -429,20 +471,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7f3979de48e4",
-      "title": "Connections Between Fashion and Art From a 1945 Issue of Vogue",
-      "link": "https://www.vogue.com/article/1945-vogue-story-metropolitan-museum-of-art",
-      "summary": "Revisiting the museum’s 1945 sitting, photographed on location at the Metropolitan Museum of Art.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Connections Between Fashion and Art From a 1945 Issue of Vogue...",
-      "score": 1,
-      "published": "2026-05-03T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a26092866921",
       "title": "10 Flavonoid-Rich Foods to Fight Inflammation",
       "link": "https://www.vogue.com/article/flavonoid-rich-foods-inflammation",
@@ -453,6 +481,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: 10 Flavonoid-Rich Foods to Fight Inflammation...",
       "score": 0,
+      "published": "2026-05-03T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7f3979de48e4",
+      "title": "Connections Between Fashion and Art From a 1945 Issue of Vogue",
+      "link": "https://www.vogue.com/article/1945-vogue-story-metropolitan-museum-of-art",
+      "summary": "Revisiting the museum’s 1945 sitting, photographed on location at the Metropolitan Museum of Art.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Connections Between Fashion and Art From a 1945 Issue of Vogue...",
+      "score": 1,
       "published": "2026-05-03T11:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -541,6 +583,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "29e1472ddf99",
+      "title": "30 Chic Graduation-Day Dresses Everyone Will Compliment When Your Cap and Gown Come Off",
+      "link": "https://www.whowhatwear.com/fashion/dresses/best-graduation-dresses-2026",
+      "summary": "These are all stunning.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 30 Chic Graduation-Day Dresses Everyone Will Compliment When Your Cap ...",
+      "score": 2,
+      "published": "2026-05-03T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "133d25dc0938",
       "title": "No, Not Cotton Dresses—French Women are Wearing These Chic Linen Trends On Repeat This Spring",
       "link": "https://www.whowhatwear.com/fashion/french-girl-linen-trends-spring-2026",
@@ -551,20 +607,6 @@
       "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
-      "published": "2026-05-03T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "512ac27cd3ab",
-      "title": "\"I Don't Know What to Wear\" Isn't in My Vocab Since I Started Building All of My Summer Outfits Around These 8 Elegant Pieces",
-      "link": "https://www.whowhatwear.com/fashion/summer/summer-capsule-wardrobe-2026",
-      "summary": "So simple, so chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: \"I Don't Know What to Wear\" Isn't in My Vocab Since I Started Building...",
-      "score": 2,
       "published": "2026-05-03T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -583,15 +625,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "29e1472ddf99",
-      "title": "30 Chic Graduation-Day Dresses Everyone Will Compliment When Your Cap and Gown Come Off",
-      "link": "https://www.whowhatwear.com/fashion/dresses/best-graduation-dresses-2026",
-      "summary": "These are all stunning.",
+      "id": "512ac27cd3ab",
+      "title": "\"I Don't Know What to Wear\" Isn't in My Vocab Since I Started Building All of My Summer Outfits Around These 8 Elegant Pieces",
+      "link": "https://www.whowhatwear.com/fashion/summer/summer-capsule-wardrobe-2026",
+      "summary": "So simple, so chic.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 30 Chic Graduation-Day Dresses Everyone Will Compliment When Your Cap ...",
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: \"I Don't Know What to Wear\" Isn't in My Vocab Since I Started Building...",
       "score": 2,
       "published": "2026-05-03T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1157,34 +1199,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e7836a442b0b",
-      "title": "Who What Wear Editors Told Me Their 15 Best Fashion Finds This Month",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-editor-fashion-items-may-2026",
-      "summary": "Shop the edit.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Who What Wear Editors Told Me Their 15 Best Fashion Finds This Month...",
-      "score": 2,
-      "published": "2026-05-02T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fb54ca4ad318",
-      "title": "Alexandra Leclerc Gathered Friends to Celebrate Her Frame Collaboration During F1 Miami",
-      "link": "https://www.vogue.com/slideshow/alexandra-leclerc-frame-collaboration-launch-f1-miami",
-      "summary": "Alexandra Leclerc kicked off the Miami Grand Prix with a dinner to celebrate her Frame capsule collection. The quiet luxury style maven—and wife of F1 racer Charles Leclerc—was surrounded by friends including Hailey Bieber and Kim Petras as she toasted to the drop.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Alexandra Leclerc Gathered Friends to Celebrate Her Frame Collaboratio...",
-      "score": 3,
-      "published": "2026-05-01T22:39:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "effdcd34698e",
       "title": "Lauren Sánchez Bezos’s Belted Top Features a Surprise Around Back",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71188350/lauren-sanchez-bezos-corset-belt-lace-up-back-pre-met-gala-outfit/",
@@ -1224,20 +1238,6 @@
       "angle": "Fashion Intelligence: Which Stars Have Never Been to the Met Gala?...",
       "score": 0,
       "published": "2026-05-01T21:44:36+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "881a49f9c3e1",
-      "title": "8 Spring Weekend Outfit Ideas to Try",
-      "link": "https://www.vogue.com/article/what-to-wear-this-weekend",
-      "summary": "Whether you’re going away to Europe this summer or staying close to home, here are eight spring and summer weekend outfits to try.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 8 Spring Weekend Outfit Ideas to Try...",
-      "score": 1,
-      "published": "2026-05-01T21:41:50+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2935,6 +2935,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "568b700a3028",
+      "title": "Know Your Designer – Episode 46: Vana Ethnics",
+      "link": "https://www.azafashions.com/blog/know-your-designer-vana-ethnics/?utm_source=rss&utm_medium=rss&utm_campaign=know-your-designer-vana-ethnics",
+      "summary": "Indian occasionwear is changing. Brides and wedding guests are stepping away from the heavy, restrictive garments of the past. They are moving toward outfits that feel lighter, easier to wear, and far&#8230; The post Know Your Designer – Episode 46: Vana Ethnics appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Fashion Intelligence: Know Your Designer – Episode 46: Vana Ethnics...",
+      "score": 6,
+      "published": "2026-04-27T10:45:54+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "c5234b13dc32",
       "title": "5 Summer Looks That Travel From Amalfi to Paris",
       "link": "https://www.azafashions.com/blog/indian-outfits-for-european-summer/?utm_source=rss&utm_medium=rss&utm_campaign=indian-outfits-for-european-summer",
@@ -2961,70 +2975,56 @@
       "score": 4,
       "published": "2026-04-27T06:24:00+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "833351a6e990",
-      "title": "Gujarati Sarees Guide: Traditional Weaves & Modern Elegance (2026)",
-      "link": "https://www.azafashions.com/blog/gujarati-sarees-guide-traditional-weaves-modern-elegance-2026/?utm_source=rss&utm_medium=rss&utm_campaign=gujarati-sarees-guide-traditional-weaves-modern-elegance-2026",
-      "summary": "Gujarat is a land that has been weaving stories into fabric for over two thousand years. From the royal looms of Patan to the desert artisans of Kutch, from the&#8230; The post Gujarati Sarees Guide: Traditional Weaves &amp; Modern Elegance (2026) appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Art & Craft",
-      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
-      "score": 2,
-      "published": "2026-04-26T12:35:39+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "pakistan women vs zimbabwe women",
+      "term": "army",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "फिल सॉल्ट",
+      "term": "palani election result 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "തൃഷ കൃഷ്ണന്",
+      "term": "எடப்பாடி சட்டமன்றத் தொகுதி",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अधिकारी शुभेंदु",
+      "term": "raja shivaji marathi box office",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "সর্বভারতীয় তৃণমূল কংগ্রেস",
+      "term": "rss",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "narine",
+      "term": "मल्टीबैगर स्टॉक",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "मीन",
+      "term": "தேசிய ஜனநாயகக் கூட்டணி",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hardik pandya mumbai indians ipl",
+      "term": "उपचुनाव",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "melur",
+      "term": "sholingur election result 2026",
       "summary": "",
-      "aza_category": "Fashion & Style"
+      "aza_category": "Occasion Dressing"
     },
     {
-      "term": "flash flood risk",
+      "term": "अमर उजाला",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

@@ -1,13 +1,251 @@
 {
-  "generated_at": "2026-05-05T10:05:36.848299+00:00",
+  "generated_at": "2026-05-05T12:04:21.933347+00:00",
   "owned_count": 10,
   "competitor_count": 30,
-  "industry_count": 163,
+  "industry_count": 164,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "b79cdf54fff5",
+      "title": "In Vintage Baby Clothes, I Found the Heirlooms I Didn’t Inherit",
+      "link": "https://www.vogue.com/article/vintage-baby-clothes-hand-me-downs",
+      "summary": "When no gowns or frocks survived her childhood, one writer turned to vintage baby clothes for her own daughter—and discovered a new way to think about love and ritual.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: In Vintage Baby Clothes, I Found the Heirlooms I Didn’t Inherit...",
+      "score": 1,
+      "published": "2026-05-05T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "414891241926",
+      "title": "Adut Akech’s 2026 Met Gala Look Is a Sweet Homage to Her New Baby",
+      "link": "https://www.vogue.com/slideshow/adut-akech-2026-met-gala-9-months-pregnant",
+      "summary": "Thom Browne added a personal touch to Adut Akech’s 2026 Met Gala look to honor her new baby, who is due this month.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Adut Akech’s 2026 Met Gala Look Is a Sweet Homage to Her New Baby...",
+      "score": 0,
+      "published": "2026-05-05T11:55:26+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "13d1595a9794",
+      "title": "“Golden” No More: For Her 2026 Met Gala Debut, K-Pop Demon Hunter’s Ejae Is In Her Silver Era",
+      "link": "https://www.vogue.com/slideshow/golden-no-more-for-her-2026-met-gala-debut-k-pop-demon-hunters-ejae-is-in-her-silver-era",
+      "summary": "Ejae makes her Met Gala debut adorned in thousands and thousands of Swarovski crystals.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 0,
+      "published": "2026-05-05T11:52:49+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7f0614bb6bbd",
+      "title": "Sarah Pidgeon’s 2026 Met Gala Look Put a Twist on ’90s Minimalism—And Took a Flight From Paris to Australia to Make",
+      "link": "https://www.vogue.com/slideshow/sarah-pidgeon-2026-met-gala",
+      "summary": "When Sarah Pidgeon attended Loewe’s fall 2026 show in Paris, she was instantly drawn to the look that served as the inspiration for her 2026 Met Gala dress.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Sarah Pidgeon’s 2026 Met Gala Look Put a Twist on ’90s Minimalism—And ...",
+      "score": 2,
+      "published": "2026-05-05T11:40:39+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "08ea74c33ec4",
+      "title": "Zoë Kravitz Had a Renaissance at the 2026 Met Gala",
+      "link": "https://www.vogue.com/article/zoe-kravitz-2026-met-gala",
+      "summary": "For the 2026 Met Gala, Zoë Kravitz walked the carpet clad in Saint Laurent by Anthony Vaccarello—get a closer look at her romantic glam and matching manicure.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Zoë Kravitz Had a Renaissance at the 2026 Met Gala...",
+      "score": 0,
+      "published": "2026-05-05T11:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e36bdd4c0a9a",
+      "title": "Devyn Garcia’s 2026 Met Gala Debut Is Rooted in Family History",
+      "link": "https://www.vogue.com/slideshow/devyn-garcia-2026-met-gala",
+      "summary": "Model Devyn Garcia’s mother used to walk for Michael Kors in the ’90s. Now the designer is dressing the model for her first-ever Met Gala.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 3,
+      "published": "2026-05-05T11:26:57+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9c32e9e03e9c",
+      "title": "See Every Met Gala 2026 Red Carpet Look From Last Night",
+      "link": "https://www.vogue.com/slideshow/met-gala-2026-red-carpet-celebrity-arrivals-live",
+      "summary": "The Met Gala 2026 gave celebs like Rihanna, Beyonce and many more the chance to embrace the body in their own unique way.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 0,
+      "published": "2026-05-05T11:17:20+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "521c24fc1111",
+      "title": "My Brief This Summer is Effortless and Elegant—5 Chic Summer Outfit Formulas I'll Be Wearing on Repeat",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/summer-outfit-ideas-2026",
+      "summary": "Summer is fast approaching.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-05-05T11:08:49+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a324986d2418",
+      "title": "Why the Perfect T-Shirt Still Runs Fashion",
+      "link": "https://www.fashiongonerogue.com/story/perfect-t-shirt-fashion/",
+      "summary": "The T-shirt may be the simplest piece in the closet, but it still does more work than almost anything else. ... Source",
+      "source": "Fashion Gone Rogue",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Why the Perfect T-Shirt Still Runs Fashion...",
+      "score": 1,
+      "published": "2026-05-05T11:06:12+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "630212d1087f",
+      "title": "8 Runway-Inspired Looks Vogue Editors Want to Wear",
+      "link": "https://www.vogue.com/article/runway-outfit-ideas-vogue-editors",
+      "summary": "Vogue Editors weigh in on their favorite spring looks they can't wait to wear this season, with styling ideas from Chanel to Kallmeyer.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 8 Runway-Inspired Looks Vogue Editors Want to Wear...",
+      "score": 3,
+      "published": "2026-05-05T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2e96b032d73c",
+      "title": "Everything to Know About the 2026 Met Gala: Theme, Hosts and More",
+      "link": "https://www.vogue.com/article/everything-to-know-met-gala",
+      "summary": "Beyoncé, Nicole Kidman, Venus Williams, and Anna Wintour co-chaired the 2026 Met Gala.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Everything to Know About the 2026 Met Gala: Theme, Hosts and More...",
+      "score": 0,
+      "published": "2026-05-05T10:59:21+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "12e9515d5c39",
+      "title": "The Best Dressed Stars at the 2026 Met Gala Embraced the Theme “Costume Art”",
+      "link": "https://www.vogue.com/slideshow/best-dressed-stars-met-gala-2026",
+      "summary": "Unsurprisingly, the night’s best looks came from A-listers who closely considered the theme and dress code. See Vogue's 2026 Met Gala best dressed list here.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: The Best Dressed Stars at the 2026 Met Gala Embraced the Theme “Costum...",
+      "score": 1,
+      "published": "2026-05-05T10:58:08+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "98a9728e6c30",
+      "title": "At the 2026 Met Gala, Naked Dressing Inspired Naked Manicures",
+      "link": "https://www.vogue.com/article/met-gala-2026-naked-manicures-trend",
+      "summary": "Beige, bare, and unbothered, neutral nails ruled the 2026 Met Gala red carpet—worn by Kendall Jenner, her sister Kim Kardashian, and more.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: At the 2026 Met Gala, Naked Dressing Inspired Naked Manicures...",
+      "score": 1,
+      "published": "2026-05-05T10:50:41+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "af8b8e37c0f5",
+      "title": "All the Best Looks From the 2026 Met Gala After-Parties",
+      "link": "https://www.vogue.com/slideshow/met-gala-2026-after-party-outfits",
+      "summary": "The 2026 Met Gala after-party looks didn’t disappoint. From Hunter Schafer in Steve O. Smith to Hailey Bieber in Dilara Findikoglu—see the best here.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: All the Best Looks From the 2026 Met Gala After-Parties...",
+      "score": 0,
+      "published": "2026-05-05T10:37:53+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6a3e4c5dd11b",
+      "title": "Hugo Boss’s “Realignment” Sees Sales Drop 6%",
+      "link": "https://www.vogue.com/article/hugo-bosss-realignment-sees-sales-drop-6",
+      "summary": "The company attributed the top-line decline to its focus on distribution and brand equity under its Claim 5 Touchdown strategy.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Hugo Boss’s “Realignment” Sees Sales Drop 6%...",
+      "score": 1,
+      "published": "2026-05-05T10:23:40+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ce9a03c37783",
+      "title": "21 Small Beauty Details You May Have Missed at the 2026 Met Gala",
+      "link": "https://www.vogue.com/slideshow/all-the-small-beauty-details-you-missed-at-the-2026-met-gala",
+      "summary": "From Ashley Graham’s metallic manicure to Angela Bassett’s shocking pink makeup look, here are all the small beauty details you may have missed on the 2026 Met Gala red carpet.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: 21 Small Beauty Details You May Have Missed at the 2026 Met Gala...",
+      "score": 1,
+      "published": "2026-05-05T10:09:21+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a6df5424d0c4",
+      "title": "Beyoncé Proclaims It: Cowboy Carter Is Over at the 2026 Met Gala",
+      "link": "https://www.vogue.com/article/beyonce-2026-met-gala",
+      "summary": "Wearing a rhinestone-embellished skeleton gown, intricate headpiece, and high-drama glam, Beyoncé’s Met Gala 2026 look heralded a new era.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Beyoncé Proclaims It: Cowboy Carter Is Over at the 2026 Met Gala...",
+      "score": 2,
+      "published": "2026-05-05T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "922dbf28a466",
       "title": "Recreate ’90s Minimalist Looks Inspired by Kendall, Hailey & More",
@@ -23,16 +261,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a6df5424d0c4",
-      "title": "Beyoncé Proclaims It: Cowboy Carter Is Over at the 2026 Met Gala",
-      "link": "https://www.vogue.com/article/beyonce-2026-met-gala",
-      "summary": "Wearing a rhinestone-embellished skeleton gown, intricate headpiece, and high-drama glam, Beyoncé’s Met Gala 2026 look heralded a new era.",
+      "id": "19a64ddbddc8",
+      "title": "Rewatch the 2026 Met Gala Livestream",
+      "link": "https://www.vogue.com/article/watch-the-2026-met-gala-livestream",
+      "summary": "On Monday, May 4, the 2026 Met Gala livestream was broadcast exclusively by Vogue across our digital platforms, including on YouTube and TikTok.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Beyoncé Proclaims It: Cowboy Carter Is Over at the 2026 Met Gala...",
-      "score": 2,
+      "angle": "Fashion Intelligence: Rewatch the 2026 Met Gala Livestream...",
+      "score": 0,
       "published": "2026-05-05T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -247,20 +485,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "345fce394ee2",
-      "title": "Every After-Party Look From the 2026 Met Gala",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a71210163/best-after-party-photos-met-gala-2026/",
-      "summary": "The first Monday in May crept late into Tuesday morning for a few of these stars",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Every After-Party Look From the 2026 Met Gala...",
-      "score": 0,
-      "published": "2026-05-05T05:00:50+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "6dd921111861",
       "title": "The Most Stylish People Are Already Styling Their Jeans With These 5 Summer Shoe Trends",
       "link": "https://www.whowhatwear.com/fashion/shoes/summer-shoe-trends-to-wear-with-jeans-2026",
@@ -271,6 +495,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
+      "published": "2026-05-05T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "345fce394ee2",
+      "title": "Every After-Party Look From the 2026 Met Gala",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a71210163/best-after-party-photos-met-gala-2026/",
+      "summary": "The first Monday in May crept late into Tuesday morning for a few of these stars",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Every After-Party Look From the 2026 Met Gala...",
+      "score": 0,
       "published": "2026-05-05T05:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -443,34 +681,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ce9a03c37783",
-      "title": "13 Small Beauty Details You May Have Missed at the 2026 Met Gala",
-      "link": "https://www.vogue.com/slideshow/all-the-small-beauty-details-you-missed-at-the-2026-met-gala",
-      "summary": "From Ashley Graham’s metallic manicure to Angela Bassett’s shocking pink makeup look, here are all the small beauty details you may have missed on the 2026 Met Gala red carpet.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: 13 Small Beauty Details You May Have Missed at the 2026 Met Gala...",
-      "score": 1,
-      "published": "2026-05-05T03:14:23+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "12e9515d5c39",
-      "title": "The Best Dressed Stars at the 2026 Met Gala: Beyoncé, Kylie Jenner, and More",
-      "link": "https://www.vogue.com/slideshow/best-dressed-stars-met-gala-2026",
-      "summary": "Unsurprisingly, the night’s best looks came from A-listers who closely considered the theme and dress code. See Vogue's 2026 Met Gala best dressed list here.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The Best Dressed Stars at the 2026 Met Gala: Beyoncé, Kylie Jenner, an...",
-      "score": 1,
-      "published": "2026-05-05T03:08:46+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "53302110f726",
       "title": "Everybody Had Extra-Long Hair at the 2026 Met Gala",
       "link": "https://www.vogue.com/slideshow/exta-long-hair-met-gala-2026",
@@ -569,20 +779,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0ead6e082a50",
-      "title": "Rosie Huntington-Whiteley’s 2026 Met Gala Look Was Inspired by a Scandalous Portrait",
-      "link": "https://www.vogue.com/article/rosie-huntington-whiteley-met-gala-2026",
-      "summary": "Working with Burberry’s chief creative officer Daniel Lee, Rosie Huntington Whiteley was keen to capture a “sense of quiet confidence and sensuality” at the 2026 Met Gala.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Rosie Huntington-Whiteley’s 2026 Met Gala Look Was Inspired by a Scand...",
-      "score": 0,
-      "published": "2026-05-05T02:31:34+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d81cfb8f56c2",
       "title": "Why Taylor Swift and Travis Kelce Skipped the 2026 Met Gala",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71200842/why-taylor-swift-travis-kelce-skipped-2026-met-gala/",
@@ -608,48 +804,6 @@
       "angle": "Fashion Intelligence: All the Jewelry Highlights of the 2026 Met Gala...",
       "score": 2,
       "published": "2026-05-05T02:22:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d13d2e5919a1",
-      "title": "Phil Oh Captures the Best Arrivals (and Exits) at the 2026 Met Gala",
-      "link": "https://www.vogue.com/slideshow/phil-oh-captures-the-best-arrivals-and-exits-at-the-2026-met-gala",
-      "summary": "See all the best arrival and exits at the 2026 Met Gala.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Phil Oh Captures the Best Arrivals (and Exits) at the 2026 Met Gala...",
-      "score": 0,
-      "published": "2026-05-05T02:21:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "74358bde2d57",
-      "title": "Loli Bahia Went for Ultra-Sleek Saint Laurent Tailoring at the Met Gala 2026",
-      "link": "https://www.vogue.com/article/loli-bahia-met-gala-2026",
-      "summary": "French model and actress Loli Bahia cut a sharp figure on the 2026 Met Gala red carpet in menswear-inspired suiting by Anthony Vaccarello for Saint Laurent.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Loli Bahia Went for Ultra-Sleek Saint Laurent Tailoring at the Met Gal...",
-      "score": 3,
-      "published": "2026-05-05T02:19:38+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9947d2eee0e6",
-      "title": "Adwoa Aboah’s Simone Rocha Look Embraced ‘the Intimacy of the Body’ at the 2026 Met Gala",
-      "link": "https://www.vogue.com/article/adwoa-aboah-simone-rocha-met-gala-2026",
-      "summary": "For her first Met Gala since giving birth to her daughter, the model, actor, and entrepreneur dazzled in a beaded white column gown embodying femininity at its most strong, delicate and subversive.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Adwoa Aboah’s Simone Rocha Look Embraced ‘the Intimacy of the Body’ at...",
-      "score": 2,
-      "published": "2026-05-05T02:18:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -681,34 +835,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f0a887d66a74",
-      "title": "Bodice, Bodice, Bodice! At the 2026 Met Gala, Molded Busts Ruled the Night",
-      "link": "https://www.vogue.com/slideshow/kardashian-jenner-sculpted-bodice-2026-met-gala",
-      "summary": "While some guests used trompe l'oeil to highlight the body, others, like the Kardashian-Jenners, went for the full sculpted look.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Bodice, Bodice, Bodice! At the 2026 Met Gala, Molded Busts Ruled the N...",
-      "score": 0,
-      "published": "2026-05-05T02:08:17+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0d46e615132c",
-      "title": "Anok Yai Sent a Message at the Met Gala 2026 With Her Balenciaga “Black Madonna” Look",
-      "link": "https://www.vogue.com/article/anok-yai-2026-met-gala-black-madonna-beauty-balenciaga",
-      "summary": "When Anok Yai heard the Met Gala 2026 theme, her first thought was, “I have to be a statue.” The model wore Balenciaga to the event.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Anok Yai Sent a Message at the Met Gala 2026 With Her Balenciaga “Blac...",
-      "score": 1,
-      "published": "2026-05-05T02:05:45+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ca010f03ac62",
       "title": "The One Subtle Lip Trend All Over the 2026 Met Gala Red Carpet",
       "link": "https://www.harpersbazaar.com/beauty/makeup/a71209180/blurred-lip-makeup-trend-met-gala-2026/",
@@ -723,48 +849,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8b3a2fe3c8d2",
-      "title": "Blake Lively Chose Archival Versace—and a 13-Foot Train!—for Her 2026 Met Gala Return",
-      "link": "https://www.vogue.com/article/blake-lively-2026-met-gala-archival-atelier-versace",
-      "summary": "The star, who has not attended the Met since 2022, chose a pastel Versace number from spring 2006 that was inspired by 18th century Venetian Rococo paintings.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Blake Lively Chose Archival Versace—and a 13-Foot Train!—for Her 2026 ...",
-      "score": 0,
-      "published": "2026-05-05T02:00:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7c226722e098",
-      "title": "Pops of Color Everywhere! The 2026 Met Gala Red Carpet Was Filled With Bold Hues",
-      "link": "https://www.vogue.com/slideshow/2026-met-gala-red-carpet-pops-of-color",
-      "summary": "From Hailey Bieber’s Yves Klein blue to Sarah Pidgeon’s chartreuse and Kim Kardashian’s tangerine, 2026 Met Gala attendees embraced their true colors.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 0,
-      "published": "2026-05-05T01:59:44+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5b1de00ab697",
-      "title": "Chase Infiniti Channeled a Glammed-Up Venus de Milo at the 2026 Met Gala",
-      "link": "https://www.vogue.com/article/chase-infiniti-venus-de-milo-2026-met-gala",
-      "summary": "Infiniti’s Thom Browne dress was densely layered with embroidery and fringes to mimic brushstrokes.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Art & Craft",
-      "angle": "Fashion Intelligence: Chase Infiniti Channeled a Glammed-Up Venus de Milo at the 2026 Met Ga...",
-      "score": 2,
-      "published": "2026-05-05T01:56:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "454cbf4812c1",
       "title": "Why Angelina Jolie Skipped the 2026 Met Gala",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71110758/why-angelina-jolie-skipped-met-gala-2026/",
@@ -776,20 +860,6 @@
       "angle": "Fashion Intelligence: Why Angelina Jolie Skipped the 2026 Met Gala...",
       "score": 1,
       "published": "2026-05-05T01:52:36+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9c32e9e03e9c",
-      "title": "See Every Met Gala 2026 Red Carpet Look: Rihanna, A$AP Rocky (Live Updates)",
-      "link": "https://www.vogue.com/slideshow/met-gala-2026-red-carpet-celebrity-arrivals-live",
-      "summary": "See every Met Gala 2026 red carpet look as your favorite celebrities arrive at the Metropolitan Museum of Art for fashion’s biggest night.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-05-05T01:51:35+00:00",
       "discovered_via": "feed"
     },
     {
@@ -849,20 +919,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "dbded964e934",
-      "title": "Alexa Chung’s Dior Met Gala 2026 Look Is Her Most Daring to Date",
-      "link": "https://www.vogue.com/article/alexa-chung-dior-met-gala-2026",
-      "summary": "Alexa Chung enlisted a stylist–Danielle Goldberg–for the first time ever at the Met Gala 2026: “It turns out everyone else was up to this!”",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Alexa Chung’s Dior Met Gala 2026 Look Is Her Most Daring to Date...",
-      "score": 0,
-      "published": "2026-05-05T01:46:38+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "12b96c3b68e1",
       "title": "Jennie’s Mermaid Met Gala Look Includes Mismatched Earrings",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71187261/jennie-red-carpet-photos-met-gala-2026/",
@@ -905,20 +961,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "eff346501450",
-      "title": "Romeo Beckham Just Made His 2026 Met Gala Debut in Kink-Inspired Burberry Tailoring",
-      "link": "https://www.vogue.com/article/romeo-beckham-met-gala-2026",
-      "summary": "Romeo Beckham is fast following in his parent’s footsteps, making his debut appearance at the 2026 Met Gala, courtesy of Burberry. Here, an exclusive look at his 2026 Met Gala look.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 0,
-      "published": "2026-05-05T01:37:19+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "9449224e71c2",
       "title": "Kate Moss and Lila Moss Are Chic in Contrasting Looks at the 2026 Met Gala",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71205068/kate-moss-lila-moss-red-carpet-photos-met-gala-2026/",
@@ -958,20 +1000,6 @@
       "angle": "Fashion Intelligence: Serena Williams Mixes Metals at the 2026 Met Gala...",
       "score": 0,
       "published": "2026-05-05T01:30:50+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "108190abb57d",
-      "title": "Lila Moss Wore a “Mermaid” Gown Made From 3 Antique Dresses to the Met Gala 2026",
-      "link": "https://www.vogue.com/article/lila-moss-conner-ives-met-gala-2026",
-      "summary": "Lila Moss breaks down her Conner Ives Met Gala 2026 dress, from the inspiration to every vintage detail.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-05-05T01:25:42+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1840,20 +1868,6 @@
       "angle": "Fashion Intelligence: A Fashion Brand's Guide to Weathering Demand Spikes...",
       "score": 3,
       "published": "2026-04-29T12:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2b7565e6ddee",
-      "title": "Mango Capsule Remixes 60s Glamour with New Drop",
-      "link": "https://www.fashiongonerogue.com/story/mango-capsule-ss-2026/",
-      "summary": "Mango Capsule is setting a new mood for the party season. For spring-summer 2026, the limited-edition line returns with a ... Source",
-      "source": "Fashion Gone Rogue",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Mango Capsule Remixes 60s Glamour with New Drop...",
-      "score": 1,
-      "published": "2026-04-29T11:22:04+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2809,6 +2823,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "35b8ce58cd60",
+      "title": "15 Types of Traditional Indian Sarees & Their Timeless Elegance",
+      "link": "https://www.azafashions.com/blog/indian-sarees-world-heritage-textiles-guide-2026/?utm_source=rss&utm_medium=rss&utm_campaign=indian-sarees-world-heritage-textiles-guide-2026",
+      "summary": "India is a civilization woven in silk, cotton, and gold thread. For over five thousand years, the saree has been its most enduring and magnificent expression a single length of&#8230; The post 15 Types of Traditional Indian Sarees &amp; Their Timeless Elegance appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 15 Types of Traditional Indian Sarees & Their Timeless Elegance...",
+      "score": 3,
+      "published": "2026-04-28T07:17:37+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "568b700a3028",
       "title": "Know Your Designer – Episode 46: Vana Ethnics",
       "link": "https://www.azafashions.com/blog/know-your-designer-vana-ethnics/?utm_source=rss&utm_medium=rss&utm_campaign=know-your-designer-vana-ethnics",
@@ -2835,70 +2863,56 @@
       "score": 0,
       "published": "2026-04-27T10:05:52+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "5c151326e31d",
-      "title": "Party Wear Dresses for Women & Men: Latest Trends & Styling Guide (2026)",
-      "link": "https://www.azafashions.com/blog/party-wear-dresses-women-men-trends-styling-guide-2026/?utm_source=rss&utm_medium=rss&utm_campaign=party-wear-dresses-women-men-trends-styling-guide-2026",
-      "summary": "Party Wear Dresses for Women &#38; Men: Latest Trends &#38; Styling Guide (2026) Getting dressed for a party should feel exciting not overwhelming. Yet with fashion moving faster than ever&#8230; The post Party Wear Dresses for Women &amp; Men: Latest Trends &amp; Styling Guide (2026) appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 4,
-      "published": "2026-04-27T06:40:27+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "வெள்ளி",
+      "term": "అశోక్ డిండ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ips ajay pal sharma",
+      "term": "রাজারহাট",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "srmjeee result",
+      "term": "बुलडोज़र",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "anu sharma goes viral after leaving google for palantir",
+      "term": "cuet",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "जेईई एडवांस्ड",
+      "term": "ஐ. பரந்தாமன்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "jac 12th result 2026",
+      "term": "राज्य सभा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "नरेन्द्र मोदी",
+      "term": "google pixel 11",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "f1 miami",
+      "term": "pnb q4 results 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ममता बनर्जी चुनाव परिणाम",
+      "term": "iit madras",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "trisha krishnan net worth",
+      "term": "cognizant",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

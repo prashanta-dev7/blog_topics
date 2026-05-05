@@ -1,13 +1,139 @@
 {
-  "generated_at": "2026-05-05T04:56:31.028727+00:00",
+  "generated_at": "2026-05-05T07:19:35.157260+00:00",
   "owned_count": 10,
   "competitor_count": 30,
-  "industry_count": 167,
+  "industry_count": 163,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "35057b3122e9",
+      "title": "I Know You Care About Fashionable Shoes (Same)—These Are the Chicest Summer Sandals, Flats, and Sneakers at Nordstrom",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-summer-shoes-sandals-flats-sneakers-nordstrom",
+      "summary": "Including affordable yet expensive-looking pairs.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Know You Care About Fashionable Shoes (Same)—These Are the Chicest S...",
+      "score": 1,
+      "published": "2026-05-05T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2601dad55152",
+      "title": "5 Dated Spring Shoe Trends Fashion People Won't Be Wearing in 2026",
+      "link": "https://www.whowhatwear.com/fashion/shoes/dated-spring-shoe-trends-2026",
+      "summary": "And the far chicer things they'll be wearing instead.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-05-05T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c56dd2c22e9d",
+      "title": "2026 Is the Era of the Everyday Clutch: Non-Fussy, Dressed-Down, But Still So Elegant",
+      "link": "https://www.whowhatwear.com/fashion/luxury/everyday-clutches",
+      "summary": "According to Bottega, Celine, and Hermès.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 2026 Is the Era of the Everyday Clutch: Non-Fussy, Dressed-Down, But S...",
+      "score": 1,
+      "published": "2026-05-05T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e5c623173150",
+      "title": "Trust Us— These Are the 7 Summer Hair Trends We'll All Be Requesting at the Salon",
+      "link": "https://www.whowhatwear.com/beauty/hair/summer-hair-trends-2026",
+      "summary": "The hottest cuts and colours.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-05-05T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "543937f26d7a",
+      "title": "H&M Just Called It—5 Elegant Trends That Will Define Summer 2026",
+      "link": "https://www.whowhatwear.com/fashion/affordable/hm-summer-trends-2026",
+      "summary": "Just in time for hte sunshine.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-05-05T05:50:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "345fce394ee2",
+      "title": "Every After-Party Look From the 2026 Met Gala",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a71210163/best-after-party-photos-met-gala-2026/",
+      "summary": "The first Monday in May crept late into Tuesday morning for a few of these stars",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Every After-Party Look From the 2026 Met Gala...",
+      "score": 0,
+      "published": "2026-05-05T05:00:50+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6dd921111861",
+      "title": "The Most Stylish People Are Already Styling Their Jeans With These 5 Summer Shoe Trends",
+      "link": "https://www.whowhatwear.com/fashion/shoes/summer-shoe-trends-to-wear-with-jeans-2026",
+      "summary": "Perfect pairings.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-05-05T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8835ce01f3e1",
+      "title": "Sabrina Carpenter and Stevie Nicks Made an Iconic Double Act at the 2026 Met Gala",
+      "link": "https://www.vogue.com/article/sabrina-carpenter-stevie-nicks-performance-met-gala-2026",
+      "summary": "At Monday’s “Costume Art” gala, the star power was very nearly too much to handle.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Sabrina Carpenter and Stevie Nicks Made an Iconic Double Act at the 20...",
+      "score": 0,
+      "published": "2026-05-05T04:55:12+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ed3a81405db4",
+      "title": "Trailblazer Award: Meet the 2026 Finalists",
+      "link": "https://www.vogue.com/article/meet-the-2026-trailblazer-award-finalists",
+      "summary": "Selected by Global Fashion Agenda, PDS, and a slew of brand leaders, these three innovators represent the future of sustainability in fashion.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Trailblazer Award: Meet the 2026 Finalists...",
+      "score": 2,
+      "published": "2026-05-05T04:55:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "faba567e7816",
       "title": "4 Takeaways From Luxury’s Q1 Earnings",
@@ -206,14 +332,14 @@
     },
     {
       "id": "44e51410643a",
-      "title": "Here's How to Get Doja Cat's Monochromatic Met Gala 2026 Makeup Look",
+      "title": "Here’s How to Get Doja Cat’s Monochromatic Met Gala 2026 Makeup Look",
       "link": "https://www.harpersbazaar.com/beauty/makeup/a71207861/doja-cat-met-gala-2026-makeup-beauty-details/",
       "summary": "The star matched her hair color to her makeup and floor-length silicone YSL gown",
       "source": "Harper's Bazaar",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Here's How to Get Doja Cat's Monochromatic Met Gala 2026 Makeup Look...",
+      "angle": "Fashion Intelligence: Here’s How to Get Doja Cat’s Monochromatic Met Gala 2026 Makeup Look...",
       "score": 1,
       "published": "2026-05-05T02:53:28+00:00",
       "discovered_via": "feed"
@@ -248,7 +374,7 @@
     },
     {
       "id": "1f3437b6ccc9",
-      "title": "Three Designers Showcased Their Brand New Projects on the Met Gala Red Carpet",
+      "title": "Three Designers Showcased Their Brand-New Projects on the Met Gala Red Carpet",
       "link": "https://www.harpersbazaar.com/fashion/a71209362/designer-new-projects-on-the-met-gala-red-carpet-2026/",
       "summary": "Worn by Stevie Nicks, Paloma Elsesser, and Beyoncé",
       "source": "Harper's Bazaar",
@@ -306,7 +432,7 @@
       "id": "ed8d40c1caf6",
       "title": "All the Jewelry Highlights of the 2026 Met Gala",
       "link": "https://www.harpersbazaar.com/fashion/a71205914/met-gala-jewelry/",
-      "summary": "The “Fashion is Art” dress code was enhanced with a heavy dose of gemstones",
+      "summary": "The “Fashion Is Art” dress code was enhanced with a heavy dose of gemstones",
       "source": "Harper's Bazaar",
       "tier": "industry",
       "is_competitor": false,
@@ -584,14 +710,14 @@
     },
     {
       "id": "fd1fc2e9a4bf",
-      "title": "The Best Dressed Celebrities at the 2026 Met Gala",
+      "title": "The Best-Dressed Celebrities at the 2026 Met Gala",
       "link": "https://www.harpersbazaar.com/fashion/a71205490/best-dressed-red-carpet-photos-met-gala-2026/",
       "summary": "From Nicole Kidman in Chanel to Chase Infiniti in Thom Browne",
       "source": "Harper's Bazaar",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: The Best Dressed Celebrities at the 2026 Met Gala...",
+      "angle": "Fashion Intelligence: The Best-Dressed Celebrities at the 2026 Met Gala...",
       "score": 1,
       "published": "2026-05-05T01:41:46+00:00",
       "discovered_via": "feed"
@@ -640,14 +766,14 @@
     },
     {
       "id": "5000f9bd1a07",
-      "title": "Sarah Pidgeon Channels Carolyn Bessette Kennedy’s ’90s Waves for Her First-Ever Met Gala",
+      "title": "Sarah Pidgeon Channels Carolyn Bessette Kennedy’s ’90s Waves for Her Met Gala Look",
       "link": "https://www.harpersbazaar.com/beauty/hair/a71206770/sarah-pidgeon-met-gala-2026-hair-exclusive/",
       "summary": "Here’s how hairstylist Christian Wood created the Love Story actress’s “quietly luxurious” waves",
       "source": "Harper's Bazaar",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Sarah Pidgeon Channels Carolyn Bessette Kennedy’s ’90s Waves for Her F...",
+      "angle": "Fashion Intelligence: Sarah Pidgeon Channels Carolyn Bessette Kennedy’s ’90s Waves for Her M...",
       "score": 0,
       "published": "2026-05-05T01:31:23+00:00",
       "discovered_via": "feed"
@@ -832,34 +958,6 @@
       "angle": "Fashion Intelligence: Daisy Edgar-Jones Goes London Cool Girl Next Door at Met Gala 2026...",
       "score": 2,
       "published": "2026-05-05T00:53:48+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1f820819b5d0",
-      "title": "Suki Waterhouse Is a Greek Statue Come to Life at the 2026 Met Gala",
-      "link": "https://www.vogue.com/article/suki-waterhouse-met-gala-2026",
-      "summary": "Ahead of her fourth Met Gala, the singer and actress talks dancing with Colman Domingo and being starstruck by Rihanna.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Suki Waterhouse Is a Greek Statue Come to Life at the 2026 Met Gala...",
-      "score": 0,
-      "published": "2026-05-05T00:53:25+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "72f8110f70ba",
-      "title": "Blue Ivy Carter Keeps It Cool in Balenciaga for Her 2026 Met Gala Debut",
-      "link": "https://www.vogue.com/article/blue-ivy-carter-met-gala-2026",
-      "summary": "Tonight, Beyoncé is serving as one of the 2026 Met Gala co-chairs, so it was only natural that the superstar’s 14-year-old daughter Blue Ivy Carter also hit the carpet—making it a high-fashion family affair.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-05-05T00:52:23+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1101,20 +1199,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2f86ce3f942d",
-      "title": "Stanley Tucci and the Blunts Are the Coolest Crew at the 2026 Met Gala",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a71156405/emily-blunt-felicity-stanley-tucci-red-carpet-photos-met-gala-2026/",
-      "summary": "Emily Blunt and sister Felicity Blunt (a.k.a. Mrs. Tucci) coordinated in chic black looks",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Stanley Tucci and the Blunts Are the Coolest Crew at the 2026 Met Gala...",
-      "score": 0,
-      "published": "2026-05-04T23:42:10+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7bbca2624192",
       "title": "Lauren Sánchez Bezos Tried to Reference Sargent's 'Madame X' With Her Met Gala Outfit",
       "link": "https://fashionista.com/2026/05/lauren-sanchez-bezos-met-gala-2026-dress-madame-x-john-singer-sargent",
@@ -1224,20 +1308,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-05-04T20:17:56+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3f0f88ed59a2",
-      "title": "3 Indians injured in Fujairah as Iran launches fresh missile, drone attack on UAE",
-      "link": "https://www.indiatoday.in/india/story/3-indian-nationals-injured-in-uaes-fujairah-as-iran-launches-fresh-missile-drone-attack-2906657-2026-05-04?utm_source=rss",
-      "summary": "3 Indians injured in Fujairah as Iran launches fresh missile, drone attack on UAE",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-05-04T17:02:03+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1353,20 +1423,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4eb706237632",
-      "title": "Give Your Ballet Flats a Break—6 Summer Shoe Trends to Wear Instead",
-      "link": "https://www.whowhatwear.com/fashion/shoes/non-ballet-flat-shoe-trends-summer-2026",
-      "summary": "They're all so good.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-05-04T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2bf966d25c0f",
       "title": "Out of the 50+ Beauty Products I Tried Last Month, These 6 Proved the Best",
       "link": "https://www.whowhatwear.com/beauty/skin/shannon-lawlor-beauty-empties-april-2026",
@@ -1377,6 +1433,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Out of the 50+ Beauty Products I Tried Last Month, These 6 Proved the ...",
       "score": 1,
+      "published": "2026-05-04T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4eb706237632",
+      "title": "Give Your Ballet Flats a Break—6 Summer Shoe Trends to Wear Instead",
+      "link": "https://www.whowhatwear.com/fashion/shoes/non-ballet-flat-shoe-trends-summer-2026",
+      "summary": "They're all so good.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
       "published": "2026-05-04T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1465,20 +1535,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "195bea8fcfca",
-      "title": "UP groom, on way to wedding, shot dead by bride's relatives who didn't like him",
-      "link": "https://www.indiatoday.in/india/story/jaunpur-groom-shot-dead-on-way-to-wedding-bride-relative-under-scanner-2905035-2026-05-03?utm_source=rss",
-      "summary": "UP groom, on way to wedding, shot dead by bride's relatives who didn't like him",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: UP groom, on way to wedding, shot dead by bride's relatives who didn't like him — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-05-03T11:05:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a41d1f6e05d4",
       "title": "Instead of Trainers, the Most Stylish Dressers Pair Cropped Jeans With This More Elegant Shoe",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/cropped-jeans-heels-outfit-sarah-pidgeon-2026",
@@ -1518,104 +1574,6 @@
       "angle": "Fashion Intelligence: It’s Official: These Are the 5 Summer Basics Making Every Outfit Look ...",
       "score": 1,
       "published": "2026-05-03T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "46809d9b6aa4",
-      "title": "Fashion People in Paris Know These Summer Shoe Trends Are Key to a Well-Styled Look",
-      "link": "https://www.whowhatwear.com/fashion/trends/french-girl-spring-summer-shoe-trends",
-      "summary": "These flats are perfect.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-05-03T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2894ce7b67e4",
-      "title": "Sorry, But These 5 Sandal Trends Are Officially Out for 2026",
-      "link": "https://www.whowhatwear.com/fashion/shoes/outdated-sandal-trends-2026",
-      "summary": "You need to see the chic swaps.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-05-03T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "512ac27cd3ab",
-      "title": "\"I Don't Know What to Wear\" Isn't in My Vocab Since I Started Building All of My Summer Outfits Around These 8 Elegant Pieces",
-      "link": "https://www.whowhatwear.com/fashion/summer/summer-capsule-wardrobe-2026",
-      "summary": "So simple, so chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: \"I Don't Know What to Wear\" Isn't in My Vocab Since I Started Building...",
-      "score": 2,
-      "published": "2026-05-03T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "dd438ca076c3",
-      "title": "5 Easy and Stylish Transitional Spring Summer Outfits Ideas for 2026",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/transitional-spring-summer-outfit-ideas-2026",
-      "summary": "Chic and simple.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 5 Easy and Stylish Transitional Spring Summer Outfits Ideas for 2026...",
-      "score": 1,
-      "published": "2026-05-03T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "133d25dc0938",
-      "title": "No, Not Cotton Dresses—French Women are Wearing These Chic Linen Trends On Repeat This Spring",
-      "link": "https://www.whowhatwear.com/fashion/french-girl-linen-trends-spring-2026",
-      "summary": "C'est chic, non?",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-05-03T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bfced2f3dc41",
-      "title": "According to the Runways, This Is *the* Color Combo of 2026",
-      "link": "https://www.whowhatwear.com/fashion/shopping/red-blue-color-trend-2026",
-      "summary": "As seen at Celine, Loewe, Prada, and Jil Sander.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: According to the Runways, This Is *the* Color Combo of 2026...",
-      "score": 1,
-      "published": "2026-05-03T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0c632fbde85b",
-      "title": "Trust Me—You'll Never Regret These Designer Beachwear Buys",
-      "link": "https://www.whowhatwear.com/designer-beachwear",
-      "summary": "They're forever pieces.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Trust Me—You'll Never Regret These Designer Beachwear Buys...",
-      "score": 2,
-      "published": "2026-05-03T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2333,20 +2291,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3dfd33e6f524",
-      "title": "26 Best Sneaker Brands For Men In 2026",
-      "link": "https://www.fashionbeans.com/article/best-sneaker-brands/",
-      "summary": "There was a time not so very long ago when attending a special event in a pair of sneakers was a surefire way to flag yourself to your shiny-shoed peers as a sartorial pariah. However, sneakers are now en vogue, with the best sneaker brands constantly innovating new and stylish footwear. Attitudes have shifted in &#823",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 26 Best Sneaker Brands For Men In 2026...",
-      "score": 2,
-      "published": "2026-04-14T09:12:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "5040b158e406",
       "title": "No Time for Gifts? Kurtis, Save Your Mother’s Day Surprise",
       "link": "https://blog.kalkifashion.com/no-time-for-gifts-kurtis-save-your-mothers-day-surprise/",
@@ -2543,6 +2487,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "b8ac00398f76",
+      "title": "From College Corridors to “I Do”: Acckriti’s Filmy Love Story Comes Full Circle in Jabalpur",
+      "link": "https://blog.kalkifashion.com/from-college-corridors-to-i-do-acckritis-filmy-love-story-comes-full-circle-in-jabalpur/",
+      "summary": "Some love stories are written in the stars. Others? They quietly unfold in college corridors, over shared notes, endless conversations, and years of growing up together. This one beautifully blends both. After 8 years of friendship, faith, and a love that stood the test of time (and probably a fair share of drama), Moh",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: From College Corridors to “I Do”: Acckriti’s Filmy Love Story Comes Fu...",
+      "score": 0,
+      "published": "2026-04-17T05:18:11+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "15e1c8b85a42",
       "title": "The Hands That Weave Heritage: A Tribute to the Indian Artisan",
       "link": "https://www.lashkaraa.com/blogs/lashkaraa/world-artisan-day-indian-artisans",
@@ -2624,20 +2582,6 @@
       "angle": "Fashion Intelligence: Make Your Festivities Memorable with Modern Designer Ethnic Wear...",
       "score": 8,
       "published": "2026-04-11T09:10:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8e5f2e81b398",
-      "title": "How to Choose a Groom Outfit That Matches the Bride’s Lehenga",
-      "link": "https://blog.kalkifashion.com/how-to-choose-a-groom-outfit-that-matches-the-brides-lehenga/",
-      "summary": "A wedding is the union of two people who choose to be a part of each other’s lives through thick and thin and to be each other’s better halves at all times. What better way to begin this journey than by opting for wedding outfits that complement each other? The bride and groom walking down [&#8230;] The post How to Cho",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: How to Choose a Groom Outfit That Matches the Bride’s Lehenga — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-04-11T04:17:19+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2893,68 +2837,68 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9f369999343f",
-      "title": "Wedding Evening Outfits by Arihant Rai Sinha Every Man Needs to Look Dapper",
-      "link": "https://www.azafashions.com/blog/mens-wedding-evening-outfits-arihant-rai-sinha/?utm_source=rss&utm_medium=rss&utm_campaign=mens-wedding-evening-outfits-arihant-rai-sinha",
-      "summary": "The wedding season in 2026 is anything but ordinary. Grooms are stepping into the spotlight with bold fabrics, statement accessories, and curated grooming rituals that rival the bridal prep experience. Groomsmen are&#8230; The post Wedding Evening Outfits by Arihant Rai Sinha Every Man Needs to Look Dapper appeared fir",
+      "id": "5c151326e31d",
+      "title": "Party Wear Dresses for Women & Men: Latest Trends & Styling Guide (2026)",
+      "link": "https://www.azafashions.com/blog/party-wear-dresses-women-men-trends-styling-guide-2026/?utm_source=rss&utm_medium=rss&utm_campaign=party-wear-dresses-women-men-trends-styling-guide-2026",
+      "summary": "Party Wear Dresses for Women &#38; Men: Latest Trends &#38; Styling Guide (2026) Getting dressed for a party should feel exciting not overwhelming. Yet with fashion moving faster than ever&#8230; The post Party Wear Dresses for Women &amp; Men: Latest Trends &amp; Styling Guide (2026) appeared first on Aza Editorials .",
       "source": "AZA Blog",
       "tier": "owned",
       "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Wedding Evening Outfits by Arihant Rai Sinha Every Man Needs to Look Dapper — A Complete Style Guide",
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 4,
-      "published": "2026-04-27T06:24:00+00:00",
+      "published": "2026-04-27T06:40:27+00:00",
       "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "भगवंत मान",
+      "term": "claire mazumdar",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bandhan bank share",
+      "term": "ರಾಜಕೀಯ ಪಕ್ಷ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "गांधी मैदान",
+      "term": "kpsc",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "kei share price",
+      "term": "टीना डाबी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "vi share price",
+      "term": "കെ.എന്. ബാലഗോപാല്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ambuja cement share price",
+      "term": "challan",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hfcl",
+      "term": "शेतकरी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ather energy share price",
+      "term": "kalita majhi",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "nats",
+      "term": "ఇండియన్ ప్రీమియర్ లీగ్ - 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "vodafone idea share price",
+      "term": "रुपया",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

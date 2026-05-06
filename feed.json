@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T05:23:22.049572+00:00",
+  "generated_at": "2026-05-06T07:37:50.256061+00:00",
   "owned_count": 10,
   "competitor_count": 30,
   "industry_count": 164,
@@ -8,6 +8,132 @@
     "US": 1791
   },
   "articles": [
+    {
+      "id": "1f62fc091859",
+      "title": "Ahead of the Curve: 6 Outfits Fashion Insiders Will Wear This Summer",
+      "link": "https://www.whowhatwear.com/fashion/summer-outfit-ideas-2026",
+      "summary": "Shop the edit.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Ahead of the Curve: 6 Outfits Fashion Insiders Will Wear This Summer...",
+      "score": 3,
+      "published": "2026-05-06T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "029f12b27310",
+      "title": "It's Already Summer at Zara—8 Trends It's Backing for the Warm-Weather Season",
+      "link": "https://www.whowhatwear.com/fashion/shopping/zara-summer-2026-trends",
+      "summary": "From satin to stripes.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-05-06T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3151ceb63bd7",
+      "title": "My Fashionable Friends in NYC Will Approve of These Cool Shorts, Tops, Dresses, Pants, and Sandals From Shopbop",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-shopbop-dresses-tops-pants-shoes-2026",
+      "summary": "It's giving chic fashion person.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: My Fashionable Friends in NYC Will Approve of These Cool Shorts, Tops,...",
+      "score": 2,
+      "published": "2026-05-06T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d09f9746126d",
+      "title": "Anne Hathaway's Devil Wears Prada 2 Tour Wardrobe Is All About the Off-Duty Moments",
+      "link": "https://www.whowhatwear.com/fashion/luxury/anne-hathaway-devil-wears-prada-2-style",
+      "summary": "Her best looks aren’t on the red carpet—they’re happening in between.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Anne Hathaway's Devil Wears Prada 2 Tour Wardrobe Is All About the Off...",
+      "score": 1,
+      "published": "2026-05-06T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "692c78203f3c",
+      "title": "23 Worth-It Items My Cool Gen Z Coworkers Are Investing In for Summer",
+      "link": "https://www.whowhatwear.com/fashion/shopping/gen-z-luxury-shopping-2026",
+      "summary": "This season's must-haves.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 23 Worth-It Items My Cool Gen Z Coworkers Are Investing In for Summer...",
+      "score": 1,
+      "published": "2026-05-06T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2374b4d30df6",
+      "title": "No, Not Loafers—These Are the Controversial Shoe Trends That Fashion's Best-Dressed Are Wearing This Spring",
+      "link": "https://www.whowhatwear.com/fashion/trends/divisive-shoe-trends-spring-2026",
+      "summary": "Shoes that get everyone talking.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 4,
+      "published": "2026-05-06T06:40:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "57c8b0fee312",
+      "title": "These Are the Most Stylish Nail Colours to Wear in May, According to Celebrity Manicurists",
+      "link": "https://www.whowhatwear.com/beauty/nails/may-nail-colours-2026",
+      "summary": "Manis of the month.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-05-06T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3e506516883d",
+      "title": "Polka Dots Are Officially Trending Again—5 Fresh Ways To Wear Them This Summer",
+      "link": "https://www.whowhatwear.com/fashion/summer/polka-dot-trends-summer-2026",
+      "summary": "Spotted!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-05-06T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "81f12fc4f778",
+      "title": "I Asked My Fashion Colleagues Where They Shop In Summer, These 8 Under-the-Radar Brands Came Up Most",
+      "link": "https://www.whowhatwear.com/fashion/summer/fashion-girl-summer-brands-2026",
+      "summary": "For the girls that love Dôen, Reformation and Paloma Wool.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Asked My Fashion Colleagues Where They Shop In Summer, These 8 Under...",
+      "score": 2,
+      "published": "2026-05-06T05:53:24+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "995fdaba3631",
       "title": "A.P.C. Taps Ludivine Poiblanc as Artistic Director",
@@ -1437,62 +1563,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7a1482475b18",
-      "title": "Margot Robbie's Custom Chanel Dress for the Met Gala Took 761 Hours to Make",
-      "link": "https://www.whowhatwear.com/fashion/red-carpet/margot-robbie-chanel-met-gala-2026",
-      "summary": "See her first look designed by Matthieu Blazy for the red carpet event.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Margot Robbie's Custom Chanel Dress for the Met Gala Took 761 Hours to...",
-      "score": 1,
-      "published": "2026-05-05T00:39:28+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2bce74ad21c1",
-      "title": "ICYMI: Kylie Jenner's Waist-Sculpting Met Gala Dress Took 11K Hours to Make",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/kylie-jenner-schiaparelli-dress-met-gala-red-carpet-2026",
-      "summary": "It's a true work of art.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: ICYMI: Kylie Jenner's Waist-Sculpting Met Gala Dress Took 11K Hours to...",
-      "score": 1,
-      "published": "2026-05-05T00:21:04+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d036012bf274",
-      "title": "It Girls Agree: This Is the Cool 2026 Alt to Classic Silk Pants From Last Summer",
-      "link": "https://www.whowhatwear.com/fashion/trends/silk-taffeta-pants-trend-2026",
-      "summary": "Need is an understatement.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: It Girls Agree: This Is the Cool 2026 Alt to Classic Silk Pants From L...",
-      "score": 1,
-      "published": "2026-05-05T00:09:55+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9e99b0368478",
-      "title": "Cheeky! Gigi Wore a Totally Sheer Miu Miu Gown and 33+ Carats of Diamonds to This Year's Met Gala",
-      "link": "https://www.whowhatwear.com/fashion/red-carpet/gigi-hadid-miu-miu-naked-dress-met-gala-red-carpet-2026-photos",
-      "summary": "Plus, she just kick-started the return of this lingerie trend.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-05-05T00:09:47+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7bbca2624192",
       "title": "Lauren Sánchez Bezos Tried to Reference Sargent's 'Madame X' With Her Met Gala Outfit",
       "link": "https://fashionista.com/2026/05/lauren-sanchez-bezos-met-gala-2026-dress-madame-x-john-singer-sargent",
@@ -1504,20 +1574,6 @@
       "angle": "Fashion Intelligence: Lauren Sánchez Bezos Tried to Reference Sargent's 'Madame X' With Her ...",
       "score": 1,
       "published": "2026-05-04T23:25:08+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "192658b2aba6",
-      "title": "Zoë Kravitz Just Wore the Most Tasteful Naked Dress in Met Gala History",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/zoe-kravitz-saint-laurent-dress-met-gala-red-carpet-2026-photos",
-      "summary": "It's Saint Laurent, of course.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-05-04T22:46:47+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1549,34 +1605,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "68366baee879",
-      "title": "Nicole Kidman and Her Daughter Wore Summer 2026's Biggest Wedding Guest Dress Trend to the Met Gala",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/nicole-kidman-chanel-dress-met-gala-red-carpet-2026-photos",
-      "summary": "Put your slip dresses to the side.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Nicole Kidman and Her Daughter Wore Summer 2026's Biggest Wedding Guest Dress Trend to the Met Gala — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-05-04T22:02:56+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a6c3e0eb31d8",
-      "title": "The 2026 Met Gala Proved That Beauty Is Art—Every Glamorous Look We're Swooning Over",
-      "link": "https://www.whowhatwear.com/beauty/met-gala-2026-best-beauty-looks-red-carpet",
-      "summary": "Hang them in the Louvre.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: The 2026 Met Gala Proved That Beauty Is Art—Every Glamorous Look We're...",
-      "score": 1,
-      "published": "2026-05-04T21:27:25+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "1293cc9729f5",
       "title": "See Every Look From the 2026 Met Gala Red Carpet",
       "link": "https://fashionista.com/2026/05/2026-met-gala-red-carpet-outfits-every-look",
@@ -1588,34 +1616,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
       "published": "2026-05-04T21:08:24+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1c64934443bb",
-      "title": "Our Live Reactions to All the Major Moments on the 2026 Met Gala Red Carpet",
-      "link": "https://www.whowhatwear.com/fashion/live/met-gala-2026-live-fashion-red-carpet-updates",
-      "summary": "The play-by-play of fashion's biggest night of the year.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-05-04T20:17:56+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "63497d1d0f18",
-      "title": "Taylor Swift, Hailey Bieber, and Anne Hathaway: Here's What Celebs Would Buy From Credo Beauty",
-      "link": "https://www.whowhatwear.com/beauty/makeup/credo-beauty-celeb-products",
-      "summary": "A celeb-approved shopping list.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Taylor Swift, Hailey Bieber, and Anne Hathaway: Here's What Celebs Wou...",
-      "score": 1,
-      "published": "2026-05-04T17:05:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2867,52 +2867,52 @@
   ],
   "trends": [
     {
-      "term": "ఎన్నికల పోటీ",
+      "term": "hamilton",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "tigres uanl vs nashville",
+      "term": "mullanpur",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cv shanmugam",
+      "term": "palash muchhal",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "idea share",
+      "term": "anthropic ceo dario amodei",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "vikatan",
+      "term": "raghu sharma mumbai indians",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "महेंद्र सिंह धोनी",
+      "term": "सनी देओल",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ipac",
+      "term": "बाज़ार",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "నితీష్ రాణా",
+      "term": "emergency credit line guarantee scheme",
+      "summary": "",
+      "aza_category": "Trend Alert"
+    },
+    {
+      "term": "one piece chapter 1182 spoilers",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hfcl",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "netweb technologies share price",
+      "term": "cil",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

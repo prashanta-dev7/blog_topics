@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T07:37:50.256061+00:00",
+  "generated_at": "2026-05-06T10:20:21.259005+00:00",
   "owned_count": 10,
   "competitor_count": 30,
   "industry_count": 164,
@@ -9,31 +9,73 @@
   },
   "articles": [
     {
-      "id": "1f62fc091859",
-      "title": "Ahead of the Curve: 6 Outfits Fashion Insiders Will Wear This Summer",
-      "link": "https://www.whowhatwear.com/fashion/summer-outfit-ideas-2026",
-      "summary": "Shop the edit.",
-      "source": "Who What Wear",
+      "id": "6a251124be64",
+      "title": "30+ Best Ballet Flats to Shop in 2026, From Classic to Mary Janes",
+      "link": "https://www.vogue.com/slideshow/ballet-flats",
+      "summary": "If you’re wondering who makes the best flats for women, we’ve done the work. From suede to crystal embellishments, shop our edit of the very best ballet flats.",
+      "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Ahead of the Curve: 6 Outfits Fashion Insiders Will Wear This Summer...",
-      "score": 3,
-      "published": "2026-05-06T07:00:00+00:00",
+      "angle": "Fashion Intelligence: 30+ Best Ballet Flats to Shop in 2026, From Classic to Mary Janes...",
+      "score": 0,
+      "published": "2026-05-06T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "029f12b27310",
-      "title": "It's Already Summer at Zara—8 Trends It's Backing for the Warm-Weather Season",
-      "link": "https://www.whowhatwear.com/fashion/shopping/zara-summer-2026-trends",
-      "summary": "From satin to stripes.",
+      "id": "7bd6cdbc5f6f",
+      "title": "Vogue First! Shop Dorsey’s Summer Enamel Capsule—Exclusively for the Next 24 Hours",
+      "link": "https://www.vogue.com/article/dorsey-summer-enamel-capsule",
+      "summary": "Dorsey unveils its newest summer drop—an all-enamel capsule. With Vogue First, readers get exclusive access to shop it before anyone else.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Vogue First! Shop Dorsey’s Summer Enamel Capsule—Exclusively for the N...",
+      "score": 0,
+      "published": "2026-05-06T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c31a3a1605e1",
+      "title": "From LED Masks to Dyson Hair Tools: The 17 Best Beauty Products to Buy During Nordstrom's Sneaky Sale",
+      "link": "https://www.whowhatwear.com/beauty/nordstrom-savings-event-beauty-products",
+      "summary": "It's the perfect opportunity to level up my beauty routine before summer.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-05-06T07:00:00+00:00",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: From LED Masks to Dyson Hair Tools: The 17 Best Beauty Products to Buy...",
+      "score": 1,
+      "published": "2026-05-06T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "468725cfc316",
+      "title": "Sarah Pidgeon Just Perfected Transitional Spring Style With This Unexpected Staple",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/red-jumper-black-trousers-spring-outfit-sarah-pidgeon-2026",
+      "summary": "A true wardrobe hero.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Sarah Pidgeon Just Perfected Transitional Spring Style With This Unexp...",
+      "score": 1,
+      "published": "2026-05-06T08:59:02+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e5e2cf7293c2",
+      "title": "Stylish People Have Declared This The Row Bag Spring’s Cult Buy—And It's Even Chicer Than The Margaux",
+      "link": "https://www.whowhatwear.com/fashion/shopping/the-row-marlo-kendall-jenner",
+      "summary": "Quiet luxury at its finest.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Stylish People Have Declared This The Row Bag Spring’s Cult Buy—And It...",
+      "score": 1,
+      "published": "2026-05-06T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,20 +89,6 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: My Fashionable Friends in NYC Will Approve of These Cool Shorts, Tops,...",
       "score": 2,
-      "published": "2026-05-06T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d09f9746126d",
-      "title": "Anne Hathaway's Devil Wears Prada 2 Tour Wardrobe Is All About the Off-Duty Moments",
-      "link": "https://www.whowhatwear.com/fashion/luxury/anne-hathaway-devil-wears-prada-2-style",
-      "summary": "Her best looks aren’t on the red carpet—they’re happening in between.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Anne Hathaway's Devil Wears Prada 2 Tour Wardrobe Is All About the Off...",
-      "score": 1,
       "published": "2026-05-06T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -79,6 +107,48 @@
       "discovered_via": "feed"
     },
     {
+      "id": "d09f9746126d",
+      "title": "Anne Hathaway's Devil Wears Prada 2 Tour Wardrobe Is All About the Off-Duty Moments",
+      "link": "https://www.whowhatwear.com/fashion/luxury/anne-hathaway-devil-wears-prada-2-style",
+      "summary": "Her best looks aren’t on the red carpet—they’re happening in between.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Anne Hathaway's Devil Wears Prada 2 Tour Wardrobe Is All About the Off...",
+      "score": 1,
+      "published": "2026-05-06T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "029f12b27310",
+      "title": "It's Already Summer at Zara—8 Trends It's Backing for the Warm-Weather Season",
+      "link": "https://www.whowhatwear.com/fashion/shopping/zara-summer-2026-trends",
+      "summary": "From satin to stripes.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-05-06T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1f62fc091859",
+      "title": "Ahead of the Curve: 6 Outfits Fashion Insiders Will Wear This Summer",
+      "link": "https://www.whowhatwear.com/fashion/summer-outfit-ideas-2026",
+      "summary": "Shop the edit.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Ahead of the Curve: 6 Outfits Fashion Insiders Will Wear This Summer...",
+      "score": 3,
+      "published": "2026-05-06T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "2374b4d30df6",
       "title": "No, Not Loafers—These Are the Controversial Shoe Trends That Fashion's Best-Dressed Are Wearing This Spring",
       "link": "https://www.whowhatwear.com/fashion/trends/divisive-shoe-trends-spring-2026",
@@ -93,20 +163,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "57c8b0fee312",
-      "title": "These Are the Most Stylish Nail Colours to Wear in May, According to Celebrity Manicurists",
-      "link": "https://www.whowhatwear.com/beauty/nails/may-nail-colours-2026",
-      "summary": "Manis of the month.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-05-06T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3e506516883d",
       "title": "Polka Dots Are Officially Trending Again—5 Fresh Ways To Wear Them This Summer",
       "link": "https://www.whowhatwear.com/fashion/summer/polka-dot-trends-summer-2026",
@@ -116,6 +172,20 @@
       "is_competitor": false,
       "aza_category": "Celebrity Style",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-05-06T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "57c8b0fee312",
+      "title": "These Are the Most Stylish Nail Colours to Wear in May, According to Celebrity Manicurists",
+      "link": "https://www.whowhatwear.com/beauty/nails/may-nail-colours-2026",
+      "summary": "Manis of the month.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
       "published": "2026-05-06T06:00:00+00:00",
       "discovered_via": "feed"
@@ -342,6 +412,20 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-05-05T21:00:02+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "723cc704a59c",
+      "title": "The Best Moments from the 2026 Met Gala Red Carpet",
+      "link": "https://www.vogue.com/article/best-moments-from-the-2026-met-gala-red-carpet",
+      "summary": "From Bad Bunny getting his Benjamin Button on to Madonna embracing the Met Gala girls’ night out, these were some of the most memorable moments of the 2026 Met Gala.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 0,
+      "published": "2026-05-05T21:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -793,34 +877,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6fb5e6acee4c",
-      "title": "7 Pajama Pant Outfits That Are As Casual As They Are Cool",
-      "link": "https://www.vogue.com/article/pajama-pant-outfits",
-      "summary": "We’re turning to the pajama pant, or drawstring pant, as the cornerstone of our summer wardrobes. Here, 7 pajama pant outfits that bridge casual and cool.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 7 Pajama Pant Outfits That Are As Casual As They Are Cool...",
-      "score": 1,
-      "published": "2026-05-05T17:33:10+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "45aa51df7bff",
-      "title": "These 21 Met Gala 2026 Looks Are the Perfect Inspiration for Any Bride",
-      "link": "https://www.vogue.com/slideshow/2026-met-gala-looks-bridal-inspiration",
-      "summary": "The Met Gala 2026 arrivals not only proved that “fashion is art,” but also provided plenty of inspiration for brides looking to find their wedding dress.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: These 21 Met Gala 2026 Looks Are the Perfect Inspiration for Any Bride — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-05-05T17:24:20+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d3d8867c15b8",
       "title": "Kylie Got the Memo That This Is the It-Girl Capri-Pant Outfit of 2026",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/capri-pants-outfit-kylie-jenner",
@@ -846,20 +902,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-05-05T17:08:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6c2eba9eeb13",
-      "title": "“You’re in Your Body. You Can Do This”—Lena Dunham on Returning to the Met Gala After 7 Years",
-      "link": "https://www.vogue.com/article/lena-dunham-2026-met-gala",
-      "summary": "Seven years after her last Met Gala, Lena Dunham is returning on her own terms—and in custom Valentino by Alessandro Michele.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: “You’re in Your Body. You Can Do This”—Lena Dunham on Returning to the...",
-      "score": 0,
-      "published": "2026-05-05T17:02:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1325,34 +1367,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "543937f26d7a",
-      "title": "H&M Just Called It—5 Elegant Trends That Will Define Summer 2026",
-      "link": "https://www.whowhatwear.com/fashion/affordable/hm-summer-trends-2026",
-      "summary": "Just in time for the sunshine.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-05-05T05:50:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6dd921111861",
-      "title": "The Most Stylish People Are Already Wearing Their Jeans With These 5 Summer Shoe Trends",
-      "link": "https://www.whowhatwear.com/fashion/shoes/summer-shoe-trends-to-wear-with-jeans-2026",
-      "summary": "Perfect pairings.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-05-05T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "345fce394ee2",
       "title": "Every After-Party Look From the 2026 Met Gala",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71210163/best-after-party-photos-met-gala-2026/",
@@ -1378,20 +1392,6 @@
       "angle": "Fashion Intelligence: The Best Dressed Stars at the 2026 Met Gala...",
       "score": 2,
       "published": "2026-05-05T03:57:33+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "563d14c42414",
-      "title": "The Verdict Is In: Our 5 Best Dressed at the 2026 Met Gala",
-      "link": "https://www.whowhatwear.com/fashion/red-carpet/met-gala-2026-best-dressed",
-      "summary": "Here are the top looks.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: The Verdict Is In: Our 5 Best Dressed at the 2026 Met Gala...",
-      "score": 1,
-      "published": "2026-05-05T03:45:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2725,6 +2725,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "cd289df9a805",
+      "title": "Met Gala 2026 Best Dressed: Who Truly Understood Fashion Is Art",
+      "link": "https://www.azafashions.com/blog/met-gala-2026-best-dressed/?utm_source=rss&utm_medium=rss&utm_campaign=met-gala-2026-best-dressed",
+      "summary": "Met Gala 2026 wasn’t about who looked good. It was about who thought deeply. When the Metropolitan Museum of Art announced the \"Costume Art / Fashion Is Art\" theme, it challenged designers and attendees&#8230; The post Met Gala 2026 Best Dressed: Who Truly Understood Fashion Is Art appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Met Gala 2026 Best Dressed: Who Truly Understood Fashion Is Art...",
+      "score": 3,
+      "published": "2026-05-04T07:43:37+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "697dfff624fc",
       "title": "Chic Wedding Outfits That Look Great and Pack Well",
       "link": "https://www.azafashions.com/blog/chic-wedding-outfits-that-pack-well/?utm_source=rss&utm_medium=rss&utm_campaign=chic-wedding-outfits-that-pack-well",
@@ -2849,70 +2863,56 @@
       "score": 4,
       "published": "2026-04-28T07:36:40+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "35b8ce58cd60",
-      "title": "15 Types of Traditional Indian Sarees & Their Timeless Elegance",
-      "link": "https://www.azafashions.com/blog/indian-sarees-world-heritage-textiles-guide-2026/?utm_source=rss&utm_medium=rss&utm_campaign=indian-sarees-world-heritage-textiles-guide-2026",
-      "summary": "India is a civilization woven in silk, cotton, and gold thread. For over five thousand years, the saree has been its most enduring and magnificent expression a single length of&#8230; The post 15 Types of Traditional Indian Sarees &amp; Their Timeless Elegance appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 15 Types of Traditional Indian Sarees & Their Timeless Elegance...",
-      "score": 3,
-      "published": "2026-04-28T07:17:37+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "hamilton",
+      "term": "ஊழியர்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mullanpur",
+      "term": "rajendra vishwanath arlekar",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "palash muchhal",
+      "term": "lpg",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "anthropic ceo dario amodei",
+      "term": "स्वर्ण कांता शर्मा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "raghu sharma mumbai indians",
+      "term": "pakw vs zimw",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "सनी देओल",
+      "term": "भगवंत मान",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बाज़ार",
+      "term": "west bengal cm 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "emergency credit line guarantee scheme",
-      "summary": "",
-      "aza_category": "Trend Alert"
-    },
-    {
-      "term": "one piece chapter 1182 spoilers",
+      "term": "ఇల్లు",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cil",
+      "term": "mmrda",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "സഞ്ജു സാംസണ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

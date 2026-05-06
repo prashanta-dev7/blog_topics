@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T10:20:21.259005+00:00",
+  "generated_at": "2026-05-06T12:29:33.779882+00:00",
   "owned_count": 10,
   "competitor_count": 30,
   "industry_count": 164,
@@ -8,6 +8,104 @@
     "US": 1791
   },
   "articles": [
+    {
+      "id": "d908cfdd5579",
+      "title": "Connor Storrie’s Post-Met Gala Snack Run Look Is Straight Out of the ’90s",
+      "link": "https://www.vogue.com/article/connor-storrie-post-met-gala-snack-run-new-york",
+      "summary": "“Heated Rivalry” actor Connor Storrie made sure to stock-up on vitamin C the day after the 2026 Met Gala, and kept to his comfy classics to do so.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Connor Storrie’s Post-Met Gala Snack Run Look Is Straight Out of the ’...",
+      "score": 0,
+      "published": "2026-05-06T12:20:02+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d6481413c8e8",
+      "title": "The 16 Best Airbnbs in Florence for the Design-Lover",
+      "link": "https://www.vogue.com/article/best-airbnbs-in-florence",
+      "summary": "Heading to Tuscany? Book one of the best Airbnbs in Florence for a stay in the charming city.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The 16 Best Airbnbs in Florence for the Design-Lover...",
+      "score": 0,
+      "published": "2026-05-06T12:17:16+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0b2cb0eb3cd5",
+      "title": "My Mother Left Me a Garage Full of Mysterious Ingredients—And So Much More",
+      "link": "https://www.vogue.com/article/mother-garage-full-of-mysterious-ingredients",
+      "summary": "After immigrating to the U.S., my mother dispensed with some traditional cooking methods, but when she died she left behind an apothecary of TCM, dried herbs, and ancient ingredients.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: My Mother Left Me a Garage Full of Mysterious Ingredients—And So Much ...",
+      "score": 1,
+      "published": "2026-05-06T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6cc6b6f17fb3",
+      "title": "In-Person Brand Events Are So Back, According to New Report",
+      "link": "https://fashionista.com/2026/05/in-person-brand-event-strategy-launchmetrics-report",
+      "summary": "But getting IRL activations right requires strategic guest lists and authentic activations.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: In-Person Brand Events Are So Back, According to New Report...",
+      "score": 1,
+      "published": "2026-05-06T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e12486ad03ba",
+      "title": "If Looking Expensive Is Your Goal, This It Girl-Approved Classy Coat Trend Should Be On Your Radar",
+      "link": "https://www.whowhatwear.com/fashion/outerwear/opera-coat-trend-2026",
+      "summary": "Sorry, Timothée.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-05-06T11:30:41+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ee25340dfd24",
+      "title": "H&M Celebrates Rio’s Fashion Spirit",
+      "link": "https://www.fashiongonerogue.com/story/hm-rio-campaign/",
+      "summary": "To mark its continuation of exploring global cities, H&#38;M has launched H&#38;M&#38;RIO, a celebration of the city shot entirely by ... Source",
+      "source": "Fashion Gone Rogue",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: H&M Celebrates Rio’s Fashion Spirit...",
+      "score": 2,
+      "published": "2026-05-06T11:02:26+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fc2692f67493",
+      "title": "An Exclusive First Look at Baz Luhrmann and Catherine Martin’s Fantastical Belmond Train Carriage",
+      "link": "https://www.vogue.com/article/celia-belmond-train-carriage-baz-luhrmann-catherine-martin-exclusive",
+      "summary": "The ‘Midsummer Night’s Dream’-inspired carriage on the Belmond British Pullman is an ode to a fictional actress named Celia—and comes complete with its own custom scent.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: An Exclusive First Look at Baz Luhrmann and Catherine Martin’s Fantast...",
+      "score": 0,
+      "published": "2026-05-06T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "6a251124be64",
       "title": "30+ Best Ballet Flats to Shop in 2026, From Classic to Mary Janes",
@@ -79,20 +177,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3151ceb63bd7",
-      "title": "My Fashionable Friends in NYC Will Approve of These Cool Shorts, Tops, Dresses, Pants, and Sandals From Shopbop",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-shopbop-dresses-tops-pants-shoes-2026",
-      "summary": "It's giving chic fashion person.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: My Fashionable Friends in NYC Will Approve of These Cool Shorts, Tops,...",
-      "score": 2,
-      "published": "2026-05-06T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "692c78203f3c",
       "title": "23 Worth-It Items My Cool Gen Z Coworkers Are Investing In for Summer",
       "link": "https://www.whowhatwear.com/fashion/shopping/gen-z-luxury-shopping-2026",
@@ -117,6 +201,20 @@
       "aza_category": "Celebrity Style",
       "angle": "Fashion Intelligence: Anne Hathaway's Devil Wears Prada 2 Tour Wardrobe Is All About the Off...",
       "score": 1,
+      "published": "2026-05-06T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3151ceb63bd7",
+      "title": "My Fashionable Friends in NYC Will Approve of These Cool Shorts, Tops, Dresses, Pants, and Sandals From Shopbop",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-shopbop-dresses-tops-pants-shoes-2026",
+      "summary": "It's giving chic fashion person.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: My Fashionable Friends in NYC Will Approve of These Cool Shorts, Tops,...",
+      "score": 2,
       "published": "2026-05-06T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -793,20 +891,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "be4b815d92d0",
-      "title": "From Beyoncé to Emily Blunt, These Stars Made the 2026 Met Gala a Family Affair",
-      "link": "https://www.vogue.com/slideshow/from-beyonce-to-emily-blunt-these-stars-made-the-2026-met-gala-a-family-affair",
-      "summary": "Guests filled the Metropolitan Museum of Art to celebrate this year’s “Costume Art” Met Gala theme with the most stylish company possible: their own families.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: From Beyoncé to Emily Blunt, These Stars Made the 2026 Met Gala a Fami...",
-      "score": 0,
-      "published": "2026-05-05T18:15:54+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e337b715a94d",
       "title": "Chase Sui Wonders Sarcastically Describes Her First Met Gala as \"Effortless\"—See Everything That Went Into It",
       "link": "https://www.whowhatwear.com/fashion/red-carpet/chase-sui-wonders-met-gala-2026-getting-ready",
@@ -821,34 +905,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "29eab6f792e8",
-      "title": "On the Podcast: Inside the 2026 Met Gala with Chase Sui Wonders",
-      "link": "https://www.vogue.com/article/on-the-podcast-inside-the-met-gala-2026-with-chase-sui-wonders",
-      "summary": "The actress sat down with Chloe and Chioma at the Met Gala to talk through their highlights from the night.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: On the Podcast: Inside the 2026 Met Gala with Chase Sui Wonders...",
-      "score": 0,
-      "published": "2026-05-05T17:58:37+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4da12bf9f73a",
-      "title": "All the Athletes, From Steph Curry to A’ja Wilson, Who Attended the 2026 Met Gala",
-      "link": "https://www.vogue.com/slideshow/athletes-sports-world-met-gala-2026",
-      "summary": "Sports are very much in style, with tennis, football, and basketball stars from all over serving major looks of late—and the 2026 Met Gala was no exception.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: All the Athletes, From Steph Curry to A’ja Wilson, Who Attended the 20...",
-      "score": 1,
-      "published": "2026-05-05T17:50:47+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "77c13e38aee8",
       "title": "Sabrina Carpenter and Stevie Nicks Sing “Landslide” at the Met Gala",
       "link": "https://www.harpersbazaar.com/culture/a71219480/sabrina-carpenter-and-stevie-nicks-met-gala-performance/",
@@ -860,20 +916,6 @@
       "angle": "Fashion Intelligence: Sabrina Carpenter and Stevie Nicks Sing “Landslide” at the Met Gala...",
       "score": 0,
       "published": "2026-05-05T17:50:46+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "010818f5d209",
-      "title": "Metallic Manicures Were All Over the 2026 Met Gala",
-      "link": "https://www.vogue.com/article/metallic-manicures-2026-met-gala-carpet",
-      "summary": "Hands up! Ashley Graham and Blackpink’s Jisoo, Lisa, and Jennie and more sported metallic manicures for the night.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Metallic Manicures Were All Over the 2026 Met Gala...",
-      "score": 0,
-      "published": "2026-05-05T17:39:22+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1353,20 +1395,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e5c623173150",
-      "title": "Trust Us: These Are the 7 Summer Hair Trends We'll All Be Requesting at the Salon",
-      "link": "https://www.whowhatwear.com/beauty/hair/summer-hair-trends-2026",
-      "summary": "The hottest cuts and colours.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-05-05T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "345fce394ee2",
       "title": "Every After-Party Look From the 2026 Met Gala",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71210163/best-after-party-photos-met-gala-2026/",
@@ -1756,20 +1784,6 @@
       "angle": "Fashion Intelligence: H&M’s Festival Fashion Gets a Bohemian Glow-Up...",
       "score": 1,
       "published": "2026-05-01T10:45:29+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a5808e9e2778",
-      "title": "Tod’s Summer 2026 Campaign Is Pure Italian Ease",
-      "link": "https://www.fashiongonerogue.com/story/tods-summer-2026-campaign/",
-      "summary": "Tod’s is packing the dream Italian summer into one sun-soaked fashion story. For its Full summer 2026 campaign, Vacanze Italiane, ... Source",
-      "source": "Fashion Gone Rogue",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Tod’s Summer 2026 Campaign Is Pure Italian Ease...",
-      "score": 1,
-      "published": "2026-05-01T01:59:03+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2204,20 +2218,6 @@
       "angle": "Fashion Intelligence: The Fashion Brands Most Vulnerable to Counterfeiting in 2026...",
       "score": 2,
       "published": "2026-04-23T13:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "49c0b1045796",
-      "title": "Danielle Guizio Wants Her Brand to Be a 'One-Stop Shop' for Customers",
-      "link": "https://fashionista.com/2026/04/danielle-guizio-handbag-launch",
-      "summary": "Guizio handbags have arrived. We asked the designer about her approach to expansion and what comes next.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Danielle Guizio Wants Her Brand to Be a 'One-Stop Shop' for Customers...",
-      "score": 2,
-      "published": "2026-04-23T12:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2809,110 +2809,110 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3fa02aa1d46d",
-      "title": "Know Your Designer Episode 50: B’Infinite",
-      "link": "https://www.azafashions.com/blog/know-your-designer-binfinite/?utm_source=rss&utm_medium=rss&utm_campaign=know-your-designer-binfinite",
-      "summary": "Building a wardrobe that feels both fresh and timeless can often feel like an impossible task. We constantly seek pieces that make a bold statement but remain wearable enough for daily life. B'Infinite effortlessly bridges the&#8230; The post Know Your Designer Episode 50: B&#8217;Infinite appeared first on Aza Editori",
+      "id": "9b295243dcf9",
+      "title": "Katan Silk vs Banarasi Silk: What’s the Difference?",
+      "link": "https://www.azafashions.com/blog/katan-silk-vs-banarasi-silk-whats-the-difference/?utm_source=rss&utm_medium=rss&utm_campaign=katan-silk-vs-banarasi-silk-whats-the-difference",
+      "summary": "Step into any ethnic wear boutique, and you will hear a beautiful vocabulary of fabrics, weaves, and origins. Among these, two names frequently dominate the conversation: Katan silk and Banarasi silk. Both represent the&#8230; The post Katan Silk vs Banarasi Silk: What’s the Difference? appeared first on Aza Editorials",
       "source": "AZA Blog",
       "tier": "owned",
       "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Know Your Designer Episode 50: B’Infinite...",
-      "score": 2,
-      "published": "2026-04-29T09:54:57+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "461b17ee5f84",
-      "title": "Jodhpuri Suit for Men: Complete Wedding Style Guide (2026)",
-      "link": "https://www.azafashions.com/blog/what-is-jodhpuri-suit-style-guide-2026/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-jodhpuri-suit-style-guide-2026",
-      "summary": "There is a moment at every Indian wedding when the groom walks in and the entire room goes quiet not because of the music stopping, but because of what he&#8230; The post Jodhpuri Suit for Men: Complete Wedding Style Guide (2026) appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Bridal Edit: Jodhpuri Suit for Men — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-04-28T12:01:56+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c1a988abe25e",
-      "title": "What to Gift Your Brother This Brother’s Day (That Isn’t Basic)",
-      "link": "https://www.azafashions.com/blog/what-to-gift-your-brother-this-brothers-day/?utm_source=rss&utm_medium=rss&utm_campaign=what-to-gift-your-brother-this-brothers-day",
-      "summary": "Let’s be honest: most gifts feel predictable. Another wallet, a generic tie, or a novelty mug that gets shoved to the back of the closet. This year, upgrade your approach to&#8230; The post What to Gift Your Brother This Brother’s Day (That Isn’t Basic) appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: What to Gift Your Brother This Brother’s Day (That Isn’t Basic)...",
-      "score": 0,
-      "published": "2026-04-28T08:31:08+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5e2f1687cd71",
-      "title": "Know Your Designer Episode 49: Roze",
-      "link": "https://www.azafashions.com/blog/know-your-designer-roze/?utm_source=rss&utm_medium=rss&utm_campaign=know-your-designer-roze",
-      "summary": "True style often lies in simplicity, where clean lines and delicate details take center stage. Roze captures this philosophy perfectly. This label has built a reputation for crafting attire that&#8230; The post Know Your Designer Episode 49: Roze appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Know Your Designer Episode 49: Roze...",
+      "aza_category": "Art & Craft",
+      "angle": "Fashion Intelligence: Katan Silk vs Banarasi Silk: What’s the Difference?...",
       "score": 4,
-      "published": "2026-04-28T07:36:40+00:00",
+      "published": "2026-04-29T11:35:16+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b958e6bcc475",
+      "title": "Step-by-Step Saree Draping in Lehenga Style for Weddings",
+      "link": "https://www.azafashions.com/blog/step-by-step-saree-draping-in-lehenga-style-for-weddings/?utm_source=rss&utm_medium=rss&utm_campaign=step-by-step-saree-draping-in-lehenga-style-for-weddings",
+      "summary": "Have you ever stared at a gorgeous saree in your wardrobe and wished you could wear it like a sweeping, voluminous lehenga? You are not alone. As wedding seasons arrive&#8230; The post Step-by-Step Saree Draping in Lehenga Style for Weddings appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Step-by-Step Saree Draping in Lehenga Style for Weddings — A Complete Style Guide",
+      "score": 6,
+      "published": "2026-04-29T11:25:52+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ea8bd9d09387",
+      "title": "Best Anarkali Suits for Weddings: Styles, Fabrics & Buying Guide",
+      "link": "https://www.azafashions.com/blog/best-anarkali-suits-for-weddings-styles-fabrics-buying-guide/?utm_source=rss&utm_medium=rss&utm_campaign=best-anarkali-suits-for-weddings-styles-fabrics-buying-guide",
+      "summary": "Weddings are grand celebrations filled with vibrant colors, lively music, and unforgettable moments. When you receive a wedding invitation, the first question that usually pops into your mind is what to&#8230; The post Best Anarkali Suits for Weddings: Styles, Fabrics &amp; Buying Guide appeared first on Aza Editorials",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Bridal Edit: Best Anarkali Suits for Weddings — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-04-29T11:07:13+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7506419efab2",
+      "title": "Why Do Celebrities Love Sarees? Styling Secrets Revealed",
+      "link": "https://www.azafashions.com/blog/why-do-celebrities-love-sarees-styling-secrets-revealed/?utm_source=rss&utm_medium=rss&utm_campaign=why-do-celebrities-love-sarees-styling-secrets-revealed",
+      "summary": "When you look at major red carpets, movie premieres, and lavish celebrity weddings, one garment constantly steals the spotlight: the saree. Global icons and Bollywood stars alike repeatedly choose this&#8230; The post Why Do Celebrities Love Sarees? Styling Secrets Revealed appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Why Do Celebrities Love Sarees? Styling Secrets Revealed...",
+      "score": 4,
+      "published": "2026-04-29T10:52:13+00:00",
       "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "ஊழியர்",
+      "term": "भारतीय क्रिकेट टीम",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "rajendra vishwanath arlekar",
+      "term": "বনি সেনগুপ্ত",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "lpg",
+      "term": "ചൈന",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "स्वर्ण कांता शर्मा",
+      "term": "वकील",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "pakw vs zimw",
+      "term": "marco",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "भगवंत मान",
+      "term": "ntpc admit card",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "west bengal cm 2026",
+      "term": "संजय राउत",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ఇల్లు",
+      "term": "rti",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mmrda",
+      "term": "nifty 50 sensex today",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "സഞ്ജു സാംസണ്",
+      "term": "bfuhs",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

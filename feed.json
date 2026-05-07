@@ -1,13 +1,181 @@
 {
-  "generated_at": "2026-05-07T07:44:25.895185+00:00",
+  "generated_at": "2026-05-07T10:26:41.260042+00:00",
   "owned_count": 10,
   "competitor_count": 30,
-  "industry_count": 166,
+  "industry_count": 168,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "6d9a2f8b1f8b",
+      "title": "Coty Revenues Fall 7% in Q3",
+      "link": "https://www.vogue.com/article/coty-revenues-fall-7-in-q3",
+      "summary": "Sales in the company’s prestige category decreased 5% in the third quarter of 2026.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Coty Revenues Fall 7% in Q3...",
+      "score": 0,
+      "published": "2026-05-07T10:12:43+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2d891cfea16a",
+      "title": "Larger Than Life, the Work of Helen Frankenthaler Takes Over Gagosian",
+      "link": "https://www.vogue.com/article/helen-frankenthaler-the-moment-and-the-distance-gagosian",
+      "summary": "“Helen Frankenthaler: The Moment and the Distance” is on view at Gagosian, 522 West 21st Street in New York City, through July 2.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Larger Than Life, the Work of Helen Frankenthaler Takes Over Gagosian...",
+      "score": 0,
+      "published": "2026-05-07T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c36da6328840",
+      "title": "Feels Like a Steal: Shop Vogue Favorite Under-$300 Finds",
+      "link": "https://www.vogue.com/article/feels-like-a-steal",
+      "summary": "Love a good fashion find? Same. And while there’s plenty we recommend on a daily basis, what makes us play for keeps is in the name: when it feels like a steal.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Feels Like a Steal: Shop Vogue Favorite Under-$300 Finds...",
+      "score": 1,
+      "published": "2026-05-07T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dc29f6238ae8",
+      "title": "‘It’s a Proud Moment’: Stella McCartney on Returning to Collaborate With H&M, 20 Years Later",
+      "link": "https://www.vogue.com/article/stella-mccartney-hm-collab-first-look",
+      "summary": "The designer shares a first look at her new H&amp;M collection—which has been almost entirely designed using organic, recycled, and next-gen sustainable fabrics—with Vogue.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: ‘It’s a Proud Moment’: Stella McCartney on Returning to Collaborate Wi...",
+      "score": 3,
+      "published": "2026-05-07T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c7dc96592ba4",
+      "title": "Bessette’s Spring Drop Spotlights Leset’s Beloved Essentials, Exclusively for Vogue",
+      "link": "https://www.vogue.com/article/bessette-spring-drop-2026",
+      "summary": "Shop easy layering pieces and effortlessly cool wardrobe staples.—exclusively on Bessette for Vogue.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Bessette’s Spring Drop Spotlights Leset’s Beloved Essentials, Exclusiv...",
+      "score": 0,
+      "published": "2026-05-07T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fdc4611c90a3",
+      "title": "The Best Zara New Arrivals to Shop for Spring 2026 | Vogue",
+      "link": "https://www.vogue.com/article/best-zara-finds",
+      "summary": "Funnel-neck outerwear, slip skirts, and lace-trimmed shorts are a few of the best Zara new arrival finds we’re eyeing this week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Best Zara New Arrivals to Shop for Spring 2026 | Vogue...",
+      "score": 1,
+      "published": "2026-05-07T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "05e74fb4dbe9",
+      "title": "I'm a 2026 Bride—These 34 Cool Picks Are Immediately Going on My Wedding Registry",
+      "link": "https://www.whowhatwear.com/living/wedding/cool-wedding-registry-gifts-2026",
+      "summary": "These are well worth it.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: I'm a 2026 Bride—These 34 Cool Picks Are Immediately Going on My Wedding Registry — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-05-07T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "08a9b9130efd",
+      "title": "Billie Eilish and Nat Wolff Hit Hard Launch With Their Red Carpet Debut",
+      "link": "https://www.vogue.com/article/billie-eilish-nat-wolff-relationship-timeline",
+      "summary": "After months of rumors, Billie Eilish and Nat Wolff officially introduced themselves as a couple at the pop star’s concert movie premiere in Los Angeles.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-05-07T09:43:31+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4a34b26aad44",
+      "title": "On the Podcast: A Mother’s Day Special With Candice Bergen",
+      "link": "https://www.vogue.com/article/on-the-podcast-mothers-day-special-with-candice-bergen",
+      "summary": "On this Thursday’s episode of “The Run-Through,” Chloe is joined by her mom, Candice Bergen, to talk about life, work, and motherhood.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: On the Podcast: A Mother’s Day Special With Candice Bergen...",
+      "score": 0,
+      "published": "2026-05-07T09:23:56+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "be98384776ae",
+      "title": "Nobody Loves a Jaunty Sock More Than Billie Eilish",
+      "link": "https://www.vogue.com/article/billie-eilish-hit-me-hard-and-soft-premiere",
+      "summary": "Billie Eilish celebrated the premiere of “Hit Me Hard & Soft: The Tour” in a pair of striped socks—and with Nat Wolff on her arm.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Nobody Loves a Jaunty Sock More Than Billie Eilish...",
+      "score": 0,
+      "published": "2026-05-07T08:37:55+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d87f4988ab11",
+      "title": "I Have a Knack for Spotting Nail Trends Before They're Cool—This Edgy Design Is Up",
+      "link": "https://www.whowhatwear.com/beauty/nails/studded-nail-trend",
+      "summary": "A fresh take on polka dots.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-05-07T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d3272cb00ba0",
+      "title": "Kylie Jenner Does Knicks Team Colors Her Way—Birkin Included",
+      "link": "https://www.vogue.com/article/kylie-jenner-new-york-knicks-style-birkin",
+      "summary": "Just days after the 2026 Met Gala, Kylie Jenner joined Timothée Chalamet to cheer on the New York Knicks, toting a blue Birkin and in orange Miu Miu mules.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Kylie Jenner Does Knicks Team Colors Her Way—Birkin Included...",
+      "score": 0,
+      "published": "2026-05-07T07:53:39+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "f1d08dbeab41",
       "title": "Selena Gomez Co-Signs the Return of This Vintage Dress Detail",
@@ -23,30 +191,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "82d9c5b8d7e3",
-      "title": "Bikinis! Cover-Ups! Sunscreen! Everything in My Cart for My Next Beach Trip",
-      "link": "https://www.whowhatwear.com/fashion/shopping/beachwear-2026",
-      "summary": "Vacationwear.",
+      "id": "3d14732a2dc2",
+      "title": "32 Chic Bridal After-Party Looks That Are Anything But an Afterthought",
+      "link": "https://www.whowhatwear.com/fashion/shopping/bridal-after-party-outfits-anny-choi",
+      "summary": "Our resident bridal stylist found some gems.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Bikinis! Cover-Ups! Sunscreen! Everything in My Cart for My Next Beach...",
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: 32 Chic Bridal After-Party Looks That Are Anything But an Afterthought — A Complete Style Guide",
       "score": 1,
-      "published": "2026-05-07T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "85bef7be6e50",
-      "title": "If You Want to Dress Like a Stylish It Girl, Wear These 5 Trend-Forward Basics",
-      "link": "https://www.whowhatwear.com/fashion/trends/it-girl-fashionable-basics-summer-2026",
-      "summary": "Including the shirt everyone is buying.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
       "published": "2026-05-07T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -65,15 +219,29 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3d14732a2dc2",
-      "title": "32 Chic Bridal After-Party Looks That Are Anything But an Afterthought",
-      "link": "https://www.whowhatwear.com/fashion/shopping/bridal-after-party-outfits-anny-choi",
-      "summary": "Our resident bridal stylist found some gems.",
+      "id": "85bef7be6e50",
+      "title": "If You Want to Dress Like a Stylish It Girl, Wear These 5 Trend-Forward Basics",
+      "link": "https://www.whowhatwear.com/fashion/trends/it-girl-fashionable-basics-summer-2026",
+      "summary": "Including the shirt everyone is buying.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: 32 Chic Bridal After-Party Looks That Are Anything But an Afterthought — A Complete Style Guide",
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-05-07T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "82d9c5b8d7e3",
+      "title": "Bikinis! Cover-Ups! Sunscreen! Everything in My Cart for My Next Beach Trip",
+      "link": "https://www.whowhatwear.com/fashion/shopping/beachwear-2026",
+      "summary": "Vacationwear.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Bikinis! Cover-Ups! Sunscreen! Everything in My Cart for My Next Beach...",
       "score": 1,
       "published": "2026-05-07T07:00:00+00:00",
       "discovered_via": "feed"
@@ -121,20 +289,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "169f17bbafd5",
-      "title": "The Middle East Is Shopping Local. What Does That Mean for Luxury?",
-      "link": "https://www.vogue.com/article/the-middle-east-is-shopping-local-what-does-that-mean-for-luxury",
-      "summary": "A powerful shift is underway as regional brands move from niche players to central cultural forces.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Middle East Is Shopping Local. What Does That Mean for Luxury?...",
-      "score": 2,
-      "published": "2026-05-07T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "5be5a01a5b52",
       "title": "Fashion’s Complicated Poly Relationship",
       "link": "https://www.vogue.com/article/fashions-complicated-poly-relationship",
@@ -145,6 +299,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Fashion’s Complicated Poly Relationship...",
       "score": 3,
+      "published": "2026-05-07T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "169f17bbafd5",
+      "title": "The Middle East Is Shopping Local. What Does That Mean for Luxury?",
+      "link": "https://www.vogue.com/article/the-middle-east-is-shopping-local-what-does-that-mean-for-luxury",
+      "summary": "A powerful shift is underway as regional brands move from niche players to central cultural forces.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Middle East Is Shopping Local. What Does That Mean for Luxury?...",
+      "score": 2,
       "published": "2026-05-07T04:30:00+00:00",
       "discovered_via": "feed"
     },
@@ -863,20 +1031,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e7ae14506d30",
-      "title": "How Teyana Taylor Got Herself Red Carpet Ready for Met Gala 2026",
-      "link": "https://www.vogue.com/article/teyana-taylor-met-gala-2026",
-      "summary": "Step one, a massage. Final step, stun on the Met Gala carpet, of course.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 0,
-      "published": "2026-05-06T13:34:14+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "26f0656c4063",
       "title": "Are Fashion Students Designing for the Algorithm?",
       "link": "https://fashionista.com/2026/05/fashion-design-schools-students-social-media-presence",
@@ -891,34 +1045,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d908cfdd5579",
-      "title": "Connor Storrie’s Post-Met Gala Snack Run Look Is Straight Out of the ’90s",
-      "link": "https://www.vogue.com/article/connor-storrie-post-met-gala-snack-run-new-york",
-      "summary": "“Heated Rivalry” actor Connor Storrie made sure to stock-up on vitamin C the day after the 2026 Met Gala, and kept to his comfy classics to do so.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Connor Storrie’s Post-Met Gala Snack Run Look Is Straight Out of the ’...",
-      "score": 0,
-      "published": "2026-05-06T12:20:02+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d6481413c8e8",
-      "title": "The 16 Best Airbnbs in Florence for the Design-Lover",
-      "link": "https://www.vogue.com/article/best-airbnbs-in-florence",
-      "summary": "Heading to Tuscany? Book one of the best Airbnbs in Florence for a stay in the charming city.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The 16 Best Airbnbs in Florence for the Design-Lover...",
-      "score": 0,
-      "published": "2026-05-06T12:17:16+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "11c3fc29c250",
       "title": "Barber-Approved Faux Hawk Hairstyles For Men",
       "link": "https://www.fashionbeans.com/article/faux-hawk-hairstyles-guide/",
@@ -930,34 +1056,6 @@
       "angle": "Fashion Intelligence: Barber-Approved Faux Hawk Hairstyles For Men...",
       "score": 1,
       "published": "2026-05-06T12:16:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0b2cb0eb3cd5",
-      "title": "My Mother Left Me a Garage Full of Mysterious Ingredients—and So Much More",
-      "link": "https://www.vogue.com/article/mother-garage-full-of-mysterious-ingredients",
-      "summary": "After immigrating to the US, my mother dispensed with some traditional cooking methods, but when she died she left behind an apothecary of TCM, dried herbs, and ancient ingredients.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: My Mother Left Me a Garage Full of Mysterious Ingredients—and So Much ...",
-      "score": 1,
-      "published": "2026-05-06T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "458c1e9cacf6",
-      "title": "The Grit My Mother Gave Me",
-      "link": "https://www.vogue.com/article/the-grit-my-mother-gave-me",
-      "summary": "A principal dancer at American Ballet Theatre reflects on her mother’s fearless path—from an Arctic childhood to the wilds of Idaho—and the resilience she passed on.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Grit My Mother Gave Me...",
-      "score": 0,
-      "published": "2026-05-06T12:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1003,20 +1101,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "fc2692f67493",
-      "title": "An Exclusive First Look at Baz Luhrmann and Catherine Martin’s Fantastical Belmond Train Carriage",
-      "link": "https://www.vogue.com/article/celia-belmond-train-carriage-baz-luhrmann-catherine-martin-exclusive",
-      "summary": "The ‘Midsummer Night’s Dream’-inspired carriage on the Belmond British Pullman is an ode to a fictional actress named Celia—and comes complete with its own custom scent.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: An Exclusive First Look at Baz Luhrmann and Catherine Martin’s Fantast...",
-      "score": 0,
-      "published": "2026-05-06T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "13478b4ba94e",
       "title": "20 Best Men’s Colognes of All Time 2026",
       "link": "https://www.fashionbeans.com/article/best-mens-fragrances-of-all-time/",
@@ -1042,34 +1126,6 @@
       "angle": "Festive Dressing: How to Own This Occasion",
       "score": 2,
       "published": "2026-05-06T10:23:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6a251124be64",
-      "title": "30+ Best Ballet Flats to Shop in 2026, From Classic to Mary Janes",
-      "link": "https://www.vogue.com/slideshow/ballet-flats",
-      "summary": "If you’re wondering who makes the best flats for women, we’ve done the work. From suede to crystal embellishments, shop our edit of the very best ballet flats.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 30+ Best Ballet Flats to Shop in 2026, From Classic to Mary Janes...",
-      "score": 0,
-      "published": "2026-05-06T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7bd6cdbc5f6f",
-      "title": "Vogue First! Shop Dorsey’s Summer Enamel Capsule—Exclusively for the Next 24 Hours",
-      "link": "https://www.vogue.com/article/dorsey-summer-enamel-capsule",
-      "summary": "Dorsey unveils its newest summer drop—an all-enamel capsule. With Vogue First, readers get exclusive access to shop it before anyone else.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Vogue First! Shop Dorsey’s Summer Enamel Capsule—Exclusively for the N...",
-      "score": 0,
-      "published": "2026-05-06T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1143,16 +1199,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d09f9746126d",
-      "title": "Anne Hathaway's Devil Wears Prada 2 Tour Wardrobe Is All About the Off-Duty Moments",
-      "link": "https://www.whowhatwear.com/fashion/luxury/anne-hathaway-devil-wears-prada-2-style",
-      "summary": "Her best looks aren’t on the red carpet—they’re happening in between.",
+      "id": "3151ceb63bd7",
+      "title": "My Fashionable Friends in NYC Will Approve of These Cool Shorts, Tops, Dresses, Pants, and Sandals From Shopbop",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-shopbop-dresses-tops-pants-shoes-2026",
+      "summary": "It's giving chic fashion person.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Anne Hathaway's Devil Wears Prada 2 Tour Wardrobe Is All About the Off...",
-      "score": 1,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: My Fashionable Friends in NYC Will Approve of These Cool Shorts, Tops,...",
+      "score": 2,
       "published": "2026-05-06T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1166,20 +1222,6 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-05-06T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3151ceb63bd7",
-      "title": "My Fashionable Friends in NYC Will Approve of These Cool Shorts, Tops, Dresses, Pants, and Sandals From Shopbop",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-shopbop-dresses-tops-pants-shoes-2026",
-      "summary": "It's giving chic fashion person.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: My Fashionable Friends in NYC Will Approve of These Cool Shorts, Tops,...",
       "score": 2,
       "published": "2026-05-06T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1213,6 +1255,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "d09f9746126d",
+      "title": "Anne Hathaway's Devil Wears Prada 2 Tour Wardrobe Is All About the Off-Duty Moments",
+      "link": "https://www.whowhatwear.com/fashion/luxury/anne-hathaway-devil-wears-prada-2-style",
+      "summary": "Her best looks aren’t on the red carpet—they’re happening in between.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Anne Hathaway's Devil Wears Prada 2 Tour Wardrobe Is All About the Off...",
+      "score": 1,
+      "published": "2026-05-06T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d45c36e2829f",
+      "title": "How To Build The Ultimate Minimalist Wardrobe For Men 2026",
+      "link": "https://www.fashionbeans.com/article/minimalist-wardrobe-men/",
+      "summary": "All the best things come in capsules. Medicine. Space food. Time. And, naturally, clothes. Not in a download-your-outfit-from-the-internet way, the minimalist wardrobe is far simpler than that. It&#8217;s the answer to every instance when you looked at your wardrobe and wondered, “What shall I wear today?” Ostensibly i",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How To Build The Ultimate Minimalist Wardrobe For Men 2026...",
+      "score": 2,
+      "published": "2026-05-06T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "2374b4d30df6",
       "title": "No, Not Loafers—These Are the Controversial Shoe Trends That Fashion's Best-Dressed Are Wearing This Spring",
       "link": "https://www.whowhatwear.com/fashion/trends/divisive-shoe-trends-spring-2026",
@@ -1241,20 +1311,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "57c8b0fee312",
-      "title": "These Are the Most Stylish Nail Colours to Wear in May, According to Celebrity Manicurists",
-      "link": "https://www.whowhatwear.com/beauty/nails/may-nail-colours-2026",
-      "summary": "Manis of the month.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-05-06T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3e506516883d",
       "title": "Polka Dots Are Officially Trending Again—5 Fresh Ways to Wear Them This Summer",
       "link": "https://www.whowhatwear.com/fashion/summer/polka-dot-trends-summer-2026",
@@ -1264,6 +1320,20 @@
       "is_competitor": false,
       "aza_category": "Celebrity Style",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-05-06T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "57c8b0fee312",
+      "title": "These Are the Most Stylish Nail Colours to Wear in May, According to Celebrity Manicurists",
+      "link": "https://www.whowhatwear.com/beauty/nails/may-nail-colours-2026",
+      "summary": "Manis of the month.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
       "published": "2026-05-06T06:00:00+00:00",
       "discovered_via": "feed"
@@ -1283,20 +1353,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "995fdaba3631",
-      "title": "A.P.C. Taps Ludivine Poiblanc as Artistic Director",
-      "link": "https://www.vogue.com/article/apc-taps-ludivine-poiblanc-as-artistic-director",
-      "summary": "The French brand founded by Jean Touitou in 1987 is entering a new era, three years after it sold a stake to L Catterton.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: A.P.C. Taps Ludivine Poiblanc as Artistic Director...",
-      "score": 1,
-      "published": "2026-05-06T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "abcb4c16cf50",
       "title": "It's Officially Dress Season—5 Trends That Will Make Every Summer Outfit Instantly Chicer",
       "link": "https://www.whowhatwear.com/fashion/dresses/summer-dress-trends-2026",
@@ -1308,20 +1364,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 4,
       "published": "2026-05-06T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5f01b2cd0287",
-      "title": "Niche Sports Leagues Are Becoming Fashion’s Next Frontier",
-      "link": "https://www.vogue.com/article/niche-sports-leagues-are-becoming-fashions-next-frontier",
-      "summary": "From Kings League to E1, brands are betting on a new generation of championships built for digital-first fandoms.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Niche Sports Leagues Are Becoming Fashion’s Next Frontier...",
-      "score": 2,
-      "published": "2026-05-06T04:50:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1560,20 +1602,6 @@
       "angle": "Fashion Intelligence: The 15 Best K-Beauty Products, According to a Korean Beauty Expert...",
       "score": 1,
       "published": "2026-05-05T18:24:30+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4d7831c28ac2",
-      "title": "At the 2026 Met Gala, Fashion Didn't Just Reference Art—It Became It",
-      "link": "https://www.whowhatwear.com/met-gala-theme-2026-fashion-art",
-      "summary": "Red carpet attendees showcased historic art references that truly can't be missed.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: At the 2026 Met Gala, Fashion Didn't Just Reference Art—It Became It...",
-      "score": 2,
-      "published": "2026-05-05T18:23:19+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2895,52 +2923,52 @@
   ],
   "trends": [
     {
-      "term": "तृषा कृष्णन",
+      "term": "ವಿನಯ್ ಕುಲಕರ್ಣಿ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "धुरंधर",
+      "term": "ചെറിയാന് ഫിലിപ്പ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "விஜய்",
+      "term": "टैरो",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "भगवंत मान",
+      "term": "साई पल्लवी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sridhar vembu",
+      "term": "sensex share bazar",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಎಂ. ಕೆ. ಸ್ಟಾಲಿನ್",
+      "term": "ಯಶ್",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "rrb ntpc ug exam analysis",
+      "term": "akhilesh yadav",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "brigade enterprises bonus issue",
+      "term": "ഇന്ത്യന് യൂണിയന് മുസ്ലിം ലീഗ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "മമത ബാനര്ജി",
+      "term": "us-iran",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "al nassr match",
+      "term": "बीड",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

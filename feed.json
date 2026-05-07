@@ -1,13 +1,153 @@
 {
-  "generated_at": "2026-05-07T10:26:41.260042+00:00",
+  "generated_at": "2026-05-07T12:32:07.945006+00:00",
   "owned_count": 10,
   "competitor_count": 30,
-  "industry_count": 168,
+  "industry_count": 172,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "86a3ba67380b",
+      "title": "The Vogue Business TikTok Trend Tracker",
+      "link": "https://www.vogue.com/article/the-vogue-business-tiktok-trend-tracker",
+      "summary": "Vogue Business brings you weekly exclusive data from TikTok, unpacking the latest creators and biggest trends sweeping its Gen Z user base.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-05-07T12:13:48+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b4b62fd8ee23",
+      "title": "Louis Vuitton Updated the Iconic City Guides—The Collections Are Works of Art",
+      "link": "https://www.whowhatwear.com/fashion/shopping/louis-vuitton-city-guides",
+      "summary": "Each edition is $43.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-05-07T12:10:54+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7d0b74430993",
+      "title": "A New Ralph Lauren Catwalk Book Proves We Really Are in the Midst of a “Ralphissance”",
+      "link": "https://www.vogue.com/article/a-new-ralph-lauren-catwalk-book-proves-we-really-are-in-the-midst-of-a-ralphissance",
+      "summary": "The tome, written by Bridget Foley, covers all womenswear collections from 1976-2025.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: A New Ralph Lauren Catwalk Book Proves We Really Are in the Midst of a...",
+      "score": 3,
+      "published": "2026-05-07T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "07e72548dab2",
+      "title": "I'm Over Basic Wedding Guest Looks—15 Vintage Outfit Ideas I'm Trying This Summer Instead",
+      "link": "https://www.whowhatwear.com/living/wedding/vintage-summer-wedding-guest-outfit-ideas",
+      "summary": "From Saint Laurent to Roberto Cavalli.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: I'm Over Basic Wedding Guest Looks—15 Vintage Outfit Ideas I'm Trying This Summer Instead — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-05-07T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3a17adfa87a2",
+      "title": "10 Mini Short Outfits I’m Wearing for Summer 2026",
+      "link": "https://www.vogue.com/article/mini-short-outfits",
+      "summary": "From vintage terry cloth pairs to silky lace-trimmed styles, here are 10 mini short outfits I’m wearing for summer 2026.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 4,
+      "published": "2026-05-07T11:58:34+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "99ef1a49aac8",
+      "title": "Video shows two bikers chasing Suvendu's aide's vehicle before he was shot dead",
+      "link": "https://www.indiatoday.in/india/west-bengal/video/video-shows-two-bikers-chasing-suvendus-aides-vehicle-before-he-was-shot-dead-2908165-2026-05-07?utm_source=rss",
+      "summary": "Video shows two bikers chasing Suvendu's aide's vehicle before he was shot dead",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Video shows two bikers chasing Suvendu's aide's vehicle before he was ...",
+      "score": 1,
+      "published": "2026-05-07T11:38:59+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ddeab2ce9b81",
+      "title": "Kate Moss Just Arrived at the Airport in the Anti-Jeans Trouser Trend I Actually Recommend Flying In",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/black-trousers-airport-outfit-kate-moss-2026",
+      "summary": "Comfortable and chic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-05-07T11:23:53+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b25b37d8d1a6",
+      "title": "Kylie Minogue Lights Up JW Anderson’s Fall Campaign",
+      "link": "https://www.fashiongonerogue.com/story/kylie-minogue-jw-anderson-fall-2026/",
+      "summary": "Kylie Minogue brings pure pop-star magic to JW Anderson’s fall-winter 2026 campaign. The singer and style icon stars in the ... Source",
+      "source": "Fashion Gone Rogue",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Kylie Minogue Lights Up JW Anderson’s Fall Campaign...",
+      "score": 1,
+      "published": "2026-05-07T11:16:32+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ed3a81405db4",
+      "title": "Synflux Wins the 2026 Trailblazer Award",
+      "link": "https://www.vogue.com/article/meet-the-2026-trailblazer-award-finalists",
+      "summary": "Selected by Global Fashion Agenda, PDS, and a slew of brand leaders, the three finalists represent the future of sustainability innovation in fashion.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Synflux Wins the 2026 Trailblazer Award...",
+      "score": 2,
+      "published": "2026-05-07T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e5e7444adc4e",
+      "title": "Zendaya Delivers High Glam for Her Vogue Brazil Covers",
+      "link": "https://www.fashiongonerogue.com/story/zendaya-vogue-brazil-cover-2026/",
+      "summary": "Zendaya turns Vogue Brazil into a full-on fashion fever dream for its May 2026 covers. The actress covers the magazine ... Source",
+      "source": "Fashion Gone Rogue",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Zendaya Delivers High Glam for Her Vogue Brazil Covers...",
+      "score": 1,
+      "published": "2026-05-07T10:47:51+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "6d9a2f8b1f8b",
       "title": "Coty Revenues Fall 7% in Q3",
@@ -318,7 +458,7 @@
     },
     {
       "id": "049913004bfa",
-      "title": "Out Of Every Major Trend I've Forecasted for Summer, These are the Five That Fashion People Will Still Be Wearing In 2027",
+      "title": "Out of Every Major Trend I've Forecasted for Summer, These Are the 5 That Fashion People Will Still Be Wearing in 2027",
       "link": "https://www.whowhatwear.com/fashion/trends/summer-fashion-trends-2026",
       "summary": "What to wear now, and later.",
       "source": "Who What Wear",
@@ -919,34 +1059,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ed3a81405db4",
-      "title": "Meet the 2026 Trailblazer Award Finalists",
-      "link": "https://www.vogue.com/article/meet-the-2026-trailblazer-award-finalists",
-      "summary": "Selected by Global Fashion Agenda, PDS, and a slew of brand leaders, these three innovators represent the future of sustainability in fashion.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Meet the 2026 Trailblazer Award Finalists...",
-      "score": 2,
-      "published": "2026-05-06T14:36:55+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "03629d4565e7",
-      "title": "La La Anthony Held Down the Red-Carpet Livestream in Custom Wiederhoeft at the 2026 Met Gala",
-      "link": "https://www.vogue.com/article/la-la-anthony-2026-met-gala-red-carpet",
-      "summary": "“I wanted my look to feel like a piece of art that you could literally hang up on a wall. For me, that meant focusing on the details,” said Anthony.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: La La Anthony Held Down the Red-Carpet Livestream in Custom Wiederhoef...",
-      "score": 0,
-      "published": "2026-05-06T14:29:30+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "fd9cb9891cc1",
       "title": "Travis Kelce Makes a Rare Comment About His Upcoming Wedding to Taylor Swift",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71229125/travis-kelce-makes-rare-comment-wedding-taylor-swift/",
@@ -989,20 +1101,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6cf2058d7f0a",
-      "title": "Scenes From a Heartbreak",
-      "link": "https://www.vogue.com/article/scenes-from-a-heartbreak",
-      "summary": "In conversation with photographer Diana Markosian on her project Replaced, now on view at Gallerie d’Italia in Turin until September 6th, 2026.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Scenes From a Heartbreak...",
-      "score": 0,
-      "published": "2026-05-06T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c508a3dfb91a",
       "title": "Gem: An Australian Body-Care Brand Turning Deodorant Into Self Care",
       "link": "https://fashionista.com/2026/05/gem-body-care-brand",
@@ -1014,20 +1112,6 @@
       "angle": "Fashion Intelligence: Gem: An Australian Body-Care Brand Turning Deodorant Into Self Care...",
       "score": 2,
       "published": "2026-05-06T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5d02b00b4306",
-      "title": "The Best Men’s Makeup In The History of the Met Gala",
-      "link": "https://www.vogue.com/slideshow/best-met-gala-mens-makeup-moments",
-      "summary": "Much like it has in popular culture, men’s makeup has gained momentum on the Met Gala red carpet through the years. Here are all the standout moments.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The Best Men’s Makeup In The History of the Met Gala...",
-      "score": 0,
-      "published": "2026-05-06T13:45:56+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1227,20 +1311,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "692c78203f3c",
-      "title": "23 Fashion Items My Cool Gen Z Coworkers Are Shopping for Summer",
-      "link": "https://www.whowhatwear.com/fashion/shopping/gen-z-luxury-shopping-2026",
-      "summary": "This season's must-haves.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 23 Fashion Items My Cool Gen Z Coworkers Are Shopping for Summer...",
-      "score": 2,
-      "published": "2026-05-06T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "1f62fc091859",
       "title": "Ahead of the Curve: 6 Outfits Fashion Insiders Will Wear This Summer",
       "link": "https://www.whowhatwear.com/fashion/summer-outfit-ideas-2026",
@@ -1251,6 +1321,20 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Ahead of the Curve: 6 Outfits Fashion Insiders Will Wear This Summer...",
       "score": 3,
+      "published": "2026-05-06T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "692c78203f3c",
+      "title": "23 Fashion Items My Cool Gen Z Coworkers Are Shopping for Summer",
+      "link": "https://www.whowhatwear.com/fashion/shopping/gen-z-luxury-shopping-2026",
+      "summary": "This season's must-haves.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 23 Fashion Items My Cool Gen Z Coworkers Are Shopping for Summer...",
+      "score": 2,
       "published": "2026-05-06T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1406,20 +1490,6 @@
       "angle": "Fashion Intelligence: The Mannequins at This Year’s Met Exhibit Are Just as Important as the...",
       "score": 3,
       "published": "2026-05-06T00:21:52+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a53662f52113",
-      "title": "The Buzzy French Bag Brand Every Parisian Fashion Insider Is Wearing",
-      "link": "https://www.whowhatwear.com/fashion/call-it-by-your-name",
-      "summary": "What the style set will be wearing this summer.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 4,
-      "published": "2026-05-06T00:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1840,20 +1910,6 @@
       "angle": "Fashion Intelligence: Must Read: The Met Gala's Bezos Backlash, Alysa Liu Is Louis Vuitton's...",
       "score": 2,
       "published": "2026-05-04T16:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "468dc1c8610a",
-      "title": "Vittoria Ceretti Makes Her Armani Makeup Ambassador Debut",
-      "link": "https://www.fashiongonerogue.com/story/vittoria-ceretti-armani-beauty/",
-      "summary": "Vittoria Ceretti is bringing Italian elegance to Armani Beauty in a major new way. The model has been named Giorgio ... Source",
-      "source": "Fashion Gone Rogue",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 2,
-      "published": "2026-05-04T02:11:01+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2923,52 +2979,52 @@
   ],
   "trends": [
     {
-      "term": "ವಿನಯ್ ಕುಲಕರ್ಣಿ",
+      "term": "సువెందు అధికారి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ചെറിയാന് ഫിലിപ്പ്",
+      "term": "binance",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "टैरो",
+      "term": "up si result",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "साई पल्लवी",
+      "term": "ऑपरेशन सिंदूर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sensex share bazar",
+      "term": "क्योंकि सास भी कभी बहू थी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಯಶ್",
+      "term": "mk stalin dmk allies meeting",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "akhilesh yadav",
+      "term": "star health and allied insurance",
+      "summary": "",
+      "aza_category": "Celebrity Style"
+    },
+    {
+      "term": "trent limited bonus shares",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ഇന്ത്യന് യൂണിയന് മുസ്ലിം ലീഗ്",
+      "term": "ક્રિકેટ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "us-iran",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "बीड",
+      "term": "கூட்டணி அரசு",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

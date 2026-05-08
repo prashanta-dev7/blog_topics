@@ -1,13 +1,69 @@
 {
-  "generated_at": "2026-05-08T04:51:14.312321+00:00",
+  "generated_at": "2026-05-08T06:53:29.994537+00:00",
   "owned_count": 10,
-  "competitor_count": 20,
-  "industry_count": 166,
+  "competitor_count": 30,
+  "industry_count": 167,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "17b4a8096783",
+      "title": "It's Official: These Are the Most Wanted Luxury Sandals of Summer 2026",
+      "link": "https://www.whowhatwear.com/fashion/luxury/best-the-row-flip-flops-2026",
+      "summary": "They're already selling fast.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: It's Official: These Are the Most Wanted Luxury Sandals of Summer 2026...",
+      "score": 1,
+      "published": "2026-05-08T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d984c685573c",
+      "title": "Not Stovepipe, Not Skinny—6 Summer Denim Trends That'll Make You Forget Those Jeans You've Been Wearing All Year",
+      "link": "https://www.whowhatwear.com/fashion/trends/summer-denim-trends-2026",
+      "summary": "And this is coming from a denim obsessive.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-05-08T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3ce4aa4556ba",
+      "title": "Not Denim, Not Suede—Elegant Dressers Will Be Wearing These 5 Linen Trends On Repeat This Summer",
+      "link": "https://www.whowhatwear.com/fashion/summer/linen-trends-2026",
+      "summary": "Easy, breezy.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-05-08T05:40:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "70dcb2bec79d",
+      "title": "I’ve Done the Research—These Are the 7 Chicest Nail Trends for Summer",
+      "link": "https://www.whowhatwear.com/beauty/nails/summer-nail-trends-2026",
+      "summary": "Which one to choose?",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-05-08T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "283ca78345e7",
       "title": "Thought You Couldn’t Wear Jeans in Summer? These 6 Chic Trends Will Make You Think Again",
@@ -905,24 +961,10 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3d14732a2dc2",
-      "title": "32 Chic Bridal After-Party Looks That Are Anything But an Afterthought",
-      "link": "https://www.whowhatwear.com/fashion/shopping/bridal-after-party-outfits-anny-choi",
-      "summary": "Our resident bridal stylist found some gems.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: 32 Chic Bridal After-Party Looks That Are Anything But an Afterthought — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-05-07T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "85bef7be6e50",
-      "title": "If You Want to Dress Like a Stylish It Girl, Wear These 5 Trend-Forward Basics",
-      "link": "https://www.whowhatwear.com/fashion/trends/it-girl-fashionable-basics-summer-2026",
-      "summary": "Including the shirt everyone is buying.",
+      "id": "a1b3321e95fb",
+      "title": "The One Skirt Trend Every Fashion Insider Will Wear in Summer 2026",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/knee-length-skirt-outfits",
+      "summary": "Shop the silhouette.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -947,16 +989,30 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a1b3321e95fb",
-      "title": "The One Skirt Trend Every Fashion Insider Will Wear in Summer 2026",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/knee-length-skirt-outfits",
-      "summary": "Shop the silhouette.",
+      "id": "85bef7be6e50",
+      "title": "If You Want to Dress Like a Stylish It Girl, Wear These 5 Trend-Forward Basics",
+      "link": "https://www.whowhatwear.com/fashion/trends/it-girl-fashionable-basics-summer-2026",
+      "summary": "Including the shirt everyone is buying.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
+      "published": "2026-05-07T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3d14732a2dc2",
+      "title": "32 Chic Bridal After-Party Looks That Are Anything But an Afterthought",
+      "link": "https://www.whowhatwear.com/fashion/shopping/bridal-after-party-outfits-anny-choi",
+      "summary": "Our resident bridal stylist found some gems.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: 32 Chic Bridal After-Party Looks That Are Anything But an Afterthought — A Complete Style Guide",
+      "score": 1,
       "published": "2026-05-07T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1633,48 +1689,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d09f9746126d",
-      "title": "Anne Hathaway's Devil Wears Prada 2 Tour Wardrobe Is All About the Off-Duty Moments",
-      "link": "https://www.whowhatwear.com/fashion/luxury/anne-hathaway-devil-wears-prada-2-style",
-      "summary": "Her best looks aren’t on the red carpet—they’re happening in between.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Anne Hathaway's Devil Wears Prada 2 Tour Wardrobe Is All About the Off...",
-      "score": 1,
-      "published": "2026-05-06T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1f62fc091859",
-      "title": "Ahead of the Curve: 6 Outfits Fashion Insiders Will Wear This Summer",
-      "link": "https://www.whowhatwear.com/fashion/summer-outfit-ideas-2026",
-      "summary": "Shop the edit.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Ahead of the Curve: 6 Outfits Fashion Insiders Will Wear This Summer...",
-      "score": 3,
-      "published": "2026-05-06T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "692c78203f3c",
-      "title": "23 Fashion Items My Cool Gen Z Coworkers Are Shopping for Summer",
-      "link": "https://www.whowhatwear.com/fashion/shopping/gen-z-luxury-shopping-2026",
-      "summary": "This season's must-haves.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 23 Fashion Items My Cool Gen Z Coworkers Are Shopping for Summer...",
-      "score": 2,
-      "published": "2026-05-06T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d45c36e2829f",
       "title": "How To Build The Ultimate Minimalist Wardrobe For Men 2026",
       "link": "https://www.fashionbeans.com/article/minimalist-wardrobe-men/",
@@ -2333,6 +2347,76 @@
       "discovered_via": "feed"
     },
     {
+      "id": "d1e9c813e0c0",
+      "title": "How Indian Craftsmanship Shines at the Met Gala 2026",
+      "link": "https://blog.kalkifashion.com/how-indian-craftsmanship-shines-at-the-met-gala-2026/",
+      "summary": "It’s not the same red-carpet glamour anymore when you mention the Met Gala. Met Gala 2026 is about cultural storytelling and is a completely new narrative with interesting highlights. Experimental couture this year focuses on Indian craftsmanship over just a fashion statement or brand visibility. The couture and Met Ga",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Designer Spotlight",
+      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
+      "score": 4,
+      "published": "2026-05-08T05:17:23+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8cc6adbcf49a",
+      "title": "The Groom Who Stole the Spotlight: Nihal’s Sartorial Symphony",
+      "link": "https://blog.kalkifashion.com/nihal-groom-sartorial-symphony/",
+      "summary": "When a groom walks in wearing a look this sharp, the wedding instantly gets a style storyline of its own. Nihal didn’t just dress for the occasion—he showed up like the kind of groom who understands that quiet confidence can be the loudest thing in the room. A Groom With Presence Nihal’s wedding look is [&#8230;] The p",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Fashion Intelligence: The Groom Who Stole the Spotlight: Nihal’s Sartorial Symphony...",
+      "score": 6,
+      "published": "2026-05-08T04:29:09+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "deb37c92545b",
+      "title": "Stop Wearing Basic Kurtas: Upgrade to These Premium Styles Now",
+      "link": "https://blog.kalkifashion.com/stop-wearing-basic-kurtas-upgrade-to-these-premium-styles-now/",
+      "summary": "We have one life to live, so why settle for anything but the best? One should live life king-size and dress in a way that makes you feel on top of the world. Men these days are fashion-conscious and opt for kurtas that are unique and eye-catching. They have moved on from basic kurtas for [&#8230;] The post Stop Wearing",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 5,
+      "published": "2026-05-07T05:47:58+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5040b158e406",
+      "title": "No Time for Gifts? Kurtis, Save Your Mother’s Day Surprise",
+      "link": "https://blog.kalkifashion.com/no-time-for-gifts-kurtis-save-your-mothers-day-surprise/",
+      "summary": "Mothers are busy and pillars of the family. They hardly find time for themselves and for an elegant fashion solution. A curated collection of kurtis for women from KALKI Fashion can be the wardrobe update for Mother&#8217;s Day celebrations. The stylish kurti for women range would allow practicality and fashion and giv",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: No Time for Gifts? Kurtis, Save Your Mother’s Day Surprise...",
+      "score": 2,
+      "published": "2026-05-05T03:51:32+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f6094b0ce07a",
+      "title": "Shreya Patel’s Fairytale Walk: Love, Lehengas & Ravine Magic at Aries Jagnivas",
+      "link": "https://blog.kalkifashion.com/shreya-patels-fairytale-walk-love-lehengas-ravine-magic-at-aries-jagnivas/",
+      "summary": "Ravines, Rivers, and Royal Vibes Imagine a love story that spans continents, survives nine years of pixelated video calls, and culminates in a floral-draped procession through a palace perched on ravine edges. That&#8217;s Shreya Patel&#8217;s wedding tale—not your run-of-the-mill shaadi, but a poetic whirlwind at Arie",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Shreya Patel’s Fairytale Walk — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-05-04T05:01:30+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "6434bba17c84",
       "title": "What Is Indian Chic Dress Code? Outfit Ideas for Men & Women",
       "link": "https://www.lashkaraa.com/blogs/lashkaraa/indian-chic-dress-code",
@@ -2375,6 +2459,48 @@
       "discovered_via": "feed"
     },
     {
+      "id": "78ba5e5b2e59",
+      "title": "How the Right Saree Border Can Transform Your Entire Outfit",
+      "link": "https://blog.kalkifashion.com/test-2-2/",
+      "summary": "The post How the Right Saree Border Can Transform Your Entire Outfit appeared first on Kalki Fashion Blog – Latest Fashion Trends, Bridal Fashion, Style Tips, News and Many More .",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Fashion Intelligence: How the Right Saree Border Can Transform Your Entire Outfit...",
+      "score": 6,
+      "published": "2026-04-28T08:17:17+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bd45cd429808",
+      "title": "Why Some Lehengas Feel Timeless While Others Don’t",
+      "link": "https://blog.kalkifashion.com/why-some-lehengas-feel-timeless-while-others-dont/",
+      "summary": "Have you experienced how some lehengas feel different the moment you see them? They appeal as rich, magical, and unforgettable, while others seem ordinary to you. Do you know what makes you feel that way? It’s the fit, the fabric, and the design of the lehenga for women that make it beautiful. A well-designed lehenga [",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Why Some Lehengas Feel Timeless While Others Don’t — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-04-27T11:29:23+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9b95b4e86bb6",
+      "title": "Rinkal Jain’s Red Varmala Lehenga Moment in Bangalore",
+      "link": "https://blog.kalkifashion.com/rinkal-jains-red-varmala-lehenga-moment-in-bangalore/",
+      "summary": "Most Indian brides picture themselves in red when they think of the big day—but Rinkal Jain turned that image into something even more intentional and striking. For her Bangalore wedding, she chose a red varmala lehenga as her lead bridal look, pairing it with a rich, romantic varmala that matched the mood of the cerem",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Rinkal Jain’s Red Varmala Lehenga Moment in Bangalore — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-04-25T05:13:05+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "e495edf6cb47",
       "title": "Lehenga vs. Saree: Key Differences & Which to Wear? (2026 Guide)",
       "link": "https://www.lashkaraa.com/blogs/lashkaraa/lehenga-vs-saree",
@@ -2386,6 +2512,20 @@
       "angle": "Bridal Edit: Lehenga vs. Saree — A Complete Style Guide",
       "score": 6,
       "published": "2026-04-24T18:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "57604aa433bd",
+      "title": "Rinkal Jain’s Blue and White Carnival Magic at Her Bangalore Wedding",
+      "link": "https://blog.kalkifashion.com/rinkal-jain-blue-white-carnival-wedding-bangalore/",
+      "summary": "Carnival themes in Indian weddings usually mean bright colours, glitter, and non‑stop energy—but Rinkal Jain decided to go the opposite way. Instead of a loud, multicoloured carnival, she chose a soft, modern blue and white carnival theme right in the heart of Bangalore. We’re KALKI and this is the story of how Rinkal,",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Rinkal Jain’s Blue and White Carnival Magic at Her Bangalore Wedding — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-04-24T05:27:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2428,6 +2568,20 @@
       "angle": "Festive Dressing: How to Own This Occasion",
       "score": 4,
       "published": "2026-04-17T09:06:25+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b8ac00398f76",
+      "title": "From College Corridors to “I Do”: Acckriti’s Filmy Love Story Comes Full Circle in Jabalpur",
+      "link": "https://blog.kalkifashion.com/from-college-corridors-to-i-do-acckritis-filmy-love-story-comes-full-circle-in-jabalpur/",
+      "summary": "Some love stories are written in the stars. Others? They quietly unfold in college corridors, over shared notes, endless conversations, and years of growing up together. This one beautifully blends both. After 8 years of friendship, faith, and a love that stood the test of time (and probably a fair share of drama), Moh",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: From College Corridors to “I Do”: Acckriti’s Filmy Love Story Comes Fu...",
+      "score": 0,
+      "published": "2026-04-17T05:18:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2755,52 +2909,52 @@
   ],
   "trends": [
     {
-      "term": "pmjay",
+      "term": "സണ്ണി ജോസഫ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "coforge share price",
+      "term": "2026 बंगाल विधानसभा चुनाव",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "adani port share price",
+      "term": "name",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "britannia share",
+      "term": "વિજય",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "anna university",
+      "term": "note",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "loyola college",
+      "term": "total",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "zen technologies share price",
+      "term": "തമിഴക വെട്രി കഴകം",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "2009",
+      "term": "క్రెడిట్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "first result",
+      "term": "ಪಡಿತರ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mp result",
+      "term": "ayushman",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

@@ -1,13 +1,125 @@
 {
-  "generated_at": "2026-05-08T09:23:24.645580+00:00",
+  "generated_at": "2026-05-08T12:11:01.332211+00:00",
   "owned_count": 10,
   "competitor_count": 30,
-  "industry_count": 169,
+  "industry_count": 168,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "d21b15afb676",
+      "title": "Take Note: People in Copenhagen Are Living in These Classic, Anti-Trend Outfits RN",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/early-summer-outfit-ideas-copenhagen-2026",
+      "summary": "Nail warm-weather dressing with these five outfit ideas.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-05-08T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4e1a27bac1a4",
+      "title": "Massimo Dutti’s Swimwear Brings the Mediterranean Heat",
+      "link": "https://www.fashiongonerogue.com/story/massimo-dutti-swim-summer-2026/",
+      "summary": "Massimo Dutti spotlights new season swimwear with its &#8220;My Mediterranean Summer&#8221; editorial. Shot against pale stone, white walls, and clear ... Source",
+      "source": "Fashion Gone Rogue",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Massimo Dutti’s Swimwear Brings the Mediterranean Heat...",
+      "score": 2,
+      "published": "2026-05-08T11:15:51+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7c973d70ed02",
+      "title": "Addressed: Help, My Mother Keeps Giving Me Clothes I Don’t Want",
+      "link": "https://www.vogue.com/article/addressed-help-my-mother-keeps-giving-me-clothes-i-dont-want",
+      "summary": "Retail or hand-me-down, unwanted gifts from mom take up physical and emotional space. In honor of Mother's Day, we ask how to solve the problem.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Addressed: Help, My Mother Keeps Giving Me Clothes I Don’t Want...",
+      "score": 1,
+      "published": "2026-05-08T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0c33f4ae74eb",
+      "title": "Every Wedding After-Party Dress I Tried on in My Search to Find \"The One\"",
+      "link": "https://www.vogue.com/article/wedding-after-party-dress-try-on",
+      "summary": "One writer describes her search for the perfect wedding after-party dress; from a blue flapper style midi to a simple silk slip, here are the options that made the cut.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Every Wedding After-Party Dress I Tried on in My Search to Find \"The One\" — A Complete Style Guide",
+      "score": 4,
+      "published": "2026-05-08T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "62e91044b86f",
+      "title": "Mark My Words: This Designer-Passing Bag Is About to Be Summer 2026's Cult Buy",
+      "link": "https://www.whowhatwear.com/fashion/handbags/demellier-stockholm-shoulder-bag",
+      "summary": "It's already selling fast.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Mark My Words: This Designer-Passing Bag Is About to Be Summer 2026's ...",
+      "score": 1,
+      "published": "2026-05-08T09:57:16+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ea81dd6e6301",
+      "title": "Kara Young for the Win",
+      "link": "https://www.vogue.com/article/kara-young-interview-proof-is-god-is-i-love-boosters",
+      "summary": "The charismatic actor sits down with Vogue to discuss leaping into “Proof,” her two starry films out this spring, and the Harlem story she can’t wait to tell.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Kara Young for the Win...",
+      "score": 0,
+      "published": "2026-05-08T09:45:06+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "904f20a31d4f",
+      "title": "The Vogue Business Beauty Trend Tracker",
+      "link": "https://www.vogue.com/article/the-vogue-business-beauty-tracker",
+      "summary": "Vogue Business brings you weekly exclusive data from Spate tracking historic growth across brands, trends and ingredients. Stay tuned as we spotlight a different beauty category each week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-05-08T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "184f38b72b9d",
+      "title": "Is Haircare About to Become a Big Deal?",
+      "link": "https://www.vogue.com/article/is-haircare-about-to-become-a-big-deal",
+      "summary": "The global haircare category is forecasted to grow 24% by 2030, reaching £129 billion and on track to outpace makeup and fragrance.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Is Haircare About to Become a Big Deal?...",
+      "score": 0,
+      "published": "2026-05-08T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "6a738ce85655",
       "title": "The Scoop with Tekla’s Kristoffer Juhl: On Why the Home Is the New Luxury",
@@ -24,30 +136,16 @@
     },
     {
       "id": "cf7fd9172475",
-      "title": "Not Jeans, Not Linen—This The Expensive-Looking Trouser Trend That Makes Every Outfit Look More Elegant",
+      "title": "Not Jeans, Not Linen—This Is the Expensive-Looking Trouser Trend That Makes Every Outfit Look More Elegant",
       "link": "https://www.whowhatwear.com/fashion/shopping/satin-trousers-summer-trend-2026",
-      "summary": "Satin trousers are on the rise.",
+      "summary": "Silky-smooth.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-05-08T08:25:33+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0c19a626eb1d",
-      "title": "I'm a Fashion Editor Who Loves Eyewear—Here Are the Pairs I'm Actually Considering",
-      "link": "https://www.whowhatwear.com/fashion/shopping/sunglasses-eyeglasses",
-      "summary": "From brands such as Celine, Miu Miu, Prada, Chimi, Bonnie Clyde, and Jimmy Fairly.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I'm a Fashion Editor Who Loves Eyewear—Here Are the Pairs I'm Actually...",
       "score": 3,
-      "published": "2026-05-08T07:00:00+00:00",
+      "published": "2026-05-08T08:25:33+00:00",
       "discovered_via": "feed"
     },
     {
@@ -60,6 +158,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-05-08T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0c19a626eb1d",
+      "title": "I'm a Fashion Editor Who Loves Eyewear—Here Are the Pairs I'm Actually Considering",
+      "link": "https://www.whowhatwear.com/fashion/shopping/sunglasses-eyeglasses",
+      "summary": "From brands such as Celine, Miu Miu, Prada, Chimi, Bonnie Clyde, and Jimmy Fairly.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I'm a Fashion Editor Who Loves Eyewear—Here Are the Pairs I'm Actually...",
       "score": 3,
       "published": "2026-05-08T07:00:00+00:00",
       "discovered_via": "feed"
@@ -96,7 +208,7 @@
       "id": "d984c685573c",
       "title": "Not Stovepipe, Not Skinny—6 Summer Denim Trends That'll Make You Forget Those Jeans You've Been Wearing All Year",
       "link": "https://www.whowhatwear.com/fashion/trends/summer-denim-trends-2026",
-      "summary": "And this is coming from a denim obsessive.",
+      "summary": "From a denim obsessive.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -108,14 +220,14 @@
     },
     {
       "id": "17b4a8096783",
-      "title": "It's Official: These Are the Most Wanted Luxury Sandals of Summer 2026",
+      "title": "It's Official: These Are the Most-Wanted Luxury Sandals of Summer 2026",
       "link": "https://www.whowhatwear.com/fashion/luxury/best-the-row-flip-flops-2026",
       "summary": "They're already selling fast.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: It's Official: These Are the Most Wanted Luxury Sandals of Summer 2026...",
+      "angle": "Fashion Intelligence: It's Official: These Are the Most-Wanted Luxury Sandals of Summer 2026...",
       "score": 1,
       "published": "2026-05-08T06:00:00+00:00",
       "discovered_via": "feed"
@@ -124,7 +236,7 @@
       "id": "3ce4aa4556ba",
       "title": "Not Denim, Not Suede—Elegant Dressers Will Be Wearing These 5 Linen Trends On Repeat This Summer",
       "link": "https://www.whowhatwear.com/fashion/summer/linen-trends-2026",
-      "summary": "Easy, breezy.",
+      "summary": "Easy-breezy.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -258,20 +370,6 @@
       "angle": "Fashion Intelligence: Writer Carmen Maria Machado Turns Curator for a Subversive New Show in...",
       "score": 1,
       "published": "2026-05-07T21:03:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6db3788f8f95",
-      "title": "Luxury villa, Audi car and a Rs 10 crore theft: Barabanki Police arrest five",
-      "link": "https://www.indiatoday.in/india/story/barabanki-police-crack-rs-10-crore-jewellery-theft-mastermind-lived-opposite-victims-villa-2908434-2026-05-08?utm_source=rss",
-      "summary": "Luxury villa, Audi car and a Rs 10 crore theft: Barabanki Police arrest five",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Luxury villa, Audi car and a Rs 10 crore theft: Barabanki Police arres...",
-      "score": 1,
-      "published": "2026-05-07T20:34:09+00:00",
       "discovered_via": "feed"
     },
     {
@@ -891,20 +989,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7d0b74430993",
-      "title": "A New Ralph Lauren Catwalk Book Proves We Really Are in the Midst of a “Ralphissance”",
-      "link": "https://www.vogue.com/article/a-new-ralph-lauren-catwalk-book-proves-we-really-are-in-the-midst-of-a-ralphissance",
-      "summary": "The tome, written by Bridget Foley, covers all womenswear collections from 1976-2025.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: A New Ralph Lauren Catwalk Book Proves We Really Are in the Midst of a...",
-      "score": 3,
-      "published": "2026-05-07T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "07e72548dab2",
       "title": "I'm Over Basic Wedding Guest Looks—15 Vintage Outfit Ideas I'm Trying This Summer Instead",
       "link": "https://www.whowhatwear.com/living/wedding/vintage-summer-wedding-guest-outfit-ideas",
@@ -916,20 +1000,6 @@
       "angle": "Bridal Edit: I'm Over Basic Wedding Guest Looks—15 Vintage Outfit Ideas I'm Trying This Summer Instead — A Complete Style Guide",
       "score": 2,
       "published": "2026-05-07T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3a17adfa87a2",
-      "title": "10 Mini Short Outfits I’m Wearing for Summer 2026",
-      "link": "https://www.vogue.com/article/mini-short-outfits",
-      "summary": "From vintage terry cloth pairs to silky lace-trimmed styles, here are 10 mini short outfits I’m wearing for summer 2026.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 4,
-      "published": "2026-05-07T11:58:34+00:00",
       "discovered_via": "feed"
     },
     {
@@ -961,20 +1031,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ed3a81405db4",
-      "title": "Synflux Wins the 2026 Trailblazer Award",
-      "link": "https://www.vogue.com/article/meet-the-2026-trailblazer-award-finalists",
-      "summary": "Selected by Global Fashion Agenda, PDS, and a slew of brand leaders, the three finalists represent the future of sustainability innovation in fashion.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Synflux Wins the 2026 Trailblazer Award...",
-      "score": 2,
-      "published": "2026-05-07T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e5e7444adc4e",
       "title": "Zendaya Delivers High Glam for Her Vogue Brazil Covers",
       "link": "https://www.fashiongonerogue.com/story/zendaya-vogue-brazil-cover-2026/",
@@ -986,34 +1042,6 @@
       "angle": "Fashion Intelligence: Zendaya Delivers High Glam for Her Vogue Brazil Covers...",
       "score": 1,
       "published": "2026-05-07T10:47:51+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6d9a2f8b1f8b",
-      "title": "Coty Revenues Fall 7% in Q3",
-      "link": "https://www.vogue.com/article/coty-revenues-fall-7-in-q3",
-      "summary": "Sales in the company’s prestige category decreased 5% in the third quarter of 2026.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Coty Revenues Fall 7% in Q3...",
-      "score": 0,
-      "published": "2026-05-07T10:12:43+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2d891cfea16a",
-      "title": "Larger Than Life, the Work of Helen Frankenthaler Takes Over Gagosian",
-      "link": "https://www.vogue.com/article/helen-frankenthaler-the-moment-and-the-distance-gagosian",
-      "summary": "“Helen Frankenthaler: The Moment and the Distance” is on view at Gagosian, 522 West 21st Street in New York City, through July 2.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Larger Than Life, the Work of Helen Frankenthaler Takes Over Gagosian...",
-      "score": 0,
-      "published": "2026-05-07T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1073,34 +1101,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "85bef7be6e50",
-      "title": "If You Want to Dress Like a Stylish It Girl, Wear These 5 Trend-Forward Basics",
-      "link": "https://www.whowhatwear.com/fashion/trends/it-girl-fashionable-basics-summer-2026",
-      "summary": "Including the shirt everyone is buying.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-05-07T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3d14732a2dc2",
-      "title": "32 Chic Bridal After-Party Looks That Are Anything But an Afterthought",
-      "link": "https://www.whowhatwear.com/fashion/shopping/bridal-after-party-outfits-anny-choi",
-      "summary": "Our resident bridal stylist found some gems.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: 32 Chic Bridal After-Party Looks That Are Anything But an Afterthought — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-05-07T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "82d9c5b8d7e3",
       "title": "Bikinis! Cover-Ups! Sunscreen! Everything in My Cart for My Next Beach Trip",
       "link": "https://www.whowhatwear.com/fashion/shopping/beachwear-2026",
@@ -1125,6 +1125,34 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
+      "published": "2026-05-07T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "85bef7be6e50",
+      "title": "If You Want to Dress Like a Stylish It Girl, Wear These 5 Trend-Forward Basics",
+      "link": "https://www.whowhatwear.com/fashion/trends/it-girl-fashionable-basics-summer-2026",
+      "summary": "Including the shirt everyone is buying.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-05-07T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3d14732a2dc2",
+      "title": "32 Chic Bridal After-Party Looks That Are Anything But an Afterthought",
+      "link": "https://www.whowhatwear.com/fashion/shopping/bridal-after-party-outfits-anny-choi",
+      "summary": "Our resident bridal stylist found some gems.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: 32 Chic Bridal After-Party Looks That Are Anything But an Afterthought — A Complete Style Guide",
+      "score": 1,
       "published": "2026-05-07T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1493,20 +1521,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "39e67a73b443",
-      "title": "From the Mark Hotel to the Met Gala Carpet: @UpNextDesigner Shares His Unfiltered Review",
-      "link": "https://www.whowhatwear.com/fashion/red-carpet/upnextdesigner-met-gala-2026-interview",
-      "summary": "Including his thoughts on the designer who \"won\" Met Gala this year.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: From the Mark Hotel to the Met Gala Carpet: @UpNextDesigner Shares His...",
-      "score": 1,
-      "published": "2026-05-06T16:24:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "5fee2592811e",
       "title": "The Black Beauty Club Is Turning a Block Party Into a Shopping and Discovery Experience",
       "link": "https://fashionista.com/2026/05/black-beauty-club-block-party-shop-event",
@@ -1532,20 +1546,6 @@
       "angle": "Fashion Intelligence: 5 Best Low-Rise Jeans for Men: It’s All on the Hips in 2026...",
       "score": 1,
       "published": "2026-05-06T15:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1a7369946d5f",
-      "title": "Is This Summer 2026's #1 Shoe Trend? Gracie, Lily-Rose, and Margot Think So",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/two-tone-shoe-celebrity-trend-2026",
-      "summary": "The stars are aligned!",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-05-06T15:12:51+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1812,20 +1812,6 @@
       "angle": "Fashion Intelligence: Vestirsi: A Handbag Line Designed in Australia and Made in Italy...",
       "score": 1,
       "published": "2026-05-05T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a324986d2418",
-      "title": "Why the Perfect T-Shirt Still Runs Fashion",
-      "link": "https://www.fashiongonerogue.com/story/perfect-t-shirt-fashion/",
-      "summary": "The T-shirt may be the simplest piece in the closet, but it still does more work than almost anything else. ... Source",
-      "source": "Fashion Gone Rogue",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Why the Perfect T-Shirt Still Runs Fashion...",
-      "score": 1,
-      "published": "2026-05-05T11:06:12+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2795,6 +2781,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "bef6e4ca42e6",
+      "title": "Busy Wedding Season? Here’s How to Pick the Best Outfits Online with Aza’s Virtual Try-On",
+      "link": "https://www.azafashions.com/blog/virtual-try-on-wedding-season/?utm_source=rss&utm_medium=rss&utm_campaign=virtual-try-on-wedding-season",
+      "summary": "You just checked your messages, and another invitation is staring back at you. Wedding season is here, and your calendar is packed. Between balancing work, managing your social life, and&#8230; The post Busy Wedding Season? Here&#8217;s How to Pick the Best Outfits Online with Aza&#8217;s Virtual Try-On appeared first ",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Bridal Edit: Busy Wedding Season? Here’s How to Pick the Best Outfits Online with Aza’s Virtual Try-On — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-05-08T09:53:24+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b02a00621b22",
+      "title": "7 Full-Sleeve Dresses Women Are Wearing to Sharjah Family Gatherings Instead of Kaftans",
+      "link": "https://www.azafashions.com/blog/full-sleeve-dresses-for-sharjah-family-gatherings/?utm_source=rss&utm_medium=rss&utm_campaign=full-sleeve-dresses-for-sharjah-family-gatherings",
+      "summary": "Modest fashion in Sharjah is having a moment,&#160;and it goes well beyond the traditional silhouettes that have long dominated wardrobes. While&#160;the&#160;kaftan&#160;will always hold a special place in the hearts of&#8230; The post 7 Full-Sleeve Dresses Women Are Wearing to Sharjah Family Gatherings Instead of Kaf",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 4,
+      "published": "2026-05-07T09:10:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "cec67aaed82c",
       "title": "All the Hair Trends That Ruled the Met Gala 2026",
       "link": "https://www.azafashions.com/blog/hair-trends-at-the-met-gala-2026/?utm_source=rss&utm_medium=rss&utm_campaign=hair-trends-at-the-met-gala-2026",
@@ -2806,6 +2820,20 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
       "published": "2026-05-06T11:31:01+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "96d0e60929d8",
+      "title": "A Love Letter to Indian Mothers, Told Through Sarees",
+      "link": "https://www.azafashions.com/blog/mothers-day-sarees/?utm_source=rss&utm_medium=rss&utm_campaign=mothers-day-sarees",
+      "summary": "Mother’s Day, to me, is far more than just a date on the calendar. It is a moment to pause amidst the chaos of everyday life and celebrate the woman&#8230; The post A Love Letter to Indian Mothers, Told Through Sarees appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: A Love Letter to Indian Mothers, Told Through Sarees...",
+      "score": 1,
+      "published": "2026-05-05T15:44:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2891,98 +2919,56 @@
       "score": 3,
       "published": "2026-04-30T12:35:41+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "7b3730f64dc6",
-      "title": "Know Your Designer-Episode 51: Soniya G",
-      "link": "https://www.azafashions.com/blog/know-your-designer-soniya-g/?utm_source=rss&utm_medium=rss&utm_campaign=know-your-designer-soniya-g",
-      "summary": "Soniya G&#160;is a luxury label that perfectly captures the essence of modern Indian celebrations. The brand seamlessly blends heritage&#160;craftsmanship&#160;with contemporary ease, offering breathtaking ensembles for both men and women. Rooted&#8230; The post Know Your Designer-Episode 51: Soniya G appeared first on",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Know Your Designer-Episode 51: Soniya G...",
-      "score": 5,
-      "published": "2026-04-30T03:26:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "66bff9e1bec4",
-      "title": "Minimal Neckpieces That Instantly Elevate Your Reception Look",
-      "link": "https://www.azafashions.com/blog/minimal-neckpieces-for-your-reception-look/?utm_source=rss&utm_medium=rss&utm_campaign=minimal-neckpieces-for-your-reception-look",
-      "summary": "Reception looks often brings a specific expectation. We naturally lean toward heavier fabrics, shinier embellishments, and more dramatic styling than we do for other wedding functions. After all, the reception is the grand&#8230; The post Minimal Neckpieces That Instantly Elevate Your Reception Look appeared first on A",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Fashion Intelligence: Minimal Neckpieces That Instantly Elevate Your Reception Look...",
-      "score": 1,
-      "published": "2026-04-29T13:41:24+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cfe7943c1320",
-      "title": "Reception Sarees for Brides: Best Styles & Latest Picks (2026)",
-      "link": "https://www.azafashions.com/blog/reception-sarees-for-brides-2026/?utm_source=rss&utm_medium=rss&utm_campaign=reception-sarees-for-brides-2026",
-      "summary": "The wedding ceremony is over. The sindoor has been applied, the pheras have been taken, the photographs have been clicked. And now comes the event that many brides confess to having spent almost as much time&#8230; The post Reception Sarees for Brides: Best Styles &amp; Latest Picks (2026) appeared first on Aza Editori",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Reception Sarees for Brides — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-04-29T12:34:40+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "நடிகர்",
+      "term": "ലോക്സഭ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "liquefied petroleum gas",
+      "term": "mona shourie kapoor",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "సినిమా",
+      "term": "शुभेंदु अधिकारी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sbi share price",
+      "term": "swapan dasgupta",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "titan share price",
+      "term": "अपोलो माइक्रो सिस्टम्स",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ഇ.പി. ജയരാജന്",
+      "term": "sporting delhi vs odisha",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "മന്ത്രി",
+      "term": "dilip ghosh",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "அமைச்சர்",
+      "term": "rekha patra",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "viteee 2026 result date",
+      "term": "sourav ganguly",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "धुळे",
+      "term": "ammk",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

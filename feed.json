@@ -1,25 +1,95 @@
 {
-  "generated_at": "2026-05-08T06:53:29.994537+00:00",
+  "generated_at": "2026-05-08T09:23:24.645580+00:00",
   "owned_count": 10,
   "competitor_count": 30,
-  "industry_count": 167,
+  "industry_count": 169,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
     {
-      "id": "17b4a8096783",
-      "title": "It's Official: These Are the Most Wanted Luxury Sandals of Summer 2026",
-      "link": "https://www.whowhatwear.com/fashion/luxury/best-the-row-flip-flops-2026",
-      "summary": "They're already selling fast.",
+      "id": "6a738ce85655",
+      "title": "The Scoop with Tekla’s Kristoffer Juhl: On Why the Home Is the New Luxury",
+      "link": "https://www.vogue.com/article/the-scoop-with-teklas-kristoffer-juhl-on-why-the-home-is-the-new-luxury",
+      "summary": "This week’s Scoop is a cozy one. Kristoffer Juhl is the co-founder and managing director of Danish homeware brand Tekla, which you will know if you follow quiet luxury influencers on Instagram.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Scoop with Tekla’s Kristoffer Juhl: On Why the Home Is the New Lux...",
+      "score": 2,
+      "published": "2026-05-08T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cf7fd9172475",
+      "title": "Not Jeans, Not Linen—This The Expensive-Looking Trouser Trend That Makes Every Outfit Look More Elegant",
+      "link": "https://www.whowhatwear.com/fashion/shopping/satin-trousers-summer-trend-2026",
+      "summary": "Satin trousers are on the rise.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-05-08T08:25:33+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0c19a626eb1d",
+      "title": "I'm a Fashion Editor Who Loves Eyewear—Here Are the Pairs I'm Actually Considering",
+      "link": "https://www.whowhatwear.com/fashion/shopping/sunglasses-eyeglasses",
+      "summary": "From brands such as Celine, Miu Miu, Prada, Chimi, Bonnie Clyde, and Jimmy Fairly.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I'm a Fashion Editor Who Loves Eyewear—Here Are the Pairs I'm Actually...",
+      "score": 3,
+      "published": "2026-05-08T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c7fff944565e",
+      "title": "Fashion's Most Functional Pant Trend Is Back—Here are the 7 Chicest Ways to Wear Them in 2026",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/cargo-pants-outfit-ideas",
+      "summary": "Extra stylish with extra pockets.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-05-08T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "54ca49e64d94",
+      "title": "I Just Got Back From Saint Bart's—This Is What Chic Women Are Wearing to the Beach",
+      "link": "https://www.whowhatwear.com/what-to-wear-in-st-barts",
+      "summary": "No island does it better.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: It's Official: These Are the Most Wanted Luxury Sandals of Summer 2026...",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
-      "published": "2026-05-08T06:00:00+00:00",
+      "published": "2026-05-08T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "634c5768accd",
+      "title": "French Women Know That These 5 Sandal Styles Will Never Look Dated",
+      "link": "https://www.whowhatwear.com/fashion/shoes/french-summer-sandal-styles",
+      "summary": "And they're picky.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: French Women Know That These 5 Sandal Styles Will Never Look Dated...",
+      "score": 1,
+      "published": "2026-05-08T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,6 +103,20 @@
       "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
+      "published": "2026-05-08T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "17b4a8096783",
+      "title": "It's Official: These Are the Most Wanted Luxury Sandals of Summer 2026",
+      "link": "https://www.whowhatwear.com/fashion/luxury/best-the-row-flip-flops-2026",
+      "summary": "They're already selling fast.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: It's Official: These Are the Most Wanted Luxury Sandals of Summer 2026...",
+      "score": 1,
       "published": "2026-05-08T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -160,6 +244,20 @@
       "angle": "Fashion Intelligence: The 10 Best Hair Dryer Brushes for a Salon-Level Finish...",
       "score": 1,
       "published": "2026-05-07T21:36:16+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "002f3a4a4fbe",
+      "title": "Writer Carmen Maria Machado Turns Curator for a Subversive New Show in New York",
+      "link": "https://www.vogue.com/article/carmen-maria-machado-rocio-garcia-the-object-of-power-is-power",
+      "summary": "“It’s not me coming at it from the perspective of an art historian or something, it’s more me asking, What is my creative response to this work?” says Machado of “The Object of Power is Power,” an exhibition of the work of Rocío García.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Writer Carmen Maria Machado Turns Curator for a Subversive New Show in...",
+      "score": 1,
+      "published": "2026-05-07T21:03:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -597,6 +695,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "29042f3f99cd",
+      "title": "What to Wear to a Funeral And What Best To Avoid in 2026",
+      "link": "https://www.fashionbeans.com/article/what-to-wear-to-a-funeral/",
+      "summary": "It can often feel somewhat inappropriate to ask others what to wear to a funeral. It’s not a fashion show, after all. However, for those attending, it’s essential to show respect—and part of doing so requires being dressed in suitable clothing. Funeral attire for men may be seen as a touchy subject, but it shouldn’t &#",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: What to Wear to a Funeral And What Best To Avoid in 2026...",
+      "score": 4,
+      "published": "2026-05-07T14:43:51+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "f930e9702ab3",
       "title": "Timothée Chalamet Could Not Stop Kissing Kylie Jenner on Their NY Knicks Date Last Night",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71241117/timothee-chalamet-kissing-kylie-jenner-ny-knicks-date-videos/",
@@ -905,34 +1017,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c36da6328840",
-      "title": "Feels Like a Steal: Shop Vogue Favorite Under-$300 Finds",
-      "link": "https://www.vogue.com/article/feels-like-a-steal",
-      "summary": "Love a good fashion find? Same. And while there’s plenty we recommend on a daily basis, what makes us play for keeps is in the name: when it feels like a steal.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Feels Like a Steal: Shop Vogue Favorite Under-$300 Finds...",
-      "score": 1,
-      "published": "2026-05-07T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "dc29f6238ae8",
-      "title": "‘It’s a Proud Moment’: Stella McCartney on Returning to Collaborate With H&M, 20 Years Later",
-      "link": "https://www.vogue.com/article/stella-mccartney-hm-collab-first-look",
-      "summary": "The designer shares a first look at her new H&amp;M collection—which has been almost entirely designed using organic, recycled, and next-gen sustainable fabrics—with Vogue.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: ‘It’s a Proud Moment’: Stella McCartney on Returning to Collaborate Wi...",
-      "score": 3,
-      "published": "2026-05-07T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "05e74fb4dbe9",
       "title": "I'm a 2026 Bride—These 34 Cool Picks Are Immediately Going on My Wedding Registry",
       "link": "https://www.whowhatwear.com/living/wedding/cool-wedding-registry-gifts-2026",
@@ -947,6 +1031,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "76b2b2554bf1",
+      "title": "5 Best Spicebomb Colognes: Explosive Scents to Style in 2026",
+      "link": "https://www.fashionbeans.com/article/best-spicebomb-colognes/",
+      "summary": "Some men wear subtle, light fragrances to smell casual, clean, and fresh—however, it can be hard to grab attention wearing those perfumes. Other men opt for bold, lively scents that turn heads. That’s what Viktor&#38;Rolf’s Spicebomb is all about. It’s a manly cologne that captures the explosion of sensual, fiery spice",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 5 Best Spicebomb Colognes: Explosive Scents to Style in 2026...",
+      "score": 2,
+      "published": "2026-05-07T09:39:06+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a3ea33ff5eb1",
+      "title": "10 Men’s Accessories That Will Never Go Out Of Style",
+      "link": "https://www.fashionbeans.com/article/classic-mens-accessories/",
+      "summary": "Accessories: no decent outfit is complete without them. They are what béarnaise sauce is to steak, butter to bread, an olive to a martini. You get the idea. But sometimes it can be difficult to know just how good an investment any of these stylistic accoutrements might turn out to be (we&#8217;re looking at you, &#8230",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 10 Men’s Accessories That Will Never Go Out Of Style...",
+      "score": 2,
+      "published": "2026-05-07T09:00:51+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "d87f4988ab11",
       "title": "I Have a Knack for Spotting Nail Trends Before They're Cool—This Edgy Design Is Up",
       "link": "https://www.whowhatwear.com/beauty/nails/studded-nail-trend",
@@ -958,34 +1070,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-05-07T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a1b3321e95fb",
-      "title": "The One Skirt Trend Every Fashion Insider Will Wear in Summer 2026",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/knee-length-skirt-outfits",
-      "summary": "Shop the silhouette.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-05-07T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "82d9c5b8d7e3",
-      "title": "Bikinis! Cover-Ups! Sunscreen! Everything in My Cart for My Next Beach Trip",
-      "link": "https://www.whowhatwear.com/fashion/shopping/beachwear-2026",
-      "summary": "Vacationwear.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Bikinis! Cover-Ups! Sunscreen! Everything in My Cart for My Next Beach...",
-      "score": 1,
-      "published": "2026-05-07T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1013,6 +1097,34 @@
       "aza_category": "Bridal & Wedding",
       "angle": "Bridal Edit: 32 Chic Bridal After-Party Looks That Are Anything But an Afterthought — A Complete Style Guide",
       "score": 1,
+      "published": "2026-05-07T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "82d9c5b8d7e3",
+      "title": "Bikinis! Cover-Ups! Sunscreen! Everything in My Cart for My Next Beach Trip",
+      "link": "https://www.whowhatwear.com/fashion/shopping/beachwear-2026",
+      "summary": "Vacationwear.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Bikinis! Cover-Ups! Sunscreen! Everything in My Cart for My Next Beach...",
+      "score": 1,
+      "published": "2026-05-07T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a1b3321e95fb",
+      "title": "The One Skirt Trend Every Fashion Insider Will Wear in Summer 2026",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/knee-length-skirt-outfits",
+      "summary": "Shop the silhouette.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
       "published": "2026-05-07T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1437,20 +1549,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1a5c49d30ff9",
-      "title": "Anine Bing Is Beyond Chic, and Her New Summer Line Screams Cool It Girl",
-      "link": "https://www.whowhatwear.com/fashion/shopping/anine-bing-summer-2026",
-      "summary": "The tops! The bags! The dresses!",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Anine Bing Is Beyond Chic, and Her New Summer Line Screams Cool It Gir...",
-      "score": 1,
-      "published": "2026-05-06T15:12:31+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "54b5d4c8f2a2",
       "title": "Kim Kardashian and Lewis Hamilton Reunite After the Met Gala",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71229660/kim-kardashian-lewis-hamilton-reunite-after-2026-met-gala-2026-why-he-skipped/",
@@ -1563,20 +1661,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e12486ad03ba",
-      "title": "If Looking Expensive Is Your Goal, This It-Girl-Approved Classy Coat Trend Should Be on Your Radar",
-      "link": "https://www.whowhatwear.com/fashion/outerwear/opera-coat-trend-2026",
-      "summary": "Sorry, Timothée.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-05-06T11:30:41+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ee25340dfd24",
       "title": "H&M Celebrates Rio’s Fashion Spirit",
       "link": "https://www.fashiongonerogue.com/story/hm-rio-campaign/",
@@ -1644,48 +1728,6 @@
       "angle": "Fashion Intelligence: The Best Men’s Puffer Vests To Buy In 2026...",
       "score": 1,
       "published": "2026-05-06T09:00:55+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c31a3a1605e1",
-      "title": "From LED Masks to Dyson Hair Tools: The 17 Best Beauty Products to Buy During Nordstrom's Sneaky Sale",
-      "link": "https://www.whowhatwear.com/beauty/nordstrom-savings-event-beauty-products",
-      "summary": "It's the perfect opportunity to level up my beauty routine before summer.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: From LED Masks to Dyson Hair Tools: The 17 Best Beauty Products to Buy...",
-      "score": 1,
-      "published": "2026-05-06T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "468725cfc316",
-      "title": "Sarah Pidgeon Just Perfected Transitional Spring Style With This Unexpected Staple",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/red-jumper-black-trousers-spring-outfit-sarah-pidgeon-2026",
-      "summary": "A true wardrobe hero.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Sarah Pidgeon Just Perfected Transitional Spring Style With This Unexp...",
-      "score": 1,
-      "published": "2026-05-06T08:59:02+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e5e2cf7293c2",
-      "title": "Stylish People Have Declared This The Row Bag Spring’s Cult Buy—And It's Even Chicer Than The Margaux",
-      "link": "https://www.whowhatwear.com/fashion/shopping/the-row-marlo-kendall-jenner",
-      "summary": "Quiet luxury at its finest.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Stylish People Have Declared This The Row Bag Spring’s Cult Buy—And It...",
-      "score": 1,
-      "published": "2026-05-06T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2333,20 +2375,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "11291b408f1a",
-      "title": "The 6 Best Guess Colognes That Fit the Vibe of 2026",
-      "link": "https://www.fashionbeans.com/article/best-guess-colognes/",
-      "summary": "Choosing the right cologne can be daunting, but you can never go wrong with the best Guess cologne. I&#8217;ve scoured the web and trodden physical stores to present you with the best men&#8217;s Guess cologne that brings out your style and personality. According to a recent study, fragrance plays a crucial role in boo",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The 6 Best Guess Colognes That Fit the Vibe of 2026...",
-      "score": 1,
-      "published": "2026-04-15T09:22:15+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d1e9c813e0c0",
       "title": "How Indian Craftsmanship Shines at the Met Gala 2026",
       "link": "https://blog.kalkifashion.com/how-indian-craftsmanship-shines-at-the-met-gala-2026/",
@@ -2909,52 +2937,52 @@
   ],
   "trends": [
     {
-      "term": "സണ്ണി ജോസഫ്",
+      "term": "நடிகர்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "2026 बंगाल विधानसभा चुनाव",
+      "term": "liquefied petroleum gas",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "name",
+      "term": "సినిమా",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "વિજય",
+      "term": "sbi share price",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "note",
+      "term": "titan share price",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "total",
+      "term": "ഇ.പി. ജയരാജന്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "തമിഴക വെട്രി കഴകം",
+      "term": "മന്ത്രി",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "క్రెడిట్",
+      "term": "அமைச்சர்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಪಡಿತರ",
+      "term": "viteee 2026 result date",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ayushman",
+      "term": "धुळे",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

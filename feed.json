@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-09T05:17:18.515341+00:00",
+  "generated_at": "2026-05-09T07:10:08.982240+00:00",
   "owned_count": 10,
   "competitor_count": 30,
-  "industry_count": 171,
+  "industry_count": 175,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,161 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Fashion Institute of Technology Fall 2026 Ready-to-Wear...",
       "score": 2,
-      "published": "2026-05-09T05:13:24+00:00",
+      "published": "2026-05-09T07:04:25+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "42186ab74f75",
+      "title": "The 31 Best Zara Items to Pack For Your Summer Vacation",
+      "link": "https://www.whowhatwear.com/fashion/shopping/zara-new-arrivals-for-vacation",
+      "summary": "Build the chicest vacation outfits.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The 31 Best Zara Items to Pack For Your Summer Vacation...",
+      "score": 1,
+      "published": "2026-05-09T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9609dcf7eecd",
+      "title": "FYI: Every It Girl Owns These Logo-Less Sunglasses That Never Go Out of Style",
+      "link": "https://www.whowhatwear.com/fashion/luxury/khaite-oliver-peoples-sunglasses-celebrities-uk",
+      "summary": "IYKYK.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: FYI: Every It Girl Owns These Logo-Less Sunglasses That Never Go Out o...",
+      "score": 1,
+      "published": "2026-05-09T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0356bbc6f2ab",
+      "title": "I'm All About Natural Fabrics in Summer—32 Effortless Items Already in My Cart",
+      "link": "https://www.whowhatwear.com/fashion/shopping/natural-fabrics-summer-2026",
+      "summary": "All 100% cotton, silk, and cashmere.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I'm All About Natural Fabrics in Summer—32 Effortless Items Already in...",
+      "score": 1,
+      "published": "2026-05-09T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fcd449560d5e",
+      "title": "6 Trends All the Best-Dressed Wedding Guests are Wearing in 2026",
+      "link": "https://www.whowhatwear.com/fashion/trends/wedding-guest-outfit-trends-2026",
+      "summary": "According to bridal stylists.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: 6 Trends All the Best-Dressed Wedding Guests are Wearing in 2026 — A Complete Style Guide",
+      "score": 5,
+      "published": "2026-05-09T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5c7c3af20e5a",
+      "title": "27 Basics, Beauty Products, and Accessories That Are Coming on Every Summer Trip With Me",
+      "link": "https://www.whowhatwear.com/fashion/shopping/summer-travel-basics-beauty-products-accessories",
+      "summary": "They're almost as essential as a passport.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 27 Basics, Beauty Products, and Accessories That Are Coming on Every S...",
+      "score": 1,
+      "published": "2026-05-09T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "24768c661bb0",
+      "title": "I've Been on TV for 10 Years—These Are the Dresses I Swear By Whenever I'm On-Screen",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/what-to-wear-on-tv",
+      "summary": "Dressing for television is an art that I take very seriously.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I've Been on TV for 10 Years—These Are the Dresses I Swear By Whenever...",
+      "score": 2,
+      "published": "2026-05-09T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "715538312d5f",
+      "title": "These Rich-looking Dresses and Shoes at Zara and Nordstrom Are Giving \"I Vacation in the French Riviera\"",
+      "link": "https://www.whowhatwear.com/fashion/shopping/rich-looking-shoes-and-dresses",
+      "summary": "Manifest that trip.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: These Rich-looking Dresses and Shoes at Zara and Nordstrom Are Giving ...",
+      "score": 1,
+      "published": "2026-05-09T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6cbbb840c18b",
+      "title": "As Your Resident Shopping Bestie, I Know These 17 Fashion, Beauty, and Home Items Will Get You Compliments",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-beauty-fashion-home-items-may-2026",
+      "summary": "Chic cross-category shopping recommendations ahead.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: As Your Resident Shopping Bestie, I Know These 17 Fashion, Beauty, and...",
+      "score": 2,
+      "published": "2026-05-09T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d2da4112167b",
+      "title": "No, Not Milky—Fashion People Will Be Wearing This Understated Pedicure Trend Instead This Summer",
+      "link": "https://www.whowhatwear.com/beauty/nails/sheer-pedicure-trend",
+      "summary": "A stylish look to pair with sandals.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-05-09T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b6dc1a774686",
+      "title": "French Girls Have Called It—These Are the 6 Most Stylish Shoe Trends to Wear This Summer",
+      "link": "https://www.whowhatwear.com/fashion/shoes/french-girl-summer-shoe-trends-2026",
+      "summary": "*Clicks add to cart*",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-05-09T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d444191a17d2",
+      "title": "I Just Tried the Jeans Every Chic Woman Is Wearing Right Now—Here's Why They're Worth the Hype",
+      "link": "https://www.whowhatwear.com/fashion/denim/agolde-arc-jeans",
+      "summary": "Approved by a denim-obsessed editor.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-05-09T05:55:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -835,20 +989,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7c973d70ed02",
-      "title": "Addressed: Help, My Mother Keeps Giving Me Clothes I Don’t Want",
-      "link": "https://www.vogue.com/article/addressed-help-my-mother-keeps-giving-me-clothes-i-dont-want",
-      "summary": "Retail or hand-me-down, unwanted gifts from mom take up physical and emotional space. In honor of Mother's Day, we ask how to solve the problem.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Addressed: Help, My Mother Keeps Giving Me Clothes I Don’t Want...",
-      "score": 1,
-      "published": "2026-05-08T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "0c33f4ae74eb",
       "title": "Every Wedding After-Party Dress I Tried on in My Search to Find \"The One\"",
       "link": "https://www.vogue.com/article/wedding-after-party-dress-try-on",
@@ -859,6 +999,20 @@
       "aza_category": "Bridal & Wedding",
       "angle": "Bridal Edit: Every Wedding After-Party Dress I Tried on in My Search to Find \"The One\" — A Complete Style Guide",
       "score": 4,
+      "published": "2026-05-08T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7c973d70ed02",
+      "title": "Addressed: Help, My Mother Keeps Giving Me Clothes I Don’t Want",
+      "link": "https://www.vogue.com/article/addressed-help-my-mother-keeps-giving-me-clothes-i-dont-want",
+      "summary": "Retail or hand-me-down, unwanted gifts from mom take up physical and emotional space. In honor of Mother's Day, we ask how to solve the problem.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Addressed: Help, My Mother Keeps Giving Me Clothes I Don’t Want...",
+      "score": 1,
       "published": "2026-05-08T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -891,20 +1045,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "184f38b72b9d",
-      "title": "Is Haircare About to Become a Big Deal?",
-      "link": "https://www.vogue.com/article/is-haircare-about-to-become-a-big-deal",
-      "summary": "The global haircare category is forecasted to grow 24% by 2030, reaching £129 billion and on track to outpace makeup and fragrance.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Is Haircare About to Become a Big Deal?...",
-      "score": 0,
-      "published": "2026-05-08T09:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "904f20a31d4f",
       "title": "The Vogue Business Beauty Trend Tracker",
       "link": "https://www.vogue.com/article/the-vogue-business-beauty-tracker",
@@ -915,6 +1055,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
+      "published": "2026-05-08T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "184f38b72b9d",
+      "title": "Is Haircare About to Become a Big Deal?",
+      "link": "https://www.vogue.com/article/is-haircare-about-to-become-a-big-deal",
+      "summary": "The global haircare category is forecasted to grow 24% by 2030, reaching £129 billion and on track to outpace makeup and fragrance.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Is Haircare About to Become a Big Deal?...",
+      "score": 0,
       "published": "2026-05-08T09:30:00+00:00",
       "discovered_via": "feed"
     },
@@ -947,20 +1101,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "54ca49e64d94",
-      "title": "I Just Got Back From St. Barts—This Is What Chic Women Are Wearing to the Beach",
-      "link": "https://www.whowhatwear.com/what-to-wear-in-st-barts",
-      "summary": "No island does it better.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-05-08T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c7fff944565e",
       "title": "Fashion's Most Functional Pant Trend Is Back—Here Are the 7 Chicest Ways to Wear Them in 2026",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/cargo-pants-outfit-ideas",
@@ -971,6 +1111,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
+      "published": "2026-05-08T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "54ca49e64d94",
+      "title": "I Just Got Back From St. Barts—This Is What Chic Women Are Wearing to the Beach",
+      "link": "https://www.whowhatwear.com/what-to-wear-in-st-barts",
+      "summary": "No island does it better.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
       "published": "2026-05-08T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1479,20 +1633,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d4f9a5ec30f6",
-      "title": "I Attended the 152nd Kentucky Derby—Here's What Fashion People Actually Wear to the Races",
-      "link": "https://www.whowhatwear.com/living/travel/kentucky-derby-2026-outfits-longines",
-      "summary": "Golden Tempo's victory, Longines timepieces, and how to wear a fascinator.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I Attended the 152nd Kentucky Derby—Here's What Fashion People Actuall...",
-      "score": 2,
-      "published": "2026-05-07T13:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "64a80707f32d",
       "title": "SCAD's New Luxury Boutique Puts Student Designers Front and Center",
       "link": "https://fashionista.com/2026/05/bazaar-by-shop-scad-student-designer-luxury-boutique",
@@ -1504,48 +1644,6 @@
       "angle": "Fashion Intelligence: SCAD's New Luxury Boutique Puts Student Designers Front and Center...",
       "score": 2,
       "published": "2026-05-07T12:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b4b62fd8ee23",
-      "title": "Louis Vuitton Updated Its Iconic City Guides Collection, and the Books Are Works of Art",
-      "link": "https://www.whowhatwear.com/fashion/shopping/louis-vuitton-city-guides",
-      "summary": "Each edition is $43.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-05-07T12:10:54+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "07e72548dab2",
-      "title": "I'm Over Basic Wedding Guest Looks—15 Vintage Outfit Ideas I'm Trying This Summer Instead",
-      "link": "https://www.whowhatwear.com/living/wedding/vintage-summer-wedding-guest-outfit-ideas",
-      "summary": "From Saint Laurent to Roberto Cavalli.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: I'm Over Basic Wedding Guest Looks—15 Vintage Outfit Ideas I'm Trying This Summer Instead — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-05-07T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ddeab2ce9b81",
-      "title": "Kate Moss Just Arrived at the Airport in the Anti-Jeans Trouser Trend I Actually Recommend Flying In",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/black-trousers-airport-outfit-kate-moss-2026",
-      "summary": "Comfortable and chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-05-07T11:23:53+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1577,20 +1675,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "05e74fb4dbe9",
-      "title": "I'm a 2026 Bride—These 34 Cool Picks Are Immediately Going on My Wedding Registry",
-      "link": "https://www.whowhatwear.com/living/wedding/cool-wedding-registry-gifts-2026",
-      "summary": "These are well worth it.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: I'm a 2026 Bride—These 34 Cool Picks Are Immediately Going on My Wedding Registry — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-05-07T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "76b2b2554bf1",
       "title": "5 Best Spicebomb Colognes: Explosive Scents to Style in 2026",
       "link": "https://www.fashionbeans.com/article/best-spicebomb-colognes/",
@@ -1616,34 +1700,6 @@
       "angle": "Fashion Intelligence: 10 Men’s Accessories That Will Never Go Out Of Style...",
       "score": 2,
       "published": "2026-05-07T09:00:51+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d87f4988ab11",
-      "title": "I Have a Knack for Spotting Nail Trends Before They're Cool—This Edgy Design Is Up",
-      "link": "https://www.whowhatwear.com/beauty/nails/studded-nail-trend",
-      "summary": "A fresh take on polka dots.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-05-07T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "85bef7be6e50",
-      "title": "If You Want to Dress Like a Stylish It Girl, Wear These 5 Trend-Forward Basics",
-      "link": "https://www.whowhatwear.com/fashion/trends/it-girl-fashionable-basics-summer-2026",
-      "summary": "Including the shirt everyone is buying.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-05-07T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2965,52 +3021,52 @@
   ],
   "trends": [
     {
-      "term": "ధాన్యం",
+      "term": "judge",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "तमिल नाडु",
+      "term": "oneplus nord ce6 lite",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "शेयर एक्सचेंज",
+      "term": "ashok kirtania",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "amitabh bachchan death",
+      "term": "लॉकी फर्ग्यूसन",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "యుద్ధం",
+      "term": "bihar cm",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बांगलादेश बनाम पाकिस्तान",
+      "term": "धोखा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "pakistan national cricket team",
+      "term": "rn ravi",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "தொல் திருமாவளவன்",
+      "term": "yogi adityanath",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "fitbit air fitness tracker",
+      "term": "विजय देवरकोंडा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bseb 10th result",
+      "term": "प्याज",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-09T07:10:08.982240+00:00",
+  "generated_at": "2026-05-09T09:22:26.033888+00:00",
   "owned_count": 10,
   "competitor_count": 30,
-  "industry_count": 175,
+  "industry_count": 176,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,35 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Fashion Institute of Technology Fall 2026 Ready-to-Wear...",
       "score": 2,
-      "published": "2026-05-09T07:04:25+00:00",
+      "published": "2026-05-09T09:20:34+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e12d904044f5",
+      "title": "You Can Wear Your Stovepipe Jeans in Spring, Just Pair Them With This, This and This",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/stovepipe-jeans-kitten-heel-boots-outfit-daisy-edger-jones-2026",
+      "summary": "It's easy.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: You Can Wear Your Stovepipe Jeans in Spring, Just Pair Them With This,...",
+      "score": 1,
+      "published": "2026-05-09T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9955c8788251",
+      "title": "I Tried On Abercrombie’s Elegant, Highly Minimalist Summer Dresses—These 3 Passed My High Standards",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-abercrombie-and-fitch-dresses-summer-2026",
+      "summary": "So good.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Tried On Abercrombie’s Elegant, Highly Minimalist Summer Dresses—The...",
+      "score": 1,
+      "published": "2026-05-09T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -989,20 +1017,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0c33f4ae74eb",
-      "title": "Every Wedding After-Party Dress I Tried on in My Search to Find \"The One\"",
-      "link": "https://www.vogue.com/article/wedding-after-party-dress-try-on",
-      "summary": "One writer describes her search for the perfect wedding after-party dress; from a blue flapper style midi to a simple silk slip, here are the options that made the cut.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Every Wedding After-Party Dress I Tried on in My Search to Find \"The One\" — A Complete Style Guide",
-      "score": 4,
-      "published": "2026-05-08T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7c973d70ed02",
       "title": "Addressed: Help, My Mother Keeps Giving Me Clothes I Don’t Want",
       "link": "https://www.vogue.com/article/addressed-help-my-mother-keeps-giving-me-clothes-i-dont-want",
@@ -1013,6 +1027,20 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Addressed: Help, My Mother Keeps Giving Me Clothes I Don’t Want...",
       "score": 1,
+      "published": "2026-05-08T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0c33f4ae74eb",
+      "title": "Every Wedding After-Party Dress I Tried on in My Search to Find \"The One\"",
+      "link": "https://www.vogue.com/article/wedding-after-party-dress-try-on",
+      "summary": "One writer describes her search for the perfect wedding after-party dress; from a blue flapper style midi to a simple silk slip, here are the options that made the cut.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Every Wedding After-Party Dress I Tried on in My Search to Find \"The One\" — A Complete Style Guide",
+      "score": 4,
       "published": "2026-05-08T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1045,20 +1073,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "904f20a31d4f",
-      "title": "The Vogue Business Beauty Trend Tracker",
-      "link": "https://www.vogue.com/article/the-vogue-business-beauty-tracker",
-      "summary": "Vogue Business brings you weekly exclusive data from Spate tracking historic growth across brands, trends and ingredients. Stay tuned as we spotlight a different beauty category each week.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-05-08T09:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "184f38b72b9d",
       "title": "Is Haircare About to Become a Big Deal?",
       "link": "https://www.vogue.com/article/is-haircare-about-to-become-a-big-deal",
@@ -1069,6 +1083,20 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Is Haircare About to Become a Big Deal?...",
       "score": 0,
+      "published": "2026-05-08T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "904f20a31d4f",
+      "title": "The Vogue Business Beauty Trend Tracker",
+      "link": "https://www.vogue.com/article/the-vogue-business-beauty-tracker",
+      "summary": "Vogue Business brings you weekly exclusive data from Spate tracking historic growth across brands, trends and ingredients. Stay tuned as we spotlight a different beauty category each week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
       "published": "2026-05-08T09:30:00+00:00",
       "discovered_via": "feed"
     },
@@ -1280,20 +1308,6 @@
       "angle": "Fashion Intelligence: Big Blooms and Bigger Hats: Inside Central Park’s 44th Annual Hat Lunc...",
       "score": 0,
       "published": "2026-05-07T22:11:11+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "82da5f141ded",
-      "title": "Lace! Sandals! Beauty! These 30 Nordstrom Sale Finds Scream It Girl",
-      "link": "https://www.whowhatwear.com/fashion/shopping/chic-finds-nordstrom-savings-event-sale-may-2026",
-      "summary": "These chic deals are too good to pass up.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Lace! Sandals! Beauty! These 30 Nordstrom Sale Finds Scream It Girl...",
-      "score": 1,
-      "published": "2026-05-07T21:45:18+00:00",
       "discovered_via": "feed"
     },
     {
@@ -3021,52 +3035,52 @@
   ],
   "trends": [
     {
-      "term": "judge",
+      "term": "earthquake",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "oneplus nord ce6 lite",
+      "term": "ఇంటింటి రామాయణం",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ashok kirtania",
+      "term": "वेतन",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "लॉकी फर्ग्यूसन",
+      "term": "కారు",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bihar cm",
+      "term": "ऑपरेशन सिंदूर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "धोखा",
+      "term": "संजय कुमार झा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "rn ravi",
+      "term": "అభిషేక్ బెనర్జీ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "yogi adityanath",
+      "term": "लक्ष्मी मित्तल",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "विजय देवरकोंडा",
+      "term": "గుండెనిండా గుడిగంటలు",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "प्याज",
+      "term": "শুভেন্দু অধিকারী",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

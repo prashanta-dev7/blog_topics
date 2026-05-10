@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-10T09:29:56.726115+00:00",
+  "generated_at": "2026-05-10T11:54:40.909202+00:00",
   "owned_count": 10,
   "competitor_count": 30,
-  "industry_count": 184,
+  "industry_count": 185,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,77 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Fashion Institute of Technology Fall 2026 Ready-to-Wear...",
       "score": 2,
-      "published": "2026-05-10T09:29:10+00:00",
+      "published": "2026-05-10T11:50:21+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "48ed817a6e33",
+      "title": "Kate Middleton Kicks off Garden Party Season in a Piece of British Millinery History",
+      "link": "https://www.vogue.com/article/kate-middleton-garden-party-season-vintage-hat",
+      "summary": "The Princess of Wales loves a re-wear, but on Garden Party hosting duties, Kate Middleton opted for a new vintage find in the form of a wide-brimmed chapeau.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-05-10T10:32:11+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "202d18bec980",
+      "title": "8 Wedding Guest Outfits for Summer Ceremonies of Every Kind",
+      "link": "https://www.vogue.com/article/wedding-guest-outfits-for-summer",
+      "summary": "Upcoming nuptials in the calendar? Here, we have eight wedding guest outfits for summer fit for every dress code and venue.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: 8 Wedding Guest Outfits for Summer Ceremonies of Every Kind — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-05-10T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "41ff0719593a",
+      "title": "Ask Earl With Laurel Pantin: How to Style Primary Colors for Spring",
+      "link": "https://www.vogue.com/article/ask-earl-with-laurel-pantin",
+      "summary": "In her monthly column, Ask Earl, writer, editor, mom, and entrepreneur, Laurel Pantin answers your latest style questions.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Ask Earl With Laurel Pantin: How to Style Primary Colors for Spring...",
+      "score": 1,
+      "published": "2026-05-10T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c8ee9bb68656",
+      "title": "In-laws kill 3‑month-pregnant woman on first wedding anniversary over dowry in Bihar",
+      "link": "https://www.indiatoday.in/india/story/in-laws-kill-three-month-pregnant-bihar-woman-first-wedding-anniversary-dowry-demands-bullet-bike-gold-chain-gopalganj-murder-2909389-2026-05-10?utm_source=rss",
+      "summary": "In-laws kill 3‑month-pregnant woman on first wedding anniversary over dowry in Bihar",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: In-laws kill 3‑month-pregnant woman on first wedding anniversary over dowry in Bihar — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-05-10T09:42:37+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "644f52f25388",
+      "title": "Love It or Hate It, This \"Dated\" Denim Trend Is Back and Will Replace Your Favourite Leggings and Jeans",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/denim-capri-pants-trend-alexa-chung-molly-gordon-2026",
+      "summary": "Trust me.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-05-10T09:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -135,6 +205,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "961926429bb2",
+      "title": "Trust Me, I'm a Beauty Editor—These Affordable Haircare Brands Deliver Salon-Worthy Results",
+      "link": "https://www.whowhatwear.com/beauty/hair/best-affordable-haircare-brands",
+      "summary": "No need to break the bank.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Trust Me, I'm a Beauty Editor—These Affordable Haircare Brands Deliver...",
+      "score": 2,
+      "published": "2026-05-10T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "47faf90cd229",
       "title": "No One Does Summer Style Better Than French Women—5 Chic, Paris-Approved Outfits to Copy This Summer",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/french-girl-summer-outfits-2026",
@@ -149,15 +233,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "961926429bb2",
-      "title": "Trust Me, I'm a Beauty Editor—These Affordable Haircare Brands Deliver Salon-Worthy Results",
-      "link": "https://www.whowhatwear.com/beauty/hair/best-affordable-haircare-brands",
-      "summary": "No need to break the bank.",
+      "id": "2bde629b179e",
+      "title": "French Tips Aren't Going Anywhere—7 Stylish Ways to Wear The Nail Trend This May",
+      "link": "https://www.whowhatwear.com/beauty/nails/french-tip-nail-ideas-may-2026",
+      "summary": "So fresh!",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Trust Me, I'm a Beauty Editor—These Affordable Haircare Brands Deliver...",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-05-10T06:00:00+00:00",
       "discovered_via": "feed"
@@ -173,20 +257,6 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
-      "published": "2026-05-10T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2bde629b179e",
-      "title": "French Tips Aren't Going Anywhere—7 Stylish Ways to Wear The Nail Trend This May",
-      "link": "https://www.whowhatwear.com/beauty/nails/french-tip-nail-ideas-may-2026",
-      "summary": "So fresh!",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
       "published": "2026-05-10T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -597,6 +667,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "9609dcf7eecd",
+      "title": "FYI: Every It Girl Owns These Logo-Less Sunglasses That Never Go Out of Style",
+      "link": "https://www.whowhatwear.com/fashion/luxury/khaite-oliver-peoples-sunglasses-celebrities-uk",
+      "summary": "IYKYK.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: FYI: Every It Girl Owns These Logo-Less Sunglasses That Never Go Out o...",
+      "score": 1,
+      "published": "2026-05-09T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "fcd449560d5e",
       "title": "6 Trends All the Best-Dressed Wedding Guests are Wearing in 2026",
       "link": "https://www.whowhatwear.com/fashion/trends/wedding-guest-outfit-trends-2026",
@@ -620,20 +704,6 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I'm All About Natural Fabrics in Summer—32 Effortless Items Already in...",
-      "score": 1,
-      "published": "2026-05-09T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9609dcf7eecd",
-      "title": "FYI: Every It Girl Owns These Logo-Less Sunglasses That Never Go Out of Style",
-      "link": "https://www.whowhatwear.com/fashion/luxury/khaite-oliver-peoples-sunglasses-celebrities-uk",
-      "summary": "IYKYK.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: FYI: Every It Girl Owns These Logo-Less Sunglasses That Never Go Out o...",
       "score": 1,
       "published": "2026-05-09T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1199,20 +1269,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f1154746300d",
-      "title": "Sorry, Jeans—Cool Girls in London are Ditching Their Denim for This Casual Trouser Trend Instead",
-      "link": "https://www.whowhatwear.com/fashion/pants-trousers/vertical-striped-trouser-trend-summer-2026",
-      "summary": "Comfort is king.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-05-08T16:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "04d52c24fb62",
       "title": "With Her First Solo Museum Show in the US, Widline Cadet Conjures Scenes She Can’t Quite Remember",
       "link": "https://www.vogue.com/article/widline-cadet-milwaukee-art-museum",
@@ -1462,48 +1518,6 @@
       "angle": "Fashion Intelligence: Massimo Dutti’s Swimwear Brings the Mediterranean Heat...",
       "score": 2,
       "published": "2026-05-08T11:15:51+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0c33f4ae74eb",
-      "title": "Every Wedding After-Party Dress I Tried on in My Search to Find \"The One\"",
-      "link": "https://www.vogue.com/article/wedding-after-party-dress-try-on",
-      "summary": "One writer describes her search for the perfect wedding after-party dress; from a blue flapper style midi to a simple silk slip, here are the options that made the cut.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Every Wedding After-Party Dress I Tried on in My Search to Find \"The One\" — A Complete Style Guide",
-      "score": 4,
-      "published": "2026-05-08T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7c973d70ed02",
-      "title": "Addressed: Help, My Mother Keeps Giving Me Clothes I Don’t Want",
-      "link": "https://www.vogue.com/article/addressed-help-my-mother-keeps-giving-me-clothes-i-dont-want",
-      "summary": "Retail or hand-me-down, unwanted gifts from mom take up physical and emotional space. In honor of Mother's Day, we ask how to solve the problem.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Addressed: Help, My Mother Keeps Giving Me Clothes I Don’t Want...",
-      "score": 1,
-      "published": "2026-05-08T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ea81dd6e6301",
-      "title": "Kara Young for the Win",
-      "link": "https://www.vogue.com/article/kara-young-interview-proof-is-god-is-i-love-boosters",
-      "summary": "The charismatic actor sits down with Vogue to discuss leaping into “Proof,” her two starry films out this spring, and the Harlem story she can’t wait to tell.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Kara Young for the Win...",
-      "score": 0,
-      "published": "2026-05-08T09:45:06+00:00",
       "discovered_via": "feed"
     },
     {
@@ -3147,52 +3161,52 @@
   ],
   "trends": [
     {
-      "term": "cancer horoscope today",
+      "term": "कुंभ राशि",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "en-w vs nz-w",
+      "term": "alia bhatt",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ms dhoni",
+      "term": "ipac",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "from episode 4",
+      "term": "पाकिस्तान राष्ट्रीय क्रिकेट टीम",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಲೋಕಾಯುಕ್ತ",
+      "term": "கூட்டுறவு",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ਪੰਜਾਬ",
+      "term": "mallorca vs villarreal",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "महिंद्रा",
+      "term": "celtic vs rangers",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "नोएडा",
+      "term": "शाहबाज अहमद",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "वायरल वीडियो",
+      "term": "ત્રિશા કૃષ્ણન",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "বিদ্যুৎ সরবরাহ",
+      "term": "नूर अहमद",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

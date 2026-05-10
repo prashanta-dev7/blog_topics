@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-10T07:27:43.070198+00:00",
+  "generated_at": "2026-05-10T09:29:56.726115+00:00",
   "owned_count": 10,
   "competitor_count": 30,
-  "industry_count": 182,
+  "industry_count": 184,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,49 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Fashion Institute of Technology Fall 2026 Ready-to-Wear...",
       "score": 2,
-      "published": "2026-05-10T07:22:55+00:00",
+      "published": "2026-05-10T09:29:10+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fc05010e9c4d",
+      "title": "Op Sindoor showed Pak military's geography problem: It has nowhere to hide",
+      "link": "https://www.indiatoday.in/india/story/operation-sindoor-pakistan-strategic-depth-india-standoff-strikes-2909499-2026-05-10?utm_source=rss",
+      "summary": "Op Sindoor showed Pak military's geography problem: It has nowhere to hide",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Op Sindoor showed Pak military's geography problem: It has nowhere to ...",
+      "score": 1,
+      "published": "2026-05-10T09:25:32+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "85a375d14f6e",
+      "title": "Not Trainers, Not Sandals—So Many Celebrities Are Wearing This 'Ugly' Shoe Trend With Skirts",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/clog-shoe-trend-summer-2026",
+      "summary": "They're everywhere.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-05-10T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "258c43e8ec03",
+      "title": "I Found Your New Favorite Sneakers—13 Cool Adidas Styles Fashion People Are Loving Right Now",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-adidas-new-arrivals-may-2026",
+      "summary": "On-trend and stylish sneakers for the months to come.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I Found Your New Favorite Sneakers—13 Cool Adidas Styles Fashion Peopl...",
+      "score": 3,
+      "published": "2026-05-10T07:44:43+00:00",
       "discovered_via": "feed"
     },
     {
@@ -93,34 +135,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2bde629b179e",
-      "title": "French Tips Aren't Going Anywhere—7 Stylish Ways to Wear The Nail Trend This May",
-      "link": "https://www.whowhatwear.com/beauty/nails/french-tip-nail-ideas-may-2026",
-      "summary": "So fresh!",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-05-10T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "27b46c923e22",
-      "title": "I Wish I Could Gatekeep—5 Incredibly Chic Summer Bag Trends That'll Be Everywhere By June",
-      "link": "https://www.whowhatwear.com/fashion/trends/summer-bag-trends-2026",
-      "summary": "Just grab and go.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-05-10T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "47faf90cd229",
       "title": "No One Does Summer Style Better Than French Women—5 Chic, Paris-Approved Outfits to Copy This Summer",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/french-girl-summer-outfits-2026",
@@ -144,6 +158,34 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Trust Me, I'm a Beauty Editor—These Affordable Haircare Brands Deliver...",
+      "score": 2,
+      "published": "2026-05-10T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "27b46c923e22",
+      "title": "I Wish I Could Gatekeep—5 Incredibly Chic Summer Bag Trends That'll Be Everywhere By June",
+      "link": "https://www.whowhatwear.com/fashion/trends/summer-bag-trends-2026",
+      "summary": "Just grab and go.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-05-10T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2bde629b179e",
+      "title": "French Tips Aren't Going Anywhere—7 Stylish Ways to Wear The Nail Trend This May",
+      "link": "https://www.whowhatwear.com/beauty/nails/french-tip-nail-ideas-may-2026",
+      "summary": "So fresh!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-05-10T06:00:00+00:00",
       "discovered_via": "feed"
@@ -499,6 +541,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "5c7c3af20e5a",
+      "title": "27 Basics, Beauty Products, and Accessories That Are Coming on Every Summer Trip With Me",
+      "link": "https://www.whowhatwear.com/fashion/shopping/summer-travel-basics-beauty-products-accessories",
+      "summary": "They're almost as essential as a passport.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 27 Basics, Beauty Products, and Accessories That Are Coming on Every S...",
+      "score": 1,
+      "published": "2026-05-09T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "6cbbb840c18b",
       "title": "As Your Resident Shopping Bestie, I Know These 17 Fashion, Beauty, and Home Items Will Get You Compliments",
       "link": "https://www.whowhatwear.com/fashion/shopping/best-beauty-fashion-home-items-may-2026",
@@ -527,34 +583,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "fcd449560d5e",
-      "title": "6 Trends All the Best-Dressed Wedding Guests are Wearing in 2026",
-      "link": "https://www.whowhatwear.com/fashion/trends/wedding-guest-outfit-trends-2026",
-      "summary": "According to bridal stylists.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: 6 Trends All the Best-Dressed Wedding Guests are Wearing in 2026 — A Complete Style Guide",
-      "score": 5,
-      "published": "2026-05-09T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5c7c3af20e5a",
-      "title": "27 Basics, Beauty Products, and Accessories That Are Coming on Every Summer Trip With Me",
-      "link": "https://www.whowhatwear.com/fashion/shopping/summer-travel-basics-beauty-products-accessories",
-      "summary": "They're almost as essential as a passport.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 27 Basics, Beauty Products, and Accessories That Are Coming on Every S...",
-      "score": 1,
-      "published": "2026-05-09T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "24768c661bb0",
       "title": "I've Been on TV for 10 Years—These Are the Dresses I Swear By Whenever I'm On-Screen",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/what-to-wear-on-tv",
@@ -565,6 +593,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I've Been on TV for 10 Years—These Are the Dresses I Swear By Whenever...",
       "score": 2,
+      "published": "2026-05-09T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fcd449560d5e",
+      "title": "6 Trends All the Best-Dressed Wedding Guests are Wearing in 2026",
+      "link": "https://www.whowhatwear.com/fashion/trends/wedding-guest-outfit-trends-2026",
+      "summary": "According to bridal stylists.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: 6 Trends All the Best-Dressed Wedding Guests are Wearing in 2026 — A Complete Style Guide",
+      "score": 5,
       "published": "2026-05-09T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -650,6 +692,20 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-05-09T05:55:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "26ddd674037d",
+      "title": "10 Best Shoes for Overweight Men – Comfort Walking For 2026",
+      "link": "https://www.fashionbeans.com/article/best-shoes-for-overweight-men/",
+      "summary": "Shopping when you’re carrying a few extra pounds can be a challenge. It’s not always as simple as buying the things you like. There needs to be extra thought put into your purchases to ensure you’re investing in clothes that are not only stylish but comfortable and flattering too. Footwear is no different. Mess it &#82",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 10 Best Shoes for Overweight Men – Comfort Walking For 2026...",
+      "score": 1,
+      "published": "2026-05-09T05:11:58+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1157,20 +1213,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ff3f49d10927",
-      "title": "Adidas is On a Roll—10 New Styles and Colorways I'd Add to My Summer Sneaker Rotation",
-      "link": "https://www.whowhatwear.com/fashion/shoes/adidas-shoes-for-summer",
-      "summary": "Summer-ready styles.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Adidas is On a Roll—10 New Styles and Colorways I'd Add to My Summer S...",
-      "score": 1,
-      "published": "2026-05-08T16:22:39+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "04d52c24fb62",
       "title": "With Her First Solo Museum Show in the US, Widline Cadet Conjures Scenes She Can’t Quite Remember",
       "link": "https://www.vogue.com/article/widline-cadet-milwaukee-art-museum",
@@ -1322,20 +1364,6 @@
       "angle": "Fashion Intelligence: Wizard Wellness: A Drug-Free Allergy-Care Brand Helping People Breathe...",
       "score": 3,
       "published": "2026-05-08T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2a13c628b6ff",
-      "title": "Not Skinny Jeans—Fashion People in Their 40s Are Wearing This Dated Denim Trend With Ballet Flats",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/patch-pocket-jeans-ballet-flats-outfit-katie-holmes",
-      "summary": "Spotted in NYC.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-05-08T13:52:47+00:00",
       "discovered_via": "feed"
     },
     {
@@ -3119,52 +3147,52 @@
   ],
   "trends": [
     {
-      "term": "राजनीति",
+      "term": "cancer horoscope today",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "digilocker cbse result 2026 class 12th",
+      "term": "en-w vs nz-w",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "trisha krishnan vijay oath ceremony",
+      "term": "ms dhoni",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "edappadi k. palaniswami",
+      "term": "from episode 4",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "claudia sheinbaum",
+      "term": "ಲೋಕಾಯುಕ್ತ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "கே. ஆர். பெரியகருப்பன்",
+      "term": "ਪੰਜਾਬ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ராஜ்மோகன்",
+      "term": "महिंद्रा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "art of living",
+      "term": "नोएडा",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sarkar",
+      "term": "वायरल वीडियो",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "real madrid fc",
+      "term": "বিদ্যুৎ সরবরাহ",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

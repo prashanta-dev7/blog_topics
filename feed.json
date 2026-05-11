@@ -1,13 +1,83 @@
 {
-  "generated_at": "2026-05-11T05:54:16.004459+00:00",
+  "generated_at": "2026-05-11T08:26:44.260396+00:00",
   "owned_count": 10,
   "competitor_count": 31,
-  "industry_count": 182,
+  "industry_count": 180,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "3d1c8646404b",
+      "title": "Beare Park Australia Resort 2027",
+      "link": "https://www.vogue.com/fashion-shows/australia-resort-2027/beare-park",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Beare Park Australia Resort 2027...",
+      "score": 0,
+      "published": "2026-05-11T08:25:30+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "233f107347be",
+      "title": "I Live in NYC—These Are the 2026 Heel Trends I'm Seeing Everywhere",
+      "link": "https://www.whowhatwear.com/fashion/shoes/high-heel-shoe-trends-2026",
+      "summary": "Trust me. I'm a local.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-05-11T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2e37dcfc3d4c",
+      "title": "PM holds grand Somnath roadshow as temple marks 75 years of restoration",
+      "link": "https://www.indiatoday.in/india/story/somnath-amrut-mahotsav-pm-modi-roadshow-ahead-of-temple-rituals-in-gujarat-2909781-2026-05-11?utm_source=rss",
+      "summary": "PM holds grand Somnath roadshow as temple marks 75 years of restoration",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: PM holds grand Somnath roadshow as temple marks 75 years of restoratio...",
+      "score": 1,
+      "published": "2026-05-11T06:09:53+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c5925efa4d14",
+      "title": "Sandal Season Starts Now—6 Pedicure Colours to Bookmark for Your Toes This Month",
+      "link": "https://www.whowhatwear.com/beauty/nails/may-pedicure-colour-trends-2026",
+      "summary": "So chic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-05-11T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3eb37628f0e1",
+      "title": "London Girls Always Get Summer Style Right—These Are the 5 Trends They're Wearing",
+      "link": "https://www.whowhatwear.com/fashion/trends/summer-london-fashion-trends-2026",
+      "summary": "A London summer style guide.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-05-11T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "4643a7562fdb",
       "title": "Thought You Could Only Wear Sandals in Summer? These 5 Elegant Shoe Trends Will Make You Think Again",
@@ -62,20 +132,6 @@
       "angle": "Fashion Intelligence: Lisa Kudrow on the Series Finale of ‘The Comeback’...",
       "score": 1,
       "published": "2026-05-11T03:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b998cc704b9c",
-      "title": "Video: Chaos after wedding, bride and groom's families attack each other",
-      "link": "https://www.indiatoday.in/india/story/vasai-wedding-brawl-video-police-register-cross-complaints-pocso-case-after-family-clash-2909674-2026-05-11?utm_source=rss",
-      "summary": "Video: Chaos after wedding, bride and groom's families attack each other",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Video — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-05-11T01:46:36+00:00",
       "discovered_via": "feed"
     },
     {
@@ -146,20 +202,6 @@
       "angle": "Fashion Intelligence: Rihanna’s New Tattoo Was ‘Designed by Her Babies’...",
       "score": 0,
       "published": "2026-05-10T19:25:16+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2af43b6a761b",
-      "title": "Why Tamil Nadu anthem being played third at Vijay's swearing-in triggered uproar",
-      "link": "https://www.indiatoday.in/india/tamil-nadu/story/why-tamil-thaai-vaazhthu-being-played-third-at-vijay-swearing-in-triggered-uproar-2909646-2026-05-10?utm_source=rss",
-      "summary": "Why Tamil Nadu anthem being played third at Vijay's swearing-in triggered uproar",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-05-10T18:12:08+00:00",
       "discovered_via": "feed"
     },
     {
@@ -345,6 +387,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "e255719297e3",
+      "title": "5 Chic Summer Shoe Colour Trends You're About to See Everywhere in 2026",
+      "link": "https://www.whowhatwear.com/fashion/trends/summer-shoe-colour-trends-2026",
+      "summary": "A fresh new palette.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-05-10T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "744502d8ef5c",
       "title": "It's Only May, But M&S Just Perfected Every Chic Summer Shoe Trend—5 Styles That Will Sell Out First",
       "link": "https://www.whowhatwear.com/fashion/summer/marks-and-spencer-summer-shoe-trends-2026",
@@ -368,20 +424,6 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: 15 Buzzy Australian Brands Worth Adding to Your Wardrobe...",
-      "score": 1,
-      "published": "2026-05-10T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e255719297e3",
-      "title": "5 Chic Summer Shoe Colour Trends You're About to See Everywhere in 2026",
-      "link": "https://www.whowhatwear.com/fashion/trends/summer-shoe-colour-trends-2026",
-      "summary": "A fresh new palette.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-05-10T07:00:00+00:00",
       "discovered_via": "feed"
@@ -415,20 +457,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "47faf90cd229",
-      "title": "No One Does Summer Style Better Than French Women—5 Chic, Paris-Approved Outfits to Copy This Summer",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/french-girl-summer-outfits-2026",
-      "summary": "The art of summer dressing.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: No One Does Summer Style Better Than French Women—5 Chic, Paris-Approv...",
-      "score": 3,
-      "published": "2026-05-10T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "961926429bb2",
       "title": "Trust Me, I'm a Beauty Editor—These Affordable Haircare Brands Deliver Salon-Worthy Results",
       "link": "https://www.whowhatwear.com/beauty/hair/best-affordable-haircare-brands",
@@ -443,20 +471,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "27b46c923e22",
-      "title": "I Wish I Could Gatekeep—5 Incredibly Chic Summer Bag Trends That'll Be Everywhere By June",
-      "link": "https://www.whowhatwear.com/fashion/trends/summer-bag-trends-2026",
-      "summary": "Just grab and go.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-05-10T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2bde629b179e",
       "title": "French Tips Aren't Going Anywhere—7 Stylish Ways to Wear the Nail Trend This May",
       "link": "https://www.whowhatwear.com/beauty/nails/french-tip-nail-ideas-may-2026",
@@ -467,6 +481,34 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
+      "published": "2026-05-10T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "47faf90cd229",
+      "title": "No One Does Summer Style Better Than French Women—5 Chic, Paris-Approved Outfits to Copy This Summer",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/french-girl-summer-outfits-2026",
+      "summary": "The art of summer dressing.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: No One Does Summer Style Better Than French Women—5 Chic, Paris-Approv...",
+      "score": 3,
+      "published": "2026-05-10T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "27b46c923e22",
+      "title": "I Wish I Could Gatekeep—5 Incredibly Chic Summer Bag Trends That'll Be Everywhere By June",
+      "link": "https://www.whowhatwear.com/fashion/trends/summer-bag-trends-2026",
+      "summary": "Just grab and go.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
       "published": "2026-05-10T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -793,29 +835,29 @@
       "discovered_via": "feed"
     },
     {
-      "id": "42186ab74f75",
-      "title": "The 31 Best Zara Items to Pack For Your Summer Vacation",
-      "link": "https://www.whowhatwear.com/fashion/shopping/zara-new-arrivals-for-vacation",
-      "summary": "Build the chicest vacation outfits.",
+      "id": "5c7c3af20e5a",
+      "title": "27 Basics, Beauty Products, and Accessories That Are Coming on Every Summer Trip With Me",
+      "link": "https://www.whowhatwear.com/fashion/shopping/summer-travel-basics-beauty-products-accessories",
+      "summary": "They're almost as essential as a passport.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The 31 Best Zara Items to Pack For Your Summer Vacation...",
+      "angle": "Fashion Intelligence: 27 Basics, Beauty Products, and Accessories That Are Coming on Every S...",
       "score": 1,
       "published": "2026-05-09T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "9609dcf7eecd",
-      "title": "FYI: Every It Girl Owns These Logo-Less Sunglasses That Never Go Out of Style",
-      "link": "https://www.whowhatwear.com/fashion/luxury/khaite-oliver-peoples-sunglasses-celebrities-uk",
-      "summary": "IYKYK.",
+      "id": "715538312d5f",
+      "title": "These Rich-looking Dresses and Shoes at Zara and Nordstrom Are Giving \"I Vacation in the French Riviera\"",
+      "link": "https://www.whowhatwear.com/fashion/shopping/rich-looking-shoes-and-dresses",
+      "summary": "Manifest that trip.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: FYI: Every It Girl Owns These Logo-Less Sunglasses That Never Go Out o...",
+      "angle": "Fashion Intelligence: These Rich-looking Dresses and Shoes at Zara and Nordstrom Are Giving ...",
       "score": 1,
       "published": "2026-05-09T07:00:00+00:00",
       "discovered_via": "feed"
@@ -835,57 +877,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "24768c661bb0",
-      "title": "I've Been on TV for 10 Years—These Are the Dresses I Swear By Whenever I'm On-Screen",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/what-to-wear-on-tv",
-      "summary": "Dressing for television is an art that I take very seriously.",
+      "id": "9609dcf7eecd",
+      "title": "FYI: Every It Girl Owns These Logo-Less Sunglasses That Never Go Out of Style",
+      "link": "https://www.whowhatwear.com/fashion/luxury/khaite-oliver-peoples-sunglasses-celebrities-uk",
+      "summary": "IYKYK.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I've Been on TV for 10 Years—These Are the Dresses I Swear By Whenever...",
-      "score": 2,
-      "published": "2026-05-09T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5c7c3af20e5a",
-      "title": "27 Basics, Beauty Products, and Accessories That Are Coming on Every Summer Trip With Me",
-      "link": "https://www.whowhatwear.com/fashion/shopping/summer-travel-basics-beauty-products-accessories",
-      "summary": "They're almost as essential as a passport.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 27 Basics, Beauty Products, and Accessories That Are Coming on Every S...",
-      "score": 1,
-      "published": "2026-05-09T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fcd449560d5e",
-      "title": "6 Trends All the Best-Dressed Wedding Guests are Wearing in 2026",
-      "link": "https://www.whowhatwear.com/fashion/trends/wedding-guest-outfit-trends-2026",
-      "summary": "According to bridal stylists.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: 6 Trends All the Best-Dressed Wedding Guests are Wearing in 2026 — A Complete Style Guide",
-      "score": 5,
-      "published": "2026-05-09T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "715538312d5f",
-      "title": "These Rich-looking Dresses and Shoes at Zara and Nordstrom Are Giving \"I Vacation in the French Riviera\"",
-      "link": "https://www.whowhatwear.com/fashion/shopping/rich-looking-shoes-and-dresses",
-      "summary": "Manifest that trip.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: These Rich-looking Dresses and Shoes at Zara and Nordstrom Are Giving ...",
+      "angle": "Fashion Intelligence: FYI: Every It Girl Owns These Logo-Less Sunglasses That Never Go Out o...",
       "score": 1,
       "published": "2026-05-09T07:00:00+00:00",
       "discovered_via": "feed"
@@ -905,17 +905,45 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d2da4112167b",
-      "title": "No, Not Milky—Fashion People Will Be Wearing This Understated Pedicure Trend Instead This Summer",
-      "link": "https://www.whowhatwear.com/beauty/nails/sheer-pedicure-trend",
-      "summary": "A stylish look to pair with sandals.",
+      "id": "24768c661bb0",
+      "title": "I've Been on TV for 10 Years—These Are the Dresses I Swear By Whenever I'm On-Screen",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/what-to-wear-on-tv",
+      "summary": "Dressing for television is an art that I take very seriously.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-05-09T06:00:00+00:00",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I've Been on TV for 10 Years—These Are the Dresses I Swear By Whenever...",
+      "score": 2,
+      "published": "2026-05-09T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fcd449560d5e",
+      "title": "6 Trends All the Best-Dressed Wedding Guests are Wearing in 2026",
+      "link": "https://www.whowhatwear.com/fashion/trends/wedding-guest-outfit-trends-2026",
+      "summary": "According to bridal stylists.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: 6 Trends All the Best-Dressed Wedding Guests are Wearing in 2026 — A Complete Style Guide",
+      "score": 5,
+      "published": "2026-05-09T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "42186ab74f75",
+      "title": "The 31 Best Zara Items to Pack For Your Summer Vacation",
+      "link": "https://www.whowhatwear.com/fashion/shopping/zara-new-arrivals-for-vacation",
+      "summary": "Build the chicest vacation outfits.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The 31 Best Zara Items to Pack For Your Summer Vacation...",
+      "score": 1,
+      "published": "2026-05-09T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -929,6 +957,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
+      "published": "2026-05-09T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d2da4112167b",
+      "title": "No, Not Milky—Fashion People Will Be Wearing This Understated Pedicure Trend Instead This Summer",
+      "link": "https://www.whowhatwear.com/beauty/nails/sheer-pedicure-trend",
+      "summary": "A stylish look to pair with sandals.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
       "published": "2026-05-09T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1003,20 +1045,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c5c6f7e1bd57",
-      "title": "The Summer Shoes Fashion People Will Wear in 2026, On-Sale at Nordstrom",
-      "link": "https://www.whowhatwear.com/fashion/shopping/shoes-nordstrom-savings-event-sale-may-2026",
-      "summary": "Kitten heel sandals and ballet flats.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Summer Shoes Fashion People Will Wear in 2026, On-Sale at Nordstro...",
-      "score": 2,
-      "published": "2026-05-09T00:10:28+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ec2df6d4ac47",
       "title": "3 Styles at Work: How to Wear The Silk Scarf",
       "link": "https://www.vogue.com/article/three-styles-at-work",
@@ -1042,20 +1070,6 @@
       "angle": "Fashion Intelligence: Shine Bright Like Diamonds: Inside the New York City Ballet Spring Gal...",
       "score": 1,
       "published": "2026-05-08T21:57:52+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f68cddee88fa",
-      "title": "Not Cigarette Pants—This Trouser Trend Looks the Coolest With Sneakers, Hands Down",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/baggy-khaki-low-rise-pants-with-sneakers-emma-roberts",
-      "summary": "We're starting to see these pants everywhere.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-05-08T21:50:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1185,20 +1199,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d6d4974b175d",
-      "title": "Sorry, Sandals—*This* Is the Shoe Trend Chic Girls in Their 20s Are Wearing With Dresses in 2026",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/summer-dress-moto-boots-outfit-olivia-rodrigo",
-      "summary": "Let Olivia Rodrigo show you the way.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 4,
-      "published": "2026-05-08T19:45:06+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2b70eddb713d",
       "title": "Björk Brings the Rave—and a Fiberglass Bottega Veneta Dress—to the Venice Biennale",
       "link": "https://www.vogue.com/article/bjork-dj-venice-biennale-bottega-veneta",
@@ -1280,20 +1280,6 @@
       "angle": "Fashion Intelligence: An Insider’s Guide to a Palm Springs, CA Vacation...",
       "score": 0,
       "published": "2026-05-08T18:28:25+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7389dc457c16",
-      "title": "Vogue Etiquette: Carole Radziwill and Jalil Johnson on Substack Rules and Newsletter No-Nos",
-      "link": "https://www.vogue.com/article/carole-radziwill-jalil-johnson-substack-etiquette",
-      "summary": "Vogue’s Oh, Behave! is a column in which experts sound off on the ever-evolving social etiquette of today. This month, Carole Radziwill and Jalil Johnson break down the dos and don’ts of newsletter culture.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Vogue Etiquette: Carole Radziwill and Jalil Johnson on Substack Rules ...",
-      "score": 0,
-      "published": "2026-05-08T18:20:32+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2529,20 +2515,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a4678f1406af",
-      "title": "Dress Code: Kiln",
-      "link": "https://www.fashionbeans.com/article/kiln/",
-      "summary": "",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Dress Code: Kiln...",
-      "score": 1,
-      "published": "2026-04-24T07:30:01+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "581d8f69aec5",
       "title": "GUESS celebra Marilyn Monroe: la mostra al MUDEC e la capsule collection. Un progetto che unisce moda, fotografia e cultura contemporanea",
       "link": "https://www.theblondesalad.com/fashion/guess-celebra-marilyn-monroe-la-mostra-al-mudec-e-la-capsule-collection-un-progetto-che-unisce-moda-fotografia-e-cultura-contemporanea/",
@@ -2554,6 +2526,20 @@
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 1,
       "published": "2026-04-21T10:00:12+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2a0e9dbf4445",
+      "title": "Why Handcrafted Sarees Remain Timeless in Modern Fashion",
+      "link": "https://blog.kalkifashion.com/handcrafted-sarees-remain-timeless-modern-fashion/",
+      "summary": "Have you ever looked around and noticed how modern fashion is changing these days? It is no longer just about metallic or blingy sarees, nor only about contemporary drapes. Modern fashion has evolved significantly and now blends Western styles with handcrafted clothing, which has become an integral part of it. Traditio",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Art & Craft",
+      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
+      "score": 4,
+      "published": "2026-05-11T07:58:56+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2750,20 +2736,6 @@
       "angle": "Bridal Edit: Lehenga vs. Saree — A Complete Style Guide",
       "score": 6,
       "published": "2026-04-24T18:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "57604aa433bd",
-      "title": "Rinkal Jain’s Blue and White Carnival Magic at Her Bangalore Wedding",
-      "link": "https://blog.kalkifashion.com/rinkal-jain-blue-white-carnival-wedding-bangalore/",
-      "summary": "Carnival themes in Indian weddings usually mean bright colours, glitter, and non‑stop energy—but Rinkal Jain decided to go the opposite way. Instead of a loud, multicoloured carnival, she chose a soft, modern blue and white carnival theme right in the heart of Bangalore. We’re KALKI and this is the story of how Rinkal,",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Rinkal Jain’s Blue and White Carnival Magic at Her Bangalore Wedding — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-04-24T05:27:11+00:00",
       "discovered_via": "feed"
     },
     {
@@ -3133,52 +3105,52 @@
   ],
   "trends": [
     {
-      "term": "വി.ഡി. സതീശന്",
+      "term": "pmjay",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "dhurandhar 2 box office collection",
-      "summary": "",
-      "aza_category": "Designer Spotlight"
-    },
-    {
-      "term": "nishant kumar bihar health minister",
+      "term": "ఇండియన్ ప్రీమియర్ లీగ్ - 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "phil salt rcb",
+      "term": "आयुष्मान भारत योजना",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hardik pandya mumbai indians",
+      "term": "സ്വര്ണം",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ऑस्ट्रेलिया राष्ट्रीय क्रिकेट टीम",
+      "term": "పెళ్ళి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sslc result 2026",
+      "term": "দিলীপ ঘোষ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "టీవీ9 - తెలుగు",
+      "term": "tata motors",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "one ui 8.5 global rollout",
+      "term": "സബ്സിഡി",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "राष्ट्रपति चुनाव",
+      "term": "पंजाब",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "डॉलर",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

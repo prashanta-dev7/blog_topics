@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-05-12T07:43:27.080374+00:00",
+  "generated_at": "2026-05-12T10:32:55.182930+00:00",
   "owned_count": 10,
-  "competitor_count": 30,
-  "industry_count": 178,
+  "competitor_count": 29,
+  "industry_count": 174,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "8fe17e18b717",
+      "title": "Aje Australia Resort 2027",
+      "link": "https://www.vogue.com/fashion-shows/australia-resort-2027/aje",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Aje Australia Resort 2027...",
+      "score": 0,
+      "published": "2026-05-12T10:31:36+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "b7e4c3c3b808",
       "title": "Bianca Spender Australia Resort 2027",
@@ -19,7 +33,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Bianca Spender Australia Resort 2027...",
       "score": 0,
-      "published": "2026-05-12T07:41:58+00:00",
+      "published": "2026-05-12T10:31:36+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,21 +47,91 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Rachel Antonoff Spring 2026 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-05-12T07:41:58+00:00",
+      "published": "2026-05-12T10:31:36+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "e6a029dfefbb",
-      "title": "Carla Zampatti Australia Resort 2027",
-      "link": "https://www.vogue.com/fashion-shows/australia-resort-2027/carla-zampatti",
-      "summary": "",
+      "id": "7e4c106f60c7",
+      "title": "The 24 Best Travel Pants for Every Style and Destination",
+      "link": "https://www.vogue.com/article/best-travel-pants-for-women",
+      "summary": "From linen trousers to colorful cotton and relaxed denim, shop the very best travel pants before your next trip.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Carla Zampatti Australia Resort 2027...",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The 24 Best Travel Pants for Every Style and Destination...",
+      "score": 1,
+      "published": "2026-05-12T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d2cacec42dc3",
+      "title": "The Wondrous Life of Anni Albers",
+      "link": "https://www.vogue.com/article/anni-albers-a-life-nicholas-fox-weber-interview",
+      "summary": "“Anni Albers: A Life,” by writer and art historian Nicholas Fox Weber, is the first comprehensive biography of this fascinating artist—an indelible figure of not just textile art but modernism itself.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Wondrous Life of Anni Albers...",
       "score": 0,
-      "published": "2026-05-12T07:41:58+00:00",
+      "published": "2026-05-12T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "824eed1c5477",
+      "title": "The Ballet-Flats Color It Girls Are Wearing With Summer Pants Isn't Black or Brown—It's Much Cooler",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/white-ballet-flats-trend-celebrities",
+      "summary": "Get used to seeing this shoe trend everywhere.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-05-12T09:45:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "91beb9397a42",
+      "title": "How District Vision Created a Cult Running Brand for the Wellness Era",
+      "link": "https://www.vogue.com/article/cult-running-brand-district-vision-new-la-store-wellness-era",
+      "summary": "Running brand District Vision explores the mind-body connection via high fashion running gear. Now, it’s expanding globally via community-led stores.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: How District Vision Created a Cult Running Brand for the Wellness Era...",
+      "score": 2,
+      "published": "2026-05-12T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1a7318afdada",
+      "title": "Charli XCX Invests In Nothing",
+      "link": "https://www.vogue.com/article/charli-xcx-invests-in-nothing",
+      "summary": "Charli XCX has joined the tech hardware brand as its first global ambassador and investor. This isn’t the first time a celebrity has signed up as an investor in a brand, but the commitment signals a need for deeper engagement on all fronts.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Fashion Intelligence: Charli XCX Invests In Nothing...",
+      "score": 2,
+      "published": "2026-05-12T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4cc195ca9936",
+      "title": "White Blouses are Trending: Here's How the Most Elegant Over-50s are Styling Them",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/white-cotton-blouse-two-piece-outfit-pamela-anderson-2026",
+      "summary": "So chic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-05-12T08:32:02+00:00",
       "discovered_via": "feed"
     },
     {
@@ -160,20 +244,6 @@
       "angle": "Fashion Intelligence: Do Plumping Creams Really Work? Dermatologists Weigh In...",
       "score": 0,
       "published": "2026-05-12T01:37:50+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1bcedc6cf042",
-      "title": "An RSS whisper and beauty parlour didis: How BJP swept Bengal with micro campaigns",
-      "link": "https://www.indiatoday.in/india/story/west-bengal-election-bjp-win-rss-whisper-outreach-bjp-door-to-door-campaign-booth-level-beauty-parlour-kolkata-2910136-2026-05-12?utm_source=rss",
-      "summary": "An RSS whisper and beauty parlour didis: How BJP swept Bengal with micro campaigns",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: An RSS whisper and beauty parlour didis: How BJP swept Bengal with mic...",
-      "score": 1,
-      "published": "2026-05-12T01:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -468,20 +538,6 @@
       "angle": "Fashion Intelligence: The 20 Best Products to Shop at Oribe’s Obsession Week Sale 2026...",
       "score": 0,
       "published": "2026-05-11T18:41:36+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1bf8de275503",
-      "title": "UP teacher claims she wasn't hired for wearing hijab, school denies charge",
-      "link": "https://www.indiatoday.in/india/story/varanasi-hijab-row-muslim-teacher-alleges-bias-school-denies-dismissal-claim-2910193-2026-05-12?utm_source=rss",
-      "summary": "UP teacher claims she wasn't hired for wearing hijab, school denies charge",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-05-11T18:31:45+00:00",
       "discovered_via": "feed"
     },
     {
@@ -863,48 +919,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a0b67a9c01e2",
-      "title": "Fashion's Tariff Refund Realities",
-      "link": "https://www.vogue.com/article/fashion-confronts-the-realities-of-tariff-refunds",
-      "summary": "The government’s new tariff refund system is largely functioning — but eligibility gaps, data complexity, legal exposure, and a growing infrastructure divide mean the path to recovery is far from straightforward.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Fashion's Tariff Refund Realities...",
-      "score": 1,
-      "published": "2026-05-11T12:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "31ef6c7f49c9",
-      "title": "New Tariffs Could Target Forced Labor. Is It a Fix?",
-      "link": "https://www.vogue.com/article/new-tariffs-could-target-forced-labor-is-it-a-fix",
-      "summary": "As Washington weighs new trade measures tied to forced labor, fashion brands may soon face higher import costs — and greater pressure to prove exactly where their products come from.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: New Tariffs Could Target Forced Labor. Is It a Fix?...",
-      "score": 2,
-      "published": "2026-05-11T12:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "81e726e60dd5",
-      "title": "What You Can (and Can’t) Do to Improve Your Bone Health",
-      "link": "https://www.vogue.com/article/improve-your-bone-health",
-      "summary": "Skeletal strength is all the rage—but what can you really do do improve your internal scaffolding?",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: What You Can (and Can’t) Do to Improve Your Bone Health...",
-      "score": 0,
-      "published": "2026-05-11T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ca7c52f96bd2",
       "title": "Wait, Did Claudia Winkleman Prove That Capris Look Chicest With This Surprising \"Dated\" Shoe Trend?",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/capri-pants-white-heels-outfit-claudia-winkleman-2026",
@@ -930,20 +944,6 @@
       "angle": "Fashion Intelligence: Look Like You Belong Before You’ve Even Started Running...",
       "score": 2,
       "published": "2026-05-11T11:11:36+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4c1337f7247d",
-      "title": "In ‘Amadeus,’ Will Sharpe Plays a Mozart in Several Registers",
-      "link": "https://www.vogue.com/article/amadeus-will-sharpe-interview",
-      "summary": "The British actor, screenwriter, and director discusses inhabiting one of history’s most mythologized figures—and finding the deeply human chaos beneath the legend.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: In ‘Amadeus,’ Will Sharpe Plays a Mozart in Several Registers...",
-      "score": 0,
-      "published": "2026-05-11T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1171,15 +1171,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e255719297e3",
-      "title": "5 Chic Summer 2026 Shoe-Colour Trends You're About to See Everywhere",
-      "link": "https://www.whowhatwear.com/fashion/trends/summer-shoe-colour-trends-2026",
-      "summary": "A fresh new palette.",
+      "id": "48d9e0f5ef6a",
+      "title": "15 Buzzy Australian Brands Worth Adding to Your Wardrobe",
+      "link": "https://www.whowhatwear.com/fashion/shopping/australian-brand-discovery-2026",
+      "summary": "From Byron Bay to Melbourne.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 15 Buzzy Australian Brands Worth Adding to Your Wardrobe...",
       "score": 1,
       "published": "2026-05-10T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1199,6 +1199,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "e255719297e3",
+      "title": "5 Chic Summer 2026 Shoe-Colour Trends You're About to See Everywhere",
+      "link": "https://www.whowhatwear.com/fashion/trends/summer-shoe-colour-trends-2026",
+      "summary": "A fresh new palette.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-05-10T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "e03944cb69c7",
       "title": "The 7 Trends Already Defining Summer 2026 Style",
       "link": "https://www.whowhatwear.com/fashion/summer/summer-fashion-trends-2026",
@@ -1209,20 +1223,6 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
-      "published": "2026-05-10T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "48d9e0f5ef6a",
-      "title": "15 Buzzy Australian Brands Worth Adding to Your Wardrobe",
-      "link": "https://www.whowhatwear.com/fashion/shopping/australian-brand-discovery-2026",
-      "summary": "From Byron Bay to Melbourne.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 15 Buzzy Australian Brands Worth Adding to Your Wardrobe...",
-      "score": 1,
       "published": "2026-05-10T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1238,20 +1238,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-05-10T06:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "47faf90cd229",
-      "title": "No One Does Summer Style Better Than French Women—5 Chic, Paris-Approved Outfits to Copy This Summer",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/french-girl-summer-outfits-2026",
-      "summary": "The art of summer dressing.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: No One Does Summer Style Better Than French Women—5 Chic, Paris-Approv...",
-      "score": 3,
-      "published": "2026-05-10T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1280,34 +1266,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-05-10T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "27b46c923e22",
-      "title": "I Wish I Could Gatekeep—5 Incredibly Chic Summer Bag Trends That'll Be Everywhere by June",
-      "link": "https://www.whowhatwear.com/fashion/trends/summer-bag-trends-2026",
-      "summary": "Just grab and go.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-05-10T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3f0f31af3bdc",
-      "title": "I’m Building a Chic Summer Wardrobe on a Budget—7 Zara, H&M and COS Buys That Made the Cut",
-      "link": "https://www.whowhatwear.com/fashion/affordable/zara-cos-hm-summer-capsule-wardrobe-2026",
-      "summary": "High-street budget, designer look.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: I’m Building a Chic Summer Wardrobe on a Budget—7 Zara, H&M and COS Bu...",
-      "score": 1,
-      "published": "2026-05-10T05:20:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2036,20 +1994,6 @@
       "angle": "Fashion Intelligence: In-Person Brand Events Are So Back, According to New Report...",
       "score": 1,
       "published": "2026-05-06T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ee25340dfd24",
-      "title": "H&M Celebrates Rio’s Fashion Spirit",
-      "link": "https://www.fashiongonerogue.com/story/hm-rio-campaign/",
-      "summary": "To mark its continuation of exploring global cities, H&#38;M has launched H&#38;M&#38;RIO, a celebration of the city shot entirely by ... Source",
-      "source": "Fashion Gone Rogue",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: H&M Celebrates Rio’s Fashion Spirit...",
-      "score": 2,
-      "published": "2026-05-06T11:02:26+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2907,20 +2851,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "de4f17920745",
-      "title": "Celebrity-Inspired Eid Outfit Ideas You Can Recreate",
-      "link": "https://www.torani.in/blogs/news/celebrity-inspired-eid-outfit-ideas-you-can-recreate",
-      "summary": "Eid is that special time when mornings feel soft with gratitude, mosques hum with communal prayers, new clothes are a source of quiet excitement, charity is shared with a smile, and tables are filled with laughter and meals shared with family and friends. In all this joy and togetherness, your Eid outfit is more than j",
-      "source": "Torani",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-03-13T09:50:55+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a2a5879c39df",
       "title": "7 Breathable Sherwanis for Boys by Petite Pomme That Will Save You at Australian Summer Weddings",
       "link": "https://www.azafashions.com/blog/lightweight-sherwanis-australian-summer-weddings/?utm_source=rss&utm_medium=rss&utm_campaign=lightweight-sherwanis-australian-summer-weddings",
@@ -3063,52 +2993,52 @@
   ],
   "trends": [
     {
-      "term": "give up lpg subsidy",
+      "term": "hbse 12th result 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "neet nta nic in",
+      "term": "உதயநிதி ஸ்டாலின்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ભારત",
+      "term": "विनेश फौगाट",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "कर्मचारी भविष्य निधि संगठन",
+      "term": "crime 101",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "nta official website",
+      "term": "ranveer singh dhurandhar",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "అసెంబ్లీ",
+      "term": "स्टॉक",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cbse 12वीं परिणाम 2026",
+      "term": "nord ce6 lite",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "nta",
+      "term": "school holiday",
+      "summary": "",
+      "aza_category": "Occasion Dressing"
+    },
+    {
+      "term": "महाराष्ट्र",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "നിയമസഭ",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "vijay tamil nadu floor test",
+      "term": "casper ruud",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-05-12T05:32:49.849959+00:00",
+  "generated_at": "2026-05-12T07:43:27.080374+00:00",
   "owned_count": 10,
   "competitor_count": 30,
-  "industry_count": 183,
+  "industry_count": 178,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "b7e4c3c3b808",
+      "title": "Bianca Spender Australia Resort 2027",
+      "link": "https://www.vogue.com/fashion-shows/australia-resort-2027/bianca-spender",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Bianca Spender Australia Resort 2027...",
+      "score": 0,
+      "published": "2026-05-12T07:41:58+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "63127b626db4",
       "title": "Rachel Antonoff Spring 2026 Ready-to-Wear",
@@ -19,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Rachel Antonoff Spring 2026 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-05-12T05:31:45+00:00",
+      "published": "2026-05-12T07:41:58+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,21 +47,63 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Carla Zampatti Australia Resort 2027...",
       "score": 0,
-      "published": "2026-05-12T05:31:45+00:00",
+      "published": "2026-05-12T07:41:58+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "3d1c8646404b",
-      "title": "Beare Park Australia Resort 2027",
-      "link": "https://www.vogue.com/fashion-shows/australia-resort-2027/beare-park",
-      "summary": "",
-      "source": "Vogue US",
+      "id": "abf00212d5a0",
+      "title": "No Skinny Jeans Here—European It Girls Know These 4 Pants Trends Are Key to Fashionable Outfits",
+      "link": "https://www.whowhatwear.com/fashion/trends/european-fashion-pants-trends-2026",
+      "summary": "Modern and cool styles.",
+      "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Beare Park Australia Resort 2027...",
-      "score": 0,
-      "published": "2026-05-12T05:31:45+00:00",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 4,
+      "published": "2026-05-12T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d21dd3bba2ae",
+      "title": "This One Addition to My Designer Handbag Collection Has Elevated the Way I Dress All Year Round",
+      "link": "https://www.whowhatwear.com/fashion/handbags/best-designer-woven-bags",
+      "summary": "So sleek, so chic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 3,
+      "published": "2026-05-12T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8cb6023cdbc6",
+      "title": "We Already Know 7 Trends Every Ahead-of-the-Curve Fashion Person Will Shop for Fall 2026",
+      "link": "https://www.whowhatwear.com/fashion/runway/net-a-porter-fall-2026-trends",
+      "summary": "Here's the download.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-05-12T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e49752d4682c",
+      "title": "Celebrity Couples in the ’90s Were Stylish, But These 5 are Even Better Dressed Than Jen and Brad",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/best-dressed-celebrity-couples-2026",
+      "summary": "I did a deep dive into the Getty archives.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-05-12T06:35:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -160,6 +216,20 @@
       "angle": "Bridal Edit: Amal Clooney's Elegant Dress Trend Will Be at Every Black-Tie Wedding You Attend This Summer — A Complete Style Guide",
       "score": 3,
       "published": "2026-05-12T00:16:15+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e33d6f614ea2",
+      "title": "Inside the Bob Baker Marionette Theater’s Annual Puppet Prom",
+      "link": "https://www.vogue.com/article/bob-baker-marionette-theater-puppet-prom-2026",
+      "summary": "“We wanted to create fundraisers that were also invitations to be creative, to use your imagination, and experience joy,” says Mary Fagot, co-executive director of the BBMT, a Los Angeles institution.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Inside the Bob Baker Marionette Theater’s Annual Puppet Prom...",
+      "score": 0,
+      "published": "2026-05-11T22:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -415,20 +485,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "db51b312d71f",
-      "title": "Avoid destination weddings abroad: PM's 'wed in India' push amid austerity call",
-      "link": "https://www.indiatoday.in/india/story/modi-urges-indians-to-avoid-overseas-weddings-cut-gold-import-spending-2910186-2026-05-11?utm_source=rss",
-      "summary": "Avoid destination weddings abroad: PM's 'wed in India' push amid austerity call",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Avoid destination weddings abroad — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-05-11T18:21:07+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "266fe2318447",
       "title": "Rihanna and A$AP Rocky’s Sartorial Chemistry Is Unmatched",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71272091/rihanna-asap-rocky-nyc-couple-style-coordinating-outfits-photos/",
@@ -552,20 +608,6 @@
       "angle": "Fashion Intelligence: I Haven't Browsed Levi's in a While—These New Arrivals Are Worth Addin...",
       "score": 1,
       "published": "2026-05-11T16:36:55+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7f6312ccca00",
-      "title": "Rescued from Myanmar scam den, trio return to India to launch cyber fraud ring",
-      "link": "https://www.indiatoday.in/india/maharashtra/story/myanmar-cyber-scam-navi-mumbai-call-centre-three-rescued-indians-arrested-in-maharashtra-2910118-2026-05-11?utm_source=rss",
-      "summary": "Rescued from Myanmar scam den, trio return to India to launch cyber fraud ring",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-05-11T16:27:34+00:00",
       "discovered_via": "feed"
     },
     {
@@ -905,20 +947,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b053967f25da",
-      "title": "‘When Fashion Stays in Its Own Bubble, It’s Not Responding to the World’: Iris van Herpen Gets a Retrospective in Brooklyn",
-      "link": "https://www.vogue.com/article/iris-van-herpen-opens-her-retrospective-in-brooklyn-when-fashion-stays-within-its-own-bubble-its-not-responding-to-the-world",
-      "summary": "At Iris van Herpen’s Brooklyn Museum show, fashion, art, nature, technology, and philosophy convey a message of interconnectedness.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: ‘When Fashion Stays in Its Own Bubble, It’s Not Responding to the Worl...",
-      "score": 2,
-      "published": "2026-05-11T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "bd8998ceb70d",
       "title": "Kate Confirmed It—Last Year’s Most Elegant Skirt Trend Is Back for Summer 2026",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/polka-dot-skirt-trend-kate-middleton-2026",
@@ -947,20 +975,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c5925efa4d14",
-      "title": "Sandal Season Starts Now—6 Pedicure Colours to Bookmark for Your Toes This Month",
-      "link": "https://www.whowhatwear.com/beauty/nails/may-pedicure-colour-trends-2026",
-      "summary": "So chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-05-11T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3eb37628f0e1",
       "title": "London Girls Always Get Summer Style Right—These Are the 5 Trends They're Already Wearing",
       "link": "https://www.whowhatwear.com/fashion/trends/summer-london-fashion-trends-2026",
@@ -971,6 +985,20 @@
       "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
+      "published": "2026-05-11T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c5925efa4d14",
+      "title": "Sandal Season Starts Now—6 Pedicure Colours to Bookmark for Your Toes This Month",
+      "link": "https://www.whowhatwear.com/beauty/nails/may-pedicure-colour-trends-2026",
+      "summary": "So chic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
       "published": "2026-05-11T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1143,15 +1171,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "48d9e0f5ef6a",
-      "title": "15 Buzzy Australian Brands Worth Adding to Your Wardrobe",
-      "link": "https://www.whowhatwear.com/fashion/shopping/australian-brand-discovery-2026",
-      "summary": "From Byron Bay to Melbourne.",
+      "id": "e255719297e3",
+      "title": "5 Chic Summer 2026 Shoe-Colour Trends You're About to See Everywhere",
+      "link": "https://www.whowhatwear.com/fashion/trends/summer-shoe-colour-trends-2026",
+      "summary": "A fresh new palette.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 15 Buzzy Australian Brands Worth Adding to Your Wardrobe...",
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-05-10T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1171,20 +1199,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e255719297e3",
-      "title": "5 Chic Summer 2026 Shoe-Colour Trends You're About to See Everywhere",
-      "link": "https://www.whowhatwear.com/fashion/trends/summer-shoe-colour-trends-2026",
-      "summary": "A fresh new palette.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-05-10T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e03944cb69c7",
       "title": "The 7 Trends Already Defining Summer 2026 Style",
       "link": "https://www.whowhatwear.com/fashion/summer/summer-fashion-trends-2026",
@@ -1195,6 +1209,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
+      "published": "2026-05-10T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "48d9e0f5ef6a",
+      "title": "15 Buzzy Australian Brands Worth Adding to Your Wardrobe",
+      "link": "https://www.whowhatwear.com/fashion/shopping/australian-brand-discovery-2026",
+      "summary": "From Byron Bay to Melbourne.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 15 Buzzy Australian Brands Worth Adding to Your Wardrobe...",
+      "score": 1,
       "published": "2026-05-10T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1210,20 +1238,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-05-10T06:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2bde629b179e",
-      "title": "French Tips Aren't Going Anywhere—7 Stylish Ways to Wear the Nail Trend This May",
-      "link": "https://www.whowhatwear.com/beauty/nails/french-tip-nail-ideas-may-2026",
-      "summary": "So fresh!",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-05-10T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1255,6 +1269,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "2bde629b179e",
+      "title": "French Tips Aren't Going Anywhere—7 Stylish Ways to Wear the Nail Trend This May",
+      "link": "https://www.whowhatwear.com/beauty/nails/french-tip-nail-ideas-may-2026",
+      "summary": "So fresh!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-05-10T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "27b46c923e22",
       "title": "I Wish I Could Gatekeep—5 Incredibly Chic Summer Bag Trends That'll Be Everywhere by June",
       "link": "https://www.whowhatwear.com/fashion/trends/summer-bag-trends-2026",
@@ -1280,20 +1308,6 @@
       "angle": "Fashion Intelligence: I’m Building a Chic Summer Wardrobe on a Budget—7 Zara, H&M and COS Bu...",
       "score": 1,
       "published": "2026-05-10T05:20:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e0dbdaa9ba0e",
-      "title": "Not a Miniskirt or a Pair of Shorts—Amal Clooney Opted for This Controversial Trend on Vacation",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/skort-trend-amal-clooney",
-      "summary": "You either love it or hate it.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-05-09T20:38:56+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1353,20 +1367,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "67e9ee860639",
-      "title": "It Girls in NYC and L.A. Are Swapping XL Totes for This Specific Mini Bag Trend",
-      "link": "https://www.whowhatwear.com/fashion/luxury/bottega-veneta-mini-andiamo-bag-trend-2026",
-      "summary": "Small but mighty.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-05-09T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "778cdb48326a",
       "title": "ICYMI: Fashionista's 2026 Met Gala Coverage, Black Beauty Club Launches Block Party Shopping Experience & SCAD's New Luxury Boutique Stocks Student Designs",
       "link": "https://fashionista.com/2026/05/fashion-news-you-need-to-know-may-9",
@@ -1381,20 +1381,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "3f3c662b6051",
-      "title": "From Archives to Aisles: Why Vintage Wedding Dresses Are Having a Moment",
-      "link": "https://www.whowhatwear.com/living/wedding/vintage-wedding-dress-trend-2026",
-      "summary": "We spoke with the founders of Tab Vintage, Happy Isles, and Studio Dorothy as well as two recent brides to learn why vintage bridalwear is becoming popular.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: From Archives to Aisles — A Complete Style Guide",
-      "score": 4,
-      "published": "2026-05-09T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ea85264e0f96",
       "title": "13 Best Canvas Shoes For Men With Effortless Style 2026",
       "link": "https://www.fashionbeans.com/article/best-canvas-shoes/",
@@ -1406,62 +1392,6 @@
       "angle": "Fashion Intelligence: 13 Best Canvas Shoes For Men With Effortless Style 2026...",
       "score": 3,
       "published": "2026-05-09T10:15:42+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c30d6beac7be",
-      "title": "The Coolest People I Know Are Breaking This Dated Jewelry Rule in 2026",
-      "link": "https://www.whowhatwear.com/fashion/trends/mixed-metals-jewelry-trend-2026",
-      "summary": "Jenny Bird and Coco Schiffer weigh in on the trend.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Coolest People I Know Are Breaking This Dated Jewelry Rule in 2026...",
-      "score": 1,
-      "published": "2026-05-09T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "65478a2c6cd9",
-      "title": "My Chicest Colleague Tipped Me Off: This '90s Sandals Trend Will Replace Ballet Flats This Summer",
-      "link": "https://www.whowhatwear.com/fashion/shoes/shell-sandals-trend-2026",
-      "summary": "Just watch.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-05-09T09:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e12d904044f5",
-      "title": "Yes, You Can Wear Your Stovepipe Jeans in Spring—Just Pair Them With This, This and This",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/stovepipe-jeans-kitten-heel-boots-outfit-daisy-edger-jones-2026",
-      "summary": "It's easy.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Yes, You Can Wear Your Stovepipe Jeans in Spring—Just Pair Them With T...",
-      "score": 1,
-      "published": "2026-05-09T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9955c8788251",
-      "title": "I Tried On Abercrombie’s Elegant, Highly Minimalist Summer Dresses—These 3 Passed My High Standards",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-abercrombie-and-fitch-dresses-summer-2026",
-      "summary": "They're so good.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Tried On Abercrombie’s Elegant, Highly Minimalist Summer Dresses—The...",
-      "score": 1,
-      "published": "2026-05-09T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -3133,52 +3063,52 @@
   ],
   "trends": [
     {
-      "term": "ajay mitchell",
+      "term": "give up lpg subsidy",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "high court allahabad",
+      "term": "neet nta nic in",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "lakers vs okc",
+      "term": "ભારત",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "uae attacks iran",
+      "term": "कर्मचारी भविष्य निधि संगठन",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "google down",
+      "term": "nta official website",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "car",
+      "term": "అసెంబ్లీ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hii",
+      "term": "cbse 12वीं परिणाम 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಪಾಕಿಸ್ತಾನ",
+      "term": "nta",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "wipro",
+      "term": "നിയമസഭ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "google",
+      "term": "vijay tamil nadu floor test",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

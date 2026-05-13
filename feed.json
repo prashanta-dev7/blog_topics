@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T10:29:30.503544+00:00",
+  "generated_at": "2026-05-13T13:13:21.933815+00:00",
   "owned_count": 10,
   "competitor_count": 28,
   "industry_count": 175,
@@ -19,7 +19,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Karla Spetic Australia Resort 2027...",
       "score": 0,
-      "published": "2026-05-13T10:28:29+00:00",
+      "published": "2026-05-13T13:08:40+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Esse Studios Australia Resort 2027...",
       "score": 0,
-      "published": "2026-05-13T10:28:29+00:00",
+      "published": "2026-05-13T13:08:40+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Sachin & Babi Pre-Fall 2026...",
       "score": 0,
-      "published": "2026-05-13T10:28:29+00:00",
+      "published": "2026-05-13T13:08:40+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +61,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Rag & Bone Resort 2027...",
       "score": 0,
-      "published": "2026-05-13T10:28:29+00:00",
+      "published": "2026-05-13T13:08:40+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +75,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Simon Miller Pre-Fall 2026...",
       "score": 0,
-      "published": "2026-05-13T10:28:29+00:00",
+      "published": "2026-05-13T13:08:40+00:00",
       "discovered_via": "feed"
     },
     {
@@ -89,21 +89,119 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Kith Pre-Fall 2026 Menswear...",
       "score": 2,
-      "published": "2026-05-13T10:28:29+00:00",
+      "published": "2026-05-13T13:08:40+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "4dc2eca39ec2",
-      "title": "Francisco Cancino Mexico Fall 2026",
-      "link": "https://www.vogue.com/fashion-shows/mexico-fall-2026/francisco-cancino",
-      "summary": "",
+      "id": "8ed4fc4e4ea2",
+      "title": "Inside Kate Middleton’s ‘Dolce Vita” Wardrobe’ and Her Return to the Global Stage",
+      "link": "https://www.vogue.com/slideshow/kate-middleton-italy-trip-outfits",
+      "summary": "The Princess of Wales has touched down in Italy for her first international tour since announcing she was in remission from cancer. Here’s what Kate Middleton’s Italia trip looks like.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Francisco Cancino Mexico Fall 2026...",
+      "angle": "Fashion Intelligence: Inside Kate Middleton’s ‘Dolce Vita” Wardrobe’ and Her Return to the G...",
       "score": 0,
-      "published": "2026-05-13T10:28:29+00:00",
+      "published": "2026-05-13T12:46:13+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7fec8f90096e",
+      "title": "Is Private Equity's Involvement in Beauty Stifling Brand Individuality?",
+      "link": "https://fashionista.com/2026/05/private-equity-beauty-brand-risks",
+      "summary": "Growth capital can accelerate success, but it can also compromise the identity that made a brand worth investing in to begin with.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Is Private Equity's Involvement in Beauty Stifling Brand Individuality...",
+      "score": 2,
+      "published": "2026-05-13T12:45:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "63eb58b53dcb",
+      "title": "In a Cinch: Can Corsets Ever Be Modern?",
+      "link": "https://www.vogue.com/article/modern-corsets",
+      "summary": "From Kylie Jenner to Hailey Bieber, Sabrina Carpenter, Bad Bunny and... our writer, corsets are everywhere lately",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: In a Cinch: Can Corsets Ever Be Modern?...",
+      "score": 0,
+      "published": "2026-05-13T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8d2ae43641fa",
+      "title": "Follow Suit",
+      "link": "https://www.harpersbazaar.com/fashion/photography/a71154499/follow-suit/",
+      "summary": "In Paris, the ever-magnetic Malgosia Bela showcases spring’s most spectacular tailoring: bold, architectural, and with a distinctly modern ease",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Follow Suit...",
+      "score": 1,
+      "published": "2026-05-13T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "eaa916cddea1",
+      "title": "The Real Stars of Cannes by Johanna Berghorn",
+      "link": "https://www.vogue.com/article/the-real-stars-of-cannes-by-johanna-berghorn",
+      "summary": "A series of portraits capturing Cannes beyond the Festival, exploring the everyday lives of its inhabitants.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: The Real Stars of Cannes by Johanna Berghorn...",
+      "score": 0,
+      "published": "2026-05-13T11:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "550ca5ac6c43",
+      "title": "A Year of Pope Leo XIV, a Year of Pope-Fits",
+      "link": "https://www.vogue.com/article/a-year-of-pope-leo-xiv-in-fashion",
+      "summary": "One year on from the election of the first American pontiff Pope Leo XIV, his sacred sartorial choices tell a story of his vision for the Roman Catholic Church.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: A Year of Pope Leo XIV, a Year of Pope-Fits...",
+      "score": 0,
+      "published": "2026-05-13T10:46:34+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "60ca0ed01b78",
+      "title": "Taylor Swift Swaps Her Favorite LBD for a Bridal LWD",
+      "link": "https://www.vogue.com/article/taylor-swift-little-white-dress",
+      "summary": "Making the most of her time back in New York, Taylor Swift presented a springtime-ready twist on her tried and true staple.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Taylor Swift Swaps Her Favorite LBD for a Bridal LWD — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-05-13T10:44:09+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "93ea8d00497f",
+      "title": "We Predicted This Divisive Y2K Jacket Trend Would Return, Here's How Margot and Bella are Wearing It For Summer",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/military-jacket-trend-bella-hadid-margot-robbie-2026",
+      "summary": "Get ahead.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-05-13T10:36:38+00:00",
       "discovered_via": "feed"
     },
     {
@@ -233,20 +331,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "746a3bb4b867",
-      "title": "\"Nothing Too High\": Maude Apatow on Blush Sandwiching, Euphoria Looks, and Her Mom's Best Beauty Tip",
-      "link": "https://www.whowhatwear.com/beauty/makeup/maude-apatow-makeup-staples-2026",
-      "summary": "Plus, all her designer makeup staples.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: \"Nothing Too High\": Maude Apatow on Blush Sandwiching, Euphoria Looks,...",
-      "score": 2,
-      "published": "2026-05-13T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f13be9257097",
       "title": "Insiders Swear This Fragrance Hack Makes Any Perfume Last Longer—I'm Exposing the Secret",
       "link": "https://www.whowhatwear.com/beauty/fragrance/best-fragrance-primers",
@@ -261,45 +345,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "423d300ac7d4",
-      "title": "No, Not Ballet Flats—This Summer I'll be Building my Outfits Around This Classic Sandal Instead",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/summer-outfits-with-birkenstocks-2026",
-      "summary": "A summer wardrobe staple.",
+      "id": "746a3bb4b867",
+      "title": "\"Nothing Too High\": Maude Apatow on Blush Sandwiching, Euphoria Looks, and Her Mom's Best Beauty Tip",
+      "link": "https://www.whowhatwear.com/beauty/makeup/maude-apatow-makeup-staples-2026",
+      "summary": "Plus, all her Prada Beauty staples.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: No, Not Ballet Flats—This Summer I'll be Building my Outfits Around Th...",
+      "angle": "Fashion Intelligence: \"Nothing Too High\": Maude Apatow on Blush Sandwiching, Euphoria Looks,...",
       "score": 1,
-      "published": "2026-05-13T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1e172ae24940",
-      "title": "I'm Shopping for Summer with a $100 Budget—30 Beauty and Fashion Items In My Cart",
-      "link": "https://www.whowhatwear.com/fashion/shopping/under-100-finds",
-      "summary": "Starting at $10.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: I'm Shopping for Summer with a $100 Budget—30 Beauty and Fashion Items...",
-      "score": 2,
-      "published": "2026-05-13T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "536e582803e9",
-      "title": "\"Pretty and Chic\" Is How I'd Describe These 30 On-Trend Nordstrom, Zara, and J.Crew Items",
-      "link": "https://www.whowhatwear.com/fashion/shopping/pretty-nordstrom-zara-j-crew-fashion-summer-2026",
-      "summary": "From stunning dresses to cool sandals.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-05-13T07:00:00+00:00",
+      "published": "2026-05-13T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -331,6 +387,48 @@
       "discovered_via": "feed"
     },
     {
+      "id": "536e582803e9",
+      "title": "\"Pretty and Chic\" Is How I'd Describe These 30 On-Trend Nordstrom, Zara, and J.Crew Items",
+      "link": "https://www.whowhatwear.com/fashion/shopping/pretty-nordstrom-zara-j-crew-fashion-summer-2026",
+      "summary": "From stunning dresses to cool sandals.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-05-13T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1e172ae24940",
+      "title": "I'm Shopping for Summer with a $100 Budget—30 Beauty and Fashion Items In My Cart",
+      "link": "https://www.whowhatwear.com/fashion/shopping/under-100-finds",
+      "summary": "Starting at $10.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: I'm Shopping for Summer with a $100 Budget—30 Beauty and Fashion Items...",
+      "score": 2,
+      "published": "2026-05-13T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "423d300ac7d4",
+      "title": "No, Not Ballet Flats—This Summer I'll be Building my Outfits Around This Classic Sandal Instead",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/summer-outfits-with-birkenstocks-2026",
+      "summary": "A summer wardrobe staple.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: No, Not Ballet Flats—This Summer I'll be Building my Outfits Around Th...",
+      "score": 1,
+      "published": "2026-05-13T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "cd595d0cbb46",
       "title": "Tastemakers Agree—These Are the 7 Chicest Colours to Wear on Your Toes for Summer",
       "link": "https://www.whowhatwear.com/beauty/nails/summer-pedicure-trends-2026",
@@ -356,6 +454,20 @@
       "angle": "Fashion Intelligence: The Chicest Women I Know All Get Their Summer Dresses From This High S...",
       "score": 3,
       "published": "2026-05-13T05:55:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4784d9f1e126",
+      "title": "Register Now | The Editors’ Table: New York",
+      "link": "https://www.vogue.com/article/the-editors-table-new-york-2026",
+      "summary": "Executive-member only",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Register Now | The Editors’ Table: New York...",
+      "score": 0,
+      "published": "2026-05-13T02:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -793,20 +905,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "acb12924a24b",
-      "title": "Take It From Taylor Swift: Pop Stars Love a Babydoll Dress",
-      "link": "https://www.vogue.com/article/taylor-swift-babydoll-dress-olivia-rodrigo-sabrina-carpenter",
-      "summary": "Between Olivia Rodrigo’s riot grrrl influences, Sabrina Carpenter’s 1960s throwbacks, and now Taylor Swift’s glitzier take, the babydoll dress is alive and well amongst the pop star set.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Take It From Taylor Swift: Pop Stars Love a Babydoll Dress...",
-      "score": 1,
-      "published": "2026-05-12T15:25:36+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "9fcdf047a3df",
       "title": "A New Exhibition Proves That Fashion Was Always on Dalí’s Mind",
       "link": "https://www.harpersbazaar.com/fashion/a71232907/di-donna-gallery-exhibition-fashion-dali-schiaparelli-chanel/",
@@ -818,34 +916,6 @@
       "angle": "Fashion Intelligence: A New Exhibition Proves That Fashion Was Always on Dalí’s Mind...",
       "score": 2,
       "published": "2026-05-12T15:22:28+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d7ca0bb4ab72",
-      "title": "The Brooklyn Museum’s Artist’s Ball Honored Iris van Herpen—and Brought Out A Fashion-Obsessed Crowd",
-      "link": "https://www.vogue.com/slideshow/brooklyn-museum-artists-ball-iris-van-herpen",
-      "summary": "On the second Monday in May, it was time for another fashion-filled night at the museum. This time, artists, designers, curators, and art fans hot-footed it to Brooklyn for the annual Artist’s Ball. And once again, the evening was rooted in the truth that fashion is an art form. The sentiment was reinforced by the work",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: The Brooklyn Museum’s Artist’s Ball Honored Iris van Herpen—and Brough...",
-      "score": 2,
-      "published": "2026-05-12T15:19:25+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7b98a5590bc7",
-      "title": "On the Podcast: Loewe’s Jack McCollough and Lazaro Hernandez on Moving to Paris, Their First Menswear Collection, and the Loewe Craft Prize",
-      "link": "https://www.vogue.com/article/podcast-loewe-jack-mccollough-lazaro-hernandez",
-      "summary": "Loewe's Jack McCollough and Lazaro Hernandez on The Run Through podcast talking about craft, their first menswear collection, and life in Paris.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 4,
-      "published": "2026-05-12T15:14:58+00:00",
       "discovered_via": "feed"
     },
     {
@@ -944,34 +1014,6 @@
       "angle": "Fashion Intelligence: George Saunders Never Gives Up on a Character...",
       "score": 0,
       "published": "2026-05-12T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "763773cb13b0",
-      "title": "The Best Off-Duty Looks From the 2026 Cannes Film Festival",
-      "link": "https://www.vogue.com/slideshow/2026-cannes-film-festival-off-duty-looks",
-      "summary": "There is no such thing as an off-duty moment—at least not during the Cannes Film Festival, where paparazzi are stationed in airport arrivals, hotel foyers, and beachfronts.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The Best Off-Duty Looks From the 2026 Cannes Film Festival...",
-      "score": 0,
-      "published": "2026-05-12T13:48:43+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0f79b2c15252",
-      "title": "With the Jones Road Foundation Stick, Bobbi Brown Nails the Modern Skin Finish",
-      "link": "https://www.vogue.com/article/jones-road-foundation-stick-launch",
-      "summary": "The latest from Jones Road, the Your Skin Foundation Stick has a satin finish with a breathable, lightweight feel, while still offering medium-to-full coverage.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: With the Jones Road Foundation Stick, Bobbi Brown Nails the Modern Ski...",
-      "score": 0,
-      "published": "2026-05-12T13:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1115,16 +1157,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "abf00212d5a0",
-      "title": "No Skinny Jeans Here—European It Girls Know These 4 Pant Trends Are Key to Fashionable Outfits",
-      "link": "https://www.whowhatwear.com/fashion/trends/european-fashion-pants-trends-2026",
-      "summary": "Modern and cool styles.",
+      "id": "8cb6023cdbc6",
+      "title": "We Already Know 7 Trends Every Ahead-of-the-Curve Fashion Person Will Shop for Fall 2026",
+      "link": "https://www.whowhatwear.com/fashion/runway/net-a-porter-fall-2026-trends",
+      "summary": "Here's the download.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 4,
+      "score": 2,
       "published": "2026-05-12T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1143,16 +1185,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8cb6023cdbc6",
-      "title": "We Already Know 7 Trends Every Ahead-of-the-Curve Fashion Person Will Shop for Fall 2026",
-      "link": "https://www.whowhatwear.com/fashion/runway/net-a-porter-fall-2026-trends",
-      "summary": "Here's the download.",
+      "id": "abf00212d5a0",
+      "title": "No Skinny Jeans Here—European It Girls Know These 4 Pant Trends Are Key to Fashionable Outfits",
+      "link": "https://www.whowhatwear.com/fashion/trends/european-fashion-pants-trends-2026",
+      "summary": "Modern and cool styles.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
+      "score": 4,
       "published": "2026-05-12T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1605,20 +1647,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "233f107347be",
-      "title": "I Live in NYC—These Are the 2026 Heel Trends I'm Seeing Everywhere",
-      "link": "https://www.whowhatwear.com/fashion/shoes/high-heel-shoe-trends-2026",
-      "summary": "Trust me. I'm a local.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-05-11T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "66c3a3cbdaf1",
       "title": "EJAE Wears a Baby-Blue Basque-Waist Gown Covered in Mother of Pearl to the 2026 Gold Gala",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71262825/ejae-red-carpet-photos-gold-gala-2026/",
@@ -1686,20 +1714,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-05-10T17:19:54+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "dd1b9eb2abcb",
-      "title": "Every Celebrity Red-Carpet Look at the 2026 Gold Gala",
-      "link": "https://www.harpersbazaar.com/celebrity/red-carpet-dresses/a71259580/every-look-red-carpet-photos-gold-gala-2026/",
-      "summary": "From Priyanka Chopra to EJAE to Eileen Gu",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-05-10T14:00:32+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2403,20 +2417,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "723fec2e4a8c",
-      "title": "Hermès Birkin Bags Now Renting for $800/Month",
-      "link": "https://fashionista.com/2026/04/vivrelle-privee-membership-launch-birkin",
-      "summary": "Vivrelle has launched Privée, an invite-only membership tier offering ultra-luxury items.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Hermès Birkin Bags Now Renting for $800/Month...",
-      "score": 2,
-      "published": "2026-04-30T19:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "1858e2c75644",
       "title": "Men’s Handbags Are Having a Moment — The 8 Best to Buy in 2026",
       "link": "https://www.fashionbeans.com/article/best-mens-handbags-shoulder-bags-2026/",
@@ -2851,6 +2851,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "b33bfb7a6cf5",
+      "title": "7 Sophisticated Dresses for Jeddah’s Seaside Dinner Invitations",
+      "link": "https://www.azafashions.com/blog/jeddah-seaside-dinner-dresses/?utm_source=rss&utm_medium=rss&utm_campaign=jeddah-seaside-dinner-dresses",
+      "summary": "Jeddah women have always had an innate sense of style;&#160;sophisticated, intentional, deeply graceful. But when it comes to&#160;refined evening outings, the trusted&#160;kaftan&#160;can only take you so far. The waterfront dinner&#8230; The post 7 Sophisticated Dresses for Jeddah&#8217;s Seaside Dinner Invitations a",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 7 Sophisticated Dresses for Jeddah’s Seaside Dinner Invitations...",
+      "score": 2,
+      "published": "2026-05-12T18:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "b8b75b55ef8d",
       "title": "The New Saudi Eveningwear Mood Is Modest Satin",
       "link": "https://www.azafashions.com/blog/modest-satin-dresses-in-saudi/?utm_source=rss&utm_medium=rss&utm_campaign=modest-satin-dresses-in-saudi",
@@ -2975,70 +2989,56 @@
       "score": 3,
       "published": "2026-05-08T17:22:51+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "bef6e4ca42e6",
-      "title": "Busy Wedding Season? Here’s How to Pick the Best Outfits Online with Aza’s Virtual Try-On",
-      "link": "https://www.azafashions.com/blog/virtual-try-on-wedding-season/?utm_source=rss&utm_medium=rss&utm_campaign=virtual-try-on-wedding-season",
-      "summary": "You just checked your messages, and another invitation is staring back at you. Wedding season is here, and your calendar is packed. Between balancing work, managing your social life, and&#8230; The post Busy Wedding Season? Here&#8217;s How to Pick the Best Outfits Online with Aza&#8217;s Virtual Try-On appeared first ",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Bridal Edit: Busy Wedding Season? Here’s How to Pick the Best Outfits Online with Aza’s Virtual Try-On — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-05-08T09:53:24+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "hardik pandya news",
+      "term": "डॉलर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "world population",
+      "term": "రాజకీయాలు",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "retirement",
+      "term": "ચોમાસું",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sensex share bazar",
+      "term": "अडानी पोर्ट्स एंड स्पेशल इकनॉमिक ज़ोन लिमिटेड",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "kerala cm news",
+      "term": "पेट्रोल डीजल न्यूज़",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "വി ഡി സതീശന്",
+      "term": "raipur cricket stadium weather",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "rcb kkr live streaming",
+      "term": "సువెందు అధికారి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "पंतप्रधान",
+      "term": "dhurandhar the revenge",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "vijay astrologer",
+      "term": "wipro",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "வைகோ",
+      "term": "aishwarya rai cannes 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

@@ -1,13 +1,41 @@
 {
-  "generated_at": "2026-05-13T07:50:37.879236+00:00",
+  "generated_at": "2026-05-13T10:29:30.503544+00:00",
   "owned_count": 10,
-  "competitor_count": 29,
-  "industry_count": 173,
+  "competitor_count": 28,
+  "industry_count": 175,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "ee1d22940eb4",
+      "title": "Karla Spetic Australia Resort 2027",
+      "link": "https://www.vogue.com/fashion-shows/australia-resort-2027/karla-spetic",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Karla Spetic Australia Resort 2027...",
+      "score": 0,
+      "published": "2026-05-13T10:28:29+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6e289441d4e5",
+      "title": "Esse Studios Australia Resort 2027",
+      "link": "https://www.vogue.com/fashion-shows/australia-resort-2027/esse-studios",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Esse Studios Australia Resort 2027...",
+      "score": 0,
+      "published": "2026-05-13T10:28:29+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "cf3598c72ed3",
       "title": "Sachin & Babi Pre-Fall 2026",
@@ -19,7 +47,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Sachin & Babi Pre-Fall 2026...",
       "score": 0,
-      "published": "2026-05-13T07:47:25+00:00",
+      "published": "2026-05-13T10:28:29+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +61,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Rag & Bone Resort 2027...",
       "score": 0,
-      "published": "2026-05-13T07:47:25+00:00",
+      "published": "2026-05-13T10:28:29+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +75,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Simon Miller Pre-Fall 2026...",
       "score": 0,
-      "published": "2026-05-13T07:47:25+00:00",
+      "published": "2026-05-13T10:28:29+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +89,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Kith Pre-Fall 2026 Menswear...",
       "score": 2,
-      "published": "2026-05-13T07:47:25+00:00",
+      "published": "2026-05-13T10:28:29+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,35 +103,161 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Francisco Cancino Mexico Fall 2026...",
       "score": 0,
-      "published": "2026-05-13T07:47:25+00:00",
+      "published": "2026-05-13T10:28:29+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "c4b3dd721a41",
-      "title": "Barbara Tfank Fall 2026 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/fall-2026-ready-to-wear/barbara-tfank",
-      "summary": "",
+      "id": "e90e9d5c55f7",
+      "title": "57 Thoughts I Had While Watching Lena Dunham’s Debut Film, ‘Creative Nonfiction’",
+      "link": "https://www.vogue.com/article/57-thoughts-i-had-while-watching-creative-nonfiction",
+      "summary": "In honor of Lena Dunham's 40th birthday, we're throwing it back to her very first film.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Barbara Tfank Fall 2026 Ready-to-Wear...",
-      "score": 1,
-      "published": "2026-05-13T07:47:25+00:00",
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 0,
+      "published": "2026-05-13T10:25:45+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "2a29b8b6736b",
-      "title": "Alix Higgins Australia Resort 2027",
-      "link": "https://www.vogue.com/fashion-shows/australia-resort-2027/alix-higgins",
-      "summary": "",
+      "id": "0e9d5d2fce26",
+      "title": "30+ Chic Swimsuit Cover-Ups for the Beach and Beyond",
+      "link": "https://www.vogue.com/article/swimsuit-cover-up",
+      "summary": "Shop Vogue’s edit of the best swimsuit cover-ups to wear to the beach and beyond, from chic caftans and dresses to easygoing sarongs and pull-on pants.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Alix Higgins Australia Resort 2027...",
+      "angle": "Fashion Intelligence: 30+ Chic Swimsuit Cover-Ups for the Beach and Beyond...",
+      "score": 2,
+      "published": "2026-05-13T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "20d50266e573",
+      "title": "44 Best Wedding Guest Dresses in 2026 for Every Type of Ceremony",
+      "link": "https://www.vogue.com/article/best-wedding-guest-dresses",
+      "summary": "Shop the best wedding guest dresses for every kind of ceremony and dress code—from a garden wedding to a beach wedding and courthouse ceremony.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: 44 Best Wedding Guest Dresses in 2026 for Every Type of Ceremony — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-05-13T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "15b21138d4e0",
+      "title": "Take Notes: The Gen Z Hollywood Set Knows Low-Rise Jeans Look Coolest With This Y2K Trend",
+      "link": "https://www.whowhatwear.com/fashion/trends/gen-z-low-rise-y2k-top-trend",
+      "summary": "Pop star approved.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-05-13T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8e6b5f3b06c1",
+      "title": "My Mom and I Both Love TJ Maxx and Marshalls—30 Hidden Gems We Can't Stop Thinking About",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-tj-maxx-and-marshalls-new-arrivals-may-2026",
+      "summary": "Looks like the polka-dot trend is going strong.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: My Mom and I Both Love TJ Maxx and Marshalls—30 Hidden Gems We Can't S...",
+      "score": 1,
+      "published": "2026-05-13T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a72705079e1e",
+      "title": "The 11 Best Teeth Whitening Kits for a Brighter Smile",
+      "link": "https://www.harpersbazaar.com/beauty/health/g32176566/best-teeth-whitening-kits/",
+      "summary": "Featuring top picks from Crest, Auraglow, Colgate, and more",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The 11 Best Teeth Whitening Kits for a Brighter Smile...",
       "score": 0,
-      "published": "2026-05-13T07:47:25+00:00",
+      "published": "2026-05-13T09:51:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4cb1ed2ce7c2",
+      "title": "The 13 Best Shower Oils for Your Softest Skin Yet",
+      "link": "https://www.harpersbazaar.com/beauty/skin-care/g63446164/best-shower-oils/",
+      "summary": "Moisturize and cleanse in one simple step",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: The 13 Best Shower Oils for Your Softest Skin Yet...",
+      "score": 1,
+      "published": "2026-05-13T09:41:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fdfeb4481363",
+      "title": "Not Skinny Jeans—Fashion People in Their 40s Are Wearing This Dated Denim Trend With Ballet Flats",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/patch-pocket-jeans-ballet-flats-outfit-katie-holmes-uk",
+      "summary": "Spotted in NYC.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-05-13T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f9726cbe1f7d",
+      "title": "Not Puma, Not Adidas—12 Lesser-Known Trainer Brands to Shop Instead This Summer",
+      "link": "https://www.whowhatwear.com/fashion/shoes/underrated-trainer-brands-2026",
+      "summary": "The right step forward.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Not Puma, Not Adidas—12 Lesser-Known Trainer Brands to Shop Instead Th...",
+      "score": 1,
+      "published": "2026-05-13T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "746a3bb4b867",
+      "title": "\"Nothing Too High\": Maude Apatow on Blush Sandwiching, Euphoria Looks, and Her Mom's Best Beauty Tip",
+      "link": "https://www.whowhatwear.com/beauty/makeup/maude-apatow-makeup-staples-2026",
+      "summary": "Plus, all her designer makeup staples.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: \"Nothing Too High\": Maude Apatow on Blush Sandwiching, Euphoria Looks,...",
+      "score": 2,
+      "published": "2026-05-13T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f13be9257097",
+      "title": "Insiders Swear This Fragrance Hack Makes Any Perfume Last Longer—I'm Exposing the Secret",
+      "link": "https://www.whowhatwear.com/beauty/fragrance/best-fragrance-primers",
+      "summary": "Smellmaxxing, but make it chic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Insiders Swear This Fragrance Hack Makes Any Perfume Last Longer—I'm E...",
+      "score": 1,
+      "published": "2026-05-13T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -821,20 +975,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "891cfde6d1f9",
-      "title": "Signals: A Consultancy Rethinking How Photographic Work Lives in the World",
-      "link": "https://www.vogue.com/article/signals-a-consultancy-rethinking-how-photographic-work-lives-in-the-world",
-      "summary": "A conversation with Myrtille Beauvert and Elsa Seignol on supporting the life of photographic projects beyond their production.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Signals: A Consultancy Rethinking How Photographic Work Lives in the W...",
-      "score": 0,
-      "published": "2026-05-12T13:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "956686e4071c",
       "title": "How I Shop: Ciara Miller",
       "link": "https://fashionista.com/2026/05/ciara-miller-fashion-style-interview",
@@ -933,20 +1073,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "cb9ba102220d",
-      "title": "The Vogue Business AI Tracker",
-      "link": "https://www.vogue.com/story/technology/the-vogue-business-ai-tracker",
-      "summary": "Vogue Business brings you a weekly update of the most interesting stories in the world of AI that you need on your radar.Stay tuned as we spotlight AI initiatives in the fashion and beauty industry each week.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Vogue Business AI Tracker...",
-      "score": 2,
-      "published": "2026-05-12T10:55:11+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2eebae4fc195",
       "title": "Minimalists Know That This '90s Shoe and Dress Pairing Never Fails to Look Expensive",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/black-minidress-beige-heels-outfit-daisy-edgar-jones-2026",
@@ -958,20 +1084,6 @@
       "angle": "Fashion Intelligence: Minimalists Know That This '90s Shoe and Dress Pairing Never Fails to ...",
       "score": 1,
       "published": "2026-05-12T10:30:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7e4c106f60c7",
-      "title": "The 24 Best Travel Pants for Every Style and Destination",
-      "link": "https://www.vogue.com/article/best-travel-pants-for-women",
-      "summary": "From linen trousers to colorful cotton and relaxed denim, shop the very best travel pants before your next trip.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The 24 Best Travel Pants for Every Style and Destination...",
-      "score": 1,
-      "published": "2026-05-12T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1003,16 +1115,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8cb6023cdbc6",
-      "title": "We Already Know 7 Trends Every Ahead-of-the-Curve Fashion Person Will Shop for Fall 2026",
-      "link": "https://www.whowhatwear.com/fashion/runway/net-a-porter-fall-2026-trends",
-      "summary": "Here's the download.",
+      "id": "abf00212d5a0",
+      "title": "No Skinny Jeans Here—European It Girls Know These 4 Pant Trends Are Key to Fashionable Outfits",
+      "link": "https://www.whowhatwear.com/fashion/trends/european-fashion-pants-trends-2026",
+      "summary": "Modern and cool styles.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
+      "score": 4,
       "published": "2026-05-12T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1031,16 +1143,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "abf00212d5a0",
-      "title": "No Skinny Jeans Here—European It Girls Know These 4 Pant Trends Are Key to Fashionable Outfits",
-      "link": "https://www.whowhatwear.com/fashion/trends/european-fashion-pants-trends-2026",
-      "summary": "Modern and cool styles.",
+      "id": "8cb6023cdbc6",
+      "title": "We Already Know 7 Trends Every Ahead-of-the-Curve Fashion Person Will Shop for Fall 2026",
+      "link": "https://www.whowhatwear.com/fashion/runway/net-a-porter-fall-2026-trends",
+      "summary": "Here's the download.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 4,
+      "score": 2,
       "published": "2026-05-12T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1507,48 +1619,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c5925efa4d14",
-      "title": "Sandal Season Starts Now—6 Pedicure Colours to Bookmark for Your Toes This Month",
-      "link": "https://www.whowhatwear.com/beauty/nails/may-pedicure-colour-trends-2026",
-      "summary": "So chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-05-11T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3eb37628f0e1",
-      "title": "London Girls Always Get Summer Style Right—These Are the 5 Trends They're Already Wearing",
-      "link": "https://www.whowhatwear.com/fashion/trends/summer-london-fashion-trends-2026",
-      "summary": "A London-summer style guide.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-05-11T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4643a7562fdb",
-      "title": "Thought You Could Only Wear Sandals in Summer? These 5 Elegant Shoe Trends Will Make You Think Again",
-      "link": "https://www.whowhatwear.com/fashion/shoes/anti-sandals-trends-summer-2026",
-      "summary": "Step into summer.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-05-11T05:15:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "66c3a3cbdaf1",
       "title": "EJAE Wears a Baby-Blue Basque-Waist Gown Covered in Mother of Pearl to the 2026 Gold Gala",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71262825/ejae-red-carpet-photos-gold-gala-2026/",
@@ -1619,20 +1689,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "64c8770bfdfd",
-      "title": "6 Outfit Ideas With Shorts That Will Make You Look Like a Fashion Person",
-      "link": "https://www.whowhatwear.com/fashion/trends/shorts-trends-outfit-ideas-2026",
-      "summary": "Here's how to pull off the shorts trends of 2026.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 6 Outfit Ideas With Shorts That Will Make You Look Like a Fashion Pers...",
-      "score": 3,
-      "published": "2026-05-10T14:52:50+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "dd1b9eb2abcb",
       "title": "Every Celebrity Red-Carpet Look at the 2026 Gold Gala",
       "link": "https://www.harpersbazaar.com/celebrity/red-carpet-dresses/a71259580/every-look-red-carpet-photos-gold-gala-2026/",
@@ -1644,34 +1700,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-05-10T14:00:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9166eaaa9eb8",
-      "title": "Olivia Rodrigo Performs at Spotify’s Billions Club in a Babydoll Minidress and Knee-High Platform Docs",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a71259459/olivia-rodrigo-spotify-billions-club-barcelona-babydoll-dress-dr-martens-boots/",
-      "summary": "It’s all about balance",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Olivia Rodrigo Performs at Spotify’s Billions Club in a Babydoll Minid...",
-      "score": 1,
-      "published": "2026-05-09T19:42:25+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2c5e17171875",
-      "title": "Sabrina Carpenter’s Stacked Jacquemus Heels Steal the Show",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a71259188/sabrina-carpenter-jacquemus-les-doubles-heels/",
-      "summary": "She heads to Broadway for Cats: The Jellicle Ball",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Sabrina Carpenter’s Stacked Jacquemus Heels Steal the Show...",
-      "score": 1,
-      "published": "2026-05-09T18:21:51+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2431,6 +2459,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "fdc45e614144",
+      "title": "Why Anarkali Suit Are Back as a Must-Have Ethnic Style?",
+      "link": "https://blog.kalkifashion.com/why-anarkali-suits-are-back-as-a-must-have-ethnic-style/",
+      "summary": "I am sure you, too, must be smitten by the gorgeous Anarkali suits worn by Madhubala, Madhuri Dixit, and Deepika Padukone in famous Bollywood movies like Umrao Jaan, Devdas, and Ramleela. And if you think anarkalis have become outdated and out of fashion, let’s get our facts correct, my friend!! Anarkali suits have mad",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Why Anarkali Suit Are Back as a Must-Have Ethnic Style?...",
+      "score": 5,
+      "published": "2026-05-13T08:53:10+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "7a1ffa04f9d5",
       "title": "Why Some Lehengas Feel Timeless While Others Don’t",
       "link": "https://blog.kalkifashion.com/why-some-lehengas-feel-timeless/",
@@ -2610,20 +2652,6 @@
       "angle": "Fashion Intelligence: How the Right Saree Border Can Transform Your Entire Outfit...",
       "score": 6,
       "published": "2026-04-28T08:17:17+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bd45cd429808",
-      "title": "Why Some Lehengas Feel Timeless While Others Don’t",
-      "link": "https://blog.kalkifashion.com/why-some-lehengas-feel-timeless-while-others-dont/",
-      "summary": "Have you experienced how some lehengas feel different the moment you see them? They appeal as rich, magical, and unforgettable, while others seem ordinary to you. Do you know what makes you feel that way? It’s the fit, the fabric, and the design of the lehenga for women that make it beautiful. A well-designed lehenga [",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Why Some Lehengas Feel Timeless While Others Don’t — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-04-27T11:29:23+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2823,20 +2851,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "569d3999f66d",
-      "title": "Which Paithani silk saree designs are trending for weddings",
-      "link": "https://www.indianclothstore.com/blog/paithani-silk-saree-designs-trending-for-weddings",
-      "summary": "Indian weddings are all about color, heritage, and beautiful attire coming together in perfect harmony. Out of all the different varieties of silk sarees worn during Indian weddings, paithani silk sarees continue to hold their special place in Indian wedding attire. Brides, bridesmaids, and wedding guests wear this sil",
-      "source": "Indian Cloth Store",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Which Paithani silk saree designs are trending for weddings — A Complete Style Guide",
-      "score": 5,
-      "published": "2026-03-14T08:29:02+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b8b75b55ef8d",
       "title": "The New Saudi Eveningwear Mood Is Modest Satin",
       "link": "https://www.azafashions.com/blog/modest-satin-dresses-in-saudi/?utm_source=rss&utm_medium=rss&utm_campaign=modest-satin-dresses-in-saudi",
@@ -2979,52 +2993,52 @@
   ],
   "trends": [
     {
-      "term": "राहुल गांधी",
+      "term": "hardik pandya news",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "सुनील तटकरे",
+      "term": "world population",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "madhav tiwari ipl",
+      "term": "retirement",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cipla share price",
+      "term": "sensex share bazar",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sheema kermani",
+      "term": "kerala cm news",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "money control",
+      "term": "വി ഡി സതീശന്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ఆదాయపు పన్ను",
+      "term": "rcb kkr live streaming",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "vi share price",
+      "term": "पंतप्रधान",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "தமிழ்நாடு அரசு",
+      "term": "vijay astrologer",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hpcl share price",
+      "term": "வைகோ",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

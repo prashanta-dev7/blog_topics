@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-14T07:42:46.256017+00:00",
+  "generated_at": "2026-05-14T10:15:27.365245+00:00",
   "owned_count": 10,
   "competitor_count": 28,
-  "industry_count": 181,
+  "industry_count": 180,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Lee Mathews Australia Resort 2027...",
       "score": 0,
-      "published": "2026-05-14T07:37:32+00:00",
+      "published": "2026-05-14T10:10:23+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Iordanes Spyridon Gogos Australia Resort 2027...",
       "score": 0,
-      "published": "2026-05-14T07:37:32+00:00",
+      "published": "2026-05-14T10:10:23+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,63 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Christian Dior Resort 2027...",
       "score": 0,
-      "published": "2026-05-14T07:37:32+00:00",
+      "published": "2026-05-14T10:10:23+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c36da6328840",
+      "title": "Feels Like a Steal: Shop Vogue Favorite Under-$300 Finds",
+      "link": "https://www.vogue.com/article/feels-like-a-steal",
+      "summary": "Love a good fashion find? Same. And while there’s plenty we recommend on a daily basis, what makes us play for keeps is in the name: when it feels like a steal.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Feels Like a Steal: Shop Vogue Favorite Under-$300 Finds...",
+      "score": 1,
+      "published": "2026-05-14T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ca404c653589",
+      "title": "Instead of Denim, the Chicest Women In Their 60s and 20s Are Wearing This Spring Jacket With Leggings and Trousers",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/bomber-jacket-trend-demi-moore-lila-moss-2026",
+      "summary": "I'll follow their lead.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-05-14T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "06e4dbacde51",
+      "title": "It's Time for Beauty Spring Cleaning—Everything Our Editors Are Ditching and Keeping Right Now",
+      "link": "https://www.whowhatwear.com/beauty/beauty-editor-favorite-spring-products",
+      "summary": "From curl-defining creams to seasonal scents.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: It's Time for Beauty Spring Cleaning—Everything Our Editors Are Ditchi...",
+      "score": 2,
+      "published": "2026-05-14T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0a14998a090c",
+      "title": "I’m Officially Only Wearing Dresses Until September—9 Zara, COS and Mango Styles Selling Fast",
+      "link": "https://www.whowhatwear.com/fashion/shopping/zara-cos-mango-summer-dresses-2026",
+      "summary": "Buh-bye, jeans.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-05-14T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -160,20 +216,6 @@
       "angle": "Fashion Intelligence: Whether Your Style Leans More Towards Gen Z or Millennial, You Need to...",
       "score": 2,
       "published": "2026-05-14T06:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "05eae1aacd4a",
-      "title": "Must address unilateral coercive steps, sanctions inconsistent with law: Jaishankar",
-      "link": "https://www.indiatoday.in/india/story/must-address-unilateral-coercive-measures-sanctions-inconsistent-with-law-s-jaishankar-at-brics-meet-2911546-2026-05-14?utm_source=rss",
-      "summary": "Must address unilateral coercive steps, sanctions inconsistent with law: Jaishankar",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Must address unilateral coercive steps, sanctions inconsistent with la...",
-      "score": 1,
-      "published": "2026-05-14T06:18:58+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1087,20 +1129,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "550ca5ac6c43",
-      "title": "A Year of Pope Leo XIV, a Year of Pope-Fits",
-      "link": "https://www.vogue.com/article/a-year-of-pope-leo-xiv-in-fashion",
-      "summary": "One year on from the election of the first American pontiff Pope Leo XIV, his sacred sartorial choices tell a story of his vision for the Roman Catholic Church.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: A Year of Pope Leo XIV, a Year of Pope-Fits...",
-      "score": 0,
-      "published": "2026-05-13T10:46:34+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "93ea8d00497f",
       "title": "We Predicted This Divisive Y2K Jacket Trend Would Return—Here's How Margot and Bella Are Wearing It for Summer",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/military-jacket-trend-bella-hadid-margot-robbie-2026",
@@ -1213,44 +1241,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "536e582803e9",
-      "title": "\"Pretty and Chic\" Is How I'd Describe These 30 On-Trend Nordstrom, Zara, and J.Crew Items",
-      "link": "https://www.whowhatwear.com/fashion/shopping/pretty-nordstrom-zara-j-crew-fashion-summer-2026",
-      "summary": "From stunning dresses to cool sandals.",
+      "id": "1e172ae24940",
+      "title": "I'm Shopping for Summer With a $100 Budget—30 Beauty and Fashion Items in My Cart",
+      "link": "https://www.whowhatwear.com/fashion/shopping/under-100-finds",
+      "summary": "Starting at $10.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: I'm Shopping for Summer With a $100 Budget—30 Beauty and Fashion Items...",
       "score": 2,
-      "published": "2026-05-13T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a56af3cb282c",
-      "title": "If You're Wearing This Jewelry Trend, I Know You're a Fashion Person",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-long-necklaces-spring-summer-2026",
-      "summary": "Perfect to amp up your summer look.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-05-13T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a7c249974cfb",
-      "title": "I'm a Podiatrist—These Are the Wedding Guest Shoes I Actually Recommend",
-      "link": "https://www.whowhatwear.com/living/wedding/most-comfortable-wedding-guest-shoes",
-      "summary": "If you like pretty yet comfortable shoes, read this.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: I'm a Podiatrist—These Are the Wedding Guest Shoes I Actually Recommend — A Complete Style Guide",
-      "score": 1,
       "published": "2026-05-13T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1269,15 +1269,43 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1e172ae24940",
-      "title": "I'm Shopping for Summer With a $100 Budget—30 Beauty and Fashion Items in My Cart",
-      "link": "https://www.whowhatwear.com/fashion/shopping/under-100-finds",
-      "summary": "Starting at $10.",
+      "id": "a7c249974cfb",
+      "title": "I'm a Podiatrist—These Are the Wedding Guest Shoes I Actually Recommend",
+      "link": "https://www.whowhatwear.com/living/wedding/most-comfortable-wedding-guest-shoes",
+      "summary": "If you like pretty yet comfortable shoes, read this.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: I'm Shopping for Summer With a $100 Budget—30 Beauty and Fashion Items...",
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: I'm a Podiatrist—These Are the Wedding Guest Shoes I Actually Recommend — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-05-13T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a56af3cb282c",
+      "title": "If You're Wearing This Jewelry Trend, I Know You're a Fashion Person",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-long-necklaces-spring-summer-2026",
+      "summary": "Perfect to amp up your summer look.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-05-13T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "536e582803e9",
+      "title": "\"Pretty and Chic\" Is How I'd Describe These 30 On-Trend Nordstrom, Zara, and J.Crew Items",
+      "link": "https://www.whowhatwear.com/fashion/shopping/pretty-nordstrom-zara-j-crew-fashion-summer-2026",
+      "summary": "From stunning dresses to cool sandals.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-05-13T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1728,48 +1756,6 @@
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 1,
       "published": "2026-05-12T11:04:25+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2eebae4fc195",
-      "title": "Minimalists Know That This '90s Shoe and Dress Pairing Never Fails to Look Expensive",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/black-minidress-beige-heels-outfit-daisy-edgar-jones-2026",
-      "summary": "Always elevated.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Minimalists Know That This '90s Shoe and Dress Pairing Never Fails to ...",
-      "score": 1,
-      "published": "2026-05-12T10:30:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "824eed1c5477",
-      "title": "The Ballet-Flats Color It Girls Are Wearing With Summer Pants Isn't Black or Brown—It's Much Cooler",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/white-ballet-flats-trend-celebrities",
-      "summary": "Get used to seeing this shoe trend everywhere.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-05-12T09:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4cc195ca9936",
-      "title": "White Blouses Are Trending: Here's How the Most Elegant Over-50s Are Styling Them",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/white-cotton-blouse-two-piece-outfit-pamela-anderson-2026",
-      "summary": "So chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-05-12T08:32:02+00:00",
       "discovered_via": "feed"
     },
     {
@@ -3077,52 +3063,52 @@
   ],
   "trends": [
     {
-      "term": "hal share price",
+      "term": "भोजपुरी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sarkari result 10th hbse",
+      "term": "மழை",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ஊழியர் வருங்கால வைப்பு நிதி, இந்தியா",
+      "term": "सोनू कुमार राय",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "brahmos",
+      "term": "indian army",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "கருப்பு",
+      "term": "భారతదేశం",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "nats",
+      "term": "অভিনয়শিল্পী",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ஜேமி ஓவர்டன்",
+      "term": "alexandr wang",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "imd new monsoon forecast system",
-      "summary": "",
-      "aza_category": "Trend Alert"
-    },
-    {
-      "term": "dopt",
+      "term": "वनप्लस",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "কলকাতা হাইকোর্ট",
+      "term": "hyrox mumbai",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "పే కమిషన్",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

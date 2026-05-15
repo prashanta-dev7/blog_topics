@@ -1,13 +1,279 @@
 {
-  "generated_at": "2026-05-15T05:48:07.231830+00:00",
+  "generated_at": "2026-05-15T10:24:36.692037+00:00",
   "owned_count": 10,
-  "competitor_count": 27,
+  "competitor_count": 26,
   "industry_count": 182,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "2c8eb73a5187",
+      "title": "Not Trainers, Not Loafers—It Girls are Styling Cropped Jeans With This Effortlessly Chic Sandal Trend Instead",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/cropped-jeans-heeled-flip-flops-outfit-hailey-bieber-2026",
+      "summary": "Prepare your pedis.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-05-15T10:19:13+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3f47d1c51bad",
+      "title": "42 Wedding Shoes That Are Perfect for Your Walk Down the Aisle",
+      "link": "https://www.vogue.com/article/best-wedding-shoes",
+      "summary": "Shop the best wedding shoes to say “I do” in, from high-heeled sandals to classic bridal pumps, slingbacks, elegant mules, and flats.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: 42 Wedding Shoes That Are Perfect for Your Walk Down the Aisle — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-05-15T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a6344039e89a",
+      "title": "These ’80s Icons Inspired the Costumes in ‘Rivals’ Season 2",
+      "link": "https://www.vogue.com/article/costumes-rivals-season-2-ray-holman-interview",
+      "summary": "The Jilly Cooper romp “Rivals” returns to Hulu for season two, bringing bigger shoulder pads, sharper suits, and even more eye-popping embellishment.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-05-15T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d4331bb15cd2",
+      "title": "L’Oréal Paris’s Path to €10 Billion",
+      "link": "https://www.vogue.com/article/loreal-pariss-path-to-euro10-billion",
+      "summary": "In her first interview since taking on the role, L’Oréal Paris global brand president Laetitia Toupet discusses the brand’s mission, white space, and the Cannes Film Festival.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: L’Oréal Paris’s Path to €10 Billion...",
+      "score": 1,
+      "published": "2026-05-15T09:51:14+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1582c34d41f5",
+      "title": "How to Make It in LatAm: A Guide for Beauty Brands",
+      "link": "https://www.vogue.com/article/how-to-make-it-in-latam-a-guide-for-beauty-brands",
+      "summary": "The market is ripe with opportunity, but its regulatory and political landscape poses a challenge for those looking to enter.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How to Make It in LatAm: A Guide for Beauty Brands...",
+      "score": 2,
+      "published": "2026-05-15T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "904f20a31d4f",
+      "title": "The Vogue Business Beauty Trend Tracker",
+      "link": "https://www.vogue.com/article/the-vogue-business-beauty-tracker",
+      "summary": "Vogue Business brings you weekly exclusive data from Spate tracking historic growth across brands, trends and ingredients. Stay tuned as we spotlight a different beauty category each week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-05-15T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "13667958cdef",
+      "title": "Taylor Swift’s Bangs Are So Big, Because They’re Full of Secrets",
+      "link": "https://www.vogue.com/article/taylor-swift-bangs",
+      "summary": "Out and about in New York City, Taylor Swift sported a fluffed up fringe—is this the last chop and style before her big wedding?",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Fashion Intelligence: Taylor Swift’s Bangs Are So Big, Because They’re Full of Secrets...",
+      "score": 2,
+      "published": "2026-05-15T08:49:31+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cd9d293e6062",
+      "title": "Not Trainers, Not Leggings—5 French Fashion Trends the Most Stylish Over 50s in Cannes Are Wearing",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/over-50s-french-fashion-trends-cannes-film-festival-2026",
+      "summary": "C'est bon!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-05-15T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a3aff61789bc",
+      "title": "Why F-16 fighter jets escorted PM Modi's aircraft in UAE",
+      "link": "https://www.indiatoday.in/india/story/pm-modi-uae-visit-aircraft-escort-f16-fighter-jets-video-2912192-2026-05-15?utm_source=rss",
+      "summary": "Why F-16 fighter jets escorted PM Modi's aircraft in UAE",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
+      "score": 1,
+      "published": "2026-05-15T07:41:55+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1c2ead6fd0f7",
+      "title": "\"Ethereal, Intelligent, and Quietly Sensual\": The BTS Breakdown of Maude Apatow's Stunning May Beauty Looks",
+      "link": "https://www.whowhatwear.com/fashion/cover-features/maude-apatow-beauty-cover",
+      "summary": "Straight from her hairstylist and makeup artist.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: \"Ethereal, Intelligent, and Quietly Sensual\": The BTS Breakdown of Mau...",
+      "score": 1,
+      "published": "2026-05-15T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "44bb24dffe62",
+      "title": "My Vibe This Summer Is Fashion-Forward and Fun—7 Chic Outfit Ideas I'll Be Wearing on Repeat",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/stylish-summer-outfit-ideas",
+      "summary": "I'm stepping up my style game over the coming months.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 4,
+      "published": "2026-05-15T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e457d1d63749",
+      "title": "It's Heating Up in NYC—Here's What's on My Warm-Weather Wish List",
+      "link": "https://www.whowhatwear.com/fashion/shopping/hot-weather-clothes-summer-2026",
+      "summary": "Shop dresses, skirts, tank tops, swimwear, low heels, and flats for summer 2026.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: It's Heating Up in NYC—Here's What's on My Warm-Weather Wish List...",
+      "score": 2,
+      "published": "2026-05-15T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bb575e95dc98",
+      "title": "I Turned 30 and Replaced All My Lingerie With This Specific Style—Here's Why",
+      "link": "https://www.whowhatwear.com/fashion/lingerie/best-silk-lingerie",
+      "summary": "Stop wearing uncomfortable lace.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Turned 30 and Replaced All My Lingerie With This Specific Style—Here...",
+      "score": 2,
+      "published": "2026-05-15T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d8fc02bd01aa",
+      "title": "Fashion People in L.A. and NYC Agree—This Is the Only Summer Outfit That Matters Right Now",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/summer-knee-length-skirt-outfits-2026",
+      "summary": "Add it to your rotation.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Fashion People in L.A. and NYC Agree—This Is the Only Summer Outfit Th...",
+      "score": 2,
+      "published": "2026-05-15T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bc668baed4ef",
+      "title": "I Went to Madrid and Noticed One Very Specific Shoe Trend on Every Corner",
+      "link": "https://www.whowhatwear.com/fashion/shoes/most-popular-madrid-shoes",
+      "summary": "Spanish girls have spoken: These are the only flats that matter right now.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-05-15T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "53ed3a6d3b22",
+      "title": "I'm Ready to Shelve My Denim Jacket—5 Chic Summer Jacket Trends on Every Fashion Person's Radar RN",
+      "link": "https://www.whowhatwear.com/fashion/trends/summer-jacket-trends-2026",
+      "summary": "Which is your vibe?",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-05-15T06:45:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e943c4d62ee0",
+      "title": "I've Sworn Off Traditional Fake Tan Since Discovering This More Natural-Looking Alternative",
+      "link": "https://www.whowhatwear.com/beauty/skin/best-tanning-milks",
+      "summary": "A golden glow without the faff.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I've Sworn Off Traditional Fake Tan Since Discovering This More Natura...",
+      "score": 1,
+      "published": "2026-05-15T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f1005b87f039",
+      "title": "The Row’s 2026 Summer It Bags Are Here—7 Styles Destined to Sell Out First",
+      "link": "https://www.whowhatwear.com/fashion/handbags/best-the-row-summer-bags",
+      "summary": "They're all so good.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Row’s 2026 Summer It Bags Are Here—7 Styles Destined to Sell Out F...",
+      "score": 1,
+      "published": "2026-05-15T05:50:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b5aaa5e09c80",
+      "title": "I Asked My Chicest Colleagues What Luxury Buys They’re Backing This Summer—15 Items That Made the Cut",
+      "link": "https://www.whowhatwear.com/fashion/shopping/editor-luxury-summer-picks-2026",
+      "summary": "The It list.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Asked My Chicest Colleagues What Luxury Buys They’re Backing This Su...",
+      "score": 1,
+      "published": "2026-05-15T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "fd19d4a9c703",
       "title": "Not Black, Not Brown: This Is the Trouser Colour I Spotted Fashion People Wearing From Paris to London",
@@ -19,20 +285,6 @@
       "aza_category": "Celebrity Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
-      "published": "2026-05-15T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b5aaa5e09c80",
-      "title": "I Asked My Chicest Colleagues What Luxury Buys They’re Backing This Summer—15 Items That Made the Cut",
-      "link": "https://www.whowhatwear.com/fashion/shopping/editor-luxury-summer-picks-2026",
-      "summary": "The It-list.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Asked My Chicest Colleagues What Luxury Buys They’re Backing This Su...",
-      "score": 1,
       "published": "2026-05-15T05:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -387,20 +639,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "19a7d3247f1d",
-      "title": "Bengal Police raids unearth luxury bunker, lavish pool at two TMC leaders' homes",
-      "link": "https://www.indiatoday.in/india/west-bengal/video/bengal-police-raids-unearth-luxury-bunker-lavish-pool-at-two-tmc-leaders-homes-2911975-2026-05-14?utm_source=rss",
-      "summary": "Bengal Police raids unearth luxury bunker, lavish pool at two TMC leaders' homes",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Bengal Police raids unearth luxury bunker, lavish pool at two TMC lead...",
-      "score": 1,
-      "published": "2026-05-14T18:21:15+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "34d52de46697",
       "title": "Hooray for Hollywood!—And Jonathan Anderson’s First Dior Cruise Collection",
       "link": "https://www.harpersbazaar.com/fashion/a71306857/dior-resort-2027-los-angeles/",
@@ -653,48 +891,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "51e35746b839",
-      "title": "Dior Cosigns Summer’s Hottest Makeup Trend: Sparkles",
-      "link": "https://www.vogue.com/article/dior-cosigns-summers-hottest-makeup-trend-sparkles",
-      "summary": "Vogue spoke to makeup artist Peter Philips about the look from the 2026 resort collection show.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-05-14T15:25:16+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b2cb30aa91f4",
-      "title": "Odessa A’zion Makes the Case for Wearable Beauty",
-      "link": "https://www.vogue.com/article/odessa-azion-cannes-2026",
-      "summary": "The “Marty Supreme” actor touched down in Nice wearing the best airport accessory: her sleep mask.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Odessa A’zion Makes the Case for Wearable Beauty...",
-      "score": 3,
-      "published": "2026-05-14T15:21:21+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3171bfe46be0",
-      "title": "Aerin Lauder Zinterhofer and Max Hollein on the Met’s Groundbreaking Merger With the Neue Galerie",
-      "link": "https://www.vogue.com/article/metropolitan-museum-neue-galerie-aerin-lauder-max-hollein",
-      "summary": "Hollein and Ronald Lauder have been in conversation about joining the two museums for a year, and the Neue Galerie’s 25th anniversary—coming up this autumn—seemed like the perfect occasion.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Aerin Lauder Zinterhofer and Max Hollein on the Met’s Groundbreaking M...",
-      "score": 1,
-      "published": "2026-05-14T15:18:14+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ec3a13b606ef",
       "title": "All the Stars Who Filled the Front Row at the Dior Cruise 2027 Show",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71305227/all-the-stars-dior-cruise-2027-show-front-row-photos/",
@@ -723,20 +919,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "96336e666dc0",
-      "title": "Photo London 2026 Starts Today: A New Chapter at Olympia",
-      "link": "https://www.vogue.com/article/photo-london-2026-starts-today-a-new-chapter-at-olympia",
-      "summary": "Today marks the official opening of the eleventh edition of Photo London. As the UK’s leading photography fair, this year represents a significant milestone as it relocates to its new home at Olympia in Kensington. Set against the backdrop of a £1.3 billion redevelopment, the move provides the fair with an expanded foo",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Photo London 2026 Starts Today: A New Chapter at Olympia...",
-      "score": 0,
-      "published": "2026-05-14T14:50:57+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "384a6c40721a",
       "title": "GOAL!—A World Cup Halftime Show With Madonna, Shakira, and BTS",
       "link": "https://www.harpersbazaar.com/culture/art-books-music/a71304592/world-cup-final-madonna-shakira-bts/",
@@ -748,34 +930,6 @@
       "angle": "Fashion Intelligence: GOAL!—A World Cup Halftime Show With Madonna, Shakira, and BTS...",
       "score": 1,
       "published": "2026-05-14T14:48:34+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3303f2dd79ad",
-      "title": "Sabrina Carptenter Just Pulled the Ultimate Front Row Flex at Dior",
-      "link": "https://www.vogue.com/article/sabrina-carpenter-dior-cruise-2027",
-      "summary": "Take it from Sabrina Carpenter, there are plenty of ways to stand out—even when someone else is wearing the same dress as you.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Sabrina Carptenter Just Pulled the Ultimate Front Row Flex at Dior...",
-      "score": 2,
-      "published": "2026-05-14T14:43:14+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6d90f81eee5a",
-      "title": "The Best of Sydney Street Style: Architectural Silhouettes and a Master Class in Layering from Down Under",
-      "link": "https://www.vogue.com/slideshow/sydney-fashion-week-street-style-layering-up-while-down-under",
-      "summary": "Rachel Yabsley photographs the best-dressed guests at the Resort 2027 shows in Sydney, where we saw layering, creamy neutrals, and fuzzy textures.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: The Best of Sydney Street Style: Architectural Silhouettes and a Maste...",
-      "score": 3,
-      "published": "2026-05-14T14:41:48+00:00",
       "discovered_via": "feed"
     },
     {
@@ -947,6 +1101,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "0a14998a090c",
+      "title": "I’m Officially Only Wearing Dresses Until September—9 Zara, COS and Mango Styles Selling Fast",
+      "link": "https://www.whowhatwear.com/fashion/shopping/zara-cos-mango-summer-dresses-2026",
+      "summary": "Buh-bye, jeans.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-05-14T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "ca404c653589",
       "title": "Instead of Denim, the Chicest Women in Their 20s and 60s Alike Are Wearing This Spring Jacket With Leggings and Trousers",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/bomber-jacket-trend-demi-moore-lila-moss-2026",
@@ -961,17 +1129,31 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0a14998a090c",
-      "title": "I’m Officially Only Wearing Dresses Until September—9 Zara, COS and Mango Styles Selling Fast",
-      "link": "https://www.whowhatwear.com/fashion/shopping/zara-cos-mango-summer-dresses-2026",
-      "summary": "Buh-bye, jeans.",
+      "id": "bdfd3ea4d555",
+      "title": "It's My Birthday Month—All the Chic Pieces I'm Scooping Up From Nordstrom, Zara, and Revolve to Treat Myself",
+      "link": "https://www.whowhatwear.com/fashion/shopping/chic-fashion-items-may-june-2026",
+      "summary": "Dresses, sandals, accessories, and more.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: It's My Birthday Month—All the Chic Pieces I'm Scooping Up From Nordst...",
+      "score": 1,
+      "published": "2026-05-14T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "183621febc00",
+      "title": "If You Want to Look Chic This Summer, These 8 Celebrity Outfits Are So Easy to Copy",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-celebrity-summer-outfits-2026",
+      "summary": "Major inspo ahead.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-05-14T08:00:00+00:00",
+      "score": 2,
+      "published": "2026-05-14T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1027,34 +1209,6 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
-      "published": "2026-05-14T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bdfd3ea4d555",
-      "title": "It's My Birthday Month—All the Chic Pieces I'm Scooping Up From Nordstrom, Zara, and Revolve to Treat Myself",
-      "link": "https://www.whowhatwear.com/fashion/shopping/chic-fashion-items-may-june-2026",
-      "summary": "Dresses, sandals, accessories, and more.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: It's My Birthday Month—All the Chic Pieces I'm Scooping Up From Nordst...",
-      "score": 1,
-      "published": "2026-05-14T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "183621febc00",
-      "title": "If You Want to Look Chic This Summer, These 8 Celebrity Outfits Are So Easy to Copy",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-celebrity-summer-outfits-2026",
-      "summary": "Major inspo ahead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
       "published": "2026-05-14T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1283,20 +1437,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4b715b52b0d4",
-      "title": "This Is the Pant Style to Wear With 2026's Most Popular Blazer Trend",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/cinch-waist-blazer-big-pants-outfit-tessa-thompson",
-      "summary": "Tessa Thompson knows.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-05-13T19:23:56+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ea4fdbc106b0",
       "title": "Kaia Gerber Is So Chic in Her Midriff-Baring Separates",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71296345/kaia-gerber-disney-upfront-2026-red-carpet-photos/",
@@ -1367,20 +1507,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e32d43770f33",
-      "title": "7 Summer Shorts Trends That Are Suddenly on Every Fashion Person's Radar",
-      "link": "https://www.whowhatwear.com/fashion/summer/shorts-trends-summer-2026",
-      "summary": "Time to reintroduce your legs to the sun.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-05-13T18:23:41+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "886543324f98",
       "title": "George and Amal Clooney Are a Fashion Match Made in Heaven",
       "link": "https://www.harpersbazaar.com/celebrity/red-carpet-dresses/g71283461/george-and-amal-clooney-best-fashion-moments/",
@@ -1437,20 +1563,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "791763f634ca",
-      "title": "How Connor Storrie's Stylist Puts Together His Timeless Red Carpet Looks",
-      "link": "https://www.whowhatwear.com/living/who-what-wear-podcast-james-yardley",
-      "summary": "Plus, James Yardley shares how he landed his big break in fashion.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-05-13T17:10:53+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a359e5868972",
       "title": "Margot Robbie Means Business in This Elaborate McQueen Military Jacket",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71294398/margot-robbie-mcqueen-military-jacket-1536-london-opening-night-photos/",
@@ -1462,20 +1574,6 @@
       "angle": "Fashion Intelligence: Margot Robbie Means Business in This Elaborate McQueen Military Jacket...",
       "score": 1,
       "published": "2026-05-13T16:42:59+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0211707b7bf0",
-      "title": "Stop Your Search—These 14 Pretty Plus-Size Wedding Guest Dresses Will Get You Compliments",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-plus-size-wedding-guest-dress-may-2026",
-      "summary": "Chic wedding outfits are just around the corner.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Stop Your Search—These 14 Pretty Plus-Size Wedding Guest Dresses Will Get You Compliments — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-05-13T16:30:46+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1518,20 +1616,6 @@
       "angle": "Fashion Intelligence: Lindsay Lohan’s Red-Carpet Style Is All Grown Up...",
       "score": 2,
       "published": "2026-05-13T15:25:40+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "505b80fdebcf",
-      "title": "These $60 Nordstrom Shorts Look Identical to the Chic Pair Every Fashion Person Is Wearing Nonstop",
-      "link": "https://www.whowhatwear.com/fashion/trends/nordstrom-open-edit-lace-trim-satin-shorts-trend-2026",
-      "summary": "Back in stock and guaranteed to sell out again.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-05-13T15:10:29+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1619,34 +1703,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "93ea8d00497f",
-      "title": "We Predicted This Divisive Y2K Jacket Trend Would Return—Here's How Margot and Bella Are Wearing It for Summer",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/military-jacket-trend-bella-hadid-margot-robbie-2026",
-      "summary": "Get ahead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-05-13T10:36:38+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8e6b5f3b06c1",
-      "title": "My Mom and I Both Love TJ Maxx and Marshalls—30 Hidden Gems We Can't Stop Thinking About",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-tj-maxx-and-marshalls-new-arrivals-may-2026",
-      "summary": "Looks like the polka-dot trend is going strong.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: My Mom and I Both Love TJ Maxx and Marshalls—30 Hidden Gems We Can't S...",
-      "score": 1,
-      "published": "2026-05-13T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a72705079e1e",
       "title": "The 11 Best Teeth Whitening Kits for a Brighter Smile",
       "link": "https://www.harpersbazaar.com/beauty/health/g32176566/best-teeth-whitening-kits/",
@@ -1672,62 +1728,6 @@
       "angle": "Fashion Intelligence: The 13 Best Shower Oils for Your Softest Skin Yet...",
       "score": 1,
       "published": "2026-05-13T09:41:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "746a3bb4b867",
-      "title": "\"Nothing Too High\": Maude Apatow on Blush Sandwiching, Euphoria Looks, and Her Mom's Best Beauty Tip",
-      "link": "https://www.whowhatwear.com/beauty/makeup/maude-apatow-makeup-staples-2026",
-      "summary": "Plus, all her Prada Beauty staples.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: \"Nothing Too High\": Maude Apatow on Blush Sandwiching, Euphoria Looks,...",
-      "score": 1,
-      "published": "2026-05-13T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f9726cbe1f7d",
-      "title": "Not Puma, Not Adidas—12 Lesser-Known Trainer Brands to Shop Instead This Summer",
-      "link": "https://www.whowhatwear.com/fashion/shoes/underrated-trainer-brands-2026",
-      "summary": "The right step forward.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Not Puma, Not Adidas—12 Lesser-Known Trainer Brands to Shop Instead Th...",
-      "score": 1,
-      "published": "2026-05-13T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fdfeb4481363",
-      "title": "Not Skinny Jeans—Fashion People in Their 40s Are Wearing This \"Dated\" Denim Trend With Ballet Flats",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/patch-pocket-jeans-ballet-flats-outfit-katie-holmes-uk",
-      "summary": "Spotted in NYC.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-05-13T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f13be9257097",
-      "title": "Insiders Swear This Fragrance Hack Makes Any Perfume Last Longer—I'm Exposing the Secret",
-      "link": "https://www.whowhatwear.com/beauty/fragrance/best-fragrance-primers",
-      "summary": "Smellmaxxing, but make it chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Insiders Swear This Fragrance Hack Makes Any Perfume Last Longer—I'm E...",
-      "score": 1,
-      "published": "2026-05-13T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2921,20 +2921,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f35dfc8ce31a",
-      "title": "What to Wear to a Day Wedding: Elegant Yet Comfortable Ethnic Look",
-      "link": "https://www.torani.in/blogs/news/what-to-wear-to-a-day-wedding-elegant-yet-comfortable-ethnic-look",
-      "summary": "Weddings are always special. There’s excitement in the air, families meeting after ages, endless photos, music playing somewhere in the background, and the big question everyone quietly thinks about: what am I going to wear? The outfit becomes part of the celebration itself. Now, when it comes to day weddings, things a",
-      "source": "Torani",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: What to Wear to a Day Wedding — A Complete Style Guide",
-      "score": 4,
-      "published": "2026-03-16T07:26:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "957ed77ab613",
       "title": "Lehenga vs Sharara vs Anarkali — How to Choose the Right One with Aza’s Virtual Try-On",
       "link": "https://www.azafashions.com/blog/lehenga-vs-sharara-vs-anarkali-aza-virtual-try-on/?utm_source=rss&utm_medium=rss&utm_campaign=lehenga-vs-sharara-vs-anarkali-aza-virtual-try-on",
@@ -3077,52 +3063,52 @@
   ],
   "trends": [
     {
-      "term": "vi share price",
+      "term": "sensex share bazar",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "weather chennai",
+      "term": "for",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "তাপপ্রবাহ",
+      "term": "india gold import duty hike",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ప్రభాస్",
+      "term": "2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "বাজেট",
+      "term": "ஆதவ் அர்ஜுனா",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "forza horizon 6",
+      "term": "भारत निर्वाचन आयोग",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "लॉटरी",
+      "term": "usd",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "vijay jana nayagan",
+      "term": "education",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "christopher nolan odyssey",
+      "term": "ಪಂಜಾಬ್ ಕಿಂಗ್ಸ್",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अविनाश मिश्रा",
+      "term": "ദിയ കൃഷ്ണ",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

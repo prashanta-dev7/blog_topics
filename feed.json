@@ -1,13 +1,97 @@
 {
-  "generated_at": "2026-05-15T10:24:36.692037+00:00",
+  "generated_at": "2026-05-15T12:54:38.897328+00:00",
   "owned_count": 10,
   "competitor_count": 26,
-  "industry_count": 182,
+  "industry_count": 183,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "dabe10b35d1f",
+      "title": "Did 'The Devil Wears Prada 2' Kill the Fashion Editor Fantasy?",
+      "link": "https://fashionista.com/2026/05/devil-wears-prada-2-fashion-editor-careers-media",
+      "summary": "Longtime fashion journalists, once inspired by the 2006 film's aspirational glamour, weigh in on the sequel and its portrayal of a very different industry.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Did 'The Devil Wears Prada 2' Kill the Fashion Editor Fantasy?...",
+      "score": 2,
+      "published": "2026-05-15T12:45:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e37bb110adc7",
+      "title": "Hybrid model, geo-tagging of papers: What House panel said on NEET reforms",
+      "link": "https://www.indiatoday.in/india/story/neet-ug-paper-leak-parliament-panel-report-exam-reforms-2912354-2026-05-15?utm_source=rss",
+      "summary": "Hybrid model, geo-tagging of papers: What House panel said on NEET reforms",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Hybrid model, geo-tagging of papers: What House panel said on NEET ref...",
+      "score": 1,
+      "published": "2026-05-15T12:41:45+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b52f201fec3d",
+      "title": "Eni Popoola Swears By Danessa Myricks Priming Serum and Drugstore Foundations",
+      "link": "https://fashionista.com/2026/05/eni-popoola-fashion-beauty-interview",
+      "summary": "For our column \"Payment Processing,\" the content creator also reveals her summer must-haves and the luxury fragrance she's eyeing.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Eni Popoola Swears By Danessa Myricks Priming Serum and Drugstore Foun...",
+      "score": 2,
+      "published": "2026-05-15T12:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b1b2323230ae",
+      "title": "7 Celeb-Inspired Flip-Flop Outfits to Try Right Now",
+      "link": "https://www.vogue.com/article/celebrity-flip-flop-outfits",
+      "summary": "From classic flat options to trending micro wedges, see how our favorite celebrities style their flip-flops for spring and summer.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 7 Celeb-Inspired Flip-Flop Outfits to Try Right Now...",
+      "score": 3,
+      "published": "2026-05-15T11:46:55+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "150716edb0dd",
+      "title": "Candice Swanepoel Makes Tropic of C Summer Untamed",
+      "link": "https://www.fashiongonerogue.com/story/candice-swanepoel-tropic-c-summer-2026/",
+      "summary": "Tropic of C&#8217;s Summer 2026 collection is here to take your attention with Candice Swanepoel fronting the campaign. Shot by ... Source",
+      "source": "Fashion Gone Rogue",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Candice Swanepoel Makes Tropic of C Summer Untamed...",
+      "score": 1,
+      "published": "2026-05-15T11:21:40+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b6e3b7f30bca",
+      "title": "All the Fashions From the 2026 Cannes Film Festival Red Carpet",
+      "link": "https://www.vogue.com/slideshow/2026-cannes-film-festival-red-carpet-looks",
+      "summary": "The 79th annual Cannes Film Festival is in full swing! See all of the red carpet fashion highlights here.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-05-15T11:19:25+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "2c8eb73a5187",
       "title": "Not Trainers, Not Loafers—It Girls are Styling Cropped Jeans With This Effortlessly Chic Sandal Trend Instead",
@@ -303,20 +387,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b84a52626ca6",
-      "title": "Mehngai Man Modi's collection begins: Opposition hits out at PM after fuel price hike",
-      "link": "https://www.indiatoday.in/india/story/petrol-diesel-fuel-price-hike-opposition-congress-trinamool-attacks-pm-modi-mehngai-man-barb-2912038-2026-05-15?utm_source=rss",
-      "summary": "Mehngai Man Modi's collection begins: Opposition hits out at PM after fuel price hike",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-05-15T02:51:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "af734b6a1ad6",
       "title": "For Tommy Hilfiger, Racing Is in His Brand’s DNA",
       "link": "https://www.harpersbazaar.com/fashion/designers/a71243868/tommy-hilfiger-formula-one-cadillac-fashion-partnership-interview/",
@@ -510,20 +580,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
       "published": "2026-05-14T19:36:30+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b6e3b7f30bca",
-      "title": "All the Fashions From the 2026 Cannes Film Festival Red Carpet",
-      "link": "https://www.vogue.com/slideshow/2026-cannes-film-festival-red-carpet-looks",
-      "summary": "The 79th annual Cannes Film Festival has arrived! See all of the red carpet fashion highlights here.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-05-14T19:30:16+00:00",
       "discovered_via": "feed"
     },
     {
@@ -877,20 +933,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "44ef50913a9e",
-      "title": "A Woman Among Women Is an Arthur Miller Reinterpretation that Sidesteps the Obvious",
-      "link": "https://www.vogue.com/article/woman-among-women-arthur-miller",
-      "summary": "“I wanted to write about common female situations,” says playwright Julia May Jonas of her new play, ‘A Woman Among Women’—“not feminism but what femininity looks like inside different kinds of structures.”",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: A Woman Among Women Is an Arthur Miller Reinterpretation that Sidestep...",
-      "score": 0,
-      "published": "2026-05-14T15:27:14+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ec3a13b606ef",
       "title": "All the Stars Who Filled the Front Row at the Dior Cruise 2027 Show",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71305227/all-the-stars-dior-cruise-2027-show-front-row-photos/",
@@ -1129,34 +1171,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "bdfd3ea4d555",
-      "title": "It's My Birthday Month—All the Chic Pieces I'm Scooping Up From Nordstrom, Zara, and Revolve to Treat Myself",
-      "link": "https://www.whowhatwear.com/fashion/shopping/chic-fashion-items-may-june-2026",
-      "summary": "Dresses, sandals, accessories, and more.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: It's My Birthday Month—All the Chic Pieces I'm Scooping Up From Nordst...",
-      "score": 1,
-      "published": "2026-05-14T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "183621febc00",
-      "title": "If You Want to Look Chic This Summer, These 8 Celebrity Outfits Are So Easy to Copy",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-celebrity-summer-outfits-2026",
-      "summary": "Major inspo ahead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-05-14T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "9a0a08799ece",
       "title": "I Work in Fashion in NYC—These Are the 7 Summer Shoe Trends in My Capsule Wardrobe",
       "link": "https://www.whowhatwear.com/fashion/trends/summer-shoe-trends-nyc-2026",
@@ -1209,6 +1223,34 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
+      "published": "2026-05-14T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bdfd3ea4d555",
+      "title": "It's My Birthday Month—All the Chic Pieces I'm Scooping Up From Nordstrom, Zara, and Revolve to Treat Myself",
+      "link": "https://www.whowhatwear.com/fashion/shopping/chic-fashion-items-may-june-2026",
+      "summary": "Dresses, sandals, accessories, and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: It's My Birthday Month—All the Chic Pieces I'm Scooping Up From Nordst...",
+      "score": 1,
+      "published": "2026-05-14T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "183621febc00",
+      "title": "If You Want to Look Chic This Summer, These 8 Celebrity Outfits Are So Easy to Copy",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-celebrity-summer-outfits-2026",
+      "summary": "Major inspo ahead.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
       "published": "2026-05-14T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -2487,34 +2529,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "800d97395530",
-      "title": "Blue Ivy Carter Broke a Rule at Her First-Ever Met Gala",
-      "link": "https://fashionista.com/2026/05/blue-ivy-met-gala-2026-look",
-      "summary": "Wearing a white Balenciaga gown, the 14-year-old walked the carpet for the first time (accompanied by her parents, of course).",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Blue Ivy Carter Broke a Rule at Her First-Ever Met Gala...",
-      "score": 2,
-      "published": "2026-05-05T01:39:48+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7bbca2624192",
-      "title": "Lauren Sánchez Bezos Tried to Reference Sargent's 'Madame X' With Her Met Gala Outfit",
-      "link": "https://fashionista.com/2026/05/lauren-sanchez-bezos-met-gala-2026-dress-madame-x-john-singer-sargent",
-      "summary": "The Schiaparelli look features the painting's infamous dangling shoulder strap — a statement that falls flat coming from the billionaire patron.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Lauren Sánchez Bezos Tried to Reference Sargent's 'Madame X' With Her ...",
-      "score": 1,
-      "published": "2026-05-04T23:25:08+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ac2c2ef0b871",
       "title": "The Best Mother’s Day and Father’s Day Jewellery Gifts for 2026",
       "link": "https://www.fashionbeans.com/article/best-mothers-day-fathers-day-jewellery-gifts-2026/",
@@ -2554,6 +2568,20 @@
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 1,
       "published": "2026-04-21T10:00:12+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "60a5a225689d",
+      "title": "Sharara Sets Are Everywhere – But Are You Styling Them Right?",
+      "link": "https://blog.kalkifashion.com/sharara-sets-are-everywhere-but-are-you-styling-them-right/",
+      "summary": "From pretty damsels to sophisticated grandmoms, everyone is embracing the versatile sharara sets with grace and panache. Be it Raksha Bandhan, an office party, a sangeet ceremony or a grand wedding, these uber comfortable sharara sets can make you look glamorous and elegant effortlessly. To attain a classy look, you ne",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Fashion Intelligence: Sharara Sets Are Everywhere – But Are You Styling Them Right?...",
+      "score": 1,
+      "published": "2026-05-15T11:04:06+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2694,20 +2722,6 @@
       "angle": "Fashion Intelligence: No Time for Gifts? Kurtis, Save Your Mother’s Day Surprise...",
       "score": 2,
       "published": "2026-05-05T03:51:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f6094b0ce07a",
-      "title": "Shreya Patel’s Fairytale Walk: Love, Lehengas & Ravine Magic at Aries Jagnivas",
-      "link": "https://blog.kalkifashion.com/shreya-patels-fairytale-walk-love-lehengas-ravine-magic-at-aries-jagnivas/",
-      "summary": "Ravines, Rivers, and Royal Vibes Imagine a love story that spans continents, survives nine years of pixelated video calls, and culminates in a floral-draped procession through a palace perched on ravine edges. That&#8217;s Shreya Patel&#8217;s wedding tale—not your run-of-the-mill shaadi, but a poetic whirlwind at Arie",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Shreya Patel’s Fairytale Walk — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-05-04T05:01:30+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2921,6 +2935,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "8fd661210316",
+      "title": "Every Little Celebration Starts with the Perfect Look at the Kids Carnival Sale",
+      "link": "https://www.azafashions.com/blog/celebration-starts-at-the-kids-carnival-sale/?utm_source=rss&utm_medium=rss&utm_campaign=celebration-starts-at-the-kids-carnival-sale",
+      "summary": "Childhood is beautifully punctuated by a series of little fashion moments. From breezy summer weddings and vibrant festive gatherings to lively birthday parties, sun-drenched vacations, and even a simple weekend playdate, every&#8230; The post Every Little Celebration Starts with the Perfect Look at the Kids Carnival S",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Fashion Intelligence: Every Little Celebration Starts with the Perfect Look at the Kids Carn...",
+      "score": 3,
+      "published": "2026-05-14T22:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e7e295f2a216",
+      "title": "Alia Bhatt Won Cannes 2026 With a Dupatta, an Ivory Saree & a Lace Umbrella",
+      "link": "https://www.azafashions.com/blog/alia-bhatt-cannes-2026-looks/?utm_source=rss&utm_medium=rss&utm_campaign=alia-bhatt-cannes-2026-looks",
+      "summary": "There's a particular kind of pressure that comes with being India's most-watched presence at the Cannes Film Festival. Every outfit is studied and judged, every styling choice dissected, every cultural reference&#8230; The post Alia Bhatt Won Cannes 2026 With a Dupatta, an Ivory Saree &amp; a Lace Umbrella appeared fir",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Alia Bhatt Won Cannes 2026 With a Dupatta, an Ivory Saree & a Lace Umb...",
+      "score": 3,
+      "published": "2026-05-14T16:48:21+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "957ed77ab613",
       "title": "Lehenga vs Sharara vs Anarkali — How to Choose the Right One with Aza’s Virtual Try-On",
       "link": "https://www.azafashions.com/blog/lehenga-vs-sharara-vs-anarkali-aza-virtual-try-on/?utm_source=rss&utm_medium=rss&utm_campaign=lehenga-vs-sharara-vs-anarkali-aza-virtual-try-on",
@@ -2932,6 +2974,20 @@
       "angle": "Bridal Edit: Lehenga vs Sharara vs Anarkali — How to Choose the Right One with Aza’s Virtual Try-On — A Complete Style Guide",
       "score": 4,
       "published": "2026-05-13T16:25:05+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0fe30a7ecdfc",
+      "title": "Aishwarya Rai Bachchan and Indian Stars Shine at Cannes 2026",
+      "link": "https://www.azafashions.com/blog/aishwarya-rai-indian-stars-cannes-2026/?utm_source=rss&utm_medium=rss&utm_campaign=aishwarya-rai-indian-stars-cannes-2026",
+      "summary": "The 79th Cannes Film Festival is here, running from May 12 to May 23, 2026, at the stunning French Riviera. This year, Indian celebrities are set to make a grand&#8230; The post Aishwarya Rai Bachchan and Indian Stars Shine at Cannes 2026 appeared first on Aza Editorials .",
+      "source": "AZA Blog",
+      "tier": "owned",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Aishwarya Rai Bachchan and Indian Stars Shine at Cannes 2026...",
+      "score": 0,
+      "published": "2026-05-13T12:04:48+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2980,7 +3036,7 @@
       "id": "3d3abb8d3d47",
       "title": "Cannes 2026’s Red Carpet Had Feathers, Florals, Sequins — And Zero Restraint",
       "link": "https://www.azafashions.com/blog/cannes-2026-best-celebrity-looks/?utm_source=rss&utm_medium=rss&utm_campaign=cannes-2026-best-celebrity-looks",
-      "summary": "The Croisette never asks for restraint, and in 2026, nobody offered it. Cinema's most glamorous week returned with its usual appetite for excess, except this year the red carpet seemed less interested&#8230; The post Cannes 2026’s Red Carpet Had Feathers, Florals, Sequins — And Zero Restraint appeared first on Aza Edit",
+      "summary": "The&#160;Croisette&#160;never asks for restraint, and in 2026, nobody offered it. Cinema's most glamorous week returned with its usual appetite for excess, except this year the red carpet seemed less interested&#8230; The post Cannes 2026’s Red Carpet Had Feathers, Florals, Sequins — And Zero Restraint appeared first o",
       "source": "AZA Blog",
       "tier": "owned",
       "is_competitor": false,
@@ -3017,98 +3073,56 @@
       "score": 2,
       "published": "2026-05-13T05:48:58+00:00",
       "discovered_via": "feed"
-    },
-    {
-      "id": "b33bfb7a6cf5",
-      "title": "7 Sophisticated Dresses for Jeddah’s Seaside Dinner Invitations",
-      "link": "https://www.azafashions.com/blog/jeddah-seaside-dinner-dresses/?utm_source=rss&utm_medium=rss&utm_campaign=jeddah-seaside-dinner-dresses",
-      "summary": "Jeddah women have always had an innate sense of style;&#160;sophisticated, intentional, deeply graceful. But when it comes to&#160;refined evening outings, the trusted&#160;kaftan&#160;can only take you so far. The waterfront dinner&#8230; The post 7 Sophisticated Dresses for Jeddah&#8217;s Seaside Dinner Invitations a",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 7 Sophisticated Dresses for Jeddah’s Seaside Dinner Invitations...",
-      "score": 2,
-      "published": "2026-05-12T18:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b8b75b55ef8d",
-      "title": "The New Saudi Eveningwear Mood Is Modest Satin",
-      "link": "https://www.azafashions.com/blog/modest-satin-dresses-in-saudi/?utm_source=rss&utm_medium=rss&utm_campaign=modest-satin-dresses-in-saudi",
-      "summary": "Want to read this in Arabic? Click here: https://www.azafashions.com/blog/modest-satin-dresses-in-saudi-ar/ Evening dressing in Saudi Arabia is evolving into something beautifully new. The prevailing style narrative shifts toward a softer, more elegant, and intentionally understated&#8230; The post The New Saudi Evenin",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The New Saudi Eveningwear Mood Is Modest Satin...",
-      "score": 4,
-      "published": "2026-05-12T11:04:20+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7facb95710c5",
-      "title": "Cannes 2026: The Viral Celebrity Looks Everyone Is Talking About",
-      "link": "https://www.azafashions.com/blog/cannes-film-festival-2026-best-fashion/?utm_source=rss&utm_medium=rss&utm_campaign=cannes-film-festival-2026-best-fashion",
-      "summary": "The 79th Cannes Film Festival officially opened on May 12, 2026, at the Palais des Festivals on the French Riviera and fashion showed up with a capital F. This year's&#8230; The post Cannes 2026: The Viral Celebrity Looks Everyone Is Talking About appeared first on Aza Editorials .",
-      "source": "AZA Blog",
-      "tier": "owned",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-05-12T05:01:16+00:00",
-      "discovered_via": "feed"
     }
   ],
   "trends": [
     {
-      "term": "sensex share bazar",
+      "term": "shillong lajong vs rajasthan fc",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "for",
+      "term": "suzlon",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "india gold import duty hike",
+      "term": "अमिताभ बाजपेई",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "2026",
+      "term": "आज तक",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ஆதவ் அர்ஜுனா",
+      "term": "সংবাদ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "भारत निर्वाचन आयोग",
+      "term": "নওশাদ সিদ্দিকী",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "usd",
+      "term": "சாலை",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "education",
+      "term": "ബസ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಪಂಜಾಬ್ ಕಿಂಗ್ಸ್",
+      "term": "१६ मई",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ദിയ കൃഷ്ണ",
+      "term": "शिवसेना",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

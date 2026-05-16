@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-16T07:15:24.280596+00:00",
+  "generated_at": "2026-05-16T09:41:53.532860+00:00",
   "owned_count": 10,
   "competitor_count": 26,
-  "industry_count": 181,
+  "industry_count": 182,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,49 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Pratt Institute Fall 2026 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-05-16T07:10:28+00:00",
+      "published": "2026-05-16T09:39:56+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "232f3c3d45f5",
+      "title": "Bella! Selena! Sarah! The 2026 It Girl–Favourite Designer Bag Just Dropped in Pretty Spring Colourways",
+      "link": "https://www.whowhatwear.com/fashion/luxury/prada-bonnie-bag",
+      "summary": "From Prada, of course.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Bella! Selena! Sarah! The 2026 It Girl–Favourite Designer Bag Just Dro...",
+      "score": 1,
+      "published": "2026-05-16T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "397cc666c540",
+      "title": "Some Might Think Olivia's Babydoll Dress Is Divisive, But Fashion People Have Been Wearing the Trend For Years",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/olivia-rodrigo-babydoll-dress-2026",
+      "summary": "Short n' Sweet.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 4,
+      "published": "2026-05-16T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "66dbcfb1968b",
+      "title": "5 New Designer Bags That'll Impress Even the Most Discerning Collectors",
+      "link": "https://www.whowhatwear.com/fashion/handbags/best-new-designer-bags-spring-summer-2026",
+      "summary": "Including Gucci and Loewe.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: 5 New Designer Bags That'll Impress Even the Most Discerning Collector...",
+      "score": 1,
+      "published": "2026-05-16T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -163,20 +205,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4d854269d7ab",
-      "title": "My Colleagues and I Agree: These 5 Dated Trends are Surprisingly Making A Comeback For Summer",
-      "link": "https://www.whowhatwear.com/fashion/trends/trends-making-a-comeback-summer-2026",
-      "summary": "They're not what you'd expect.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-05-16T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "540e5c20bfce",
       "title": "Goodbye, Gladiator Sandals—Fashion Insiders In London are Wearing These 5 Shoe Trends Instead",
       "link": "https://www.whowhatwear.com/fashion/shoes/london-summer-shoe-trends-2026",
@@ -187,6 +215,20 @@
       "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
+      "published": "2026-05-16T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4d854269d7ab",
+      "title": "My Colleagues and I Agree: These 5 Dated Trends are Surprisingly Making A Comeback For Summer",
+      "link": "https://www.whowhatwear.com/fashion/trends/trends-making-a-comeback-summer-2026",
+      "summary": "They're not what you'd expect.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
       "published": "2026-05-16T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1157,16 +1199,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "bc668baed4ef",
-      "title": "I Went to Madrid and Noticed One Very Specific Shoe Trend on Every Corner",
-      "link": "https://www.whowhatwear.com/fashion/shoes/most-popular-madrid-shoes",
-      "summary": "Spanish girls have spoken: These are the only flats that matter right now.",
+      "id": "e457d1d63749",
+      "title": "It's Heating Up in NYC—Here's What's on My Warm-Weather Wish List",
+      "link": "https://www.whowhatwear.com/fashion/shopping/hot-weather-clothes-summer-2026",
+      "summary": "Shop dresses, skirts, tank tops, swimwear, low heels, and flats for summer 2026.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: It's Heating Up in NYC—Here's What's on My Warm-Weather Wish List...",
+      "score": 2,
       "published": "2026-05-15T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1185,16 +1227,30 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e457d1d63749",
-      "title": "It's Heating Up in NYC—Here's What's on My Warm-Weather Wish List",
-      "link": "https://www.whowhatwear.com/fashion/shopping/hot-weather-clothes-summer-2026",
-      "summary": "Shop dresses, skirts, tank tops, swimwear, low heels, and flats for summer 2026.",
+      "id": "44bb24dffe62",
+      "title": "My Vibe This Summer Is Fashion-Forward and Fun—7 Chic Outfit Ideas I'll Be Wearing on Repeat",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/stylish-summer-outfit-ideas",
+      "summary": "I'm stepping up my style game over the coming months.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: It's Heating Up in NYC—Here's What's on My Warm-Weather Wish List...",
-      "score": 2,
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 4,
+      "published": "2026-05-15T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bc668baed4ef",
+      "title": "I Went to Madrid and Noticed One Very Specific Shoe Trend on Every Corner",
+      "link": "https://www.whowhatwear.com/fashion/shoes/most-popular-madrid-shoes",
+      "summary": "Spanish girls have spoken: These are the only flats that matter right now.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
       "published": "2026-05-15T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1209,20 +1265,6 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Fashion People in L.A. and NYC Agree—This Is the Only Summer Outfit Th...",
       "score": 2,
-      "published": "2026-05-15T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "44bb24dffe62",
-      "title": "My Vibe This Summer Is Fashion-Forward and Fun—7 Chic Outfit Ideas I'll Be Wearing on Repeat",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/stylish-summer-outfit-ideas",
-      "summary": "I'm stepping up my style game over the coming months.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 4,
       "published": "2026-05-15T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1353,20 +1395,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c63b0262386c",
-      "title": "Cinematic! Jonathan Anderson Flips the Hollywood Script for Dior Cruise 2027",
-      "link": "https://www.whowhatwear.com/fashion/runway/dior-cruise-2027",
-      "summary": "Here's everything you need to know about the show.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Cinematic! Jonathan Anderson Flips the Hollywood Script for Dior Cruis...",
-      "score": 1,
-      "published": "2026-05-14T22:16:45+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "787f54b12340",
       "title": "Hollywood Sparkle Meets Parisian Artistry at Dior Cruise 2027",
       "link": "https://www.harpersbazaar.com/beauty/makeup/a71294401/christian-dior-cruise-show-2027-makeup-beauty-details/",
@@ -1476,20 +1504,6 @@
       "angle": "Fashion Intelligence: It Was a Stylish Girls’ Night for the Obamas...",
       "score": 2,
       "published": "2026-05-14T17:43:41+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8bb289ec3e70",
-      "title": "Light-Wash Jeans Were Everywhere at the Dior Show—These Shoes Will Make Them Look 2026",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/light-wash-jeans-pointed-toe-heels-dior-cruise-2027-show-miley-cyrus",
-      "summary": "Instead of dated.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Light-Wash Jeans Were Everywhere at the Dior Show—These Shoes Will Mak...",
-      "score": 1,
-      "published": "2026-05-14T17:23:01+00:00",
       "discovered_via": "feed"
     },
     {
@@ -3049,52 +3063,52 @@
   ],
   "trends": [
     {
-      "term": "മന്ത്രി",
+      "term": "pay commission",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "१६ मई",
+      "term": "कैबिनेट",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "jayam ravi",
+      "term": "ગુજરાત",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ravi mohan",
+      "term": "en-w vs nz-w",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "पाकिस्तान राष्ट्रीय क्रिकेट टीम",
+      "term": "gta",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अल नीनो भारत मानसून",
+      "term": "noise pollution",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "கார்",
+      "term": "নওশাদ সিদ্দিকী",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "साँप",
+      "term": "గుండెనిండా గుడిగంటలు",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "സരിത",
+      "term": "த்ரிஷா",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "monsoon 2026",
+      "term": "മമത ബാനര്ജി",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-05-17T07:34:30.926387+00:00",
+  "generated_at": "2026-05-17T09:47:52.780014+00:00",
   "owned_count": 10,
   "competitor_count": 26,
-  "industry_count": 175,
+  "industry_count": 176,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "0aea67bee897",
+      "title": "Gucci Resort 2027",
+      "link": "https://www.vogue.com/fashion-shows/resort-2027/gucci",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Gucci Resort 2027...",
+      "score": 0,
+      "published": "2026-05-17T09:42:43+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "6a6e398ae239",
       "title": "Pratt Institute Fall 2026 Ready-to-Wear",
@@ -19,21 +33,63 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Pratt Institute Fall 2026 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-05-17T07:31:47+00:00",
+      "published": "2026-05-17T09:42:43+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "c27591f6efe5",
-      "title": "6 Personality-Driven Accessories That Are Shaping Cool Summer Style",
-      "link": "https://www.whowhatwear.com/fashion/luxury/personality-driven-accessories",
-      "summary": "More is now more—well, tastefully.",
+      "id": "5ded9f154169",
+      "title": "My Spring Beauty Aesthetic Is \"Jonathan Anderson's Dior\"—5 Trending Looks I'm Trying ASAP",
+      "link": "https://www.whowhatwear.com/beauty/jonathan-anderson-dior-spring-beauty-trend",
+      "summary": "From cherubic cheeks to water-lily nails.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-05-17T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f51ad5045bbe",
+      "title": "My Friend Asked for the Ultimate Summer Beauty Starter Pack—12 Products I Added to Her Cart",
+      "link": "https://www.whowhatwear.com/beauty/best-summer-beauty-products-2026",
+      "summary": "Tried and tested.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: My Friend Asked for the Ultimate Summer Beauty Starter Pack—12 Product...",
+      "score": 1,
+      "published": "2026-05-17T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "09255e827a8c",
+      "title": "Millennials and Gen Z Don’t Agree On Much, But They Both Back This “Dated” Fashion Trend",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/peplum-fashion-trend-taylor-swift-millie-bobby-brown-2026",
+      "summary": "Are we back in 2010?",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-05-17T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6d259e72903d",
+      "title": "Zara Really Is Better In Barcelona—9 Summer Buys Chic European Women Are Already Wearing",
+      "link": "https://www.whowhatwear.com/fashion/shopping/zara-spanish-summer-buys-2026",
+      "summary": "De nada.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 6 Personality-Driven Accessories That Are Shaping Cool Summer Style...",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
-      "published": "2026-05-17T07:00:00+00:00",
+      "published": "2026-05-17T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,6 +103,20 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: I Finally Tried This Iconic French Shoe Brand Alexa Chung Swears By—39...",
       "score": 3,
+      "published": "2026-05-17T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c27591f6efe5",
+      "title": "6 Personality-Driven Accessories That Are Shaping Cool Summer Style",
+      "link": "https://www.whowhatwear.com/fashion/luxury/personality-driven-accessories",
+      "summary": "More is now more—well, tastefully.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 6 Personality-Driven Accessories That Are Shaping Cool Summer Style...",
+      "score": 1,
       "published": "2026-05-17T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -65,20 +135,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "629229767488",
-      "title": "Beauty Editors Unanimously Agree—This Is Probably the Best SPF Ever Made",
-      "link": "https://www.whowhatwear.com/beauty/skin/la-roche-posay-uvmune-400",
-      "summary": "A French pharmacy favourite.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Beauty Editors Unanimously Agree—This Is Probably the Best SPF Ever Ma...",
-      "score": 1,
-      "published": "2026-05-17T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b0a1db15ae1b",
       "title": "Fashion People Can't Get Enough of This Trending Divisive Shoe",
       "link": "https://www.whowhatwear.com/fashion/trends/princess-shoe-trend-summer-2026",
@@ -89,6 +145,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
+      "published": "2026-05-17T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "629229767488",
+      "title": "Beauty Editors Unanimously Agree—This Is Probably the Best SPF Ever Made",
+      "link": "https://www.whowhatwear.com/beauty/skin/la-roche-posay-uvmune-400",
+      "summary": "A French pharmacy favourite.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Beauty Editors Unanimously Agree—This Is Probably the Best SPF Ever Ma...",
+      "score": 1,
       "published": "2026-05-17T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -457,24 +527,10 @@
       "discovered_via": "feed"
     },
     {
-      "id": "48f05abd0c47",
-      "title": "40 Under-$90 Fashion Finds I Guarantee Will Get Mistaken for Designer",
-      "link": "https://www.whowhatwear.com/fashion/shopping/expensive-looking-spring-summer-fashion-finds",
-      "summary": "Expensive-looking.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: 40 Under-$90 Fashion Finds I Guarantee Will Get Mistaken for Designer...",
-      "score": 2,
-      "published": "2026-05-16T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a8bcfaee76f0",
-      "title": "In L.A., Every It Girl Is Going to Be Wearing This Exact Outfit Instead of Leggings This Summer",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/hailey-bieber-summer-bike-shorts-outfit-2026",
-      "summary": "Thanks to Hailey Bieber.",
+      "id": "2ab28a4ad965",
+      "title": "I'm So Sorry, But Wearing These 6 Things Could Be Dating Your Summer Outfits",
+      "link": "https://www.whowhatwear.com/fashion/summer/summer-outdated-trends-2026",
+      "summary": "Hey, I'm just the messenger!",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -485,16 +541,30 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1126c334b803",
-      "title": "The Sunglasses Brand That Well-Dressed People Wear to Look Fashionable",
-      "link": "https://www.whowhatwear.com/fashion/shopping/vincent-boulevard",
-      "summary": "Shop the cult-favorite frames of 2026.",
+      "id": "0a24bd486555",
+      "title": "How to Wear the Summer Heel Trend Everyone Bought Last Year in 2026",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/kitten-heel-thong-sandal-outfits-summer-2026",
+      "summary": "Dress like a quintessential cool girl this season.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Sunglasses Brand That Well-Dressed People Wear to Look Fashionable...",
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 4,
+      "published": "2026-05-16T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e3cc67011382",
+      "title": "What Everyone Will Be Wearing From Marbella to Saint-Tropez This Summer, According to Moda Operandi",
+      "link": "https://www.whowhatwear.com/fashion/moda-operandi-vacation-shopping-2026",
+      "summary": "Shop the edit.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
       "published": "2026-05-16T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -527,38 +597,38 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e3cc67011382",
-      "title": "What Everyone Will Be Wearing From Marbella to Saint-Tropez This Summer, According to Moda Operandi",
-      "link": "https://www.whowhatwear.com/fashion/moda-operandi-vacation-shopping-2026",
-      "summary": "Shop the edit.",
+      "id": "48f05abd0c47",
+      "title": "40 Under-$90 Fashion Finds I Guarantee Will Get Mistaken for Designer",
+      "link": "https://www.whowhatwear.com/fashion/shopping/expensive-looking-spring-summer-fashion-finds",
+      "summary": "Expensive-looking.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: 40 Under-$90 Fashion Finds I Guarantee Will Get Mistaken for Designer...",
+      "score": 2,
       "published": "2026-05-16T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "0a24bd486555",
-      "title": "How to Wear the Summer Heel Trend Everyone Bought Last Year in 2026",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/kitten-heel-thong-sandal-outfits-summer-2026",
-      "summary": "Dress like a quintessential cool girl this season.",
+      "id": "1126c334b803",
+      "title": "The Sunglasses Brand That Well-Dressed People Wear to Look Fashionable",
+      "link": "https://www.whowhatwear.com/fashion/shopping/vincent-boulevard",
+      "summary": "Shop the cult-favorite frames of 2026.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Sunglasses Brand That Well-Dressed People Wear to Look Fashionable...",
       "score": 4,
       "published": "2026-05-16T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "2ab28a4ad965",
-      "title": "I'm So Sorry, But Wearing These 6 Things Could Be Dating Your Summer Outfits",
-      "link": "https://www.whowhatwear.com/fashion/summer/summer-outdated-trends-2026",
-      "summary": "Hey, I'm just the messenger!",
+      "id": "a8bcfaee76f0",
+      "title": "In L.A., Every It Girl Is Going to Be Wearing This Exact Outfit Instead of Leggings This Summer",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/hailey-bieber-summer-bike-shorts-outfit-2026",
+      "summary": "Thanks to Hailey Bieber.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -1087,20 +1157,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d6e9613f0697",
-      "title": "From Light Layers to Breezy Dresses—These 27 Pretty Free People Items Are So Summery",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-summer-free-people-arrivals-may-2026",
-      "summary": "Your new favorite warm-weather items are around the corner.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: From Light Layers to Breezy Dresses—These 27 Pretty Free People Items ...",
-      "score": 1,
-      "published": "2026-05-15T16:21:31+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "71dd1df8ddc6",
       "title": "Bella Hadid Switches Into Sport Mode at the 2026 Cannes Film Festival",
       "link": "https://www.vogue.com/article/bella-hadid-sport-mode-2026-cannes-film-festival",
@@ -1168,20 +1224,6 @@
       "angle": "Fashion Intelligence: The Super New Moon in Taurus Has Arrived—Here’s What It Means for Ever...",
       "score": 0,
       "published": "2026-05-15T15:41:07+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7a9b72016156",
-      "title": "Dua Lipa Goes Technicolor in Cannes",
-      "link": "https://www.vogue.com/article/dua-lipa-purple-and-red-ferragamo-cannes",
-      "summary": "Dua Lipa and the fall 2026 runways make a compelling case to embrace this high-octane color pairing.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Dua Lipa Goes Technicolor in Cannes...",
-      "score": 1,
-      "published": "2026-05-15T15:38:31+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1322,34 +1364,6 @@
       "angle": "Fashion Intelligence: Candice Swanepoel Makes Tropic of C Summer Untamed...",
       "score": 1,
       "published": "2026-05-15T11:21:40+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2c8eb73a5187",
-      "title": "Not Trainers, Not Loafers—It Girls are Styling Cropped Jeans With This Effortlessly Chic Sandal Trend Instead",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/cropped-jeans-heeled-flip-flops-outfit-hailey-bieber-2026",
-      "summary": "Prepare your pedis.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-05-15T10:19:13+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cd9d293e6062",
-      "title": "Not Trainers, Not Leggings—5 French Fashion Trends the Most Stylish Over 50s in Cannes Are Wearing",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/over-50s-french-fashion-trends-cannes-film-festival-2026",
-      "summary": "C'est bon!",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-05-15T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2965,52 +2979,52 @@
   ],
   "trends": [
     {
-      "term": "तुला",
+      "term": "rcb बनाम पीबीकेएस",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "எதிர்நீச்சல்",
+      "term": "phil salt",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "अर्थव्यवस्था",
+      "term": "nuwan thushara",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "हंसराज विश्वकर्मा",
+      "term": "yash dayal",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "லீமாரோஸ் மார்ட்டின்",
+      "term": "comedk",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "न्यायाधीश",
+      "term": "रिचर्ड ग्लीसन",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "कुंभ",
+      "term": "rcb વિ. pbks",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ரஜினிகாந்த்",
+      "term": "ஈரான்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "iphone 18 pro",
+      "term": "മാണി സി. കാപ്പന്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "meta",
+      "term": "megatsunami",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

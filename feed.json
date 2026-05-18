@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-18T06:05:13.354723+00:00",
+  "generated_at": "2026-05-18T08:45:03.774296+00:00",
   "owned_count": 10,
   "competitor_count": 27,
-  "industry_count": 183,
+  "industry_count": 182,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,63 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Gucci Resort 2027...",
       "score": 0,
-      "published": "2026-05-18T06:02:12+00:00",
+      "published": "2026-05-18T08:39:21+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e70732b38d07",
+      "title": "6 Summer Zara Outfits Only True Fashion People Would Tap Into",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-zara-outfits-may-2026",
+      "summary": "It's never been easier to shop chic looks.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 6 Summer Zara Outfits Only True Fashion People Would Tap Into...",
+      "score": 2,
+      "published": "2026-05-18T07:38:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f46c38e7beda",
+      "title": "Mallorca! Ibiza! Madrid!—These Brands Define Summer Style in Spain",
+      "link": "https://www.whowhatwear.com/fashion/luxury/spain-summer-luxe-brands-shopping",
+      "summary": "Heading to Spain? Lucky you. Pack this.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Mallorca! Ibiza! Madrid!—These Brands Define Summer Style in Spain...",
+      "score": 2,
+      "published": "2026-05-18T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "417d1a231ecd",
+      "title": "From Sardinia to South Beach, I'm Crowning These the 8 Most Stylish Hotels of 2026",
+      "link": "https://www.whowhatwear.com/living/travel/stylish-hotels-2026",
+      "summary": "They have every fashion person's approval.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: From Sardinia to South Beach, I'm Crowning These the 8 Most Stylish Ho...",
+      "score": 1,
+      "published": "2026-05-18T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e9f7f2dfae6e",
+      "title": "Not Black, Not White: The Bold Summer Pant Color Fashion People Are Wearing Instead",
+      "link": "https://www.whowhatwear.com/fashion/shopping/cobalt-blue-pant-color-trend",
+      "summary": "Fresh and cool.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-05-18T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -104,20 +160,6 @@
       "angle": "Fashion Intelligence: Timeless Pieces That Make Any Outfit Feel More Put-Together...",
       "score": 2,
       "published": "2026-05-18T01:47:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "462b47c8bb82",
-      "title": "Live: After VD Satheesan's swearing-in, cabinet members take oath",
-      "link": "https://www.indiatoday.in/india/kerala/story/kerala-cm-oath-live-updates-swearing-in-ceremony-vd-satheesan-congress-government-cabinet-ministers-2913143-2026-05-18?utm_source=rss",
-      "summary": "Live: After VD Satheesan's swearing-in, cabinet members take oath",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-05-18T01:06:53+00:00",
       "discovered_via": "feed"
     },
     {
@@ -513,30 +555,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6d259e72903d",
-      "title": "Zara Really Is Better In Barcelona—9 Summer Buys Chic European Women Are Already Wearing",
-      "link": "https://www.whowhatwear.com/fashion/shopping/zara-spanish-summer-buys-2026",
-      "summary": "De nada.",
+      "id": "f51ad5045bbe",
+      "title": "My Friend Asked for the Ultimate Summer Beauty Starter Pack—12 Products I Added to Her Cart",
+      "link": "https://www.whowhatwear.com/beauty/best-summer-beauty-products-2026",
+      "summary": "Tried and tested.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: My Friend Asked for the Ultimate Summer Beauty Starter Pack—12 Product...",
       "score": 1,
-      "published": "2026-05-17T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5ded9f154169",
-      "title": "My Spring Beauty Aesthetic Is \"Jonathan Anderson's Dior\"—5 Trending Looks I'm Trying ASAP",
-      "link": "https://www.whowhatwear.com/beauty/jonathan-anderson-dior-spring-beauty-trend",
-      "summary": "From cherubic cheeks to water-lily nails.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
       "published": "2026-05-17T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -555,15 +583,29 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f51ad5045bbe",
-      "title": "My Friend Asked for the Ultimate Summer Beauty Starter Pack—12 Products I Added to Her Cart",
-      "link": "https://www.whowhatwear.com/beauty/best-summer-beauty-products-2026",
-      "summary": "Tried and tested.",
+      "id": "5ded9f154169",
+      "title": "My Spring Beauty Aesthetic Is \"Jonathan Anderson's Dior\"—5 Trending Looks I'm Trying ASAP",
+      "link": "https://www.whowhatwear.com/beauty/jonathan-anderson-dior-spring-beauty-trend",
+      "summary": "From cherubic cheeks to water-lily nails.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: My Friend Asked for the Ultimate Summer Beauty Starter Pack—12 Product...",
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-05-17T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6d259e72903d",
+      "title": "Zara Really Is Better In Barcelona—9 Summer Buys Chic European Women Are Already Wearing",
+      "link": "https://www.whowhatwear.com/fashion/shopping/zara-spanish-summer-buys-2026",
+      "summary": "De nada.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-05-17T08:00:00+00:00",
       "discovered_via": "feed"
@@ -975,6 +1017,62 @@
       "discovered_via": "feed"
     },
     {
+      "id": "a8bcfaee76f0",
+      "title": "In L.A., Every It Girl Is Going to Be Wearing This Exact Outfit Instead of Leggings This Summer",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/hailey-bieber-summer-bike-shorts-outfit-2026",
+      "summary": "Thanks to Hailey Bieber.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-05-16T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1126c334b803",
+      "title": "The Sunglasses Brand That Well-Dressed People Wear to Look Fashionable",
+      "link": "https://www.whowhatwear.com/fashion/shopping/vincent-boulevard",
+      "summary": "Shop the cult-favorite frames of 2026.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Sunglasses Brand That Well-Dressed People Wear to Look Fashionable...",
+      "score": 4,
+      "published": "2026-05-16T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "48f05abd0c47",
+      "title": "40 Under-$90 Fashion Finds I Guarantee Will Get Mistaken for Designer",
+      "link": "https://www.whowhatwear.com/fashion/shopping/expensive-looking-spring-summer-fashion-finds",
+      "summary": "Expensive-looking.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: 40 Under-$90 Fashion Finds I Guarantee Will Get Mistaken for Designer...",
+      "score": 2,
+      "published": "2026-05-16T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "30ae589a44cf",
+      "title": "The Most Controversial Skirt Trend of Summer 2026 Is Also the Prettiest",
+      "link": "https://www.whowhatwear.com/fashion/skirts/sheer-skirt-trend-2026",
+      "summary": "Cool girls love them.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-05-16T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "e3cc67011382",
       "title": "What Everyone Will Be Wearing From Marbella to Saint-Tropez This Summer, According to Moda Operandi",
       "link": "https://www.whowhatwear.com/fashion/moda-operandi-vacation-shopping-2026",
@@ -985,20 +1083,6 @@
       "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
-      "published": "2026-05-16T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fd4cf856948a",
-      "title": "This Satin-Shirt Trend Feels Like It's Straight Out of Tom Ford's Gucci Era—7 Ways Fashion People Are Styling It",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/how-to-wear-the-satin-shirt-trend",
-      "summary": "You're going to want to screenshot all of these looks.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
       "published": "2026-05-16T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1031,57 +1115,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "30ae589a44cf",
-      "title": "The Most Controversial Skirt Trend of Summer 2026 Is Also the Prettiest",
-      "link": "https://www.whowhatwear.com/fashion/skirts/sheer-skirt-trend-2026",
-      "summary": "Cool girls love them.",
+      "id": "fd4cf856948a",
+      "title": "This Satin-Shirt Trend Feels Like It's Straight Out of Tom Ford's Gucci Era—7 Ways Fashion People Are Styling It",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/how-to-wear-the-satin-shirt-trend",
+      "summary": "You're going to want to screenshot all of these looks.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-05-16T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "48f05abd0c47",
-      "title": "40 Under-$90 Fashion Finds I Guarantee Will Get Mistaken for Designer",
-      "link": "https://www.whowhatwear.com/fashion/shopping/expensive-looking-spring-summer-fashion-finds",
-      "summary": "Expensive-looking.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: 40 Under-$90 Fashion Finds I Guarantee Will Get Mistaken for Designer...",
-      "score": 2,
-      "published": "2026-05-16T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1126c334b803",
-      "title": "The Sunglasses Brand That Well-Dressed People Wear to Look Fashionable",
-      "link": "https://www.whowhatwear.com/fashion/shopping/vincent-boulevard",
-      "summary": "Shop the cult-favorite frames of 2026.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Sunglasses Brand That Well-Dressed People Wear to Look Fashionable...",
-      "score": 4,
-      "published": "2026-05-16T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a8bcfaee76f0",
-      "title": "In L.A., Every It Girl Is Going to Be Wearing This Exact Outfit Instead of Leggings This Summer",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/hailey-bieber-summer-bike-shorts-outfit-2026",
-      "summary": "Thanks to Hailey Bieber.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
       "published": "2026-05-16T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1126,62 +1168,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-05-16T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "94439fd57904",
-      "title": "Skirt Season Is Officially Here—9 Elegant High Street Styles That Will Sell Out First",
-      "link": "https://www.whowhatwear.com/fashion/skirts/best-high-street-summer-skirts-2026",
-      "summary": "From mini to maxi.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-05-16T05:55:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e2945ac24d4d",
-      "title": "If You Want to Dress Like a Stylish It Girl, Wear These 5 Trend-Forward Basics",
-      "link": "https://www.whowhatwear.com/fashion/trends/it-girl-fashionable-basics-summer-2026-uk",
-      "summary": "Including the shirt everyone is buying.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-05-16T05:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b8cb8a6a7060",
-      "title": "Did Mary-Kate Just Ditch Quiet Luxury By Pairing Her £25k Bag With This Divisive Shoe Trend?",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/mary-kate-olsen-lace-up-shoe-outfit-2026",
-      "summary": "Stealth wealth, where?",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-05-16T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fffd59c24f7e",
-      "title": "French Women Have Perfected the Summer Wardrobe—6 Fashion Trends They're Already Wearing",
-      "link": "https://www.whowhatwear.com/fashion/trends/summer-french-fashion-trends-2026",
-      "summary": "To have on your radar.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-05-16T04:45:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -3091,52 +3077,52 @@
   ],
   "trends": [
     {
-      "term": "sandeep lamichhane",
+      "term": "taijul islam",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "വിശാല്",
+      "term": "జి.కిషన్ రెడ్డి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "anandabazar patrika today",
+      "term": "7th pay commission in west bengal",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ರಾಶಿ",
+      "term": "pension",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "தொல். திருமாவளவன்",
+      "term": "donald trump buffalo bangladesh",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bnmu",
+      "term": "dear lottery",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cp john",
+      "term": "thetopindia survey news",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "anoop jacob",
+      "term": "india national cricket team vs afghanistan national cricket team players",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "maadhaar",
+      "term": "केरल के मुख्यमंत्री",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mlb",
+      "term": "maruti suzuki new cars testing",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

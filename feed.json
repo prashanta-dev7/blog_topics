@@ -1,13 +1,335 @@
 {
-  "generated_at": "2026-05-22T08:22:24.597010+00:00",
+  "generated_at": "2026-05-22T13:33:24.599125+00:00",
   "owned_count": 10,
   "competitor_count": 14,
-  "industry_count": 182,
+  "industry_count": 181,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "dfbc47e71b78",
+      "title": "How Celebrities Style Burberry’s Iconic Check Print",
+      "link": "https://www.vogue.com/article/burberry-print-styling",
+      "summary": "Steeped in ’90s and early aughts nostalgia, the heritage print endures today as a symbol of British cool.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Art & Craft",
+      "angle": "Fashion Intelligence: How Celebrities Style Burberry’s Iconic Check Print...",
+      "score": 1,
+      "published": "2026-05-22T13:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b2badead43d7",
+      "title": "Inside Fashion’s 'Niche Cool Girl' Obsession",
+      "link": "https://fashionista.com/2026/05/niche-cool-girl-indie-fashion-trend-tiktok",
+      "summary": "Viral videos spotlighting under-the-radar labels may be changing how shoppers discover and support independent designers.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Inside Fashion’s 'Niche Cool Girl' Obsession...",
+      "score": 3,
+      "published": "2026-05-22T12:45:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "646035e93c5b",
+      "title": "Missoni Group Completes Ownership Restructure",
+      "link": "https://www.vogue.com/article/missoni-group-completes-ownership-restructure",
+      "summary": "Ownership of the Italian brand will be split between growth equity group FSI and Katjes Quiet Luxury.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Missoni Group Completes Ownership Restructure...",
+      "score": 2,
+      "published": "2026-05-22T12:10:45+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3a228d65cf10",
+      "title": "Is It Just Me, or Is Every Cool Girl Wearing These Flip-Flop Color Trends Instead of Black?",
+      "link": "https://www.whowhatwear.com/fashion/shoes/colored-flip-flops-trend-2026",
+      "summary": "Spotted in Mexico, L.A., and Copenhagen.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-05-22T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cf409e28be03",
+      "title": "Weekly Drop Watch: Ganni x Melissa, Notte x Affection Blvd, Victoria Beckham Beauty and More",
+      "link": "https://fashionista.com/2026/05/best-fashion-beauty-launches-collabs-may-22",
+      "summary": "Shop the best of this week’s fashion and beauty launches.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Weekly Drop Watch: Ganni x Melissa, Notte x Affection Blvd, Victoria B...",
+      "score": 3,
+      "published": "2026-05-22T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6a9ac7753ae8",
+      "title": "Charli XCX Brings the Glow to YSL Beauty",
+      "link": "https://www.fashiongonerogue.com/story/charli-xcx-ysl-beauty-ambassador/",
+      "summary": "She&#8217;s been shaping pop culture for years, and now Charli XCX is officially shaping makeup as a YSL Beauty face. ... Source",
+      "source": "Fashion Gone Rogue",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Charli XCX Brings the Glow to YSL Beauty...",
+      "score": 1,
+      "published": "2026-05-22T11:40:19+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e715369c4cac",
+      "title": "CCTV shows Twisha at beauty parlour hours before death, adds fresh twist",
+      "link": "https://www.indiatoday.in/india/story/twisha-sharma-death-cctv-beauty-parlour-visit-bhopal-suicide-2915613-2026-05-22?utm_source=rss",
+      "summary": "CCTV shows Twisha at beauty parlour hours before death, adds fresh twist",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: CCTV shows Twisha at beauty parlour hours before death, adds fresh twi...",
+      "score": 2,
+      "published": "2026-05-22T11:36:22+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "58d394fccd57",
+      "title": "Every Chic Londoner Is Wearing One of These 5 Summer Heatwave Staples This Weekend",
+      "link": "https://www.whowhatwear.com/fashion/shopping/london-heatwave-capsule-wardrobe-2026",
+      "summary": "Chic and cool.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-05-22T11:26:41+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7409192184fe",
+      "title": "Lauren Ralph Lauren Takes a Dip Into Swim Season",
+      "link": "https://www.fashiongonerogue.com/story/lauren-ralph-lauren-swim-2026/",
+      "summary": "Lauren Ralph Lauren&#8217;s 2026 swimwear collection takes the season somewhere sun-bleached and unhurried. It&#8217;s built around a palette that has ... Source",
+      "source": "Fashion Gone Rogue",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-05-22T11:24:02+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2246bbd3a407",
+      "title": "The Occasion Dress Edit for Any Kind of Night Out",
+      "link": "https://www.fashiongonerogue.com/story/occasion-dress-edit/",
+      "summary": "Occasion dresses used to live at the back of the closet, waiting for weddings or formal dinners or the kind ... Source",
+      "source": "Fashion Gone Rogue",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Festive Dressing: How to Own This Occasion",
+      "score": 3,
+      "published": "2026-05-22T11:19:49+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "218ca7484614",
+      "title": "Has Demi Moore Finally Chopped Her Famous Hair?",
+      "link": "https://www.vogue.com/article/demi-moore-bob",
+      "summary": "The Cannes Film Festival jury member has let her hip-length raven locks fly free all week on the Croisette. Now, Demi Moore is sporting a soft new lob.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Has Demi Moore Finally Chopped Her Famous Hair?...",
+      "score": 0,
+      "published": "2026-05-22T11:14:54+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "337f715915c1",
+      "title": "The Heatwave Is Here, And Pool-Glazed Nails Are All I Want to Wear This Summer",
+      "link": "https://www.whowhatwear.com/beauty/nails/blue-chrome-nails",
+      "summary": "Dive in.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Heatwave Is Here, And Pool-Glazed Nails Are All I Want to Wear Thi...",
+      "score": 1,
+      "published": "2026-05-22T10:49:39+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "38d64fa03da5",
+      "title": "Richemont Jewelry Sales Rise 16% in Q4",
+      "link": "https://www.vogue.com/article/richemont-jewelry-sales-rise-16-in-q4",
+      "summary": "The Cartier owner reported a strong sales performance in the US and Asia-Pacific, more than offsetting pressures in the Middle East.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Richemont Jewelry Sales Rise 16% in Q4...",
+      "score": 0,
+      "published": "2026-05-22T10:17:06+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "58af30c7dcb6",
+      "title": "The Paris Fashion Week Men’s Calendar for Spring 2027 Is Here",
+      "link": "https://www.vogue.com/article/the-paris-fashion-week-mens-calendar-for-spring-2027-is-here",
+      "summary": "Celine’s Michael Rider and Givenchy’s Sarah Burton will be making their men’s runway debuts, and Meryll Rogge will show her first men’s collection under her namesake label.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: The Paris Fashion Week Men’s Calendar for Spring 2027 Is Here...",
+      "score": 5,
+      "published": "2026-05-22T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d9a64623fa28",
+      "title": "‘Tuner’ Star Leo Woodall Is Just Cracking On",
+      "link": "https://www.vogue.com/article/leo-woodall-tuner-interview",
+      "summary": "Drawing a warm response at both Sundance and TIFF, “Tuner”—in which Woodall stars with Dustin Hoffman and Havana Rose Liu—is the kind of movie people don’t make enough of anymore: fun, romantic, suspenseful, and built for everyone. We sat down with Woodall to talk craft, Hoffman, and dead fish.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: ‘Tuner’ Star Leo Woodall Is Just Cracking On...",
+      "score": 1,
+      "published": "2026-05-22T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b8c2d1e1bfe8",
+      "title": "The Vogue-Approved Guide to the Best Memorial Day Clothing Sales",
+      "link": "https://www.vogue.com/article/best-memorial-day-clothing-sales-2026",
+      "summary": "The long weekend is here, and with it a selection of great fashion and clothing sales for Memorial Day. Shop Vogue’s guide to the very best ones.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Vogue-Approved Guide to the Best Memorial Day Clothing Sales...",
+      "score": 1,
+      "published": "2026-05-22T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ac8c5718c9b5",
+      "title": "My Packing Style: Brother Vellies Founder Aurora James",
+      "link": "https://www.vogue.com/article/packing-style-aurora-james",
+      "summary": "Take a peek inside designer and author Aurora James’ travel bag—as well as the packing tips she swears by.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: My Packing Style: Brother Vellies Founder Aurora James...",
+      "score": 3,
+      "published": "2026-05-22T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b57fe97e559b",
+      "title": "Harry Styles Wears a Zoë Kravitz Fave for a Night Out With Rosalía",
+      "link": "https://www.vogue.com/article/harry-styles-and-rosalia-ivor-novello-awards",
+      "summary": "Styles hopped the Channel from his residency in Amsterdam and Rosalía took a break from tour prep to enjoy a night at the Ivor Novello Awards in London.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Harry Styles Wears a Zoë Kravitz Fave for a Night Out With Rosalía...",
+      "score": 2,
+      "published": "2026-05-22T09:58:43+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "904f20a31d4f",
+      "title": "The Vogue Business Beauty Trend Tracker",
+      "link": "https://www.vogue.com/article/the-vogue-business-beauty-tracker",
+      "summary": "Vogue Business brings you weekly exclusive data from Spate tracking historic growth across brands, trends and ingredients. Stay tuned as we spotlight a different beauty category each week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-05-22T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d70ed436814a",
+      "title": "The Vogue Business Funding Tracker",
+      "link": "https://www.vogue.com/article/the-vogue-business-funding-tracker",
+      "summary": "Bringing you the latest fashion and beauty financing news, including investments and acquisitions.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Vogue Business Funding Tracker...",
+      "score": 2,
+      "published": "2026-05-22T09:02:22+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0da3edced44a",
+      "title": "Upscale Deodorant Brand To My Ships Smells the Future",
+      "link": "https://www.vogue.com/article/upscale-deodorant-brand-to-my-ships-smells-the-future",
+      "summary": "Daniel Bense, a former Aseop and Sunspel executive, founded deodorant and fragrance label To My Ships in 2024 and is already eyeing expansion into new territories and categories.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Upscale Deodorant Brand To My Ships Smells the Future...",
+      "score": 2,
+      "published": "2026-05-22T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fe99ac08be2f",
+      "title": "Phlur Just Launched Two New Tropical Scents For Summer—I'm Ready for Sun, Sand, and Compliments",
+      "link": "https://www.whowhatwear.com/beauty/fragrance/phlur-new-summer-scents-2026",
+      "summary": "Meet Island Swim and Paradise Nectar.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-05-22T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3d08683f39a3",
+      "title": "Not Trainers, Not Sandals—This Flat Shoe Trend Makes Skirts Look Their Chicest",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/ballet-flats-skirt-outfit-daisy-edgar-jones-2026",
+      "summary": "It's true.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-05-22T08:44:52+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "b108917305e7",
       "title": "If You’re Going to Wear Capri Leggings in 2026, Wear Them Like This, This and This",
@@ -37,17 +359,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1a2b20ab38af",
-      "title": "Tigers under threat from dogs? Sariska launches canine vaccination drive",
-      "link": "https://www.indiatoday.in/india/story/rajasthan-canine-distemper-virus-sariska-dog-vaccination-protect-tigers-2915437-2026-05-22?utm_source=rss",
-      "summary": "Tigers under threat from dogs? Sariska launches canine vaccination drive",
-      "source": "India Today Fashion",
+      "id": "8e288fbee9a6",
+      "title": "I Live on the Upper East Side—5 Specific Pieces Everyone Is Wearing This Summer",
+      "link": "https://www.whowhatwear.com/fashion/upper-east-side-summer-fashion",
+      "summary": "Including the sandals everyone is trying to track down.",
+      "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 2,
-      "published": "2026-05-22T07:36:29+00:00",
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-05-22T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -74,20 +396,6 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-05-22T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8e288fbee9a6",
-      "title": "I Live on the Upper East Side—5 Specific Pieces Everyone Is Wearing This Summer",
-      "link": "https://www.whowhatwear.com/fashion/upper-east-side-summer-fashion",
-      "summary": "Including the sandals everyone is trying to track down.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-05-22T07:00:00+00:00",
       "discovered_via": "feed"
@@ -160,20 +468,6 @@
       "angle": "Bridal Edit: I'm Calling It — A Complete Style Guide",
       "score": 3,
       "published": "2026-05-22T04:20:52+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "84a2185b7b3b",
-      "title": "From love to tragedy: Twisha Sharma's wedding video surfaces as mystery deepens",
-      "link": "https://www.indiatoday.in/india/story/twisha-sharma-wedding-video-surfaces-as-bhopal-dowry-death-probe-deepens-2915311-2026-05-22?utm_source=rss",
-      "summary": "From love to tragedy: Twisha Sharma's wedding video surfaces as mystery deepens",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: From love to tragedy — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-05-22T04:17:55+00:00",
       "discovered_via": "feed"
     },
     {
@@ -709,34 +1003,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "fdc4611c90a3",
-      "title": "The Best Zara New Arrivals to Shop for Spring 2026 | Vogue",
-      "link": "https://www.vogue.com/article/best-zara-finds",
-      "summary": "Summer essentials and a new Bad Bunny collaboration are a few of the best Zara new arrival finds we’re eyeing this week.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: The Best Zara New Arrivals to Shop for Spring 2026 | Vogue...",
-      "score": 0,
-      "published": "2026-05-21T15:40:26+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "31eb21899e3a",
-      "title": "Ralph Lauren Beats Expectations on 12% Revenue Rise",
-      "link": "https://www.vogue.com/article/ralph-lauren-beats-expectations-on-12-revenue-rise",
-      "summary": "The all-American brand beat revenue expectations for both Q4 and the full year, while topping $8 billion for the first time.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Ralph Lauren Beats Expectations on 12% Revenue Rise...",
-      "score": 1,
-      "published": "2026-05-21T15:15:14+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2ace4a32de6d",
       "title": "All of Bella Hadid’s Many Magnificent Cannes Film Festival Looks",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71373217/every-bella-hadid-look-cannes-film-festival-2026-red-carpet-photos/",
@@ -807,34 +1073,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "46131313cdf4",
-      "title": "MENA Panorama: A Regional Open Call by PhotoVogue",
-      "link": "https://www.vogue.com/article/mena-panorama-a-regional-open-call-by-photovogue",
-      "summary": "A PhotoVogue Open Call for Image-Makers from Middle East and North Africa and Their Diasporas",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: MENA Panorama: A Regional Open Call by PhotoVogue...",
-      "score": 0,
-      "published": "2026-05-21T13:01:47+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c8f7eb1ef21c",
-      "title": "Three’s a Trend: Gucci, Dior, and Louis Vuitton Lean Deeply Into Art for Their Resort Collections",
-      "link": "https://www.vogue.com/article/gucci-dior-and-louis-vuitton-lean-deeply-into-art-for-their-resort-collections",
-      "summary": "Luxury fashion isn’t exactly making an unexpectedly sharp pivot into fine art, but as taste quickly becomes its own form of currency, designers are eager to show off their cultural investments.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 6,
-      "published": "2026-05-21T12:49:51+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "93add4bf368a",
       "title": "The Recent Central Saint Martins Grad Who's Already Designed Custom Pieces for Harry Styles and Paloma Elsesser",
       "link": "https://fashionista.com/2026/05/macy-grimshaw-designer-interview",
@@ -846,20 +1084,6 @@
       "angle": "Fashion Intelligence: The Recent Central Saint Martins Grad Who's Already Designed Custom Pi...",
       "score": 3,
       "published": "2026-05-21T12:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cfb3123bc7f2",
-      "title": "Chiffon Nails Are The New Celebrity Go-To",
-      "link": "https://www.vogue.com/article/chiffon-nails-trend",
-      "summary": "How to get the simple, your-nails-but-better manicure that has become a hit.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-05-21T12:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -905,34 +1129,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0b914f963427",
-      "title": "The Mind-Expanding Power of Trying Something New",
-      "link": "https://www.vogue.com/article/the-mind-expanding-power-of-trying-something-new",
-      "summary": "The pleasure of newfound competence, the expansion of brain matter, a deep focus—there are untold benefits of trying something for the first time.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Mind-Expanding Power of Trying Something New...",
-      "score": 0,
-      "published": "2026-05-21T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cefea352d0b5",
-      "title": "The 8 Medium-Length Hairstyles for Women Over 50, As Seen on Celebrities",
-      "link": "https://www.vogue.com/slideshow/medium-length-hairstyles-for-women-over-50",
-      "summary": "What are the best medium-length hairstyles women over 50 love right now? Celebrity hairstylists Larry Sim, Kim Kimble, and Carlyn Griscti break down the eight best ones.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The 8 Medium-Length Hairstyles for Women Over 50, As Seen on Celebriti...",
-      "score": 2,
-      "published": "2026-05-21T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "dead2466545e",
       "title": "Alex Consani Is Having More Fun Than Anyone in Fashion",
       "link": "https://www.harpersbazaar.com/culture/film-tv/a71270350/alex-consani-supermodel-interview-2026/",
@@ -944,20 +1140,6 @@
       "angle": "Fashion Intelligence: Alex Consani Is Having More Fun Than Anyone in Fashion...",
       "score": 2,
       "published": "2026-05-21T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ff53b814b34d",
-      "title": "How a 1984 Keith Haring–Graffitied Suitcase Inspired Louis Vuitton’s Resort 2027 Collection",
-      "link": "https://www.vogue.com/article/keith-haring-louis-vuitton-resort-2027",
-      "summary": "What do Pop and travel or uptown and downtown have in common? They all came together in Nicolas Ghesquière’s imagination as he dreamed up his latest LV collection.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-05-21T11:48:20+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1000,62 +1182,6 @@
       "angle": "Fashion Intelligence: Loro Piana Resort 2026 Does Serene Luxury...",
       "score": 1,
       "published": "2026-05-21T10:54:56+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0b5135691d0e",
-      "title": "On the Podcast: Nicolas Ghesquière on His Women Collaborators, the Advice Jean Paul Gaultier Gave Him, and the Enduring Attraction of NYC",
-      "link": "https://www.vogue.com/article/louis-vuitton-nicolas-ghesquiere-podcast",
-      "summary": "Nicolas Ghesquière, in New York City for his resort 2027 show for Louis Vuitton, appears on this episode of Vogue's The Run-Through podcast.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: On the Podcast: Nicolas Ghesquière on His Women Collaborators, the Adv...",
-      "score": 1,
-      "published": "2026-05-21T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c36da6328840",
-      "title": "Feels Like a Steal: Shop Vogue Favorite Under-$300 Finds",
-      "link": "https://www.vogue.com/article/feels-like-a-steal",
-      "summary": "Love a good fashion find? Same. And while there’s plenty we recommend on a daily basis, what makes us play for keeps is in the name: when it feels like a steal.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Feels Like a Steal: Shop Vogue Favorite Under-$300 Finds...",
-      "score": 1,
-      "published": "2026-05-21T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a031e7ce55b0",
-      "title": "Best Bedding 2026: Shop Our Favorite Sheets, Shams, and More",
-      "link": "https://www.vogue.com/article/best-bedding-editor-picks",
-      "summary": "Used daily by Vogue editors, these are the best bedding pieces to know and shop, from Matouk to Parachute to Boll & Branch.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Best Bedding 2026: Shop Our Favorite Sheets, Shams, and More...",
-      "score": 0,
-      "published": "2026-05-21T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ee1476394baa",
-      "title": "Margot Robbie Meets ‘1536’ Writer Ava Pickett",
-      "link": "https://www.vogue.com/article/margot-robbie-ava-pickett-1536-interview",
-      "summary": "Since its award-winning, sold-out run at the Almeida in 2025, playwright Ava Pickett’s “1536” has picked up a new producer in the shape of Margot Robbie, been transferred to the West End, and will soon be adapted for the BBC.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Margot Robbie Meets ‘1536’ Writer Ava Pickett...",
-      "score": 0,
-      "published": "2026-05-21T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1367,20 +1493,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2b939f12a337",
-      "title": "Shopbop Just Launched a Surprise Sale Featuring Chic Staples—I Like These 17 Picks",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-shopbop-sale-staples-may-2026",
-      "summary": "Refresh your wardrobe building blocks.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-05-20T19:58:07+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "70ddebeb3e78",
       "title": "The Lookbook: 9 Classy Outfits for Every Occasion",
       "link": "https://www.fashionbeans.com/article/classy-outfits-for-every-occasion/",
@@ -1423,20 +1535,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e0295917ed31",
-      "title": "Linens! Poplins! Stripes! This Celeb-Backed Brand Is What I'm Wearing in NYC This Summer",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-frank-and-eileen-finds-summer-2026",
-      "summary": "Plus its new collaboration with SNL's Chloe Fineman.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-05-20T19:02:21+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "1fa93a405d46",
       "title": "The 7 Best Heated Eyelash Curlers for a Lift That Lasts",
       "link": "https://www.harpersbazaar.com/beauty/makeup/g41322560/best-heated-eyelash-curler/",
@@ -1448,20 +1546,6 @@
       "angle": "Fashion Intelligence: The 7 Best Heated Eyelash Curlers for a Lift That Lasts...",
       "score": 0,
       "published": "2026-05-20T18:51:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ce9115b0448d",
-      "title": "Basic Bikinis, Begone: Lila Moss Told Me the Top Swimwear Trend of the Summer",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/lila-moss-favorite-summer-swimwear-trend",
-      "summary": "Have you tried it?",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-05-20T18:43:36+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1490,34 +1574,6 @@
       "angle": "Fashion Intelligence: Blake Lively’s Minimalist Look Is All About Her Beaded Fendi Baguette...",
       "score": 0,
       "published": "2026-05-20T17:47:27+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "112a14f4b607",
-      "title": "It's Here: The Coolest Pant and Jeans Color to Wear With 2026's Biggest Flat-Shoe Trend",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/red-jeans-white-oxford-flats-trend-gracie-abrams",
-      "summary": "Gracie Abrams gets it.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-05-20T17:41:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c376a23c9b30",
-      "title": "Inside the Creative Mind of Legendary Designer Anna Sui",
-      "link": "https://www.whowhatwear.com/living/who-what-wear-podcast-anna-sui",
-      "summary": "Plus, what inspired her spring collection.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Inside the Creative Mind of Legendary Designer Anna Sui...",
-      "score": 2,
-      "published": "2026-05-20T17:38:30+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1574,20 +1630,6 @@
       "angle": "Fashion Intelligence: Edwidge Danticat Writes at Her Own Pace...",
       "score": 0,
       "published": "2026-05-20T16:21:21+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a5f360cbc1b5",
-      "title": "It's Easier Than You Think to Look Like a Fashion Person—Just Wear These 2 Color Trends Together",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/orange-yellow-color-combination-jennifer-lawrence",
-      "summary": "Jennifer Lawrence cosigned the combo.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-05-20T16:02:02+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1840,34 +1882,6 @@
       "angle": "Fashion Intelligence: SCAD's 2026 Student Runway Show Was Its Biggest Yet...",
       "score": 4,
       "published": "2026-05-19T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4d4083eace81",
-      "title": "Suki Waterhouse Makes Miu Miu Upcycling Look So Chic",
-      "link": "https://www.fashiongonerogue.com/story/miu-miu-upcycled-2026-campaign/",
-      "summary": "Miu Miu&#8217;s Upcycled 2026 campaign is the rare fashion project that makes secondhand feel like the only option worth considering. ... Source",
-      "source": "Fashion Gone Rogue",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Suki Waterhouse Makes Miu Miu Upcycling Look So Chic...",
-      "score": 1,
-      "published": "2026-05-18T23:46:20+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ba166574351d",
-      "title": "Why the Hermès Birkin Remains Fashion’s Most-Wanted Handbag",
-      "link": "https://www.fashiongonerogue.com/story/hermes-birkin-most-wanted-handbag/",
-      "summary": "The Hermès Birkin remains one of the few handbags that can still make the fashion world pause. In an industry ... Source",
-      "source": "Fashion Gone Rogue",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Why the Hermès Birkin Remains Fashion’s Most-Wanted Handbag...",
-      "score": 1,
-      "published": "2026-05-18T23:36:27+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2319,20 +2333,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0eb3cc50ec95",
-      "title": "Streetwear Brand Sundae School's New Chinatown Store Offers Visitors a 'Mental Vacation'",
-      "link": "https://fashionista.com/2026/05/sundae-school-opens-new-york-city-chinatown-store",
-      "summary": "Located at 117 Hester St., the Korean American label's first-ever physical shop is open now.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Streetwear Brand Sundae School's New Chinatown Store Offers Visitors a...",
-      "score": 3,
-      "published": "2026-05-11T15:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "aa0d5c6eed32",
       "title": "The Quiet Luxury of Heat",
       "link": "https://www.fashionbeans.com/article/mens-guide-sauna-culture-etiquette-style/",
@@ -2358,20 +2358,6 @@
       "angle": "Fashion Intelligence: Look Like You Belong Before You’ve Even Started Running...",
       "score": 2,
       "published": "2026-05-11T11:11:36+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "778cdb48326a",
-      "title": "ICYMI: Fashionista's 2026 Met Gala Coverage, Black Beauty Club Launches Block Party Shopping Experience & SCAD's New Luxury Boutique Stocks Student Designs",
-      "link": "https://fashionista.com/2026/05/fashion-news-you-need-to-know-may-9",
-      "summary": "A must-read roundup of our most popular stories of the week.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 4,
-      "published": "2026-05-09T12:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2895,52 +2881,52 @@
   ],
   "trends": [
     {
-      "term": "स्कूटर",
+      "term": "rcb vs srh toss",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "pakistan squad for australia odi series 2026",
+      "term": "thetopindia",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "honda india",
+      "term": "srh बनाम rcb",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cbse answer sheet photocopy class 12 2026",
+      "term": "স্মার্ট কার্ড",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cyprus",
+      "term": "ipl final tickets",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "june 18 rajya sabha polls",
+      "term": "travel warning",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "மின் தடை",
+      "term": "আরশোলা",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "honda zrv",
+      "term": "उत्तर प्रदेश स्टेट बोर्ड ऑफ हाई स्कूल एंड इंटरमीडिएट एजुकेशन",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "తెలంగాణ రాష్ట్ర రోడ్డు రవాణా సంస్థ",
+      "term": "david payne",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಚಿಕ್ಕಮಗಳೂರು",
+      "term": "employees provident fund upi facility",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

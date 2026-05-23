@@ -1,13 +1,97 @@
 {
-  "generated_at": "2026-05-23T05:34:12.431335+00:00",
+  "generated_at": "2026-05-23T07:32:53.171312+00:00",
   "owned_count": 10,
   "competitor_count": 16,
-  "industry_count": 178,
+  "industry_count": 179,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "df1233f1f824",
+      "title": "No Skinny Jeans Here—European It Girls Know These 4 Trouser Trends Are the Key to Fashionable Outfits",
+      "link": "https://www.whowhatwear.com/fashion/trends/european-fashion-trouser-trends-2026",
+      "summary": "Modern and cool styles.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 4,
+      "published": "2026-05-23T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3738d291d225",
+      "title": "If You Want to Look Chic This Summer, Trade Barrel Jeans for One of *These* 6 Denim Trends",
+      "link": "https://www.whowhatwear.com/fashion/denim/summer-denim-trends-2026",
+      "summary": "Just saying!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-05-23T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6566ae759ca1",
+      "title": "Not Gen Z, Not Millennials—6 Elegant Summer Trends That Look Chicest on Over 50s",
+      "link": "https://www.whowhatwear.com/fashion/summer/over-50s-summer-trends-2026",
+      "summary": "So tasteful.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-05-23T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "57be9e921950",
+      "title": "I'm A Low-Maintenance Beauty Editor—This Is My Hack for Doing My Makeup in 10 Minutes and Under",
+      "link": "https://www.whowhatwear.com/beauty/makeup/best-makeup-kits",
+      "summary": "Quick and effortless.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I'm A Low-Maintenance Beauty Editor—This Is My Hack for Doing My Makeu...",
+      "score": 1,
+      "published": "2026-05-23T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "77733f4dea42",
+      "title": "In Paris, the Chicest Women Are Wearing One of These Flat-Shoe-and-Cropped-Trouser Combos",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/french-girl-cropped-trouser-and-flats-outfits-2026",
+      "summary": "Perfect pairings.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-05-23T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b6590e9a10cb",
+      "title": "I've Found It—The Expensive-Looking Sandal Trend Stylish Women Are Wearing With Shorts and Dresses Now",
+      "link": "https://www.whowhatwear.com/fashion/shoes/metal-embellished-sandal-trend-summer-2026",
+      "summary": "Summer has only just begun, but already one sandal trend is making warm-weather dressing that much chicer.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-05-23T05:55:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "f84b8f7ce1b6",
       "title": "From the LES to Silver Lake, Gen Z It Girls Are Wearing These 7 Summer Micro-Trends",
@@ -919,16 +1003,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b8c2d1e1bfe8",
-      "title": "The Vogue-Approved Guide to the Best Memorial Day Clothing Sales",
-      "link": "https://www.vogue.com/article/best-memorial-day-clothing-sales-2026",
-      "summary": "The long weekend is here, and with it a selection of great fashion and clothing sales for Memorial Day. Shop Vogue’s guide to the very best ones.",
+      "id": "ac8c5718c9b5",
+      "title": "My Packing Style: Brother Vellies Founder Aurora James",
+      "link": "https://www.vogue.com/article/packing-style-aurora-james",
+      "summary": "Take a peek inside designer and author Aurora James’ travel bag—as well as the packing tips she swears by.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Vogue-Approved Guide to the Best Memorial Day Clothing Sales...",
-      "score": 1,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: My Packing Style: Brother Vellies Founder Aurora James...",
+      "score": 3,
       "published": "2026-05-22T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -975,20 +1059,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8e288fbee9a6",
-      "title": "I Live on the Upper East Side—5 Specific Pieces Everyone Is Wearing This Summer",
-      "link": "https://www.whowhatwear.com/fashion/upper-east-side-summer-fashion",
-      "summary": "Including the sandals everyone is trying to track down.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-05-22T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "248a00f90975",
       "title": "I'm a Stylist, and This Is the One Runway Trend I'll Be Wearing and Styling All Summer",
       "link": "https://www.whowhatwear.com/fashion/trends/asymmetric-outfit-trend-2026-brie-welch",
@@ -999,6 +1069,20 @@
       "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
+      "published": "2026-05-22T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8e288fbee9a6",
+      "title": "I Live on the Upper East Side—5 Specific Pieces Everyone Is Wearing This Summer",
+      "link": "https://www.whowhatwear.com/fashion/upper-east-side-summer-fashion",
+      "summary": "Including the sandals everyone is trying to track down.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
       "published": "2026-05-22T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1563,48 +1647,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4e99f7d86808",
-      "title": "2026 Is the Era of the Everyday Clutch: Non-Fussy, Dressed-Down, But Still So Elegant",
-      "link": "https://www.whowhatwear.com/fashion/luxury/everyday-clutches-uk",
-      "summary": "According to Bottega, Celine and Khaite.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 2026 Is the Era of the Everyday Clutch: Non-Fussy, Dressed-Down, But S...",
-      "score": 1,
-      "published": "2026-05-21T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "900260895759",
-      "title": "Spotted in New York: This Divisive Trick Is the Trendiest Way to Style Heels Right Now",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/socks-heels-new-york-trend-amelie-zilber-2026",
-      "summary": "So chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-05-21T08:16:51+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e93d7fc0b6f9",
-      "title": "Stylists Just Told Me These Hair Trends Will Taper Off This Summer—7 That Will Rise",
-      "link": "https://www.whowhatwear.com/beauty/hair/dated-hair-trends-summer-2026",
-      "summary": "Keep an eye on these.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-05-21T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "cecc07be392a",
       "title": "Les Deux Just Dropped a Surprise Tennis Collection With the ’90s Brand Behind Agassi’s Best Looks",
       "link": "https://www.fashionbeans.com/article/les-deux-prince-tennis-collection/",
@@ -1616,34 +1658,6 @@
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 4,
       "published": "2026-05-21T07:29:55+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "957f01adc6e4",
-      "title": "Every Summer Item Worth Shopping at Nordstrom, Revolve, and J.Crew Right Now",
-      "link": "https://www.whowhatwear.com/fashion/shopping/nordstrom-revolve-jcrew-may-2026",
-      "summary": "Sundresses, swimwear, sandals, and more.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Every Summer Item Worth Shopping at Nordstrom, Revolve, and J.Crew Rig...",
-      "score": 2,
-      "published": "2026-05-21T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fef681ee27c6",
-      "title": "Princess Shoes Are This Summer's Prettiest Shoe Trend—This Is How to Style Them",
-      "link": "https://www.whowhatwear.com/fashion/trends/princess-shoe-trend-2026",
-      "summary": "Add a little magic to your next outfit.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-05-21T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2867,54 +2881,54 @@
   ],
   "trends": [
     {
+      "term": "पुणे",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "മേയര്",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "deool band 2 movie",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "stop",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "వార్త",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "भविष्यवाणी",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "insurance",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "डॉलर",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "money",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
       "term": "ट्रॅव्हिस हेड",
       "summary": "",
       "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "ఈనాడు",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "indigo results",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "vashu bhagnani david dhawan dispute",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "लड़ाकू विमान",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "petrol, diesel price hike",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "ഉമ്മന് ചാണ്ടി",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "diana, princess of wales",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "డీజిల్",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "today bank holiday",
-      "summary": "",
-      "aza_category": "Occasion Dressing"
     }
   ],
   "tracked_keywords": [

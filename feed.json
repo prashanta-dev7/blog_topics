@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T09:53:45.886277+00:00",
+  "generated_at": "2026-05-23T12:00:55.461983+00:00",
   "owned_count": 10,
   "competitor_count": 16,
   "industry_count": 177,
@@ -8,6 +8,104 @@
     "US": 1791
   },
   "articles": [
+    {
+      "id": "ff8e664e7c0b",
+      "title": "ICYMI: Shein Acquires Everlane, Inside SCAD's 2026 Student Runway Show & Roberto Cavalli's New Owner",
+      "link": "https://fashionista.com/2026/05/fashion-news-you-need-to-know-may-23",
+      "summary": "A must-read roundup of our most popular stories of the week.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: ICYMI: Shein Acquires Everlane, Inside SCAD's 2026 Student Runway Show...",
+      "score": 2,
+      "published": "2026-05-23T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2c1dc962ab01",
+      "title": "This Fashion Publicist Wore a Skirt Set From Sept for Her Beautiful South Florida Wedding",
+      "link": "https://www.whowhatwear.com/kelli-orihuela-and-chris-denci-wedding",
+      "summary": "See every detail.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: This Fashion Publicist Wore a Skirt Set From Sept for Her Beautiful South Florida Wedding — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-05-23T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ac16fce1769d",
+      "title": "How to Beat a Wet Memorial Day? Don’t Forget to Pack a Trench",
+      "link": "https://www.vogue.com/rainy-weather-trench-coat-in-street-style",
+      "summary": "A strong and stylish coat game will have you feeling right as rain.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How to Beat a Wet Memorial Day? Don’t Forget to Pack a Trench...",
+      "score": 0,
+      "published": "2026-05-23T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6439febc3d4c",
+      "title": "School Drop-Offs, Coppélia, and Other Final Acts for Retiring Ballerina Megan Fairchild",
+      "link": "https://www.vogue.com/article/5-to-9-with-megan-fairchild",
+      "summary": "“I have an immense amount of peace about this whole thing.”",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: School Drop-Offs, Coppélia, and Other Final Acts for Retiring Ballerin...",
+      "score": 0,
+      "published": "2026-05-23T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ea7783de4be2",
+      "title": "I Saw 24 Movies at the 2026 Cannes Film Festival. These Five Were the Best",
+      "link": "https://www.vogue.com/article/best-films-2026-cannes-film-festival",
+      "summary": "From edge-of-your-seat thrillers to a romp set in the New York City club scene, and a wildly surreal Kristen Stewart-led comedy.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Saw 24 Movies at the 2026 Cannes Film Festival. These Five Were the ...",
+      "score": 0,
+      "published": "2026-05-23T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4c0699829d9c",
+      "title": "Forget the Red Carpet. At Cannes, the Best Style is at the Airport",
+      "link": "https://www.vogue.com/slideshow/cannes-film-festival-2026-airport-style",
+      "summary": "From full runway looks to statement coats, celebrities hit the (airport) runway in style at the 2026 Cannes Film Festival.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-05-23T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "bc372101276a",
+      "title": "My Closet Needs a Major Overhaul—These 27 Chic Items From Madewell, J.Crew, and Sézane Were Highly Effective",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-madewell-jcrew-sezane-finds-summer-2026",
+      "summary": "Cute jeans. Minidresses. Balloon pants.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: My Closet Needs a Major Overhaul—These 27 Chic Items From Madewell, J....",
+      "score": 1,
+      "published": "2026-05-23T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "f6ea63e0fd3b",
       "title": "Spotted in Cannes: The Elegant Shoe That Makes Your Simple Summer Dress Look Chicest",
@@ -37,20 +135,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "df1233f1f824",
-      "title": "No Skinny Jeans Here—European It Girls Know These 4 Trouser Trends Are the Key to Fashionable Outfits",
-      "link": "https://www.whowhatwear.com/fashion/trends/european-fashion-trouser-trends-2026",
-      "summary": "Modern and cool styles.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 4,
-      "published": "2026-05-23T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3738d291d225",
       "title": "If You Want to Look Chic This Summer, Trade Barrel Jeans for One of *These* 6 Denim Trends",
       "link": "https://www.whowhatwear.com/fashion/denim/summer-denim-trends-2026",
@@ -65,15 +149,29 @@
       "discovered_via": "feed"
     },
     {
-      "id": "77733f4dea42",
-      "title": "In Paris, the Chicest Women Are Wearing One of These Flat-Shoe-and-Cropped-Trouser Combos",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/french-girl-cropped-trouser-and-flats-outfits-2026",
-      "summary": "Perfect pairings.",
+      "id": "df1233f1f824",
+      "title": "No Skinny Jeans Here—European It Girls Know These 4 Trouser Trends Are the Key to Fashionable Outfits",
+      "link": "https://www.whowhatwear.com/fashion/trends/european-fashion-trouser-trends-2026",
+      "summary": "Modern and cool styles.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 4,
+      "published": "2026-05-23T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6566ae759ca1",
+      "title": "Not Gen Z, Not Millennials—6 Elegant Summer Trends That Look Chicest on Over 50s",
+      "link": "https://www.whowhatwear.com/fashion/summer/over-50s-summer-trends-2026",
+      "summary": "So tasteful.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-05-23T06:00:00+00:00",
       "discovered_via": "feed"
@@ -93,15 +191,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6566ae759ca1",
-      "title": "Not Gen Z, Not Millennials—6 Elegant Summer Trends That Look Chicest on Over 50s",
-      "link": "https://www.whowhatwear.com/fashion/summer/over-50s-summer-trends-2026",
-      "summary": "So tasteful.",
+      "id": "77733f4dea42",
+      "title": "In Paris, the Chicest Women Are Wearing One of These Flat-Shoe-and-Cropped-Trouser Combos",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/french-girl-cropped-trouser-and-flats-outfits-2026",
+      "summary": "Perfect pairings.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-05-23T06:00:00+00:00",
       "discovered_via": "feed"
@@ -989,62 +1087,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "38d64fa03da5",
-      "title": "Richemont Jewelry Sales Rise 16% in Q4",
-      "link": "https://www.vogue.com/article/richemont-jewelry-sales-rise-16-in-q4",
-      "summary": "The Cartier owner reported a strong sales performance in the US and Asia-Pacific, more than offsetting pressures in the Middle East.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Richemont Jewelry Sales Rise 16% in Q4...",
-      "score": 0,
-      "published": "2026-05-22T10:17:06+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "58af30c7dcb6",
-      "title": "The Paris Fashion Week Men’s Calendar for Spring 2027 Is Here",
-      "link": "https://www.vogue.com/article/the-paris-fashion-week-mens-calendar-for-spring-2027-is-here",
-      "summary": "Celine’s Michael Rider and Givenchy’s Sarah Burton will be making their men’s runway debuts, and Meryll Rogge will show her first men’s collection under her namesake label.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: The Paris Fashion Week Men’s Calendar for Spring 2027 Is Here...",
-      "score": 5,
-      "published": "2026-05-22T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d9a64623fa28",
-      "title": "‘Tuner’ Star Leo Woodall Is Just Cracking On",
-      "link": "https://www.vogue.com/article/leo-woodall-tuner-interview",
-      "summary": "Drawing a warm response at both Sundance and TIFF, “Tuner”—in which Woodall stars with Dustin Hoffman and Havana Rose Liu—is the kind of movie people don’t make enough of anymore: fun, romantic, suspenseful, and built for everyone. We sat down with Woodall to talk craft, Hoffman, and dead fish.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: ‘Tuner’ Star Leo Woodall Is Just Cracking On...",
-      "score": 1,
-      "published": "2026-05-22T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ac8c5718c9b5",
-      "title": "My Packing Style: Brother Vellies Founder Aurora James",
-      "link": "https://www.vogue.com/article/packing-style-aurora-james",
-      "summary": "Take a peek inside designer and author Aurora James’ travel bag—as well as the packing tips she swears by.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: My Packing Style: Brother Vellies Founder Aurora James...",
-      "score": 3,
-      "published": "2026-05-22T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "fe99ac08be2f",
       "title": "Phlur Just Launched Two New Tropical Scents For Summer—I'm Ready for Sun, Sand, and Compliments",
       "link": "https://www.whowhatwear.com/beauty/fragrance/phlur-new-summer-scents-2026",
@@ -1101,20 +1143,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8e288fbee9a6",
-      "title": "I Live on the Upper East Side—5 Specific Pieces Everyone Is Wearing This Summer",
-      "link": "https://www.whowhatwear.com/fashion/upper-east-side-summer-fashion",
-      "summary": "Including the sandals everyone is trying to track down.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-05-22T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "248a00f90975",
       "title": "I'm a Stylist, and This Is the One Runway Trend I'll Be Wearing and Styling All Summer",
       "link": "https://www.whowhatwear.com/fashion/trends/asymmetric-outfit-trend-2026-brie-welch",
@@ -1125,6 +1153,20 @@
       "aza_category": "Trend Alert",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
+      "published": "2026-05-22T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8e288fbee9a6",
+      "title": "I Live on the Upper East Side—5 Specific Pieces Everyone Is Wearing This Summer",
+      "link": "https://www.whowhatwear.com/fashion/upper-east-side-summer-fashion",
+      "summary": "Including the sandals everyone is trying to track down.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
       "published": "2026-05-22T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1266,34 +1308,6 @@
       "angle": "Fashion Intelligence: The Elevated Gap Basic I Keep Buying in More Colors...",
       "score": 1,
       "published": "2026-05-21T20:07:19+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "59e11e58781c",
-      "title": "PSA: This Is the Pant-and-Heel Outfit Cool Girls Are Wearing With Coach's New It Bag",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/beige-pants-tortoise-heels-coach-chelsea-bag-outfit-bella-hadid",
-      "summary": "Follow Bella Hadid's lead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-05-21T20:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "683055ab6152",
-      "title": "Consider Me Intrigued—30 New Beauty and Wellness Products I'd Like to Test This Summer",
-      "link": "https://www.whowhatwear.com/beauty/new-summer-essentials-spf-self-tan-makeup-hydrating-skincare",
-      "summary": "New SPF, electrolytes, bronzers, and more.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Consider Me Intrigued—30 New Beauty and Wellness Products I'd Like to ...",
-      "score": 1,
-      "published": "2026-05-21T19:32:12+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2263,20 +2277,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b455fd910d0d",
-      "title": "Fashionista Is Hiring a PAID Summer 2026 Intern",
-      "link": "https://fashionista.com/2026/05/fashionista-paid-summer-2026-internship-opportunity",
-      "summary": "Success in this role may lead to future full-time employment opportunities with Fashionista.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Fashionista Is Hiring a PAID Summer 2026 Intern...",
-      "score": 1,
-      "published": "2026-05-11T20:17:41+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "aa0d5c6eed32",
       "title": "The Quiet Luxury of Heat",
       "link": "https://www.fashionbeans.com/article/mens-guide-sauna-culture-etiquette-style/",
@@ -2487,6 +2487,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "7ac002e75f7d",
+      "title": "Can a Simple Kurta Set Actually Look Premium?",
+      "link": "https://blog.kalkifashion.com/simple-kurta-set-actually-looks-premium/",
+      "summary": "What, according to you, makes a kurta for men premium? Bright colours, heavy embellishments, rich fabrics, designer labels? Well, that is exactly the definition of premium for many. But what if I told you that trend has changed, and luxury has been redefined as a classy, simple kurta set? The magic lies in your choice ",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Can a Simple Kurta Set Actually Look Premium?...",
+      "score": 5,
+      "published": "2026-05-23T10:49:11+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "a6e7e1bb83bd",
       "title": "Kurta Carnival Festival: Top Festive Kurta Styles Every Man Should Try",
       "link": "https://blog.kalkifashion.com/top-festive-kurta-styles-every-man-should-try/",
@@ -2610,20 +2624,6 @@
       "angle": "Bridal Edit: Why Some Lehengas Feel Timeless While Others Don’t — A Complete Style Guide",
       "score": 1,
       "published": "2026-05-12T04:43:38+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2a0e9dbf4445",
-      "title": "Why Handcrafted Sarees Remain Timeless in Modern Fashion",
-      "link": "https://blog.kalkifashion.com/handcrafted-sarees-remain-timeless-modern-fashion/",
-      "summary": "Have you ever looked around and noticed how modern fashion is changing these days? It is no longer just about metallic or blingy sarees, nor only about contemporary drapes. Modern fashion has evolved significantly and now blends Western styles with handcrafted clothing, which has become an integral part of it. Traditio",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Art & Craft",
-      "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
-      "score": 4,
-      "published": "2026-05-11T07:58:56+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2853,52 +2853,52 @@
   ],
   "trends": [
     {
-      "term": "पाऊस",
+      "term": "सीएनबीसी",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "चुनाव",
+      "term": "university of kashmir",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "மாநிலங்களவை",
+      "term": "raghav chadha",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ದರ್ಶನ್ ತೂಗುದೀಪ",
+      "term": "iphone 18 pro rumors",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ऋषिकेश",
+      "term": "ఎంసెట్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "प्रयागराज",
+      "term": "বৃষ্টি",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "उत्तर प्रदेश पुलिस",
+      "term": "kashmir university",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "నాగార్జున",
+      "term": "പിണറായി വിജയന്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "அரசியல்",
+      "term": "weather jaipur",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "lottery result today",
+      "term": "అరవ శ్రీధర్",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

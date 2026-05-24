@@ -1,13 +1,125 @@
 {
-  "generated_at": "2026-05-24T05:55:12.025400+00:00",
+  "generated_at": "2026-05-24T07:50:10.335424+00:00",
   "owned_count": 10,
   "competitor_count": 15,
-  "industry_count": 177,
+  "industry_count": 178,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "f593507f66a5",
+      "title": "You May Disagree, But These 7 Summer Fashion Trends Are Officially \"Dated\" According to Fashion Insiders",
+      "link": "https://www.whowhatwear.com/fashion/trends/dated-summer-fashion-trends-2026",
+      "summary": "A quick seasonal update.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-05-24T07:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7f2ecd6fc6dd",
+      "title": "Say 'I Do' to the 6 Wedding Guest Trends the Most Stylish People Are Wearing This Summer",
+      "link": "https://www.whowhatwear.com/living/wedding/wedding-guest-outfit-ideas-2026",
+      "summary": "Joyfully accepts.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Say 'I Do' to the 6 Wedding Guest Trends the Most Stylish People Are Wearing This Summer — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-05-24T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "78dbc69ace3c",
+      "title": "My Summer Uniform Centers Around Skirts and Dresses—39 Fresh Styles I Can't Wait to Buy",
+      "link": "https://www.whowhatwear.com/fashion/shopping/skirts-dresses-summer-2026",
+      "summary": "From Cou Cou, Faithfull, J.Crew, Leset, Rixo, and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: My Summer Uniform Centers Around Skirts and Dresses—39 Fresh Styles I ...",
+      "score": 2,
+      "published": "2026-05-24T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e3e90b7b6619",
+      "title": "Who What Wear Editors Told Me Their 20 Best Fashion Finds This Month",
+      "link": "https://www.whowhatwear.com/fashion/best-editor-fashion-items-june-2026",
+      "summary": "Shop the edit.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Who What Wear Editors Told Me Their 20 Best Fashion Finds This Month...",
+      "score": 2,
+      "published": "2026-05-24T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "942fd2b59f5a",
+      "title": "Goodbye, Boring Outfits—the Playful Trend Taking Over Our Summer 2026 Wardrobes",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-fringe-fashion",
+      "summary": "Time for some fringe fun.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-05-24T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cb92ccba322f",
+      "title": "Italian Women are the Chicest Dressers Around—17 Items They'd Choose from Zara's Latest Drop",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-zara-italian-girl-items-2026",
+      "summary": "Bellissima.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Italian Women are the Chicest Dressers Around—17 Items They'd Choose f...",
+      "score": 1,
+      "published": "2026-05-24T06:45:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9319d296b646",
+      "title": "6 Chic Sandal Trends That Will Give Your Summer Shoe Collection Some Personality",
+      "link": "https://www.whowhatwear.com/fashion/trends/sandals-microtrends-2026",
+      "summary": "They're cool-girl approved.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 2,
+      "published": "2026-05-24T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "70c8b655e710",
+      "title": "Those With Cool Style Know Leggings Aren't Just For Exercising—6 Summer Trends To Wear Them With",
+      "link": "https://www.whowhatwear.com/fashion/trends/summer-trends-to-wear-with-leggings-2026",
+      "summary": "Summer looks loading...",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-05-24T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "3e22c047a95b",
       "title": "5 Chic Jeans and Top Combos Everyone Will Be Wearing This Summer",
@@ -1210,104 +1322,6 @@
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 1,
       "published": "2026-05-22T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3d08683f39a3",
-      "title": "Not Trainers, Not Sandals—This Flat Shoe Trend Makes Skirts Look Their Chicest",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/ballet-flats-skirt-outfit-daisy-edgar-jones-2026",
-      "summary": "It's true.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-05-22T08:44:52+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b108917305e7",
-      "title": "If You’re Going to Wear Capri Leggings in 2026, Wear Them Like This, This and This",
-      "link": "https://www.whowhatwear.com/fashion/shoes/shoes-to-wear-with-capri-leggings-2026",
-      "summary": "A favourite along the French Riviera.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: If You’re Going to Wear Capri Leggings in 2026, Wear Them Like This, T...",
-      "score": 1,
-      "published": "2026-05-22T08:15:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "248a00f90975",
-      "title": "I'm a Stylist, and This Is the One Runway Trend I'll Be Wearing and Styling All Summer",
-      "link": "https://www.whowhatwear.com/fashion/trends/asymmetric-outfit-trend-2026-brie-welch",
-      "summary": "The trick to looking cool sans effort.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-05-22T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8e288fbee9a6",
-      "title": "I Live on the Upper East Side—5 Specific Pieces Everyone Is Wearing This Summer",
-      "link": "https://www.whowhatwear.com/fashion/upper-east-side-summer-fashion",
-      "summary": "Including the sandals everyone is trying to track down.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-05-22T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6c37d131778e",
-      "title": "Colorful Shoes! Woven Bags! Tankinis! 7 Fun Trends to Shop for Summer",
-      "link": "https://www.whowhatwear.com/fashion/shopping/fun-trends-summer-2026",
-      "summary": "Shop playful pieces.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-05-22T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7fb6b6b75b2b",
-      "title": "Forget Contouring—This Is the Way Beauty Editors Really Sculpt Their Faces",
-      "link": "https://www.whowhatwear.com/beauty/skin/how-to-tantour",
-      "summary": "Natural and luminous.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Forget Contouring—This Is the Way Beauty Editors Really Sculpt Their F...",
-      "score": 1,
-      "published": "2026-05-22T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2795f54a2879",
-      "title": "I'm Living in Dresses This Heatwave—12 Zara, H&M and COS Styles That Are Already Selling Fast",
-      "link": "https://www.whowhatwear.com/fashion/dresses/zara-hm-cos-summer-dresses-2026",
-      "summary": "The chicest way to take on the heat.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I'm Living in Dresses This Heatwave—12 Zara, H&M and COS Styles That A...",
-      "score": 2,
-      "published": "2026-05-22T05:50:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2839,52 +2853,52 @@
   ],
   "trends": [
     {
-      "term": "प्राजक्ता माळी",
+      "term": "उत्तर प्रदेश",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "శ్రేయాస్ అయ్యర్",
+      "term": "शुक्र",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "শান্তনু সেন",
+      "term": "bank fraud",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "രാഷ്ട്രീയം",
+      "term": "mlb",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "openai",
+      "term": "അമേരിക്ക",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "cyprus",
+      "term": "హౌసింగ్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "फाल्टा चुनाव परिणाम 2026",
+      "term": "രാജ്യസഭ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "tirupati",
+      "term": "റദ്ദാക്കി",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "शिवसेना (उद्धव बाळासाहेब ठाकरे)",
+      "term": "കേരള",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "meenakshi madan rai",
+      "term": "কালবৈশাখী",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

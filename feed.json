@@ -1,13 +1,97 @@
 {
-  "generated_at": "2026-05-24T09:54:53.318811+00:00",
+  "generated_at": "2026-05-24T12:02:01.846752+00:00",
   "owned_count": 10,
-  "competitor_count": 15,
+  "competitor_count": 13,
   "industry_count": 176,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "8bdc1b4043d5",
+      "title": "Editors Love to Gatekeep This Bikini Brand—4 Outfits I Tried On and Have to Talk About",
+      "link": "https://www.whowhatwear.com/fashion/summer/monday-swimwear-clothing-brand-review",
+      "summary": "Booking a tropical vacation ASAP.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Editors Love to Gatekeep This Bikini Brand—4 Outfits I Tried On and Ha...",
+      "score": 2,
+      "published": "2026-05-24T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d6a4c77cbfba",
+      "title": "From the Archives: The Romantic Englishwoman, Helena Bonham Carter",
+      "link": "https://www.vogue.com/article/from-the-archives-the-romantic-englishwoman",
+      "summary": "Spreading her wings: this month, Helena Bonham Carter takes on Henry James.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: From the Archives: The Romantic Englishwoman, Helena Bonham Carter...",
+      "score": 0,
+      "published": "2026-05-24T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5f7b33da4df9",
+      "title": "In L.A. and Paris, the Chicest Dressers Keep Coming Back to This Blouse, Jeans and Flat Shoe Summer Look",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/french-white-blouse-jeans-ballet-flats-kaia-gerber-2026",
+      "summary": "Chic every time.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: In L.A. and Paris, the Chicest Dressers Keep Coming Back to This Blous...",
+      "score": 1,
+      "published": "2026-05-24T10:10:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6c42164779e7",
+      "title": "The Very Best Travel Sneakers, According to Vogue Editors",
+      "link": "https://www.vogue.com/article/best-travel-sneakers",
+      "summary": "From retro runners to comfortable walking shoes, these are the best travel sneakers on the market, according to Vogue editors.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Very Best Travel Sneakers, According to Vogue Editors...",
+      "score": 0,
+      "published": "2026-05-24T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f911588c67db",
+      "title": "12 of the Best ’90s Movies to Lose Yourself in This Weekend",
+      "link": "https://www.vogue.com/article/12-best-90s-movies-long-weekend",
+      "summary": "From Lynchian classics to Sofia Coppola fever dreams, here are the ’90s films worth watching—for the first or 10th time—today.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 12 of the Best ’90s Movies to Lose Yourself in This Weekend...",
+      "score": 0,
+      "published": "2026-05-24T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "528c9af5adb8",
+      "title": "Not Jelly Sandals, Not Bag Charms—These Are the Highly Specific Accessories It Girls Are Wearing This Summer",
+      "link": "https://www.whowhatwear.com/fashion/trends/it-girl-summer-accessories-2026",
+      "summary": "And the silk scarf gets a promotion.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-05-24T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "94f31decbed4",
       "title": "It's My Job to Spot Nail Trends—I'm Expecting the Spicy French to Dominate All Summer",
@@ -51,15 +135,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "78dbc69ace3c",
-      "title": "My Summer Uniform Centers Around Skirts and Dresses—39 Fresh Styles I Can't Wait to Buy",
-      "link": "https://www.whowhatwear.com/fashion/shopping/skirts-dresses-summer-2026",
-      "summary": "From Cou Cou, Faithfull, J.Crew, Leset, Rixo, and more.",
+      "id": "942fd2b59f5a",
+      "title": "Goodbye, Boring Outfits—the Playful Trend Taking Over Our Summer 2026 Wardrobes",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-fringe-fashion",
+      "summary": "Time for some fringe fun.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: My Summer Uniform Centers Around Skirts and Dresses—39 Fresh Styles I ...",
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-05-24T07:00:00+00:00",
       "discovered_via": "feed"
@@ -79,15 +163,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "942fd2b59f5a",
-      "title": "Goodbye, Boring Outfits—the Playful Trend Taking Over Our Summer 2026 Wardrobes",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-fringe-fashion",
-      "summary": "Time for some fringe fun.",
+      "id": "78dbc69ace3c",
+      "title": "My Summer Uniform Centers Around Skirts and Dresses—39 Fresh Styles I Can't Wait to Buy",
+      "link": "https://www.whowhatwear.com/fashion/shopping/skirts-dresses-summer-2026",
+      "summary": "From Cou Cou, Faithfull, J.Crew, Leset, Rixo, and more.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: My Summer Uniform Centers Around Skirts and Dresses—39 Fresh Styles I ...",
       "score": 2,
       "published": "2026-05-24T07:00:00+00:00",
       "discovered_via": "feed"
@@ -107,20 +191,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "70c8b655e710",
-      "title": "Those With Cool Style Know Leggings Aren't Just For Exercising—6 Summer Trends To Wear Them With",
-      "link": "https://www.whowhatwear.com/fashion/trends/summer-trends-to-wear-with-leggings-2026",
-      "summary": "Summer looks loading...",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-05-24T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "9319d296b646",
       "title": "6 Chic Sandal Trends That Will Give Your Summer Shoe Collection Some Personality",
       "link": "https://www.whowhatwear.com/fashion/trends/sandals-microtrends-2026",
@@ -131,6 +201,20 @@
       "aza_category": "Designer Spotlight",
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 2,
+      "published": "2026-05-24T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "70c8b655e710",
+      "title": "Those With Cool Style Know Leggings Aren't Just For Exercising—6 Summer Trends To Wear Them With",
+      "link": "https://www.whowhatwear.com/fashion/trends/summer-trends-to-wear-with-leggings-2026",
+      "summary": "Summer looks loading...",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
       "published": "2026-05-24T06:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -415,20 +499,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ea7783de4be2",
-      "title": "I Saw 24 Movies at the 2026 Cannes Film Festival. These Five Were the Best",
-      "link": "https://www.vogue.com/article/best-films-2026-cannes-film-festival",
-      "summary": "From edge-of-your-seat thrillers to a romp set in the New York City club scene, and a wildly surreal Kristen Stewart-led comedy.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Saw 24 Movies at the 2026 Cannes Film Festival. These Five Were the ...",
-      "score": 0,
-      "published": "2026-05-23T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "4c0699829d9c",
       "title": "Forget the Red Carpet. At Cannes, the Best Style is at the Airport",
       "link": "https://www.vogue.com/slideshow/cannes-film-festival-2026-airport-style",
@@ -439,6 +509,20 @@
       "aza_category": "Celebrity Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
+      "published": "2026-05-23T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ea7783de4be2",
+      "title": "I Saw 24 Movies at the 2026 Cannes Film Festival. These Five Were the Best",
+      "link": "https://www.vogue.com/article/best-films-2026-cannes-film-festival",
+      "summary": "From edge-of-your-seat thrillers to a romp set in the New York City club scene, and a wildly surreal Kristen Stewart-led comedy.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Saw 24 Movies at the 2026 Cannes Film Festival. These Five Were the ...",
+      "score": 0,
       "published": "2026-05-23T10:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -527,20 +611,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "77733f4dea42",
-      "title": "In Paris, the Chicest Women Are Wearing One of These Flat-Shoe-and-Cropped-Trouser Combos",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/french-girl-cropped-trouser-and-flats-outfits-2026",
-      "summary": "Perfect pairings.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-05-23T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "57be9e921950",
       "title": "I'm A Low-Maintenance Beauty Editor—This Is My Hack for Doing My Makeup in 10 Minutes and Under",
       "link": "https://www.whowhatwear.com/beauty/makeup/best-makeup-kits",
@@ -550,6 +620,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: I'm A Low-Maintenance Beauty Editor—This Is My Hack for Doing My Makeu...",
+      "score": 1,
+      "published": "2026-05-23T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "77733f4dea42",
+      "title": "In Paris, the Chicest Women Are Wearing One of These Flat-Shoe-and-Cropped-Trouser Combos",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/french-girl-cropped-trouser-and-flats-outfits-2026",
+      "summary": "Perfect pairings.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-05-23T06:00:00+00:00",
       "discovered_via": "feed"
@@ -975,20 +1059,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "bd50cf97b5a2",
-      "title": "The Vogue Awards—2026 Cannes Film Festival Edition",
-      "link": "https://www.vogue.com/article/the-vogue-awards-2026-cannes-film-festival-edition",
-      "summary": "See who’s leaving the 2026 Cannes Film Festival with a Vogue Award, from Bella Hadid’s Jane Birkin reference to John Travolta’s berets.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Vogue Awards—2026 Cannes Film Festival Edition...",
-      "score": 0,
-      "published": "2026-05-22T16:05:21+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "9e623709d4cb",
       "title": "Olivia Rodrigo’s Channels Frida Kahlo In Her New Video",
       "link": "https://www.harpersbazaar.com/culture/art-books-music/a71385968/olivia-rodrigo-the-cure-video/",
@@ -1000,20 +1070,6 @@
       "angle": "Fashion Intelligence: Olivia Rodrigo’s Channels Frida Kahlo In Her New Video...",
       "score": 0,
       "published": "2026-05-22T16:04:17+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "854595912cbc",
-      "title": "Collagen or Biotin for Hair Growth: Which Is Better?",
-      "link": "https://www.vogue.com/article/biotin-versus-collagen-for-hair-growth",
-      "summary": "Biotin and collagen are the most popular ingredients recommended for hair growth. Here, Vogue explores how they work and which one is better for you.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Collagen or Biotin for Hair Growth: Which Is Better?...",
-      "score": 0,
-      "published": "2026-05-22T16:04:16+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1059,20 +1115,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "63c82f1f4f4a",
-      "title": "Women Over 60 Look Chic at the Airport Thanks to This Comfortable Shoe Trend and Non-Basic Top",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/julianne-moore-airport-outfit-striped-shirt-sneakers",
-      "summary": "French-girl chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-05-22T15:44:06+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "191997b5185b",
       "title": "Long Hair Is Back!",
       "link": "https://www.harpersbazaar.com/beauty/hair/a71375433/long-hair-trend-2026/",
@@ -1087,20 +1129,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "da30eea4583e",
-      "title": "Princess Diana’s Iconic Icy Blue Dress Lives On at the 2026 Cannes Film Festival",
-      "link": "https://www.vogue.com/article/princess-diana-anastasia-andrushkevich-2026-cannes-film-festival",
-      "summary": "The famous blue dress that Princess Diana wore to the 1987 Cannes Festival was referenced by actor Anastasia Andrushkevich on the 2026 red carpet—but the look’s fashion history goes beyond both Di and Ana.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Princess Diana’s Iconic Icy Blue Dress Lives On at the 2026 Cannes Fil...",
-      "score": 2,
-      "published": "2026-05-22T15:21:52+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "6829a9d49e76",
       "title": "A Complete Guide to Bella Hadid’s Favorite Vintage Stores",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71364373/bella-hadid-favorite-vintage-stores-guide/",
@@ -1112,20 +1140,6 @@
       "angle": "Fashion Intelligence: A Complete Guide to Bella Hadid’s Favorite Vintage Stores...",
       "score": 1,
       "published": "2026-05-22T15:19:24+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "15369b8a8a82",
-      "title": "Spotted in Cannes: Bella Hadid Just Wore the Color Trend That's All Over Zara and Ref Right Now",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/bella-hadid-ice-blue-color-trend",
-      "summary": "The shade of the season.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-05-22T15:01:29+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1224,20 +1238,6 @@
       "angle": "Fashion Intelligence: Inside Fashion’s 'Niche Cool Girl' Obsession...",
       "score": 3,
       "published": "2026-05-22T12:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3a228d65cf10",
-      "title": "Is It Just Me, or Is Every Cool Girl Wearing These Flip-Flop Color Trends Instead of Black?",
-      "link": "https://www.whowhatwear.com/fashion/shoes/colored-flip-flops-trend-2026",
-      "summary": "Spotted in Mexico, L.A., and Copenhagen.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-05-22T12:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2613,34 +2613,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8bb2dc27bd98",
-      "title": "What Should You Look For Before Buying Designer Ethnic Wear",
-      "link": "https://www.torani.in/blogs/news/what-should-you-look-for-before-buying-designer-ethnic-wear",
-      "summary": "Choosing the perfect ethnic wear isn’t just about picking something that looks nice, it’s really about finding something that actually fits your style, the kind of occasion you’re going to, and your personality. From big festivals to weddings or even those smaller get-togethers, the right outfit can make you feel confi",
-      "source": "Torani",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Fashion Intelligence: What Should You Look For Before Buying Designer Ethnic Wear...",
-      "score": 7,
-      "published": "2026-04-17T09:23:52+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9f17428bc4f6",
-      "title": "How to Choose the Perfect Outfit for a Summer Festive Occasion",
-      "link": "https://www.torani.in/blogs/news/how-to-choose-the-perfect-outfit-for-a-summer-festive-occasion",
-      "summary": "Summer celebrations have a mood of their own. The days feel lighter, the colours feel brighter, and there’s an ease in the air that naturally reflects in what you wear. Everything feels a little more relaxed, a little more effortless, whether it’s a daytime function under the sun or those intimate evening gatherings th",
-      "source": "Torani",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Occasion Dressing",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 4,
-      "published": "2026-04-17T09:06:25+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "1ea1d99beaf8",
       "title": "Which Banarasi Saree is Perfect for Indian Weddings in 2026?",
       "link": "https://www.indianclothstore.com/blog/which-banarasi-saree-is-perfect-for-indian-weddings-in-2026",
@@ -2825,52 +2797,52 @@
   ],
   "trends": [
     {
-      "term": "ajax vs utrecht",
+      "term": "குரு பெயர்ச்சி பலன்கள்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "weather varanasi",
+      "term": "અર્જુન તેંડુલકર",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "dividend",
+      "term": "arunachal pradesh",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "rajasthan royals vs mumbai indians match scorecard",
+      "term": "shardul thakur",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "rr बनाम mi",
+      "term": "ಮಧು ಬಂಗಾರಪ್ಪ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "marta kostyuk",
+      "term": "చెన్నై సూపర్ కింగ్స్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "सूर्य कांत",
+      "term": "harsha bhogle",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "స్టాక్",
+      "term": "jofra archer",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "the odyssey",
+      "term": "ऊर्जा संकट",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "मुकेश अंबानी",
+      "term": "luvnith sisodia",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

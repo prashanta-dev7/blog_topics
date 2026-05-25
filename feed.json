@@ -1,13 +1,195 @@
 {
-  "generated_at": "2026-05-24T12:02:01.846752+00:00",
+  "generated_at": "2026-05-25T06:18:40.681654+00:00",
   "owned_count": 10,
   "competitor_count": 13,
-  "industry_count": 176,
+  "industry_count": 177,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "ada64d5451d6",
+      "title": "I Spent Hours Searching for Elegant Wedding Guest Nails—These Are the Best Ideas I Found",
+      "link": "https://www.whowhatwear.com/beauty/nails/wedding-guest-nail-ideas",
+      "summary": "Just in time for wedding season.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: I Spent Hours Searching for Elegant Wedding Guest Nails—These Are the Best Ideas I Found — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-05-25T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c9af4b903ee1",
+      "title": "Sharon Stone on Survival, Painting in the Nude, and Aging",
+      "link": "https://www.vogue.com/article/sharon-stone-on-survival-painting-in-the-nude-and-aging",
+      "summary": "“When we start to erase ourselves, it's time to ask: ‘Why am I at war with myself? Is it something I can surgically fix, or is it something I need to intimately question myself about?’”",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Sharon Stone on Survival, Painting in the Nude, and Aging...",
+      "score": 0,
+      "published": "2026-05-24T21:09:41+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "745d2fba98e2",
+      "title": "Bella Hadid’s Vintage Vacation Style Channels Carrie Bradshaw",
+      "link": "https://www.vogue.com/article/bella-hadid-vacation-style-vintage-prada",
+      "summary": "The model is currently off-duty in St. Tropez—and found a spring 2001 Prada piece that was once worn on “Sex and the City.”",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Bella Hadid’s Vintage Vacation Style Channels Carrie Bradshaw...",
+      "score": 2,
+      "published": "2026-05-24T20:53:58+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "06153ab84ae7",
+      "title": "Renate Reinsve Wins Big at Cannes in a Louis Vuitton Cape and Sparkly Disco Pants",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a71395572/renate-reinsve-louis-vuitton-cape-disco-pants-cannes-film-festival-photos/",
+      "summary": "That’s a wrap!",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Renate Reinsve Wins Big at Cannes in a Louis Vuitton Cape and Sparkly ...",
+      "score": 0,
+      "published": "2026-05-24T19:02:26+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "78876fee5e62",
+      "title": "West Bengal police parades criminals in vest, underwear",
+      "link": "https://www.indiatoday.in/india/west-bengal/story/akash-singh-howrah-police-reconstruction-underwear-political-row-2916439-2026-05-24?utm_source=rss",
+      "summary": "West Bengal police parades criminals in vest, underwear",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: West Bengal police parades criminals in vest, underwear...",
+      "score": 1,
+      "published": "2026-05-24T17:49:25+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "af5943944228",
+      "title": "Jenna Ortega and Her McQueen Suit Give a Lesson in Nonchalant Tailoring",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a71395345/jenna-ortega-nonchalant-tailoring-alexander-mcqueen-spring-2026-suit-photos/",
+      "summary": "She attends a Wednesday Emmys event",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Jenna Ortega and Her McQueen Suit Give a Lesson in Nonchalant Tailorin...",
+      "score": 0,
+      "published": "2026-05-24T17:41:04+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3a6057accb49",
+      "title": "The Stars Flood to Cannes for the 79th Annual Film Festival",
+      "link": "https://www.harpersbazaar.com/celebrity/red-carpet-dresses/a71281321/all-the-celebrity-looks-79th-cannes-film-festival-2026-red-carpet-photos/",
+      "summary": "Welcome to the most glamorous red carpet of the year",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: The Stars Flood to Cannes for the 79th Annual Film Festival...",
+      "score": 0,
+      "published": "2026-05-24T15:49:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b6a157e2ba73",
+      "title": "The 8 Best Dressed Stars From the 2026 Cannes Film Festival",
+      "link": "https://www.vogue.com/article/2026-cannes-film-festival-red-carpet-best-dressed",
+      "summary": "The annual film festival has come to a close—and these were the stars who turned the glamorous red carpet into a fashion playground.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: The 8 Best Dressed Stars From the 2026 Cannes Film Festival...",
+      "score": 2,
+      "published": "2026-05-24T15:44:09+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "159b7532e071",
+      "title": "Taylor Swift’s Stella McCartney Courtside Look Is Full of Meaning",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a71395062/taylor-swift-high-low-courtside-stella-mccartney-look-easter-eggs-explained/",
+      "summary": "She’s mastered the art of high-low dressing",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Taylor Swift’s Stella McCartney Courtside Look Is Full of Meaning...",
+      "score": 1,
+      "published": "2026-05-24T15:26:23+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b6e3b7f30bca",
+      "title": "All the Fashions From the 2026 Cannes Film Festival Red Carpet",
+      "link": "https://www.vogue.com/slideshow/2026-cannes-film-festival-red-carpet-looks",
+      "summary": "The 79th annual Cannes Film Festival has concluded! See all of the red carpet fashion highlights here.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-05-24T14:16:10+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d1f816adfbc8",
+      "title": "All the Courtside Photos of Taylor Swift and Travis Kelce",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a71394841/all-the-photos-taylor-swift-travis-kelce-cleveland-cavaliers-new-york-knicks-game/",
+      "summary": "The couple attended the New York Knicks vs. Cleveland Cavaliers game in Cleveland, Ohio",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: All the Courtside Photos of Taylor Swift and Travis Kelce...",
+      "score": 0,
+      "published": "2026-05-24T14:08:40+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b5282805e4e6",
+      "title": "Not Black, Not White: This Is the Dress Color Fashion People Are Wearing From Stockholm to Paris",
+      "link": "https://www.whowhatwear.com/fashion/trends/brown-dress-trend-summer-2026",
+      "summary": "See the chic outfit ideas.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 4,
+      "published": "2026-05-24T12:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a6264f8f0166",
+      "title": "Taylor Swift and Travis Kelce Take Tips From Kylie and Timothée’s Courtside Style",
+      "link": "https://www.vogue.com/article/taylor-swift-and-travis-kelce-courtside-knicks",
+      "summary": "Taylor Swift and Travis Kelce made a courtside appearance at Game 3 of the NBA Eastern Conference Finals in matching double-denim.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Taylor Swift and Travis Kelce Take Tips From Kylie and Timothée’s Cour...",
+      "score": 1,
+      "published": "2026-05-24T12:09:26+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "8bdc1b4043d5",
       "title": "Editors Love to Gatekeep This Bikini Brand—4 Outfits I Tried On and Have to Talk About",
@@ -65,6 +247,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "2d533f523aef",
+      "title": "Five Whirlwind Days in Italy, at and Beyond the Venice Biennale",
+      "link": "https://www.vogue.com/article/five-whirlwind-days-2026-venice-biennale",
+      "summary": "An accounting of one writer’s jam-packed week in Venice—and a few tips for anyone plotting a similar trip.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Five Whirlwind Days in Italy, at and Beyond the Venice Biennale...",
+      "score": 0,
+      "published": "2026-05-24T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "f911588c67db",
       "title": "12 of the Best ’90s Movies to Lose Yourself in This Weekend",
       "link": "https://www.vogue.com/article/12-best-90s-movies-long-weekend",
@@ -74,6 +270,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: 12 of the Best ’90s Movies to Lose Yourself in This Weekend...",
+      "score": 0,
+      "published": "2026-05-24T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2162d8610a33",
+      "title": "37 of the Best Beach Reads to Lose Yourself in This Summer",
+      "link": "https://www.vogue.com/article/best-beach-reads",
+      "summary": "What exactly is it about a book that makes it deserve the “best beach read” designation? The real inherent quality: It satisfies.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 37 of the Best Beach Reads to Lose Yourself in This Summer...",
       "score": 0,
       "published": "2026-05-24T10:00:00+00:00",
       "discovered_via": "feed"
@@ -108,7 +318,7 @@
     },
     {
       "id": "f593507f66a5",
-      "title": "You May Disagree, But These 7 Summer Fashion Trends Are Officially \"Dated\" According to Fashion Insiders",
+      "title": "You May Disagree, But These 7 Summer Fashion Trends Are Officially \"Dated\", According to Fashion Insiders",
       "link": "https://www.whowhatwear.com/fashion/trends/dated-summer-fashion-trends-2026",
       "summary": "A quick seasonal update.",
       "source": "Who What Wear",
@@ -121,16 +331,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7f2ecd6fc6dd",
-      "title": "Say 'I Do' to the 6 Wedding Guest Trends the Most Stylish People Are Wearing This Summer",
-      "link": "https://www.whowhatwear.com/living/wedding/wedding-guest-outfit-ideas-2026",
-      "summary": "Joyfully accepts.",
+      "id": "e3e90b7b6619",
+      "title": "Who What Wear Editors Told Me Their 20 Best Fashion Finds This Month",
+      "link": "https://www.whowhatwear.com/fashion/best-editor-fashion-items-june-2026",
+      "summary": "Shop the edit.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Say 'I Do' to the 6 Wedding Guest Trends the Most Stylish People Are Wearing This Summer — A Complete Style Guide",
-      "score": 3,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Who What Wear Editors Told Me Their 20 Best Fashion Finds This Month...",
+      "score": 2,
       "published": "2026-05-24T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -149,16 +359,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e3e90b7b6619",
-      "title": "Who What Wear Editors Told Me Their 20 Best Fashion Finds This Month",
-      "link": "https://www.whowhatwear.com/fashion/best-editor-fashion-items-june-2026",
-      "summary": "Shop the edit.",
+      "id": "7f2ecd6fc6dd",
+      "title": "Say 'I Do' to the 6 Wedding Guest Trends the Most Stylish People Are Wearing This Summer",
+      "link": "https://www.whowhatwear.com/living/wedding/wedding-guest-outfit-ideas-2026",
+      "summary": "Joyfully accepts.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Who What Wear Editors Told Me Their 20 Best Fashion Finds This Month...",
-      "score": 2,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Say 'I Do' to the 6 Wedding Guest Trends the Most Stylish People Are Wearing This Summer — A Complete Style Guide",
+      "score": 3,
       "published": "2026-05-24T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -188,6 +398,20 @@
       "angle": "Fashion Intelligence: Italian Women are the Chicest Dressers Around—17 Items They'd Choose f...",
       "score": 1,
       "published": "2026-05-24T06:45:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8f1d63bd1ebf",
+      "title": "Benvenuti in Sardegna! Mytheresa and Dolce & Gabbana Toasted Their Latest Collection in Porto Cervo",
+      "link": "https://www.vogue.com/slideshow/mytheresa-dolce-gabbana-porto-cervo",
+      "summary": "For the 10th annual Mytheresa x Dolce & Gabbana sojourn in ‘the boot,’ it was time to welcome friends of both brands to join them in Costa Smerelda, Sardinia, to put the new Porto Cervo-inspired capsule to the test.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 2,
+      "published": "2026-05-24T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -230,20 +454,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
       "published": "2026-05-24T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4c3cf077a241",
-      "title": "Why label Indian youth as Pakistani? Cockroach party reacts to minister's post",
-      "link": "https://www.indiatoday.in/india/story/cockroach-janta-party-founder-abhijeet-dipke-rebuts-kiren-rijiju-pakistan-claim-2916151-2026-05-24?utm_source=rss",
-      "summary": "Why label Indian youth as Pakistani? Cockroach party reacts to minister's post",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Why label Indian youth as Pakistani? Cockroach party reacts to ministe...",
-      "score": 1,
-      "published": "2026-05-24T03:57:29+00:00",
       "discovered_via": "feed"
     },
     {
@@ -328,6 +538,20 @@
       "angle": "Fashion Intelligence: All of Demi Moore’s Show-Stopping Cannes Film Festival Looks...",
       "score": 1,
       "published": "2026-05-23T18:55:22+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4bac44c90a57",
+      "title": "The Small Beauty Details You May Have Missed at the 2026 Cannes Film Festival",
+      "link": "https://www.vogue.com/slideshow/small-beauty-details-2026-cannes-film-festival",
+      "summary": "Sculptural updos, soft pink glam, and bangs are taking center stage at Cannes.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Small Beauty Details You May Have Missed at the 2026 Cannes Film F...",
+      "score": 1,
+      "published": "2026-05-23T18:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -569,20 +793,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "df1233f1f824",
-      "title": "No Skinny Jeans Here—European It Girls Know These 4 Trouser Trends Are the Key to Fashionable Outfits",
-      "link": "https://www.whowhatwear.com/fashion/trends/european-fashion-trouser-trends-2026",
-      "summary": "Modern and cool styles.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 4,
-      "published": "2026-05-23T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3738d291d225",
       "title": "If You Want to Look Chic This Summer, Trade Barrel Jeans for One of *These* 6 Denim Trends",
       "link": "https://www.whowhatwear.com/fashion/denim/summer-denim-trends-2026",
@@ -593,6 +803,20 @@
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
+      "published": "2026-05-23T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "df1233f1f824",
+      "title": "No Skinny Jeans Here—European It Girls Know These 4 Trouser Trends Are the Key to Fashionable Outfits",
+      "link": "https://www.whowhatwear.com/fashion/trends/european-fashion-trouser-trends-2026",
+      "summary": "Modern and cool styles.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 4,
       "published": "2026-05-23T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -821,20 +1045,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "624fdba9e3d4",
-      "title": "Poppy Liu on the Fashion, Fun, and Anti-Capitalist Heart of ‘I Love Boosters’",
-      "link": "https://www.vogue.com/article/poppy-liu-i-love-boosters-interview",
-      "summary": "“It’s about who you’re valuing, and I think at the heart of it, capital doesn’t value people,” says Liu of the message driving her new film “I Love Boosters.”",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Poppy Liu on the Fashion, Fun, and Anti-Capitalist Heart of ‘I Love Bo...",
-      "score": 1,
-      "published": "2026-05-22T19:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "4a9bcfcc37d6",
       "title": "Dua Lipa Goes Maximalist With Her Prints at a Pop-Up Event in London",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71388248/dua-lipa-maximalist-butterfly-outfit-dua-by-ab-pop-up-event-london-photos/",
@@ -849,34 +1059,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "de4acb22c740",
-      "title": "Jordyn Woods Has Pretty Much Perfected Her Knicks Game-Day Routine",
-      "link": "https://www.vogue.com/slideshow/jordyn-woods-knicks-game-day-diary",
-      "summary": "“At this point, I’m not risking changing anything,” Jordyn Woods tells Vogue of her game-day formula—and lucky Woods by Jordyn bag.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Jordyn Woods Has Pretty Much Perfected Her Knicks Game-Day Routine...",
-      "score": 0,
-      "published": "2026-05-22T18:57:15+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "fef66ed2f0e9",
-      "title": "Fashion People and Zara Agree: You Can't Go Wrong With This Effortless 3-Piece Summer Outfit Idea",
-      "link": "https://www.whowhatwear.com/fashion/shopping/easy-zara-summer-outfit-idea-2026-lace-trim-shorts",
-      "summary": "This season's It shorts are involved.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Fashion People and Zara Agree: You Can't Go Wrong With This Effortless...",
-      "score": 3,
-      "published": "2026-05-22T18:40:59+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "256b9202cdc0",
       "title": "What to Wear in Paris This Summer",
       "link": "https://www.harpersbazaar.com/fashion/trends/a71364201/paris-outfit-ideas/",
@@ -888,48 +1070,6 @@
       "angle": "Fashion Intelligence: What to Wear in Paris This Summer...",
       "score": 1,
       "published": "2026-05-22T18:13:36+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3a6057accb49",
-      "title": "The Stars Flood to Cannes for the 79th Annual Film Festival",
-      "link": "https://www.harpersbazaar.com/celebrity/red-carpet-dresses/a71281321/all-the-celebrity-looks-79th-cannes-film-festival-2026-red-carpet-photos/",
-      "summary": "Welcome to the most glamorous red carpet of the year",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The Stars Flood to Cannes for the 79th Annual Film Festival...",
-      "score": 0,
-      "published": "2026-05-22T18:07:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3c333ddc5de5",
-      "title": "These Iconic Resortwear Labels Have Defined Summer Style for Decades—And You Can Still Shop Them",
-      "link": "https://www.vogue.com/article/iconic-resort-wear-brands",
-      "summary": "With temperatures rising and jet-set mode on, you can safely set your out-of-office message with these iconic swimwear brands in mind.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: These Iconic Resortwear Labels Have Defined Summer Style for Decades—A...",
-      "score": 4,
-      "published": "2026-05-22T18:04:47+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "86571af43f30",
-      "title": "How to Use Earthy Color Palettes to Make Your Home a Calm, Cozy Retreat",
-      "link": "https://www.vogue.com/article/how-to-use-earthy-color-palettes",
-      "summary": "Interior designers share the best way to decorate with earthy colors—like sage green, olive, brown—to create a welcoming home.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: How to Use Earthy Color Palettes to Make Your Home a Calm, Cozy Retrea...",
-      "score": 1,
-      "published": "2026-05-22T17:39:34+00:00",
       "discovered_via": "feed"
     },
     {
@@ -961,48 +1101,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a41ad5742250",
-      "title": "The Real Budgets of Vogue Weddings",
-      "link": "https://www.vogue.com/article/vogue-weddings-budgets",
-      "summary": "We asked couples who have had their weddings featured in Vogue over the last two years to reveal their real wedding budgets—here’s what we learned.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: The Real Budgets of Vogue Weddings — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-05-22T17:21:42+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "88d60a4b43b1",
-      "title": "Lanvin’s Peter Copping on the Enduring Appeal of the 1920s",
-      "link": "https://www.vogue.com/article/lanvins-peter-copping-on-the-enduring-appeal-of-the-1920s",
-      "summary": "At SCAD, where he was a designer in residence, the Lanvin creative director mused on both mentoring and mining the past.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Lanvin’s Peter Copping on the Enduring Appeal of the 1920s...",
-      "score": 1,
-      "published": "2026-05-22T17:13:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7caf10f8ef8e",
-      "title": "Renate Reinsve and Stellan Skarsgård Know the Sentimental Value of Sharing Clothes",
-      "link": "https://www.vogue.com/article/renate-reinsve-stellan-skarsgard-twinning-shared-suit-cannes",
-      "summary": "Renate Reinsve borrowed the suit Stellan Skarsgård wore to the premiere of her new movie, ‘Fjord.’",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Renate Reinsve and Stellan Skarsgård Know the Sentimental Value of Sha...",
-      "score": 0,
-      "published": "2026-05-22T17:11:36+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "be3290469431",
       "title": "Harry Styles Takes a Style Cue From Zoë Kravitz at the 2026 Ivor Novello Awards",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71387212/harry-styles-ivor-novello-awards-2026-outfit-photos-speech/",
@@ -1014,34 +1112,6 @@
       "angle": "Fashion Intelligence: Harry Styles Takes a Style Cue From Zoë Kravitz at the 2026 Ivor Novel...",
       "score": 2,
       "published": "2026-05-22T17:08:37+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3b70eb90b71f",
-      "title": "These Rarely-Seen Photos of Marilyn Monroe Capture Her Remarkable Relationship With the Camera",
-      "link": "https://www.vogue.com/slideshow/marilyn-monroe-centenary-photography-book",
-      "summary": "In celebration of Marilyn Monroe’s 100th birthday, a new book examines the star’s relationship with the camera—and the legendary photographers behind it.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: These Rarely-Seen Photos of Marilyn Monroe Capture Her Remarkable Rela...",
-      "score": 0,
-      "published": "2026-05-22T17:07:15+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "acca8f2b4630",
-      "title": "24 Best Weekender Bags for Women in 2026",
-      "link": "https://www.vogue.com/slideshow/best-weekender-bag",
-      "summary": "Short-haul duffel, large leather holdalls, and women’s carry ons— shop Vogue’s ultimate edit of the best weekender bags for traveling in style.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 24 Best Weekender Bags for Women in 2026...",
-      "score": 1,
-      "published": "2026-05-22T16:42:04+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1532,62 +1602,6 @@
       "angle": "Fashion Intelligence: Must Read: Alex Consani Covers 'Harper's Bazaar,' Ralph Lauren Sees Do...",
       "score": 1,
       "published": "2026-05-21T16:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2ace4a32de6d",
-      "title": "All of Bella Hadid’s Many Magnificent Cannes Film Festival Looks",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a71373217/every-bella-hadid-look-cannes-film-festival-2026-red-carpet-photos/",
-      "summary": "Including her latest Jane Birkin dress",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: All of Bella Hadid’s Many Magnificent Cannes Film Festival Looks...",
-      "score": 1,
-      "published": "2026-05-21T15:03:19+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "85cfa8e3dd41",
-      "title": "The Bazaar Guide to Summer 2026 Books",
-      "link": "https://www.harpersbazaar.com/culture/art-books-music/a71366752/best-summer-books-2026/",
-      "summary": "Whether you love short stories, sci-fi, or classic beach reads or simply want to log off ... we’ve got a book rec for you",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Bazaar Guide to Summer 2026 Books...",
-      "score": 0,
-      "published": "2026-05-21T14:51:01+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c3d4f548851f",
-      "title": "All the Stars Who Attended the Louis Vuitton Cruise 2027 Show",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a71373206/all-the-stars-louis-vuitton-cruise-2027-show-front-row-photos/",
-      "summary": "From Zendaya to Emma Stone, the front row was packed with A-listers",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: All the Stars Who Attended the Louis Vuitton Cruise 2027 Show...",
-      "score": 1,
-      "published": "2026-05-21T14:50:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "eb16d08c82d4",
-      "title": "Kaia Gerber and Cindy Crawford Twin in Baggy Denim for an L.A. Bash",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a71373248/kaia-gerber-cindy-crawford-match-denim-jeans-re-done-launch-la-photos/",
-      "summary": "Great jeans",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Kaia Gerber and Cindy Crawford Twin in Baggy Denim for an L.A. Bash...",
-      "score": 0,
-      "published": "2026-05-21T14:00:49+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2797,52 +2811,52 @@
   ],
   "trends": [
     {
-      "term": "குரு பெயர்ச்சி பலன்கள்",
+      "term": "afghanistan",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "અર્જુન તેંડુલકર",
+      "term": "தர்மேந்திர பிரதான்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "arunachal pradesh",
+      "term": "ap eamcet key 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "shardul thakur",
+      "term": "itr filing",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಮಧು ಬಂಗಾರಪ್ಪ",
+      "term": "msc",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "చెన్నై సూపర్ కింగ్స్",
+      "term": "jee adv",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "harsha bhogle",
+      "term": "सर्जियो गोर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "jofra archer",
+      "term": "anandabazar patrika today",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ऊर्जा संकट",
+      "term": "clickup",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "luvnith sisodia",
+      "term": "હવામાન આગાહી",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

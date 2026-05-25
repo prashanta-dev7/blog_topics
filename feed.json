@@ -1,13 +1,41 @@
 {
-  "generated_at": "2026-05-25T06:18:40.681654+00:00",
+  "generated_at": "2026-05-25T08:57:23.103256+00:00",
   "owned_count": 10,
   "competitor_count": 13,
-  "industry_count": 177,
+  "industry_count": 176,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "2de2701e71cf",
+      "title": "French Women Are Going to Be Wearing This Chic Wardrobe Staple on Repeat This Summer",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/french-girl-summer-skirt-outfits-2026",
+      "summary": "A timeless summer staple.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-05-25T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d60bbb47f280",
+      "title": "Dress Code: Marlowe",
+      "link": "https://www.fashionbeans.com/article/marlowe/",
+      "summary": "",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Dress Code: Marlowe...",
+      "score": 1,
+      "published": "2026-05-25T06:31:32+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "ada64d5451d6",
       "title": "I Spent Hours Searching for Elegant Wedding Guest Nails—These Are the Best Ideas I Found",
@@ -62,20 +90,6 @@
       "angle": "Fashion Intelligence: Renate Reinsve Wins Big at Cannes in a Louis Vuitton Cape and Sparkly ...",
       "score": 0,
       "published": "2026-05-24T19:02:26+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "78876fee5e62",
-      "title": "West Bengal police parades criminals in vest, underwear",
-      "link": "https://www.indiatoday.in/india/west-bengal/story/akash-singh-howrah-police-reconstruction-underwear-political-row-2916439-2026-05-24?utm_source=rss",
-      "summary": "West Bengal police parades criminals in vest, underwear",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: West Bengal police parades criminals in vest, underwear...",
-      "score": 1,
-      "published": "2026-05-24T17:49:25+00:00",
       "discovered_via": "feed"
     },
     {
@@ -233,20 +247,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6c42164779e7",
-      "title": "The Very Best Travel Sneakers, According to Vogue Editors",
-      "link": "https://www.vogue.com/article/best-travel-sneakers",
-      "summary": "From retro runners to comfortable walking shoes, these are the best travel sneakers on the market, according to Vogue editors.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Very Best Travel Sneakers, According to Vogue Editors...",
-      "score": 0,
-      "published": "2026-05-24T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2d533f523aef",
       "title": "Five Whirlwind Days in Italy, at and Beyond the Venice Biennale",
       "link": "https://www.vogue.com/article/five-whirlwind-days-2026-venice-biennale",
@@ -256,6 +256,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Five Whirlwind Days in Italy, at and Beyond the Venice Biennale...",
+      "score": 0,
+      "published": "2026-05-24T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6c42164779e7",
+      "title": "The Very Best Travel Sneakers, According to Vogue Editors",
+      "link": "https://www.vogue.com/article/best-travel-sneakers",
+      "summary": "From retro runners to comfortable walking shoes, these are the best travel sneakers on the market, according to Vogue editors.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Very Best Travel Sneakers, According to Vogue Editors...",
       "score": 0,
       "published": "2026-05-24T10:00:00+00:00",
       "discovered_via": "feed"
@@ -331,34 +345,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e3e90b7b6619",
-      "title": "Who What Wear Editors Told Me Their 20 Best Fashion Finds This Month",
-      "link": "https://www.whowhatwear.com/fashion/best-editor-fashion-items-june-2026",
-      "summary": "Shop the edit.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Who What Wear Editors Told Me Their 20 Best Fashion Finds This Month...",
-      "score": 2,
-      "published": "2026-05-24T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "942fd2b59f5a",
-      "title": "Goodbye, Boring Outfits—the Playful Trend Taking Over Our Summer 2026 Wardrobes",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-fringe-fashion",
-      "summary": "Time for some fringe fun.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-05-24T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "7f2ecd6fc6dd",
       "title": "Say 'I Do' to the 6 Wedding Guest Trends the Most Stylish People Are Wearing This Summer",
       "link": "https://www.whowhatwear.com/living/wedding/wedding-guest-outfit-ideas-2026",
@@ -382,6 +368,34 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: My Summer Uniform Centers Around Skirts and Dresses—39 Fresh Styles I ...",
+      "score": 2,
+      "published": "2026-05-24T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e3e90b7b6619",
+      "title": "Who What Wear Editors Told Me Their 20 Best Fashion Finds This Month",
+      "link": "https://www.whowhatwear.com/fashion/best-editor-fashion-items-june-2026",
+      "summary": "Shop the edit.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Who What Wear Editors Told Me Their 20 Best Fashion Finds This Month...",
+      "score": 2,
+      "published": "2026-05-24T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "942fd2b59f5a",
+      "title": "Goodbye, Boring Outfits—the Playful Trend Taking Over Our Summer 2026 Wardrobes",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-fringe-fashion",
+      "summary": "Time for some fringe fun.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-05-24T07:00:00+00:00",
       "discovered_via": "feed"
@@ -835,20 +849,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "57be9e921950",
-      "title": "I'm A Low-Maintenance Beauty Editor—This Is My Hack for Doing My Makeup in 10 Minutes and Under",
-      "link": "https://www.whowhatwear.com/beauty/makeup/best-makeup-kits",
-      "summary": "Quick and effortless.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: I'm A Low-Maintenance Beauty Editor—This Is My Hack for Doing My Makeu...",
-      "score": 1,
-      "published": "2026-05-23T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "77733f4dea42",
       "title": "In Paris, the Chicest Women Are Wearing One of These Flat-Shoe-and-Cropped-Trouser Combos",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/french-girl-cropped-trouser-and-flats-outfits-2026",
@@ -858,6 +858,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-05-23T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "57be9e921950",
+      "title": "I'm A Low-Maintenance Beauty Editor—This Is My Hack for Doing My Makeup in 10 Minutes and Under",
+      "link": "https://www.whowhatwear.com/beauty/makeup/best-makeup-kits",
+      "summary": "Quick and effortless.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I'm A Low-Maintenance Beauty Editor—This Is My Hack for Doing My Makeu...",
       "score": 1,
       "published": "2026-05-23T06:00:00+00:00",
       "discovered_via": "feed"
@@ -958,20 +972,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 3,
       "published": "2026-05-22T21:23:15+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d14e7926606d",
-      "title": "These 12 Nordstrom Items Are the Ticket to Dressing On-Trend This Summer",
-      "link": "https://www.whowhatwear.com/fashion/summer/new-in-under-500-nordstrom",
-      "summary": "Easy additions to your existing summer wardrobe.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-05-22T21:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2459,20 +2459,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "256701c8d5f1",
-      "title": "25 Types of Hats For Men – Styles for Any Occasion in 2026",
-      "link": "https://www.fashionbeans.com/article/mens-hat-styles/",
-      "summary": "Remember when Justin Bieber wore a hot pink beanie to a black tie event? Unless you’re Justin, who can pull off anything (you guessed it, we are Beliebers), a beanie at the Grammys isn’t the most appropriate choice of hat. Then what types of hats are suitable for a black tie event, you ask? We’d &#8230; Continue readin",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 2,
-      "published": "2026-05-06T10:23:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "581d8f69aec5",
       "title": "GUESS celebra Marilyn Monroe: la mostra al MUDEC e la capsule collection. Un progetto che unisce moda, fotografia e cultura contemporanea",
       "link": "https://www.theblondesalad.com/fashion/guess-celebra-marilyn-monroe-la-mostra-al-mudec-e-la-capsule-collection-un-progetto-che-unisce-moda-fotografia-e-cultura-contemporanea/",
@@ -2484,6 +2470,20 @@
       "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
       "score": 1,
       "published": "2026-04-21T10:00:12+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ddd3c6d27594",
+      "title": "New KALKI x Rhea Kapoor Edit Deserves a Spot in Your Wardrobe",
+      "link": "https://blog.kalkifashion.com/new-kalki-x-rhea-kapoor-edit-deserves-a-spot-in-your-wardrobe/",
+      "summary": "There is no doubt about how obsessed we are with our Bollywood celebrities. From clothing to hairstyles, we have always tried to imitate their style and look as fashionable and glamorous as they are. Well, the good news is KALKI gives us a chance to shop for celebrity-inspired aesthetic clothing designed by the super-t",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: New KALKI x Rhea Kapoor Edit Deserves a Spot in Your Wardrobe...",
+      "score": 4,
+      "published": "2026-05-25T08:17:38+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2610,20 +2610,6 @@
       "angle": "Fashion Intelligence: Why Anarkali Suit Are Back as a Must-Have Ethnic Style?...",
       "score": 5,
       "published": "2026-05-13T08:53:10+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7a1ffa04f9d5",
-      "title": "Why Some Lehengas Feel Timeless While Others Don’t",
-      "link": "https://blog.kalkifashion.com/why-some-lehengas-feel-timeless/",
-      "summary": "Have you experienced how some lehengas feel different the moment you see them? They appeal as rich, magical, and unforgettable, while others seem ordinary to you. Do you know what makes you feel that way? It’s the fit, the fabric, and the design of the lehenga for women that make it beautiful. A well-designed lehenga [",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Why Some Lehengas Feel Timeless While Others Don’t — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-05-12T04:43:38+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2811,52 +2797,52 @@
   ],
   "trends": [
     {
-      "term": "afghanistan",
+      "term": "ஸ்கூட்டர்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "தர்மேந்திர பிரதான்",
+      "term": "dharmendra pradhan",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ap eamcet key 2026",
+      "term": "निवडणूक",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "itr filing",
+      "term": "வண்டல் மண்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "msc",
+      "term": "rain",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "jee adv",
+      "term": "പെട്രോളിയം",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "सर्जियो गोर",
+      "term": "iphone 18 pro max",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "anandabazar patrika today",
+      "term": "ક્રિકેટ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "clickup",
+      "term": "ఇల్లు ఇల్లాలు పిల్లలు",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "હવામાન આગાહી",
+      "term": "న్యాయమూర్తి",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

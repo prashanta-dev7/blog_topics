@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T08:15:39.283747+00:00",
+  "generated_at": "2026-05-31T12:12:26.766009+00:00",
   "owned_count": 10,
   "competitor_count": 13,
   "industry_count": 181,
@@ -9,17 +9,115 @@
   },
   "articles": [
     {
-      "id": "c969ca447a5a",
-      "title": "Louis Vuitton Resort 2027 Menswear",
-      "link": "https://www.vogue.com/fashion-shows/resort-2027-menswear/louis-vuitton",
-      "summary": "",
+      "id": "6d9e523812c9",
+      "title": "From the Archives: Jean Stafford on Norman Mailer’s Prurient Marilyn Monroe Biography",
+      "link": "https://www.vogue.com/article/from-the-archives-norman-mailers-marilyn-monroe",
+      "summary": "“Norman Mailer should be bull-whipped for what he did to Marilyn Monroe,” wrote Stafford in 1973.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: From the Archives: Jean Stafford on Norman Mailer’s Prurient Marilyn M...",
+      "score": 0,
+      "published": "2026-05-31T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "64a47dbf3d82",
+      "title": "These $55 J.Crew Shorts Look Identical to the Anti-Denim Pairs Every Chic Dresser Wears in the Summer",
+      "link": "https://www.whowhatwear.com/fashion/shopping/jcrew-cruise-drawstring-shorts",
+      "summary": "One of Who What Wear's senior fashion editors is a fan.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Louis Vuitton Resort 2027 Menswear...",
+      "angle": "Fashion Intelligence: These $55 J.Crew Shorts Look Identical to the Anti-Denim Pairs Every C...",
+      "score": 3,
+      "published": "2026-05-31T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6f74b8e09f96",
+      "title": "23 Vintage Photos of Sophia Loren Being the Ultimate European Summer Muse",
+      "link": "https://www.vogue.com/slideshow/sophia-loren-european-summer-muse",
+      "summary": "From the Amalfi Coast to the Bay of Naples, Barcelona, and languid mornings in her own villa: nobody does La Dolce Vita glamour like Sophia Loren.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 23 Vintage Photos of Sophia Loren Being the Ultimate European Summer M...",
+      "score": 0,
+      "published": "2026-05-31T10:38:50+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "332a7861b5b0",
+      "title": "Zara’s Chic New Linen Drop Is So French Girl-Coded—These 5 Trends Will Sell Out First",
+      "link": "https://www.whowhatwear.com/fashion/shopping/zara-linen-trends-summer-2026",
+      "summary": "Be quick.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-05-31T10:15:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "15d2ddd1e997",
+      "title": "Marilyn Monroe on the Catwalk: How Designers Have Referenced the Blond Bombshell",
+      "link": "https://www.vogue.com/article/marilyn-monroe-on-the-catwalk-how-designers-have-referenced-the-blond-bombshell",
+      "summary": "Fashion was as important as costume in making an icon of Marilyn Monroe. Here, we take a look at how designers have referenced her face, silhouette, and performances in their collections.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Marilyn Monroe on the Catwalk: How Designers Have Referenced the Blond...",
+      "score": 3,
+      "published": "2026-05-31T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4fe27c5e1500",
+      "title": "18 Best Bridal Pajamas for the Wedding, Honeymoon, and Beyond",
+      "link": "https://www.vogue.com/article/bride-pajamas",
+      "summary": "You have the dress, now shop Vogue’s edit of the best bridal pajamas, sets, and robes to ensure you start your wedding day on the right foot.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: 18 Best Bridal Pajamas for the Wedding, Honeymoon, and Beyond — A Complete Style Guide",
+      "score": 3,
+      "published": "2026-05-31T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0677a2dd6192",
+      "title": "What Is Surrealism? Alex Eagle Explains the Art Movement",
+      "link": "https://www.vogue.com/article/eagle-eye-surrealism",
+      "summary": "Designer and creative director Alex Eagle on why Surrealism feels so current—and how to bring the style home.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: What Is Surrealism? Alex Eagle Explains the Art Movement...",
       "score": 2,
-      "published": "2026-05-31T08:11:16+00:00",
+      "published": "2026-05-31T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "09d853667c2e",
+      "title": "I Wore This Bella Hadid–Approved LED Mask for 14 Days—My Real, Unfiltered Thoughts",
+      "link": "https://www.whowhatwear.com/beauty/skin/omnilux-led-face-mask-review",
+      "summary": "Here, my quest for supermodel skin.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-05-31T09:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -51,20 +149,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f1b371afd8a2",
-      "title": "It's Confirmed—These 5 Summer Shoes Always Look Best With Cropped Jeans",
-      "link": "https://www.whowhatwear.com/fashion/shoes/summer-shoe-trends-to-wear-with-cropped-jeans-2026",
-      "summary": "Because we still wear jeans in summer.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: It's Confirmed—These 5 Summer Shoes Always Look Best With Cropped Jean...",
-      "score": 1,
-      "published": "2026-05-31T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "fea7d72bad2f",
       "title": "I’m Calling It: This Is the Rich-Looking Bag Trend to Buy Ahead of Fall",
       "link": "https://www.whowhatwear.com/fashion/trends/croc-effect-bag-trend-2026",
@@ -74,6 +158,20 @@
       "is_competitor": false,
       "aza_category": "Trend Alert",
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-05-31T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f1b371afd8a2",
+      "title": "It's Confirmed—These 5 Summer Shoes Always Look Best With Cropped Jeans",
+      "link": "https://www.whowhatwear.com/fashion/shoes/summer-shoe-trends-to-wear-with-cropped-jeans-2026",
+      "summary": "Because we still wear jeans in summer.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: It's Confirmed—These 5 Summer Shoes Always Look Best With Cropped Jean...",
       "score": 1,
       "published": "2026-05-31T07:00:00+00:00",
       "discovered_via": "feed"
@@ -177,20 +275,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "dd190f9e98e1",
-      "title": "If You’re Going to Wear Jeans in Summer, Avoid These 5 Dated Trends",
-      "link": "https://www.whowhatwear.com/fashion/trends/dated-summer-jeans-trends-2026",
-      "summary": "An updated summer jean edit.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-05-31T05:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a97de96d0ef4",
       "title": "I’ve Found Them—The 7 Easy But Elegant Outfit Combos Chic Women Are Wearing On Repeat This Summer",
       "link": "https://www.whowhatwear.com/fashion/summer/easy-summer-outfits-2026",
@@ -200,6 +284,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-05-31T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "dd190f9e98e1",
+      "title": "If You’re Going to Wear Jeans in Summer, Avoid These 5 Dated Trends",
+      "link": "https://www.whowhatwear.com/fashion/trends/dated-summer-jeans-trends-2026",
+      "summary": "An updated summer jean edit.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-05-31T05:00:00+00:00",
       "discovered_via": "feed"
@@ -499,20 +597,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9f1ec48c7346",
-      "title": "Not Blue Jeans—The Chicest Over-50s Are Elevating Blouses With This Non-Boring Denim Trend",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/khaki-jeans-trend-cindy-crawford-2026",
-      "summary": "An instant upgrade.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-05-30T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "447b6f61ecd9",
       "title": "Everywhere I Look, Women With Expensive Taste Are Wearing the Rich-Looking Dress Trend That's All Over Zara",
       "link": "https://www.whowhatwear.com/fashion/shopping/linen-dress-trend-2026",
@@ -527,17 +611,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4956ae3b58fc",
-      "title": "Want to Look Chic This Summer? These 9 Under-$250 Outfits Will Get So Many Compliments",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/under-250-outfit-ideas",
-      "summary": "Chic on a budget.",
+      "id": "9f1ec48c7346",
+      "title": "Not Blue Jeans—The Chicest Over-50s Are Elevating Blouses With This Non-Boring Denim Trend",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/khaki-jeans-trend-cindy-crawford-2026",
+      "summary": "An instant upgrade.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Want to Look Chic This Summer? These 9 Under-$250 Outfits Will Get So ...",
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
-      "published": "2026-05-30T07:00:00+00:00",
+      "published": "2026-05-30T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -545,6 +629,34 @@
       "title": "Not Classic Bikinis—This Is the Swim Trend Stylish People Are Buying This Summer",
       "link": "https://www.whowhatwear.com/fashion/summer/scoop-neck-bikini-top-trend",
       "summary": "So chic, so flattering.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-05-30T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fc46a0d1f0ca",
+      "title": "The Top 10 Beauty Things to Buy This Summer, According to a Product-Obsessed Fashion Editor",
+      "link": "https://www.whowhatwear.com/beauty/beauty-products-to-buy-summer-2026",
+      "summary": "Summer beauty products are the best beauty products.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: The Top 10 Beauty Things to Buy This Summer, According to a Product-Ob...",
+      "score": 2,
+      "published": "2026-05-30T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e961bd30736b",
+      "title": "I Just Got Back From Living in L.A. for a Month—These Are the 5 Trends I Saw Everywhere",
+      "link": "https://www.whowhatwear.com/fashion/shopping/los-angeles-trends-summer-2026",
+      "summary": "Key summer pieces.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
@@ -569,15 +681,15 @@
       "discovered_via": "feed"
     },
     {
-      "id": "e961bd30736b",
-      "title": "I Just Got Back From Living in L.A. for a Month—These Are the 5 Trends I Saw Everywhere",
-      "link": "https://www.whowhatwear.com/fashion/shopping/los-angeles-trends-summer-2026",
-      "summary": "Key summer pieces.",
+      "id": "4956ae3b58fc",
+      "title": "Want to Look Chic This Summer? These 9 Under-$250 Outfits Will Get So Many Compliments",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/under-250-outfit-ideas",
+      "summary": "Chic on a budget.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Want to Look Chic This Summer? These 9 Under-$250 Outfits Will Get So ...",
       "score": 1,
       "published": "2026-05-30T07:00:00+00:00",
       "discovered_via": "feed"
@@ -597,20 +709,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "fc46a0d1f0ca",
-      "title": "The Top 10 Beauty Things to Buy This Summer, According to a Product-Obsessed Fashion Editor",
-      "link": "https://www.whowhatwear.com/beauty/beauty-products-to-buy-summer-2026",
-      "summary": "Summer beauty products are the best beauty products.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Top 10 Beauty Things to Buy This Summer, According to a Product-Ob...",
-      "score": 2,
-      "published": "2026-05-30T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "054608ef9984",
       "title": "Everywhere I Look, Fashion People Are Suddenly Wearing This \"Divisive\" Microtrend for Summer",
       "link": "https://www.whowhatwear.com/fashion/trends/spiral-fashion-trend-summer-2026",
@@ -625,20 +723,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f1d96a15dcd4",
-      "title": "Take Note: These Are the 6 Chicest Summer-Dress Colours Worth Adding to Your Wardrobe",
-      "link": "https://www.whowhatwear.com/fashion/trends/summer-dress-colour-trends-2026",
-      "summary": "I'll take one in every shade.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Take Note: These Are the 6 Chicest Summer-Dress Colours Worth Adding t...",
-      "score": 1,
-      "published": "2026-05-30T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "4cb8f6aceebb",
       "title": "Minimalists Love This Underrated Neutral Shade That Makes Summer Outfits Look Elegant And Expensive",
       "link": "https://www.whowhatwear.com/fashion/summer/khaki-outfit-ideas-summer-2026",
@@ -648,6 +732,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Minimalists Love This Underrated Neutral Shade That Makes Summer Outfi...",
+      "score": 1,
+      "published": "2026-05-30T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f1d96a15dcd4",
+      "title": "Take Note: These Are the 6 Chicest Summer-Dress Colours Worth Adding to Your Wardrobe",
+      "link": "https://www.whowhatwear.com/fashion/trends/summer-dress-colour-trends-2026",
+      "summary": "I'll take one in every shade.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Take Note: These Are the 6 Chicest Summer-Dress Colours Worth Adding t...",
       "score": 1,
       "published": "2026-05-30T06:00:00+00:00",
       "discovered_via": "feed"
@@ -695,34 +793,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1ca958578bea",
-      "title": "I Spent 2 Weeks Curating the Ultimate Summer Shopping List—27 Beauty, Fashion, and Home Goods Worth Buying",
-      "link": "https://www.whowhatwear.com/living/home/summer-beauty-and-home-goods",
-      "summary": "From SPF to shell-shaped serving platters and beyond.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Spent 2 Weeks Curating the Ultimate Summer Shopping List—27 Beauty, ...",
-      "score": 2,
-      "published": "2026-05-30T04:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9fc8a8e6f90e",
-      "title": "I'd Skip the Trendy Shoes and Buy These Timeless On-Sale Pairs From Nordstrom Instead",
-      "link": "https://www.whowhatwear.com/fashion/shopping/nordstrom-half-yearly-sale-shoes-2026",
-      "summary": "Discounts through Monday.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-05-29T21:51:43+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "bca7bdf3a96a",
       "title": "The Night Belonged To New York For Jacques Marie Mage’s SoHo Gallery Opening",
       "link": "https://www.vogue.com/slideshow/jacques-marie-mage-soho-new-york",
@@ -748,20 +818,6 @@
       "angle": "Fashion Intelligence: No One Has a Dating Roster Quite Like Madonna...",
       "score": 0,
       "published": "2026-05-29T21:18:24+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a1f9aa1fe65d",
-      "title": "Comeback Alert: This Major Summer Shirt Trend Is '90s Minimalism in a Nutshell",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/90s-summer-camisole-trend-ella-hunt",
-      "summary": "Embody this fashion era with ease.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-05-29T21:16:12+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1353,48 +1409,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1974058d9d12",
-      "title": "'Summer House’s' Ciara Miller Knows Revenge Is a Dress Best Served Hot",
-      "link": "https://www.vogue.com/article/summer-house-ciara-miller-di-petsa-revenge-dress",
-      "summary": "From Princess Diana to Mariah Carey and now the women of Bravo, there's no better sartorial statement than the iconic revenge dress.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 'Summer House’s' Ciara Miller Knows Revenge Is a Dress Best Served Hot...",
-      "score": 1,
-      "published": "2026-05-29T11:27:50+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7902c20b2ced",
-      "title": "This Traditional Chinese Medicine Hack Clears an Acne Breakout Fast",
-      "link": "https://www.vogue.com/article/treat-acne-breakout-traditional-chinese-medicine-trick",
-      "summary": "Traditional Chinese Medicine practitioner Sandra Lanshin Chiu breaks down a simple and speedy practice for clearing a zit.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: This Traditional Chinese Medicine Hack Clears an Acne Breakout Fast...",
-      "score": 1,
-      "published": "2026-05-29T11:08:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bdfdf250f109",
-      "title": "Smocked Dresses Are the One-and-Done Outfit Your Summer Wardrobe Needs",
-      "link": "https://www.vogue.com/article/smocked-dresses",
-      "summary": "Printed or plain, mini or maxi—smocked dresses are a perennial summer favorite for a reason. Shop the season’s chicest styles from Merlette, Staud, and more.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Smocked Dresses Are the One-and-Done Outfit Your Summer Wardrobe Needs...",
-      "score": 4,
-      "published": "2026-05-29T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "173af08c0d95",
       "title": "Zara Delivers Seaside Glamour for Summer",
       "link": "https://www.fashiongonerogue.com/story/zara-summer-seaside-2026-edit/",
@@ -1434,20 +1448,6 @@
       "angle": "Fashion Intelligence: The Rise of Meaningful Luxury in Modern Fashion...",
       "score": 3,
       "published": "2026-05-29T10:41:38+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8b44d06c1f42",
-      "title": "9 Vogue-Approved Ways on How to Style Activewear",
-      "link": "https://www.vogue.com/article/activewear-outfit-ideas",
-      "summary": "From hoodies and windbreakers to sweatpants and the good ol’ black legging, here are nine easy-to-recreate ideas on how to style activewear this summer.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 9 Vogue-Approved Ways on How to Style Activewear...",
-      "score": 2,
-      "published": "2026-05-29T10:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2867,52 +2867,52 @@
   ],
   "trends": [
     {
-      "term": "தேர்தல்",
+      "term": "from season 4",
+      "summary": "",
+      "aza_category": "Trend Alert"
+    },
+    {
+      "term": "e",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "रघुराम राजन",
+      "term": "weather moradabad",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ndtv",
+      "term": "न्यायालय",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "as",
+      "term": "emirates",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "music",
+      "term": "sm57 lottery result",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hollywood movie",
+      "term": "suv",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "செய்தி",
+      "term": "mail",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "સૂર્યકુમાર યાદવ",
+      "term": "రాబర్ట్ కియోసాకి",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "whatsapp",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "google",
+      "term": "बालेन्द्र शाह",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

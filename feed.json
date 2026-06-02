@@ -1,13 +1,41 @@
 {
-  "generated_at": "2026-06-02T09:06:57.577761+00:00",
+  "generated_at": "2026-06-02T14:54:07.769740+00:00",
   "owned_count": 10,
-  "competitor_count": 14,
-  "industry_count": 181,
+  "competitor_count": 12,
+  "industry_count": 182,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
   },
   "articles": [
+    {
+      "id": "14850e880734",
+      "title": "Dua Lipa and Callum Turner’s Complete Relationship Timeline",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a46429054/dua-lipa-callum-turner-relationship-timeline/",
+      "summary": "The two have just officially become husband and wife",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Dua Lipa and Callum Turner’s Complete Relationship Timeline...",
+      "score": 0,
+      "published": "2026-06-02T14:50:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "76d4d9bb9a0f",
+      "title": "Cinq à Sept Resort 2027",
+      "link": "https://www.vogue.com/fashion-shows/resort-2027/cinq-a-sept",
+      "summary": "",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Cinq à Sept Resort 2027...",
+      "score": 0,
+      "published": "2026-06-02T14:48:35+00:00",
+      "discovered_via": "feed"
+    },
     {
       "id": "d84d6b18ce86",
       "title": "Stine Goya Resort 2027",
@@ -19,7 +47,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Stine Goya Resort 2027...",
       "score": 0,
-      "published": "2026-06-02T09:04:07+00:00",
+      "published": "2026-06-02T14:48:35+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,35 +61,259 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Nili Lotan Resort 2027...",
       "score": 0,
-      "published": "2026-06-02T09:04:07+00:00",
+      "published": "2026-06-02T14:48:35+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "fd26c8e099af",
-      "title": "The Garment Resort 2027",
-      "link": "https://www.vogue.com/fashion-shows/resort-2027/the-garment",
-      "summary": "",
+      "id": "08778d84668b",
+      "title": "Taylor Swift’s Toy Story Song Announcement Dress Is the Perfect Summer Piece",
+      "link": "https://www.harpersbazaar.com/celebrity/latest/a71470198/taylor-swift-toy-story-song-announcement-reformation-everett-linen-dress-buy/",
+      "summary": "Here’s where to get it",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Taylor Swift’s Toy Story Song Announcement Dress Is the Perfect Summer...",
+      "score": 1,
+      "published": "2026-06-02T14:41:30+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7430aad6885e",
+      "title": "All the Celebrity Red-Carpet Looks at the 2026 Gotham TV Awards",
+      "link": "https://www.harpersbazaar.com/celebrity/red-carpet-dresses/a71469998/all-the-looks-2026-gotham-tv-awards-red-carpet-photos/",
+      "summary": "From Michelle Pfeiffer to Chase Infiniti and more",
+      "source": "Harper's Bazaar",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-06-02T14:34:57+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d04bebe8e205",
+      "title": "EVNA PR Is Hiring A Publicist In NYC Or Los Angeles",
+      "link": "https://fashionista.com/2026/06/evna-pr-is-hiring-a-publicist-in-nyc-or-los-angeles",
+      "summary": "EVNA PR is a strategic communications agency working across beauty, fashion, and interior design, building brand equity through earned storytelling, affiliate, brand partnerships, events, and awards.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: EVNA PR Is Hiring A Publicist In NYC Or Los Angeles...",
+      "score": 3,
+      "published": "2026-06-02T14:10:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ca1287a0b50f",
+      "title": "CFDA/'Vogue' Fashion Fund Announces 2026 Finalists",
+      "link": "https://fashionista.com/2026/06/cfda-vogue-fashion-fund-finalists-2026",
+      "summary": "The winner will take home $300,000.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: CFDA/'Vogue' Fashion Fund Announces 2026 Finalists...",
+      "score": 1,
+      "published": "2026-06-02T14:05:59+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "654d33348e3d",
+      "title": "Side Eye NYC: A New York-Based Luxury Eyewear Brand",
+      "link": "https://fashionista.com/2026/06/side-eye-nyc-eyewear-brand",
+      "summary": "Each product is named after a NYC street address.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Side Eye NYC: A New York-Based Luxury Eyewear Brand...",
+      "score": 4,
+      "published": "2026-06-02T14:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "30036ad9d7c5",
+      "title": "This Emerging SPF Brand Is Making Mineral Sunscreen 'Sexy'",
+      "link": "https://fashionista.com/2026/06/good-weather-skin-alexandra-spunt-franchesca-hashim-founder-interview",
+      "summary": "Founded by two former Everlane executives, Good Weather Skin is not compromising on quality when it comes to formulating SPF.",
+      "source": "Fashionista",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: This Emerging SPF Brand Is Making Mineral Sunscreen 'Sexy'...",
+      "score": 1,
+      "published": "2026-06-02T12:45:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8f79d88f93b8",
+      "title": "Experts Agree: Fish Oil Supplements Are Worth It",
+      "link": "https://www.vogue.com/article/fish-oil-supplements-are-worth-it",
+      "summary": "Four experts weigh in on the health benefits (gut! skin! brain! joints!) of fish oil supplements.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Experts Agree: Fish Oil Supplements Are Worth It...",
+      "score": 0,
+      "published": "2026-06-02T12:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "898b6eb59b1e",
+      "title": "Hailey Bieber Makes Calzedonia Swimwear Look So Good",
+      "link": "https://www.fashiongonerogue.com/story/hailey-bieber-calzedonia-swim/",
+      "summary": "Calzedonia has named Hailey Bieber its new digital brand ambassador for a sun-soaked summer campaign. The Italian swimwear label meets ... Source",
+      "source": "Fashion Gone Rogue",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Hailey Bieber Makes Calzedonia Swimwear Look So Good...",
+      "score": 3,
+      "published": "2026-06-02T11:40:29+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6e220adfc19f",
+      "title": "The Story Behind Dua Lipa’s Bulgari Bridal Jewelry",
+      "link": "https://www.vogue.com/article/the-story-behind-dua-lipas-bulgari-bridal-jewelry",
+      "summary": "The story behind Dua Lipa’s Bulgari Serpenti wedding jewelry, first designed over 75 years ago, and popularized by film star Elizabeth Taylor in 1962",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: The Story Behind Dua Lipa’s Bulgari Bridal Jewelry — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-06-02T10:40:05+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "4e2f568db69a",
+      "title": "How the June Mercury Retrograde Will Affect Every Star Sign",
+      "link": "https://www.vogue.com/article/how-the-june-mercury-retrograde-will-affect-every-star-sign",
+      "summary": "Don’t freak out: this Mercury retrograde in Cancer could be a great time to slow down and reconnect with past versions of ourselves, says astrologer Annabel Gat.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: How the June Mercury Retrograde Will Affect Every Star Sign...",
+      "score": 0,
+      "published": "2026-06-02T10:35:52+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d80f93d3d601",
+      "title": "On the Podcast: How La DoubleJ’s JJ Martin Created One of Fashion’s Most Joyful Brands",
+      "link": "https://www.vogue.com/article/on-the-podcast-how-la-doublejs-jj-martin-created-one-of-fashions-most-joyful-brands",
+      "summary": "There are fashion founders, and then there is JJ Martin. The La DoubleJ founder and creative director joined Nicole Phelps for this Tuesday’s episode of “The Run-Through” to discuss the opening of The Lighthouse, her new five-story Upper East Side flagship.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: On the Podcast: How La DoubleJ’s JJ Martin Created One of Fashion’s Mo...",
+      "score": 2,
+      "published": "2026-06-02T10:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cb9ba102220d",
+      "title": "The Vogue Business AI Tracker",
+      "link": "https://www.vogue.com/story/technology/the-vogue-business-ai-tracker",
+      "summary": "Vogue Business brings you a weekly update of the most interesting stories in the world of AI that you need on your radar.Stay tuned as we spotlight AI initiatives in the fashion and beauty industry each week.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Vogue Business AI Tracker...",
+      "score": 2,
+      "published": "2026-06-02T10:16:16+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e37f41bc29f6",
+      "title": "‘Off Campus’ Season 2 Will Probably Arrive Sooner Than You Think",
+      "link": "https://www.vogue.com/article/everything-we-know-so-far-off-campus-season-2",
+      "summary": "Everything you need to know about the second outing of Prime Video’s mega hit, from the cast to the plot and (possible) release date.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: The Garment Resort 2027...",
-      "score": 0,
-      "published": "2026-06-02T09:04:07+00:00",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-06-02T10:06:52+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "6f1374591bca",
-      "title": "Erdem Resort 2027",
-      "link": "https://www.vogue.com/fashion-shows/resort-2027/erdem",
-      "summary": "",
+      "id": "ce6e8362df84",
+      "title": "The Fall/Winter 2026 Haute Couture Calendar Is Here",
+      "link": "https://www.vogue.com/article/the-fall-winter-2026-haute-couture-calendar-is-here",
+      "summary": "The FW26 Haute Couture Week calendar includes Pierpaolo Piccolio’s debut for Balenciaga couture, as well as Duran Lantink’s first couture outing for Jean Paul Gaultier.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Erdem Resort 2027...",
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: The Fall/Winter 2026 Haute Couture Calendar Is Here...",
+      "score": 1,
+      "published": "2026-06-02T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "1c7da6683777",
+      "title": "What’s Going on With the LA Mayoral Race? A Closer Look",
+      "link": "https://www.vogue.com/article/closer-look-los-angeles-mayoral-race",
+      "summary": "The long shadow of last year’s LA wildfires, coupled with the presence of ICE, have paved the way for a highly publicized mayoral primary in Los Angeles. Here’s a breakdown of the field.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: What’s Going on With the LA Mayoral Race? A Closer Look...",
       "score": 0,
-      "published": "2026-06-02T09:04:07+00:00",
+      "published": "2026-06-02T09:50:18+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c49857715258",
+      "title": "Just When You Thought It Disappeared, J.Law Brought This Controversial Colour Trend Back For Summer",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/jennifer-lawrence-chartreuse-colour-trend-2026",
+      "summary": "Brace for impact.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-06-02T09:49:38+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b8726992dc31",
+      "title": "AI smart glasses are behind Big Tech's new data obsession: your senses",
+      "link": "https://www.vogue.com/article/the-next-ai-battleground-your-senses",
+      "summary": "“Always-on” recording of what you look at, pick up, hear, react to, and ask about is now possible thanks to AI smart glasses. This ambient data collection is Big Tech’s newest obsession — and could mean advertising intercepts purchase intent, for better or for worse.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: AI smart glasses are behind Big Tech's new data obsession: your senses...",
+      "score": 1,
+      "published": "2026-06-02T09:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8f8ae5667b22",
+      "title": "Like the Ajay Devgn movie: SC refuses bail to man who killed woman before wedding",
+      "link": "https://www.indiatoday.in/india/law-news/story/meerut-double-murder-supreme-court-refuses-bail-to-accused-sagar-2920798-2026-06-02?utm_source=rss",
+      "summary": "Like the Ajay Devgn movie: SC refuses bail to man who killed woman before wedding",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Like the Ajay Devgn movie — A Complete Style Guide",
+      "score": 1,
+      "published": "2026-06-02T09:11:37+00:00",
       "discovered_via": "feed"
     },
     {
@@ -94,9 +346,9 @@
     },
     {
       "id": "92521f1248a3",
-      "title": "Chase Infiniti and Elisabeth Moss on the Thrilling Season Finale of ‘The Testaments’—and What’s Coming in Season 2",
+      "title": "Chase Infiniti and Elisabeth Moss on the Thrilling Season Finale of ‘The Testaments’—And What’s Coming in Season 2",
       "link": "https://www.vogue.com/article/chase-infiniti-elisabeth-moss-on-the-testaments-season-1",
-      "summary": "“I’ve been asked, ‘How do you feel about Chase [Infiniti] and Lucy [Halliday] kind of carrying this torch?’” says Moss. “And my answer for that is, I didn’t want them to carry the torch, I wanted them to light a new one. And that’s 100% what they did.”",
+      "summary": "“I’ve been asked, ‘How do you feel about Chase and Lucy kind of carrying this torch?’” says Moss. “And my answer for that is, I didn’t want them to carry the torch, I wanted them to light a new one. And that’s 100% what they did.”",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
@@ -121,20 +373,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9d53514d84a1",
-      "title": "6 Wedding Guest Dress Trends That Will Dominate From London to L.A. This Summer",
-      "link": "https://www.whowhatwear.com/fashion/shopping/wedding-guest-trends-spring-summer-2026",
-      "summary": "You'll see them at the chicest nuptials this season.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Bridal Edit: 6 Wedding Guest Dress Trends That Will Dominate From London to L.A. This Summer — A Complete Style Guide",
-      "score": 4,
-      "published": "2026-06-02T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d7e8b39595a4",
       "title": "“Invisible” Nails Are About to Be Everywhere—7 Versions Celebrity Nail Artists Love",
       "link": "https://www.whowhatwear.com/invisible-nail-trend",
@@ -145,6 +383,20 @@
       "aza_category": "Celebrity Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
+      "published": "2026-06-02T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9d53514d84a1",
+      "title": "6 Wedding Guest Dress Trends That Will Dominate From London to L.A. This Summer",
+      "link": "https://www.whowhatwear.com/fashion/shopping/wedding-guest-trends-spring-summer-2026",
+      "summary": "You'll see them at the chicest nuptials this season.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Bridal Edit: 6 Wedding Guest Dress Trends That Will Dominate From London to L.A. This Summer — A Complete Style Guide",
+      "score": 4,
       "published": "2026-06-02T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -160,20 +412,6 @@
       "angle": "Fashion Intelligence: Take It From a Beauty Editor—These Are the 7 Nail Ideas to Screenshot ...",
       "score": 1,
       "published": "2026-06-02T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b8dc2a62566a",
-      "title": "Annamalai seeks meeting with Amit Shah amid BJP exit buzz, may launch own party",
-      "link": "https://www.indiatoday.in/india/story/annamalai-meets-bjp-chief-nitin-nabin-seeks-meeting-with-amit-shah-amid-buzz-of-exit-2920688-2026-06-02?utm_source=rss",
-      "summary": "Annamalai seeks meeting with Amit Shah amid BJP exit buzz, may launch own party",
-      "source": "India Today Fashion",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-06-02T05:16:57+00:00",
       "discovered_via": "feed"
     },
     {
@@ -290,14 +528,14 @@
     },
     {
       "id": "2df3fa4c4cf4",
-      "title": "How infrastructure investment is putting ascending markets on the luxury map",
+      "title": "How Infrastructure Investment Is Putting Ascending Markets On The Luxury Map",
       "link": "https://www.vogue.com/article/how-infrastructure-investment-is-putting-ascending-markets-on-the-luxury-map",
       "summary": "Luxury spending in Saudi Arabia is on the rise, paving the way for new investment opportunities",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: How infrastructure investment is putting ascending markets on the luxu...",
+      "angle": "Fashion Intelligence: How Infrastructure Investment Is Putting Ascending Markets On The Luxu...",
       "score": 1,
       "published": "2026-06-02T00:00:00+00:00",
       "discovered_via": "feed"
@@ -402,14 +640,14 @@
     },
     {
       "id": "7eba53905cd2",
-      "title": "Backrooms Ending Explained—We Fashion Our Own Nightmares",
+      "title": "Backrooms Ending Explained: We Fashion Our Own Nightmares",
       "link": "https://www.harpersbazaar.com/culture/film-tv/a71445456/backrooms-ending-explained/",
       "summary": "In Kane Parsons’s Backrooms, stars Renate Reinsve and Chiwetel Ejiofor explore the dark corners of their minds",
       "source": "Harper's Bazaar",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Backrooms Ending Explained—We Fashion Our Own Nightmares...",
+      "angle": "Fashion Intelligence: Backrooms Ending Explained: We Fashion Our Own Nightmares...",
       "score": 1,
       "published": "2026-06-01T20:53:59+00:00",
       "discovered_via": "feed"
@@ -429,17 +667,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "14850e880734",
-      "title": "Dua Lipa and Callum Turner’s Complete Relationship Timeline",
-      "link": "https://www.harpersbazaar.com/celebrity/latest/a46429054/dua-lipa-callum-turner-relationship-timeline/",
-      "summary": "The two are now officially husband and wife",
-      "source": "Harper's Bazaar",
+      "id": "359549a86ed0",
+      "title": "I Didn’t Want Weight Loss to Be the Thing That Cured Me. It Did Anyway",
+      "link": "https://www.vogue.com/article/i-didnt-want-weight-loss-to-be-the-thing-that-cured-me-it-did-anyway",
+      "summary": "Do I owe anyone an explanation about how or why I got on GLP-1s?",
+      "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Dua Lipa and Callum Turner’s Complete Relationship Timeline...",
+      "angle": "Fashion Intelligence: I Didn’t Want Weight Loss to Be the Thing That Cured Me. It Did Anyway...",
       "score": 0,
-      "published": "2026-06-01T20:34:00+00:00",
+      "published": "2026-06-01T20:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -452,20 +690,6 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Snack Workouts Are the Solution to Being Active in a Time Crunch...",
-      "score": 0,
-      "published": "2026-06-01T20:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "359549a86ed0",
-      "title": "I Didn’t Want Weight Loss to Be the Thing That Cured Me. It Did Anyway",
-      "link": "https://www.vogue.com/article/i-didnt-want-weight-loss-to-be-the-thing-that-cured-me-it-did-anyway",
-      "summary": "Do I owe anyone an explanation about how or why I got on GLP-1s?",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Didn’t Want Weight Loss to Be the Thing That Cured Me. It Did Anyway...",
       "score": 0,
       "published": "2026-06-01T20:30:00+00:00",
       "discovered_via": "feed"
@@ -737,34 +961,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "58187374a17a",
-      "title": "The Secret Is Out: Serena Is Coming Back to Tennis",
-      "link": "https://www.vogue.com/article/serena-williams-comeback-queens",
-      "summary": "The 23-time Grand Slam champion just confirmed the rumors: She will be playing doubles at the Queens, the Wimbledon warm-up tournament in London starting June 8.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: The Secret Is Out: Serena Is Coming Back to Tennis...",
-      "score": 0,
-      "published": "2026-06-01T16:06:52+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6e7983a584f9",
-      "title": "Niall Horan Talks New Album and Dinner Party Secrets While Cooking His Girlfriend’s Dad’s Pasta Dish",
-      "link": "https://www.vogue.com/article/now-serving-niall-horan",
-      "summary": "The Irish singer-songwriter stopped by our kitchen to cook spaghetti and share the story behind his new album.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Niall Horan Talks New Album and Dinner Party Secrets While Cooking His...",
-      "score": 0,
-      "published": "2026-06-01T16:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "08378b569021",
       "title": "Must Read: Target's Fashion Revival Strategy, Bridgepoint Group to Acquire Obagi Medical",
       "link": "https://fashionista.com/2026/06/target-fashion-revival-strategy-brand-collaborations",
@@ -793,20 +989,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "20732b68da1a",
-      "title": "Model Jacqui Hooper Describes Her Style as “Floating Fairy Princess”",
-      "link": "https://www.vogue.com/article/jacqui-hooper-model-personal-style",
-      "summary": "Ever wonder what a top model wears? Jacqui Hooper shares what's in her closet—from cheeky graphic tees to Chloé Paddington bags.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Model Jacqui Hooper Describes Her Style as “Floating Fairy Princess”...",
-      "score": 3,
-      "published": "2026-06-01T15:35:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e346eae5306b",
       "title": "Is Charli XCX’s Music, Fashion, Film the Anti- Brat?",
       "link": "https://www.harpersbazaar.com/culture/art-books-music/a71459938/charli-xcx-music-fashion-film/",
@@ -818,34 +1000,6 @@
       "angle": "Fashion Intelligence: Is Charli XCX’s Music, Fashion, Film the Anti- Brat?...",
       "score": 1,
       "published": "2026-06-01T14:55:30+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "79d427590306",
-      "title": "Dua Lipa and Callum Turner's Secret London Wedding: See Photos",
-      "link": "https://www.vogue.com/article/dua-lipa-callum-turner-wedding-london",
-      "summary": "The musician Dua Lipa wore Schiaparelli for her intimate wedding today to Callum Turner at London’s Old Marylebone Town Hall.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Dua Lipa and Callum Turner's Secret London Wedding — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-06-01T14:49:31+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "32683af8105e",
-      "title": "Rihanna Masters the Art of the Errands Outfit",
-      "link": "https://www.vogue.com/article/rihanna-masters-the-art-of-the-errands-outfit",
-      "summary": "The key to the lowkey look, as Rihanna knows, is copious accessorizing. After all, even the humble errands outfit deserves a touch of glamour.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Rihanna Masters the Art of the Errands Outfit...",
-      "score": 1,
-      "published": "2026-06-01T14:36:18+00:00",
       "discovered_via": "feed"
     },
     {
@@ -863,20 +1017,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "0779e2bda58e",
-      "title": "Dua Lipa’s Favorite Facialist Shares Her Secrets",
-      "link": "https://www.vogue.com/article/dua-lipa-favorite-facialist-facial-massage-techniques",
-      "summary": "Looking for cheekbones so sharp you’ll see them from the back of an arena? Dua Lipa’s Milan-based facialist, Alessandra Ricchizzi, shares her best tips and tricks with Vogue.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Dua Lipa’s Favorite Facialist Shares Her Secrets...",
-      "score": 0,
-      "published": "2026-06-01T13:44:40+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2f03c50e34e2",
       "title": "This Is What to Wear With the \"Boring\" Pant Trend It Girls Love",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/pinstripe-pants-trend-ayo-edebiri",
@@ -891,20 +1031,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "8349353f11ee",
-      "title": "Celebrating Pride Month: A Glimpse into Nepal’s Third-Gender Community",
-      "link": "https://www.vogue.com/article/celebrating-pride-month-a-glimpse-into-nepals-third-gender-community",
-      "summary": "Kin Coedel collaborated with Meti and Hijra women in Nepal in the creation of Between Reverence and Refusal, giving them recognition and exposing the paradox of a culture that venerates femininity in myth but doesn’t acknowledge those who embody it in everyday life.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Celebrating Pride Month: A Glimpse into Nepal’s Third-Gender Community...",
-      "score": 0,
-      "published": "2026-06-01T13:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d0477f514887",
       "title": "Dua Just Got Married—3 Wedding Details Every Cool Bride Will Replicate This Summer",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/dua-lipa-wedding",
@@ -916,20 +1042,6 @@
       "angle": "Bridal Edit: Dua Just Got Married—3 Wedding Details Every Cool Bride Will Replicate This Summer — A Complete Style Guide",
       "score": 1,
       "published": "2026-06-01T12:48:45+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "01819ca68034",
-      "title": "Can Deb Haaland Make History in New Mexico's Governor's Race?",
-      "link": "https://www.vogue.com/article/can-deb-haaland-make-history-in-new-mexico-summer-interview",
-      "summary": "American has never had an Indigenous woman as governor. The question Haaland’s campaign poses is: What might that mean?",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Can Deb Haaland Make History in New Mexico's Governor's Race?...",
-      "score": 0,
-      "published": "2026-06-01T12:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1115,20 +1227,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d0e53c8c437c",
-      "title": "I'm a Fashion Editor—This Is the Fresh Sandal Colour I'll Be Wearing On Repeat in Summer 2026",
-      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/outfits-with-white-sandals-2026",
-      "summary": "I'm a big fan.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-06-01T06:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "f6b692a4d228",
       "title": "As a Beauty Director With High Standards, These 7 Products Proved My Favourites This Month",
       "link": "https://www.whowhatwear.com/beauty/skin/shannon-lawlor-beauty-empties-may-2026",
@@ -1143,8 +1241,22 @@
       "discovered_via": "feed"
     },
     {
+      "id": "d0e53c8c437c",
+      "title": "I'm a Fashion Editor—This Is the Fresh Sandal Colour I'll Be Wearing On Repeat in Summer 2026",
+      "link": "https://www.whowhatwear.com/fashion/outfit-ideas/outfits-with-white-sandals-2026",
+      "summary": "I'm a big fan.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-06-01T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "5bb8ad01e8af",
-      "title": "You Might Disagree, But I Think These 5 Colour Trends Are Pretty Dated in 2026",
+      "title": "You Might Disagree, But I Think These 5 Colour Trends Are Pretty \"Dated\" in 2026",
       "link": "https://www.whowhatwear.com/fashion/trends/dated-summer-colour-trends-2026",
       "summary": "See the shades I'm wearing instead.",
       "source": "Who What Wear",
@@ -1238,20 +1350,6 @@
       "angle": "Fashion Intelligence: Don't Complicate It—These 28 Cute Dresses and Tops From Revolve Will I...",
       "score": 1,
       "published": "2026-05-31T20:05:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "53c7d199357a",
-      "title": "It Girls Would Shop These 3 Cool Summer Trends From the Nordstrom Sale",
-      "link": "https://www.whowhatwear.com/fashion/trends/cool-nordstrom-half-yearly-sale-picks-may-2026",
-      "summary": "Quick! It ends tomorrow.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-05-31T19:12:13+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1633,20 +1731,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "7d26eb1da3bd",
-      "title": "Alex Consani Isn't a Nepo Baby, but She Wants to Live Like One",
-      "link": "https://www.harpersbazaar.com/fashion/designers/a71413103/alex-consani-the-good-buy/",
-      "summary": "The model joins Bazaar ’s podcast to talk representation at the Met Gala, dream Chanel buys, and leveling up her home décor",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Occasion Dressing",
-      "angle": "Fashion Intelligence: Alex Consani Isn't a Nepo Baby, but She Wants to Live Like One...",
-      "score": 1,
-      "published": "2026-05-29T14:14:06+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "2ba44822ac15",
       "title": "Weekly Drop Watch: Diesel x Tinder, Charlotte Tilbury's Eye Shadow Sticks, Skims' New Bra and More",
       "link": "https://fashionista.com/2026/05/best-fashion-beauty-launches-collabs-may-29",
@@ -1658,20 +1742,6 @@
       "angle": "Fashion Intelligence: Weekly Drop Watch: Diesel x Tinder, Charlotte Tilbury's Eye Shadow Sti...",
       "score": 3,
       "published": "2026-05-29T14:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0cca700a4414",
-      "title": "The Postpartum Beauty Essentials Moms Swear By",
-      "link": "https://www.harpersbazaar.com/beauty/a71422493/postpartum-beauty-essentials/",
-      "summary": "Beauty experts share the products they couldn’t live without in the fourth trimester",
-      "source": "Harper's Bazaar",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Postpartum Beauty Essentials Moms Swear By...",
-      "score": 2,
-      "published": "2026-05-29T13:38:08+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2263,62 +2333,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d37000c703a5",
-      "title": "Student Designers Just Want to Have Fun at Parsons' 2026 BFA Runway Show",
-      "link": "https://fashionista.com/2026/05/parsons-2026-bfa-graduate-runway-show",
-      "summary": "This year, a panel selected the top 31 design graduates to unveil their innovative creations.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Student Designers Just Want to Have Fun at Parsons' 2026 BFA Runway Sh...",
-      "score": 3,
-      "published": "2026-05-19T12:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2c8d9b94ad21",
-      "title": "SCAD's 2026 Student Runway Show Was Its Biggest Yet",
-      "link": "https://fashionista.com/2026/05/scad-2026-student-fashion-show",
-      "summary": "More than 60 designers were chosen from the school's largest graduating class ever to present their collections.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: SCAD's 2026 Student Runway Show Was Its Biggest Yet...",
-      "score": 4,
-      "published": "2026-05-19T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3bbdcbb32a21",
-      "title": "Must Read: Samuel Hine Joins 'New York Magazine', Gucci Shows in Times Square",
-      "link": "https://fashionista.com/2026/05/samuel-hine-new-york-magazine-mens-style-editor",
-      "summary": "Plus, Swatch's latest collab forces store closure over crowd safety concerns.",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: Must Read: Samuel Hine Joins 'New York Magazine', Gucci Shows in Times...",
-      "score": 1,
-      "published": "2026-05-18T16:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "9f67736b2c45",
-      "title": "How This Indie Skin-Care Brand Is Able to Drop Prices in an Uncertain Market",
-      "link": "https://fashionista.com/2026/05/dieux-skin-care-deliverance-price-drop-charlotte-palermino-interview",
-      "summary": "\"It felt like the right thing to do,\" says Dieux Co-Founder & Chief Brand Officer Charlotte Palermino. \"Our community and the popularity of the product is what got us here, and if we win, our community should win, too.\"",
-      "source": "Fashionista",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: How This Indie Skin-Care Brand Is Able to Drop Prices in an Uncertain ...",
-      "score": 1,
-      "published": "2026-05-18T15:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "814fa14009f3",
       "title": "8 Best Colognes For Older Men That Cater To Any Age in 2026",
       "link": "https://www.fashionbeans.com/article/best-colognes-for-older-men/",
@@ -2557,20 +2571,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c2220e5353b7",
-      "title": "Bride & Groom Matching Outfits: 5 Coordinated Indian Wedding Looks",
-      "link": "https://www.panashindia.com/blog/bride-and-groom-coordinated-outfit-ideas-for-indian-weddings/",
-      "summary": "Matching bride and groom outfits isn’t about dressing the same. It’s about balance, chemistry, and shared elegance. Coordinated looks show personality and make wedding photos feel complete. We believe every couple should reflect unity in their own style. The goal isn’t to copy each other but to complement. Here are a f",
-      "source": "Panash India",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Bride & Groom Matching Outfits — A Complete Style Guide",
-      "score": 5,
-      "published": "2026-06-01T07:03:36+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "65c3a9e3eb81",
       "title": "Why Simple Salwar Suits Are Suddenly So Stylish",
       "link": "https://blog.kalkifashion.com/why-simple-salwar-suits-are-so-stylish/",
@@ -2725,20 +2725,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "a384fcd3f7ae",
-      "title": "Beat the Heat: 5 Breezy Lightweight Lehengas for Outdoor Summer Weddings",
-      "link": "https://www.panashindia.com/blog/lightweight-lehengas-for-outdoor-summer-weddings/",
-      "summary": "Outdoor summer weddings sound great until you’re a few hours in and the outfit starts feeling heavier than expected. The fabric sticks, the dupatta keeps slipping, and suddenly comfort matters more than how your outfit looked at the start. Continue reading &rarr;",
-      "source": "Panash India",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Beat the Heat — A Complete Style Guide",
-      "score": 4,
-      "published": "2026-04-11T12:12:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "0d34858815c2",
       "title": "What to Wear in Andaman Islands: Beach & Snorkeling Style",
       "link": "https://www.azafashions.com/blog/what-to-wear-in-andaman-islands-beach-snorkeling-vacation-outfits/?utm_source=rss&utm_medium=rss&utm_campaign=what-to-wear-in-andaman-islands-beach-snorkeling-vacation-outfits",
@@ -2881,52 +2867,52 @@
   ],
   "trends": [
     {
-      "term": "बारिश",
+      "term": "peddi",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "कर्जमाफी",
+      "term": "সুরেন্দ্রনাথ কলেজ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ruhs",
+      "term": "fuel",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಶಾಲೆ",
+      "term": "ప్రభుత్వం",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "न्यायालय",
+      "term": "eng vs nz",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "பரந்தூர் விமான நிலையம்",
+      "term": "nz vs eng",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "महाराष्ट्र विधान परिषद",
+      "term": "അസ്ഥികൂടം",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "गोचर",
+      "term": "తెలంగాణ రాష్ట్ర పబ్లిక్ సర్వీస్ కమిషన్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ચાંદી",
+      "term": "టెస్ట్ క్రికెట్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ಬೆಂಗಳೂರು",
+      "term": "মমতা বন্দ্যোপাধ্যায়",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

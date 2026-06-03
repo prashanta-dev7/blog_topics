@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-03T06:45:19.190709+00:00",
+  "generated_at": "2026-06-03T09:26:01.481825+00:00",
   "owned_count": 10,
   "competitor_count": 12,
-  "industry_count": 181,
+  "industry_count": 178,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Veronica Beard Resort 2027...",
       "score": 0,
-      "published": "2026-06-03T06:41:25+00:00",
+      "published": "2026-06-03T09:22:03+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Stella McCartney Resort 2027...",
       "score": 0,
-      "published": "2026-06-03T06:41:25+00:00",
+      "published": "2026-06-03T09:22:03+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Monse Resort 2027...",
       "score": 0,
-      "published": "2026-06-03T06:41:25+00:00",
+      "published": "2026-06-03T09:22:03+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +61,119 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Cinq à Sept Resort 2027...",
       "score": 0,
-      "published": "2026-06-03T06:41:25+00:00",
+      "published": "2026-06-03T09:22:03+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c378f9096bd9",
+      "title": "I'm a Dad Who Works in Fashion—29 Dreamy, Luxurious Father's Day Gift Ideas I'd Certainly Love",
+      "link": "https://www.whowhatwear.com/fashion/shopping/fathers-day-gifts-luxury-2026",
+      "summary": "Chanel! Hermès! The Row!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I'm a Dad Who Works in Fashion—29 Dreamy, Luxurious Father's Day Gift ...",
+      "score": 1,
+      "published": "2026-06-03T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "59814e96c735",
+      "title": "Sarah Pidgeon and Paul Anthony Kelly Aren’t Letting Go of the ‘Love Story’ Look Just Yet",
+      "link": "https://www.vogue.com/article/sarah-pidgeon-paul-anthony-kelly-love-story-fyc-event",
+      "summary": "Amping up their awards campaign, Sarah Pidegon and Paul Anthony Kelly returned to their CBK and JFK Jnr-coded bests.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Sarah Pidgeon and Paul Anthony Kelly Aren’t Letting Go of the ‘Love St...",
+      "score": 0,
+      "published": "2026-06-03T08:56:24+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5c9ce0504f98",
+      "title": "Forget Maximalism—These Are the Quiet-Luxury, Anti-Trend Buys Fashion People Are Wearing This Summer",
+      "link": "https://www.whowhatwear.com/fashion/shopping/anti-trend-luxury-summer-buys-2026",
+      "summary": "The epitome of chic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 4,
+      "published": "2026-06-03T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0a2257b2b112",
+      "title": "Not Sambas, Not Stan Smiths–These 8 Designer Trainers are Set to Go Viral in 2026",
+      "link": "https://www.whowhatwear.com/fashion/shoes/designer-it-trainers-summer-2026",
+      "summary": "Summer has finally landed, but if you're looking for a shoe that's a little more substantial than a strappy sandal, 2026 is a very exciting year for sneakerheads.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Not Sambas, Not Stan Smiths–These 8 Designer Trainers are Set to Go Vi...",
+      "score": 1,
+      "published": "2026-06-03T07:05:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "e005a9a28de4",
+      "title": "I'm a Shopping Editor—12 Buzzy Brands I'm Adding to My Cart From Nordstrom",
+      "link": "https://www.whowhatwear.com/fashion/shopping/nordstrom-brands-summer-2026",
+      "summary": "Nordstrom brands to know.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I'm a Shopping Editor—12 Buzzy Brands I'm Adding to My Cart From Nords...",
+      "score": 1,
+      "published": "2026-06-03T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7a39494c9338",
+      "title": "Jonathan Daviss Is Done Living Up to Expectations",
+      "link": "https://www.whowhatwear.com/fashion/celebrity/jonathan-daviss-interview",
+      "summary": "After five seasons of Outer Banks, the actor is confidently stepping into the moment he's been waiting for.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Fashion Intelligence: Jonathan Daviss Is Done Living Up to Expectations...",
+      "score": 1,
+      "published": "2026-06-03T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "037fcc6bee66",
+      "title": "My Apologies, Jeans—This Pant Trend Makes My Work, Travel, and Weekend Outfits Just as Chic",
+      "link": "https://www.whowhatwear.com/fashion/trends/fashionable-drawstring-pants-2026",
+      "summary": "Comfy and cool.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-06-03T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6cc428129a2c",
+      "title": "I Never Wear High Heels Anymore—These Are the Chic Summer Shoes I Wear Instead",
+      "link": "https://www.whowhatwear.com/fashion/shopping/summer-shoes-under-two-inches",
+      "summary": "Ballet flats, Mary Janes, kitten-heel sandals, jelly shoes, and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Never Wear High Heels Anymore—These Are the Chic Summer Shoes I Wear...",
+      "score": 1,
+      "published": "2026-06-03T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -135,20 +247,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1756ebe781c8",
-      "title": "How to Sell: Vintage and Secondhand",
-      "link": "https://www.vogue.com/article/how-to-sell-vintage-and-secondhand",
-      "summary": "Resale is no longer a side market for luxury, but an increasingly established part of shopping.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How to Sell: Vintage and Secondhand...",
-      "score": 1,
-      "published": "2026-06-03T04:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "a3bb7a59bc70",
       "title": "How to Sell Now: Brand",
       "link": "https://www.vogue.com/article/how-to-sell-now-brand",
@@ -177,16 +275,16 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f9c25ffa3a34",
-      "title": "How to Sell Now: Multi-Brand",
-      "link": "https://www.vogue.com/article/how-to-sell-now-multi-brand",
-      "summary": "Wholesale is not disappearing, but its role in luxury has fundamentally changed.",
+      "id": "1756ebe781c8",
+      "title": "How to Sell: Vintage and Secondhand",
+      "link": "https://www.vogue.com/article/how-to-sell-vintage-and-secondhand",
+      "summary": "Resale is no longer a side market for luxury, but an increasingly established part of shopping.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How to Sell Now: Multi-Brand...",
-      "score": 2,
+      "angle": "Fashion Intelligence: How to Sell: Vintage and Secondhand...",
+      "score": 1,
       "published": "2026-06-03T04:30:00+00:00",
       "discovered_via": "feed"
     },
@@ -205,17 +303,31 @@
       "discovered_via": "feed"
     },
     {
-      "id": "ebc99e834b80",
-      "title": "Live: G Parameshwara felicitates DK Shivakumar ahead of swearing-in",
-      "link": "https://www.indiatoday.in/india/story/dk-shivakumar-oath-ceremony-live-updates-karnataka-cm-swearing-in-new-government-lok-bhavan-2921147-2026-06-03?utm_source=rss",
-      "summary": "Live: G Parameshwara felicitates DK Shivakumar ahead of swearing-in",
-      "source": "India Today Fashion",
+      "id": "f9c25ffa3a34",
+      "title": "How to Sell Now: Multi-Brand",
+      "link": "https://www.vogue.com/article/how-to-sell-now-multi-brand",
+      "summary": "Wholesale is not disappearing, but its role in luxury has fundamentally changed.",
+      "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-06-03T01:39:56+00:00",
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How to Sell Now: Multi-Brand...",
+      "score": 2,
+      "published": "2026-06-03T04:30:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "50a4747df036",
+      "title": "Register Now | How to Build a Winning Sustainability Team, Live Webinar",
+      "link": "https://www.vogue.com/article/how-to-build-a-winning-sustainability-team-live-webinar",
+      "summary": "Unpack the key skillsets, structures, and strategies needed to build and scale effective sustainability teams across fashion and luxury.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Register Now | How to Build a Winning Sustainability Team, Live Webina...",
+      "score": 2,
+      "published": "2026-06-03T03:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -640,14 +752,14 @@
     },
     {
       "id": "82c7e4267c7e",
-      "title": "The Center’s Annual Dinner Celebrated Thom Browne and LGBTQ+ Equality",
+      "title": "The NYC LGBT Community Center’s Annual Dinner Celebrated Thom Browne and LGBTQ+ Equality",
       "link": "https://www.vogue.com/slideshow/the-center-fashion-centered-dinner-2026",
       "summary": "On Monday night, the New York City Lesbian, Gay, Bisexual, and Transgender Community Center kicked off Pride month by opening its landmarked doors on West 13th Street to host Fashion Centered.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Center’s Annual Dinner Celebrated Thom Browne and LGBTQ+ Equality...",
+      "angle": "Fashion Intelligence: The NYC LGBT Community Center’s Annual Dinner Celebrated Thom Browne a...",
       "score": 1,
       "published": "2026-06-02T16:25:33+00:00",
       "discovered_via": "feed"
@@ -891,34 +1003,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6e220adfc19f",
-      "title": "The Story Behind Dua Lipa’s Bulgari Bridal Jewelry",
-      "link": "https://www.vogue.com/article/the-story-behind-dua-lipas-bulgari-bridal-jewelry",
-      "summary": "The story behind Dua Lipa’s Bulgari Serpenti wedding jewelry, first designed over 75 years ago, and popularized by film star Elizabeth Taylor in 1962",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: The Story Behind Dua Lipa’s Bulgari Bridal Jewelry — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-06-02T10:40:05+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "4e2f568db69a",
-      "title": "How the June Mercury Retrograde Will Affect Every Star Sign",
-      "link": "https://www.vogue.com/article/how-the-june-mercury-retrograde-will-affect-every-star-sign",
-      "summary": "Don’t freak out: this Mercury retrograde in Cancer could be a great time to slow down and reconnect with past versions of ourselves, says astrologer Annabel Gat.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: How the June Mercury Retrograde Will Affect Every Star Sign...",
-      "score": 0,
-      "published": "2026-06-02T10:35:52+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "c49857715258",
       "title": "Just When You Thought It Disappeared, J.Law Brought This Controversial Colour Trend Back For Summer",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/jennifer-lawrence-chartreuse-colour-trend-2026",
@@ -930,6 +1014,20 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-06-02T09:49:38+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7ebaf4f2cb92",
+      "title": "How A Man Should Dress In His 40s 2026",
+      "link": "https://www.fashionbeans.com/article/how-to-dress-in-your-40s-men/",
+      "summary": "They say that life begins at 40, which frankly is a little bit too Benjamin Button for comfort. It’s also not true, clearly. Even if you can reasonably expect to make it to 80, up from a short and not especially sweet 25 in medieval times, your fifth decade is middle age at best; you’re &#8230; Continue reading How A M",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: How A Man Should Dress In His 40s 2026...",
+      "score": 1,
+      "published": "2026-06-02T09:00:14+00:00",
       "discovered_via": "feed"
     },
     {
@@ -975,20 +1073,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "9d53514d84a1",
-      "title": "6 Wedding Guest Dress Trends That Will Dominate From London to L.A. This Summer",
-      "link": "https://www.whowhatwear.com/fashion/shopping/wedding-guest-trends-spring-summer-2026",
-      "summary": "You'll see them at the chicest nuptials.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: 6 Wedding Guest Dress Trends That Will Dominate From London to L.A. This Summer — A Complete Style Guide",
-      "score": 3,
-      "published": "2026-06-02T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d7e8b39595a4",
       "title": "\"Invisible\" Nails Are About to Be Everywhere—7 Versions Celebrity Nail Artists Love",
       "link": "https://www.whowhatwear.com/invisible-nail-trend",
@@ -999,6 +1083,20 @@
       "aza_category": "Celebrity Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
+      "published": "2026-06-02T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "9d53514d84a1",
+      "title": "6 Wedding Guest Dress Trends That Will Dominate From London to L.A. This Summer",
+      "link": "https://www.whowhatwear.com/fashion/shopping/wedding-guest-trends-spring-summer-2026",
+      "summary": "You'll see them at the chicest nuptials.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: 6 Wedding Guest Dress Trends That Will Dominate From London to L.A. This Summer — A Complete Style Guide",
+      "score": 3,
       "published": "2026-06-02T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -1395,48 +1493,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2f03c50e34e2",
-      "title": "This Is What to Wear With the \"Boring\" Pant Trend It Girls Love",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/pinstripe-pants-trend-ayo-edebiri",
-      "summary": "This trend will be everywhere by the end of June.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-06-01T13:03:56+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d0477f514887",
-      "title": "Dua Just Got Married—3 Wedding Details Every Cool Bride Will Replicate This Summer",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/dua-lipa-wedding",
-      "summary": "Inspiration incoming.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Dua Just Got Married—3 Wedding Details Every Cool Bride Will Replicate This Summer — A Complete Style Guide",
-      "score": 1,
-      "published": "2026-06-01T12:48:45+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "18e8452921f1",
-      "title": "The Reformation x Courtney Grow Collection Is Here—Shop All the Cool-Girl Gems Before They Sell Out",
-      "link": "https://www.whowhatwear.com/fashion/trends/courtney-grow-reformation-2026",
-      "summary": "These pieces are seriously so good.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-06-01T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "01815d2a90c7",
       "title": "The Mysterious Martin Margiela is Selling His Archive",
       "link": "https://www.harpersbazaar.com/fashion/a71445728/martin-margiela-personal-archive-auction-paris/",
@@ -1476,76 +1532,6 @@
       "angle": "Fashion Intelligence: Massimo Dutti Takes Los Angeles Style into Daydream Mode...",
       "score": 1,
       "published": "2026-06-01T10:44:03+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f4495aee7c42",
-      "title": "Kate Moss Just Styled Her Denim Skirt With the Most French-Girl-Coded Shoe",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/denim-skirt-french-strappy-heels-trend-kate-moss-2026",
-      "summary": "Très chic.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Kate Moss Just Styled Her Denim Skirt With the Most French-Girl-Coded ...",
-      "score": 1,
-      "published": "2026-06-01T10:14:46+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f61c6d688d6b",
-      "title": "Put It In The Cart: The 30 Best Fashion, Beauty And Travel Deals I'm Obsessing Over In Amazon AU's Mid-Year Sale",
-      "link": "https://www.whowhatwear.com/fashion/affordable/put-it-in-the-cart-the-30-best-fashion-beauty-and-travel-deals-im-obsessing-over-in-amazon-aus-mid-year-sale",
-      "summary": "One stop shop.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Put It In The Cart: The 30 Best Fashion, Beauty And Travel Deals I'm O...",
-      "score": 2,
-      "published": "2026-06-01T08:32:18+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e5a3b341baa9",
-      "title": "Marc Jacobs Beauty Is Back, Baby—I Suspect These Products Will Sell Out First",
-      "link": "https://www.whowhatwear.com/beauty/makeup/marc-jacobs-beauty-relaunch",
-      "summary": "Godspeed!",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Marc Jacobs Beauty Is Back, Baby—I Suspect These Products Will Sell Ou...",
-      "score": 1,
-      "published": "2026-06-01T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "66de9854effb",
-      "title": "Step Aside, Blue Jeans—Chic People Are Also Wearing This Summer 2026 Denim Trend",
-      "link": "https://www.whowhatwear.com/fashion/trends/pink-jeans-trend-2026",
-      "summary": "The well-dressed crowd is here for this look.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-06-01T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a40c25657da6",
-      "title": "I'm a Former Nordstrom Buyer—9 Items I'll Be Styling With My Chic Summer Outfits",
-      "link": "https://www.whowhatwear.com/fashion/shopping/nordstrom-buyer-summer-trends-2026",
-      "summary": "Including the coolest sandals.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I'm a Former Nordstrom Buyer—9 Items I'll Be Styling With My Chic Summ...",
-      "score": 1,
-      "published": "2026-06-01T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2501,34 +2487,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "76b2b2554bf1",
-      "title": "5 Best Spicebomb Colognes: Explosive Scents to Style in 2026",
-      "link": "https://www.fashionbeans.com/article/best-spicebomb-colognes/",
-      "summary": "Some men wear subtle, light fragrances to smell casual, clean, and fresh—however, it can be hard to grab attention wearing those perfumes. Other men opt for bold, lively scents that turn heads. That’s what Viktor&#38;Rolf’s Spicebomb is all about. It’s a manly cologne that captures the explosion of sensual, fiery spice",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 5 Best Spicebomb Colognes: Explosive Scents to Style in 2026...",
-      "score": 2,
-      "published": "2026-05-07T09:39:06+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a3ea33ff5eb1",
-      "title": "10 Men’s Accessories That Will Never Go Out Of Style",
-      "link": "https://www.fashionbeans.com/article/classic-mens-accessories/",
-      "summary": "Accessories: no decent outfit is complete without them. They are what béarnaise sauce is to steak, butter to bread, an olive to a martini. You get the idea. But sometimes it can be difficult to know just how good an investment any of these stylistic accoutrements might turn out to be (we&#8217;re looking at you, &#8230",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 10 Men’s Accessories That Will Never Go Out Of Style...",
-      "score": 2,
-      "published": "2026-05-07T09:00:51+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "581d8f69aec5",
       "title": "GUESS celebra Marilyn Monroe: la mostra al MUDEC e la capsule collection. Un progetto che unisce moda, fotografia e cultura contemporanea",
       "link": "https://www.theblondesalad.com/fashion/guess-celebra-marilyn-monroe-la-mostra-al-mudec-e-la-capsule-collection-un-progetto-che-unisce-moda-fotografia-e-cultura-contemporanea/",
@@ -2853,52 +2811,52 @@
   ],
   "trends": [
     {
-      "term": "వెండి",
+      "term": "ruhs cuet परिणाम 2026",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "पुष्य",
+      "term": "हर्ष भोगले",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "കാര്",
+      "term": "পূর্বাভাস",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "revenue department",
+      "term": "সৌরভ গঙ্গোপাধ্যায়",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "रवि किशन",
+      "term": "ಹರ್ಷ ಭೋಗ್ಲೆ",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "இந்திய ரிசர்வ் வங்கி",
+      "term": "bobby deol",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "oma vs brn",
+      "term": "singapore vs hong kong",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "சி.விஜயபாஸ்கர்",
+      "term": "సచిన్ టెండుల్కర్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "tcs share price",
+      "term": "ರಜತ್ ಪಾಟಿದಾರ್",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "1",
+      "term": "ಸತೀಶ್ ಜಾರಕಿಹೊಳಿ",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

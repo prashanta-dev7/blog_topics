@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-06T07:47:25.897528+00:00",
+  "generated_at": "2026-06-06T10:04:24.200148+00:00",
   "owned_count": 10,
-  "competitor_count": 16,
-  "industry_count": 172,
+  "competitor_count": 18,
+  "industry_count": 173,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Zegna Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-06T07:46:38+00:00",
+      "published": "2026-06-06T10:02:21+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Ganni Resort 2027...",
       "score": 0,
-      "published": "2026-06-06T07:46:38+00:00",
+      "published": "2026-06-06T10:02:21+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: A.L.C. Resort 2027...",
       "score": 0,
-      "published": "2026-06-06T07:46:38+00:00",
+      "published": "2026-06-06T10:02:21+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +61,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: By Malene Birger Resort 2027...",
       "score": 0,
-      "published": "2026-06-06T07:46:38+00:00",
+      "published": "2026-06-06T10:02:21+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +75,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Bevza Resort 2027...",
       "score": 0,
-      "published": "2026-06-06T07:46:38+00:00",
+      "published": "2026-06-06T10:02:21+00:00",
       "discovered_via": "feed"
     },
     {
@@ -89,7 +89,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Rabanne Resort 2027...",
       "score": 0,
-      "published": "2026-06-06T07:46:38+00:00",
+      "published": "2026-06-06T10:02:21+00:00",
       "discovered_via": "feed"
     },
     {
@@ -103,7 +103,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Tibi Resort 2027...",
       "score": 0,
-      "published": "2026-06-06T07:46:38+00:00",
+      "published": "2026-06-06T10:02:21+00:00",
       "discovered_via": "feed"
     },
     {
@@ -117,7 +117,91 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Roberto Cavalli Resort 2027...",
       "score": 0,
-      "published": "2026-06-06T07:46:38+00:00",
+      "published": "2026-06-06T10:02:21+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "57b5f3a354ed",
+      "title": "Hej Stockholm! A Look Back at the Best Street Style From Stockholm Fashion Week",
+      "link": "https://www.vogue.com/article/hej-stockholm-a-look-back-at-the-best-street-style-from-stockholm-fashion-week",
+      "summary": "Ahead of Stockholm Fashion Week, take a look back at our best-dressed Swedes.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Hej Stockholm! A Look Back at the Best Street Style From Stockholm Fas...",
+      "score": 3,
+      "published": "2026-06-06T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "eccc706fe852",
+      "title": "Like It or Not, This Is How Cool Girls Are Styling the Sandal Trend of the Summer",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-bottoms-to-wear-with-wedge-heels-2026",
+      "summary": "New Yorkers and Europeans alike.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-06-06T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ef384fa81c90",
+      "title": "It's Here: The 2026 It-Girl Way to Wear Sneakers With a Dress",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/summer-dress-and-sneaker-outfit-trend-charlotte-lawrence-uk",
+      "summary": "Opposites attract.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: It's Here: The 2026 It-Girl Way to Wear Sneakers With a Dress...",
+      "score": 2,
+      "published": "2026-06-06T09:15:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c9a19b450047",
+      "title": "Not White Trainers—the Chicest Over 50s Are Wearing Cigarette Trousers With This More Elegant Flat",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/loafers-shoe-trend-uma-therman-2026",
+      "summary": "So much more chic.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-06-06T08:48:16+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "a79749bfe2b6",
+      "title": "Art Partner unveils the 2026 Earth Partner Prize",
+      "link": "https://www.vogue.com/article/art-partner-unveils-the-2026-earth-partner-prize",
+      "summary": "Young creatives aged 14-30 can submit their works for the international prize until October 7 to raise awareness of environmental matters.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Art Partner unveils the 2026 Earth Partner Prize...",
+      "score": 0,
+      "published": "2026-06-06T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "053d5089e062",
+      "title": "Spotted in New York: the Elegant Summer Top and Shoe Trend That Makes Stovepipe Jeans Look Chicest",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/scarf-blouse-stovepipe-jeans-heeled-sandals-trend-camila-mendes-2026",
+      "summary": "Found it!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Celebrity Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-06-06T08:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -835,20 +919,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "f84241f167d6",
-      "title": "Cruising Into the Monaco Grand Prix With Max Verstappen",
-      "link": "https://www.vogue.com/article/cruising-into-the-monaco-grand-prix-with-max-verstappen",
-      "summary": "The four-time world champion of Formula 1’s next move? “Winning in life,” he says.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Cruising Into the Monaco Grand Prix With Max Verstappen...",
-      "score": 0,
-      "published": "2026-06-05T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "23190b5b5012",
       "title": "Prada Stages “Satellites II” by Nicolas Winding Refn and Hideo Koji at the Chelsea Hotel",
       "link": "https://www.harpersbazaar.com/culture/art-books-music/a71493484/prada-mode-hideo-kojima-nicolas-winding-refn/",
@@ -860,20 +930,6 @@
       "angle": "Fashion Intelligence: Prada Stages “Satellites II” by Nicolas Winding Refn and Hideo Koji at...",
       "score": 0,
       "published": "2026-06-05T12:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a9604d9968ce",
-      "title": "The Best Summer Songs? The Sad Ones",
-      "link": "https://www.vogue.com/article/the-best-summer-songs-are-the-sad-ones",
-      "summary": "An ode to the charms of a wistful summer song",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Summer Songs? The Sad Ones...",
-      "score": 0,
-      "published": "2026-06-05T11:23:02+00:00",
       "discovered_via": "feed"
     },
     {
@@ -958,6 +1014,20 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 1,
       "published": "2026-06-05T10:36:06+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3dfd33e6f524",
+      "title": "26 Best Sneaker Brands For Men In 2026",
+      "link": "https://www.fashionbeans.com/article/best-sneaker-brands/",
+      "summary": "There was a time not so very long ago when attending a special event in a pair of sneakers was a surefire way to flag yourself to your shiny-shoed peers as a sartorial pariah. However, sneakers are now en vogue, with the best sneaker brands constantly innovating new and stylish footwear. Attitudes have shifted in &#823",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 26 Best Sneaker Brands For Men In 2026...",
+      "score": 2,
+      "published": "2026-06-05T09:12:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1367,34 +1437,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "10bcdfbbc55f",
-      "title": "Bye, White T-Shirts—Fashion People Are Convinced This Cooler Alt Looks Better With Jeans",
-      "link": "https://www.whowhatwear.com/fashion/colorful-graphic-t-shirt-trend-2026",
-      "summary": "It's just so much more fun.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Bye, White T-Shirts—Fashion People Are Convinced This Cooler Alt Looks...",
-      "score": 1,
-      "published": "2026-06-04T17:17:47+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "bd882c5e8673",
-      "title": "Actress Emma Myers Is in Her Fashion-Exploration Era",
-      "link": "https://www.whowhatwear.com/fashion/celebrity/emma-myers-a-good-girls-guide-to-murder",
-      "summary": "The Wednesday and A Good Girl's Guide to Murder star on evolving style, social media, and nostalgia.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Actress Emma Myers Is in Her Fashion-Exploration Era...",
-      "score": 2,
-      "published": "2026-06-04T16:20:11+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "59967e9e831f",
       "title": "Must Read: Neiman Marcus To Close Dallas Flagship, OTB Acquires All of Viktor&Rolf",
       "link": "https://fashionista.com/2026/06/neiman-marcus-to-close-dallas-flagship",
@@ -1546,20 +1588,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 1,
       "published": "2026-06-04T12:45:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1a93eb113baf",
-      "title": "3 Elegant Summer Trends Spotted in New York That You Probably Already Have In Your Wardrobe",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/prada-mode-summer-trends-new-york-2026",
-      "summary": "And they come Prada-approved.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-06-04T11:30:46+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2375,20 +2403,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "81f21ce16854",
-      "title": "23 Best Affordable Watch Brands: Cheap Budget Options 2026",
-      "link": "https://www.fashionbeans.com/best-cheap-watches-men/",
-      "summary": "Stauer Watch Reviews: Are They Any Good? It used to be a case of “you get what you pay for” when it came to affordable watch brands, both in terms of quality and kudos. Dropping a few thousand not only meant you&#8217;d get decent mechanics but also boardroom brownie points for sporting a reputable name &#8230; Continu",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 23 Best Affordable Watch Brands: Cheap Budget Options 2026...",
-      "score": 1,
-      "published": "2026-05-27T09:30:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "4854fff2f8bb",
       "title": "Peixoto Is Hiring A Senior Marketing Manager In Miami, FL",
       "link": "https://fashionista.com/2026/05/peixoto-is-hiring-a-senior-marketing-manager-in-miami-fl",
@@ -2403,17 +2417,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "4f713d178157",
-      "title": "Business Casual for Men – 14 Dress Code Styles + Guide 2026",
-      "link": "https://www.fashionbeans.com/article/business-casual-guide-men/",
-      "summary": "Business Casual is an album by Canadian electro-funk duo Chromeo. Confusingly, men&#8217;s business casual is also a dress code &#8211; one that is as baffling as its inherently contradictory moniker. Business isn’t something that you want to be casual about. Which oxymoron came up with that not-too-smart idea? “Busine",
-      "source": "FashionBeans",
+      "id": "581d8f69aec5",
+      "title": "GUESS celebra Marilyn Monroe: la mostra al MUDEC e la capsule collection. Un progetto che unisce moda, fotografia e cultura contemporanea",
+      "link": "https://www.theblondesalad.com/fashion/guess-celebra-marilyn-monroe-la-mostra-al-mudec-e-la-capsule-collection-un-progetto-che-unisce-moda-fotografia-e-cultura-contemporanea/",
+      "summary": "C’è un momento preciso in cui la moda smette di essere solo prodotto e diventa racconto culturale. È quello che [&#8230;] The post GUESS celebra Marilyn Monroe: la mostra al MUDEC e la capsule collection. Un progetto che unisce moda, fotografia e cultura contemporanea first appeared on The Blonde Salad .",
+      "source": "The Blonde Salad",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Business Casual for Men – 14 Dress Code Styles + Guide 2026...",
-      "score": 2,
-      "published": "2026-05-26T01:30:02+00:00",
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-04-21T10:00:12+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2641,6 +2655,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "1ea1d99beaf8",
+      "title": "Which Banarasi Saree is Perfect for Indian Weddings in 2026?",
+      "link": "https://www.indianclothstore.com/blog/which-banarasi-saree-is-perfect-for-indian-weddings-in-2026",
+      "summary": "A pure silk Banarasi saree is the best pick for Indian weddings if you are the bride or close family. A Banarasi georgette saree works well for guests who want comfort and style. The choice depends on your role at the wedding and how long you will wear it. This article breaks down the types, colours and what to look fo",
+      "source": "Indian Cloth Store",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: Which Banarasi Saree is Perfect for Indian Weddings in 2026? — A Complete Style Guide",
+      "score": 6,
+      "published": "2026-04-15T16:15:31+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3683fd03d78a",
+      "title": "Which Kanjivaram Saree is Best to Buy Online in India 2026?",
+      "link": "https://www.indianclothstore.com/blog/which-kanjivaram-saree-is-best-to-buy-online-in-india-2026",
+      "summary": "A pure silk Kanjivaram saree is the best choice for weddings and special events in India. A soft silk Kanjivaram works well for daily wear and office functions. Your choice depends on the occasion, budget and comfort level. This article shows the main types, how to identify a real Kanjivaram and where to buy it online ",
+      "source": "Indian Cloth Store",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Fashion Intelligence: Which Kanjivaram Saree is Best to Buy Online in India 2026?...",
+      "score": 6,
+      "published": "2026-04-11T12:18:53+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "b279c622ec67",
       "title": "World Environment Day 2026: Can Your Outfit Save the Planet?",
       "link": "https://www.azafashions.com/blog/world-environment-day-sustainable-fashion/?utm_source=rss&utm_medium=rss&utm_campaign=world-environment-day-sustainable-fashion",
@@ -2783,52 +2825,52 @@
   ],
   "trends": [
     {
-      "term": "bcci",
+      "term": "व्लादिमीर पुतिन",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "உதயநிதி ஸ்டாலின்",
+      "term": "cji surya kant london lecture",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bank holiday",
-      "summary": "",
-      "aza_category": "Occasion Dressing"
-    },
-    {
-      "term": "cet result date 2026",
+      "term": "നരേന്ദ്ര മോദി",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "education minister of india",
+      "term": "stock market crash",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "जंतर मंतर",
+      "term": "സലീം കുമാര്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "india a",
+      "term": "netherlands vs scotland",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "india a vs sri lanka a",
+      "term": "world cup warm-up",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "rishabh pant",
+      "term": "రష్యా",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "kuldeep yadav",
+      "term": "mumbai auto driver honest return",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "आयरलैण्ड क्रिकेट टीम",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

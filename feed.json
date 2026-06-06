@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-06T05:47:56.378884+00:00",
+  "generated_at": "2026-06-06T07:47:25.897528+00:00",
   "owned_count": 10,
-  "competitor_count": 18,
-  "industry_count": 171,
+  "competitor_count": 16,
+  "industry_count": 172,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Zegna Spring 2027 Menswear...",
       "score": 2,
-      "published": "2026-06-06T05:46:51+00:00",
+      "published": "2026-06-06T07:46:38+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Ganni Resort 2027...",
       "score": 0,
-      "published": "2026-06-06T05:46:51+00:00",
+      "published": "2026-06-06T07:46:38+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: A.L.C. Resort 2027...",
       "score": 0,
-      "published": "2026-06-06T05:46:51+00:00",
+      "published": "2026-06-06T07:46:38+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,7 +61,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: By Malene Birger Resort 2027...",
       "score": 0,
-      "published": "2026-06-06T05:46:51+00:00",
+      "published": "2026-06-06T07:46:38+00:00",
       "discovered_via": "feed"
     },
     {
@@ -75,7 +75,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Bevza Resort 2027...",
       "score": 0,
-      "published": "2026-06-06T05:46:51+00:00",
+      "published": "2026-06-06T07:46:38+00:00",
       "discovered_via": "feed"
     },
     {
@@ -89,7 +89,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Rabanne Resort 2027...",
       "score": 0,
-      "published": "2026-06-06T05:46:51+00:00",
+      "published": "2026-06-06T07:46:38+00:00",
       "discovered_via": "feed"
     },
     {
@@ -103,7 +103,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Tibi Resort 2027...",
       "score": 0,
-      "published": "2026-06-06T05:46:51+00:00",
+      "published": "2026-06-06T07:46:38+00:00",
       "discovered_via": "feed"
     },
     {
@@ -117,7 +117,105 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Roberto Cavalli Resort 2027...",
       "score": 0,
-      "published": "2026-06-06T05:46:51+00:00",
+      "published": "2026-06-06T07:46:38+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f3aaa65b8e98",
+      "title": "I Usually Refuse to Wear Skirts, But These 30 Chic Ones From Zara, Madewell, and J.Crew Made Me Change My Mind",
+      "link": "https://www.whowhatwear.com/fashion/skirts/best-zara-madewell-jcrew-skirts",
+      "summary": "Trust me—I'm a classic tomboy.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Usually Refuse to Wear Skirts, But These 30 Chic Ones From Zara, Mad...",
+      "score": 1,
+      "published": "2026-06-06T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8749eaf8f1cd",
+      "title": "I'm a Minimalist Dresser—This Is the One Summer Trend I Didn't Expect to Love",
+      "link": "https://www.whowhatwear.com/fashion/shopping/colorful-clothes-summer-2026",
+      "summary": "As seen at Celine, Prada, Simone Rocha, Tory Burch, and more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-06-06T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2964c434fc1d",
+      "title": "Not Sneakers, Not Sandals—Celebs in NYC are Wearing the Iconic Flats Parisians Buy in Bulk",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/repetto-ballet-flats-celebrities",
+      "summary": "Kaia! Vittoria! Maude!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-06-06T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f606d9e63bde",
+      "title": "Black Capri Pants Are Boring—Stylish Women Are Wearing These 7 Capri Legging Trends Instead",
+      "link": "https://www.whowhatwear.com/fashion/trends/capri-trouser-trends-2026",
+      "summary": "What the cool girls are wearing.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 2,
+      "published": "2026-06-06T06:44:51+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d3dd855c49dd",
+      "title": "A Nail Expert Just Confirmed—These Are the Most Stylish Pedicure Shades to Wear on Your Toes",
+      "link": "https://www.whowhatwear.com/beauty/nails/june-pedicure-colour-trends-2026",
+      "summary": "Sandal season is upon us.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: A Nail Expert Just Confirmed—These Are the Most Stylish Pedicure Shade...",
+      "score": 2,
+      "published": "2026-06-06T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f49de2f24954",
+      "title": "I've Done the Research—These Are the 6 Best Summer Tops to Wear With Jeans in 2026",
+      "link": "https://www.whowhatwear.com/fashion/tops/summer-tops-to-wear-with-jeans-2026",
+      "summary": "A failsafe combo.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I've Done the Research—These Are the 6 Best Summer Tops to Wear With J...",
+      "score": 1,
+      "published": "2026-06-06T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "206927aa7ca7",
+      "title": "I Gasped—Zara, COS and Abercrombie Quietly Dropped the Most Expensive-Looking Summer Buys",
+      "link": "https://www.whowhatwear.com/fashion/affordable/zara-cos-abercrombie-summer-new-in-2026",
+      "summary": "Linen! Blouses! Dresses!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Gasped—Zara, COS and Abercrombie Quietly Dropped the Most Expensive-...",
+      "score": 1,
+      "published": "2026-06-06T05:50:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -821,6 +919,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "d571b662f45d",
+      "title": "8 Best Wave Grease Products – Pomades For 360 Waves in 2026",
+      "link": "https://www.fashionbeans.com/article/best-wave-grease/",
+      "summary": "There’s no doubt about it, wave hairstyles are bang on trend right now. Not only will these striking styles turn heads on every occasion, but they&#8217;ll personalize your look with extra pizazz in a way that really stands out from the crowd. While waves are all the rage right now, achieving or maintaining the look &#",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 8 Best Wave Grease Products – Pomades For 360 Waves in 2026...",
+      "score": 3,
+      "published": "2026-06-05T10:56:44+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "a4e22efc2fb5",
       "title": "My Millennial Mum and I Don't Agree On Much, But We Both Love These New-In Zara, Mango and COS Styles",
       "link": "https://www.whowhatwear.com/fashion/shopping/over-40s-zara-mango-cos-new-in-2026",
@@ -874,6 +986,20 @@
       "angle": "Fashion Intelligence: Not PDRN, Not Exosomes—Korean Beauty Experts Say This Is the Ultimate ...",
       "score": 1,
       "published": "2026-06-05T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6b5af3e72aaf",
+      "title": "5 Best Onitsuka Tiger Shoes: Tops Among a Scarce Breed 2026",
+      "link": "https://www.fashionbeans.com/article/best-onitsuka-tiger-shoes/",
+      "summary": "The Onitsuka Tiger brand has a long and really interesting history, from its glory days in the &#8217;60s and &#8217;70s to its revival in the 2000s and even to the present day’s difficulty of getting your hands on a new pair in the U.S. Unfortunately, we can’t quite get into all of it, but we &#8230; Continue reading ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 5 Best Onitsuka Tiger Shoes: Tops Among a Scarce Breed 2026...",
+      "score": 1,
+      "published": "2026-06-05T08:47:29+00:00",
       "discovered_via": "feed"
     },
     {
@@ -933,6 +1059,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "bbbd7f8d0376",
+      "title": "8 Best Perfume Organizers – Storage and Style For 2026",
+      "link": "https://www.fashionbeans.com/article/best-perfume-organizers/",
+      "summary": "A fragrance collection is never considered a problem. That is until you amass more bottles than your space can handle. If you’re tired of cluttered countertops and overcrowded cabinets, the best perfume organizer is the ultimate solution to give your scents their very own home. In general, perfume and cologne can be tr",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: 8 Best Perfume Organizers – Storage and Style For 2026...",
+      "score": 2,
+      "published": "2026-06-05T06:20:31+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "d183681e5d14",
       "title": "I've Found Them: The 6 Minimalist Summer Trends Gen Z Is Backing This Summer",
       "link": "https://www.whowhatwear.com/fashion/trends/gen-z-minimalist-summer-trends-2026",
@@ -961,6 +1101,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "9ca8b583d757",
+      "title": "Dress Code: Drift",
+      "link": "https://www.fashionbeans.com/article/drift/",
+      "summary": "",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Dress Code: Drift...",
+      "score": 1,
+      "published": "2026-06-05T03:06:28+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "3b92c628655b",
       "title": "Brunello Cucinelli’s Mediterranea Capsule Is Pure Sicily",
       "link": "https://www.fashiongonerogue.com/story/brunello-cucinelli-mediterranea-capsule/",
@@ -986,6 +1140,20 @@
       "angle": "Fashion Intelligence: Instead of Linen, Fashionable People Are Backing These Cult Buys to Lo...",
       "score": 3,
       "published": "2026-06-05T02:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "c78b889d4f59",
+      "title": "10 Best 5-Inch Inseam Shorts for 2026",
+      "link": "https://www.fashionbeans.com/article/best-5-inch-inseam-shorts/",
+      "summary": "In the ever-evolving world of fashion, trends come and go, but the resurgence of men&#8217;s 5 inch shorts is a testament to the timeless appeal of certain styles. It&#8217;s no secret that history repeats itself. But it&#8217;s kind of surprising how fast it happens in the fashion world, especially at the height of fa",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: 10 Best 5-Inch Inseam Shorts for 2026...",
+      "score": 3,
+      "published": "2026-06-05T01:07:22+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1395,20 +1563,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1c4a5e984236",
-      "title": "Every Fashion Person Has One of These Expensive-Looking Blouses—These 9 Styles Will Sell Out Soon",
-      "link": "https://www.whowhatwear.com/fashion/trends/sleeveless-cotton-embroidered-blouse-trend-2026",
-      "summary": "It's so pretty.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Every Fashion Person Has One of These Expensive-Looking Blouses—These ...",
-      "score": 2,
-      "published": "2026-06-04T10:57:47+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "d8f71daf4b28",
       "title": "Sporty & Rich x Juicy Couture Serves 2000s It Girl",
       "link": "https://www.fashiongonerogue.com/story/sporty-rich-juicy-couture-collab/",
@@ -1437,34 +1591,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "6dc20dcd64ae",
-      "title": "Women in Antibes, Monaco, and Bodrum Always Wear This Designer-Approved Summer Handbag Trend—These 13 Are the Very Best to Buy",
-      "link": "https://www.whowhatwear.com/fashion/handbags/designer-raffia-handbag-review",
-      "summary": "Prada! Khaite! Loewe!",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 3,
-      "published": "2026-06-04T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b535dd08cfa1",
-      "title": "Lola Tung's World: Her Favorite Adidas Sneakers, Dream Cher Dresses, and the Patti Smith Book on Her Reading List",
-      "link": "https://www.whowhatwear.com/fashion/celebrity/lola-tung-my-world",
-      "summary": "Take a peek into the actress's universe.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Lola Tung's World: Her Favorite Adidas Sneakers, Dream Cher Dresses, a...",
-      "score": 1,
-      "published": "2026-06-04T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "40a49c156dd8",
       "title": "Formal Attire for Men – Dress Code Style Guide 2026",
       "link": "https://www.fashionbeans.com/article/the-new-rules-of-formal-attire/",
@@ -1476,20 +1602,6 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 4,
       "published": "2026-06-04T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "e837c8f419ef",
-      "title": "DeMellier's Iconic, Quiet Luxury It-Bag Is The Epitome of Chic—Now, It's On Sale",
-      "link": "https://www.whowhatwear.com/fashion/handbags/demellier-summer-sale-2026",
-      "summary": "Currently in every editor's basket.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: DeMellier's Iconic, Quiet Luxury It-Bag Is The Epitome of Chic—Now, It...",
-      "score": 1,
-      "published": "2026-06-04T09:32:27+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1532,48 +1644,6 @@
       "angle": "Fashion Intelligence: 11 Best Work Jeans for Men In 2026...",
       "score": 3,
       "published": "2026-06-04T08:39:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1399a3e19783",
-      "title": "I Asked Experts What Summer 2026 Will Smell Like—6 Perfume Trends You'll Want on Your Radar",
-      "link": "https://www.whowhatwear.com/beauty/fragrance/summer-fragrance-trends-2026",
-      "summary": "Prepare for compliments.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-06-04T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "2feb1995a34f",
-      "title": "Live From Paris: 6 Early Summer Trends I'm Already Spotting on Every French Woman",
-      "link": "https://www.whowhatwear.com/fashion/trends/summer-trends-paris-2026",
-      "summary": "Heat wave approved.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-06-04T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8725f43561f9",
-      "title": "If You Want to Make Denim Capris Look Chic This Summer, Wearing These 5 Outfits Will Earn You Compliments",
-      "link": "https://www.whowhatwear.com/fashion/summer/denim-capri-outfits-summer-2026",
-      "summary": "Cropped and cute.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 2,
-      "published": "2026-06-04T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2347,62 +2417,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d60bbb47f280",
-      "title": "Dress Code: Marlowe",
-      "link": "https://www.fashionbeans.com/article/marlowe/",
-      "summary": "",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Dress Code: Marlowe...",
-      "score": 1,
-      "published": "2026-05-25T06:31:32+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "cecc07be392a",
-      "title": "Les Deux Just Dropped a Surprise Tennis Collection With the ’90s Brand Behind Agassi’s Best Looks",
-      "link": "https://www.fashionbeans.com/article/les-deux-prince-tennis-collection/",
-      "summary": "Copenhagen&#8217;s Les Deux has teamed up with Prince on a 17-piece limited collection that turns court heritage into something you would actually wear off it. Here is what to know, and what to buy before it sells out. This is not another tennis capsule. That is the thing worth saying upfront, because menswear has been",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 4,
-      "published": "2026-05-21T07:29:55+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "70ddebeb3e78",
-      "title": "The Lookbook: 9 Classy Outfits for Every Occasion",
-      "link": "https://www.fashionbeans.com/article/classy-outfits-for-every-occasion/",
-      "summary": "Personal style comes down to one balancing act: reading the room without losing yourself in it. The classiest outfits nail fit, color, and texture without leaning on gimmicks or loud details to do the heavy lifting. Once a man masters tonal control and fabric weight, trends become optional. He&#8217;s no longer chasing",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Festive Dressing: How to Own This Occasion",
-      "score": 4,
-      "published": "2026-05-20T19:38:04+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "581d8f69aec5",
-      "title": "GUESS celebra Marilyn Monroe: la mostra al MUDEC e la capsule collection. Un progetto che unisce moda, fotografia e cultura contemporanea",
-      "link": "https://www.theblondesalad.com/fashion/guess-celebra-marilyn-monroe-la-mostra-al-mudec-e-la-capsule-collection-un-progetto-che-unisce-moda-fotografia-e-cultura-contemporanea/",
-      "summary": "C’è un momento preciso in cui la moda smette di essere solo prodotto e diventa racconto culturale. È quello che [&#8230;] The post GUESS celebra Marilyn Monroe: la mostra al MUDEC e la capsule collection. Un progetto che unisce moda, fotografia e cultura contemporanea first appeared on The Blonde Salad .",
-      "source": "The Blonde Salad",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
-      "score": 1,
-      "published": "2026-04-21T10:00:12+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "e7f17d7d6dd5",
       "title": "Ready-to-Wear Saree Hacks Every Women Should Know",
       "link": "https://blog.kalkifashion.com/every-women-should-know-ready-to-wear-saree-hack/",
@@ -2627,34 +2641,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "1ea1d99beaf8",
-      "title": "Which Banarasi Saree is Perfect for Indian Weddings in 2026?",
-      "link": "https://www.indianclothstore.com/blog/which-banarasi-saree-is-perfect-for-indian-weddings-in-2026",
-      "summary": "A pure silk Banarasi saree is the best pick for Indian weddings if you are the bride or close family. A Banarasi georgette saree works well for guests who want comfort and style. The choice depends on your role at the wedding and how long you will wear it. This article breaks down the types, colours and what to look fo",
-      "source": "Indian Cloth Store",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: Which Banarasi Saree is Perfect for Indian Weddings in 2026? — A Complete Style Guide",
-      "score": 6,
-      "published": "2026-04-15T16:15:31+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "3683fd03d78a",
-      "title": "Which Kanjivaram Saree is Best to Buy Online in India 2026?",
-      "link": "https://www.indianclothstore.com/blog/which-kanjivaram-saree-is-best-to-buy-online-in-india-2026",
-      "summary": "A pure silk Kanjivaram saree is the best choice for weddings and special events in India. A soft silk Kanjivaram works well for daily wear and office functions. Your choice depends on the occasion, budget and comfort level. This article shows the main types, how to identify a real Kanjivaram and where to buy it online ",
-      "source": "Indian Cloth Store",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Fashion Intelligence: Which Kanjivaram Saree is Best to Buy Online in India 2026?...",
-      "score": 6,
-      "published": "2026-04-11T12:18:53+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "b279c622ec67",
       "title": "World Environment Day 2026: Can Your Outfit Save the Planet?",
       "link": "https://www.azafashions.com/blog/world-environment-day-sustainable-fashion/?utm_source=rss&utm_medium=rss&utm_campaign=world-environment-day-sustainable-fashion",
@@ -2797,6 +2783,31 @@
   ],
   "trends": [
     {
+      "term": "bcci",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "உதயநிதி ஸ்டாலின்",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "bank holiday",
+      "summary": "",
+      "aza_category": "Occasion Dressing"
+    },
+    {
+      "term": "cet result date 2026",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
+      "term": "education minister of india",
+      "summary": "",
+      "aza_category": "Fashion & Style"
+    },
+    {
       "term": "जंतर मंतर",
       "summary": "",
       "aza_category": "Fashion & Style"
@@ -2812,37 +2823,12 @@
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "1",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "kl rahul",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "dharmendra pradhan",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
       "term": "rishabh pant",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
       "term": "kuldeep yadav",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "india national cricket team vs afghanistan national cricket team match scorecard",
-      "summary": "",
-      "aza_category": "Fashion & Style"
-    },
-    {
-      "term": "भारत बनाम अफ़ग़ानिस्तान",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T06:29:17.570849+00:00",
+  "generated_at": "2026-06-08T09:23:39.979048+00:00",
   "owned_count": 10,
   "competitor_count": 18,
   "industry_count": 183,
@@ -19,7 +19,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Tanya Taylor Resort 2027...",
       "score": 0,
-      "published": "2026-06-08T06:24:23+00:00",
+      "published": "2026-06-08T09:20:18+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,7 +33,7 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: House of Dagmar Fall 2026 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-06-08T06:24:23+00:00",
+      "published": "2026-06-08T09:20:18+00:00",
       "discovered_via": "feed"
     },
     {
@@ -47,7 +47,35 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Ashlyn Resort 2027...",
       "score": 0,
-      "published": "2026-06-08T06:24:23+00:00",
+      "published": "2026-06-08T09:20:18+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "108e86533f9d",
+      "title": "Hello, Fashion People Care About Chic Basics and Shoes—These New Zara, J.Crew, and Reformation Items Are So Good",
+      "link": "https://www.whowhatwear.com/fashion/shopping/fashionable-basics-shoes-zara-j-crew-reformation-2026",
+      "summary": "Linen pieces! Cool flip-flops! It's all here.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Hello, Fashion People Care About Chic Basics and Shoes—These New Zara,...",
+      "score": 1,
+      "published": "2026-06-08T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "f46cbb6592ad",
+      "title": "5 Minimalist Summer Shoe Trends Classic Dressers Wear When They Want to Look Chic and Expensive",
+      "link": "https://www.whowhatwear.com/fashion/shoes/minimalist-shoe-trends-summer-2026",
+      "summary": "Okay, these are really good.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 3,
+      "published": "2026-06-08T06:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -681,6 +709,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "16172d901ac4",
+      "title": "8 Best Minimalist Sneakers: Low-key, High Profile in 2026",
+      "link": "https://www.fashionbeans.com/article/best-minimalist-sneakers/",
+      "summary": "Free from futile features and loud logos, the best minimalist sneakers focus on what really matters: style, comfort, and wearability. This is why every guy should own a decent pair or three. Join me as I uncover the slickest silhouettes in the game, rounding up a plethora of the most simple yet seriously stylish sneake",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 8 Best Minimalist Sneakers: Low-key, High Profile in 2026...",
+      "score": 2,
+      "published": "2026-06-07T12:27:20+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "4ead574d7d9e",
       "title": "From the Archives: Fears of a Clown",
       "link": "https://www.vogue.com/article/from-the-archives-fears-of-a-clown",
@@ -692,6 +734,48 @@
       "angle": "Fashion Intelligence: From the Archives: Fears of a Clown...",
       "score": 0,
       "published": "2026-06-07T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2a3cc609fd1c",
+      "title": "8 Best Barber Shop Colognes – Men’s Scents For 2026",
+      "link": "https://www.fashionbeans.com/article/barber-shop-colognes/",
+      "summary": "For style-conscious men like you, choosing the right cologne is no doubt a top priority. If you’re in search of a nostril-tingling scent that merges modern and classic, you can’t go wrong with a good cologne. The best barber shop cologne will make you smell outstanding while giving you that freshly pampered feeling thr",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 8 Best Barber Shop Colognes – Men’s Scents For 2026...",
+      "score": 1,
+      "published": "2026-06-07T11:35:49+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "260735fa0246",
+      "title": "Why Riviera Style Should Be Your Go-To Summer Look",
+      "link": "https://www.fashionbeans.com/article/riviera-style-guide/",
+      "summary": "Most holiday style guides stop at suggesting a few T-shirts, a pair of swim shorts and some sunglasses for your travels. And we get it, all three are essentials when hopping across borders. But what if you skipped arm day, have no desire to take a dip and actually enjoy forcibly squinting at the sun? &#8230; Continue r",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Why Riviera Style Should Be Your Go-To Summer Look...",
+      "score": 1,
+      "published": "2026-06-07T10:21:09+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ea85264e0f96",
+      "title": "13 Best Canvas Shoes For Men With Effortless Style 2026",
+      "link": "https://www.fashionbeans.com/article/best-canvas-shoes/",
+      "summary": "From festivals to pool parties, the best canvas shoes have been the fail-safe footwear choice for many of life’s most joyous occasions. A true summer staple, they’re not only breathable but versatile and pretty damn cool shoes—making them a no-brainer for all of your warm-weather escapades. But with so many options ava",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: 13 Best Canvas Shoes For Men With Effortless Style 2026...",
+      "score": 3,
+      "published": "2026-06-07T10:15:42+00:00",
       "discovered_via": "feed"
     },
     {
@@ -807,6 +891,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "c237c961987f",
+      "title": "16 Best Dress Sneakers for Men In 2026",
+      "link": "https://www.fashionbeans.com/article/best-dress-sneakers-for-men/",
+      "summary": "For as long as I can remember, men have been programmed to believe that wearing shoes is pretty much the only way one can look truly presentable. Through the years, I would often question whether dress sneakers could be a suitable alternative. Ha, forget it pal. As a student of a British high school, I &#8230; Continue",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 16 Best Dress Sneakers for Men In 2026...",
+      "score": 2,
+      "published": "2026-06-07T08:20:05+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "30045e0a0998",
       "title": "Not Capris—Loafers Look Chicest With This Trending Alternative",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/black-long-shorts-loafers-outfit-amelia-grey-hamlin-2026",
@@ -832,6 +930,20 @@
       "angle": "Bridal Edit: Dove Cameron on Bridal Beauty, Vulnerability, and How Going Brunette Changed Her Makeup Routine — A Complete Style Guide",
       "score": 2,
       "published": "2026-06-07T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3fe8cabcd2c1",
+      "title": "20 Best Jean Brands for Men in 2026",
+      "link": "https://www.fashionbeans.com/article/best-jeans-brands/",
+      "summary": "Jeans are often considered a generic product, so ubiquitous in our wardrobes that they’re the single most widely-worn garment on the planet. As such, to invest in a pair from expensive jeans brands can, to some, still seem a little excessive. But for those obsessed with jeans &#8211; and there are some real obsessives ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 20 Best Jean Brands for Men in 2026...",
+      "score": 1,
+      "published": "2026-06-07T07:00:21+00:00",
       "discovered_via": "feed"
     },
     {
@@ -891,20 +1003,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "b4163cca91b6",
-      "title": "I Did My Own Wedding Makeup as a Type-A Bride—4 Non-Negotiable Tips I Got from The Internet's Favorite MUAs",
-      "link": "https://www.whowhatwear.com/beauty/wedding-makeup-mua-tips",
-      "summary": "The ultimate DIY bridal glow, ahead.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Bridal & Wedding",
-      "angle": "Bridal Edit: I Did My Own Wedding Makeup as a Type-A Bride—4 Non-Negotiable Tips I Got from The Internet's Favorite MUAs — A Complete Style Guide",
-      "score": 2,
-      "published": "2026-06-07T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "ecf878aab78d",
       "title": "Going to a Summer Wedding? These 6 Dress Trends at M&S Will Ensure You're Best Dressed",
       "link": "https://www.whowhatwear.com/best-marks-and-spencer-wedding-guest-dresses",
@@ -933,17 +1031,17 @@
       "discovered_via": "feed"
     },
     {
-      "id": "5e62044cb286",
-      "title": "I Hate the Feeling of Too Much Makeup on My Face—These Are the Products I Swear By",
-      "link": "https://www.whowhatwear.com/beauty/makeup/best-multi-use-makeup-sticks",
-      "summary": "Less is more.",
+      "id": "b4163cca91b6",
+      "title": "I Did My Own Wedding Makeup as a Type-A Bride—4 Non-Negotiable Tips I Got from The Internet's Favorite MUAs",
+      "link": "https://www.whowhatwear.com/beauty/wedding-makeup-mua-tips",
+      "summary": "The ultimate DIY bridal glow, ahead.",
       "source": "Who What Wear",
       "tier": "industry",
       "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Hate the Feeling of Too Much Makeup on My Face—These Are the Product...",
-      "score": 1,
-      "published": "2026-06-07T06:00:00+00:00",
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: I Did My Own Wedding Makeup as a Type-A Bride—4 Non-Negotiable Tips I Got from The Internet's Favorite MUAs — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-06-07T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -956,6 +1054,20 @@
       "is_competitor": false,
       "aza_category": "Celebrity Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-06-07T06:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5e62044cb286",
+      "title": "I Hate the Feeling of Too Much Makeup on My Face—These Are the Products I Swear By",
+      "link": "https://www.whowhatwear.com/beauty/makeup/best-multi-use-makeup-sticks",
+      "summary": "Less is more.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Hate the Feeling of Too Much Makeup on My Face—These Are the Product...",
       "score": 1,
       "published": "2026-06-07T06:00:00+00:00",
       "discovered_via": "feed"
@@ -1000,6 +1112,20 @@
       "angle": "Your AZA Style Guide to This Season's Biggest Trend",
       "score": 2,
       "published": "2026-06-07T05:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "06836f395a6a",
+      "title": "19 Best Work Bags for Men In 2026",
+      "link": "https://www.fashionbeans.com/article/best-work-bags-for-men/",
+      "summary": "The best work bags for men aren’t just for the everyday commuter. Perfectly marrying style with substance, they’re a must-have for guys of all occupations—whether you’re a banker, bookkeeper, or building site manager. Equipped with a suitable bag, you’ll not only be able to carry the right tools for the job but cement ",
+      "source": "FashionBeans",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: 19 Best Work Bags for Men In 2026...",
+      "score": 1,
+      "published": "2026-06-07T01:10:47+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1199,6 +1325,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "f3aaa65b8e98",
+      "title": "I Usually Refuse to Wear Skirts, But These 30 Chic Ones From Zara, Madewell, and J.Crew Made Me Change My Mind",
+      "link": "https://www.whowhatwear.com/fashion/skirts/best-zara-madewell-jcrew-skirts",
+      "summary": "Trust me—I'm a classic tomboy.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Usually Refuse to Wear Skirts, But These 30 Chic Ones From Zara, Mad...",
+      "score": 1,
+      "published": "2026-06-06T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "8749eaf8f1cd",
       "title": "I'm a Minimalist Dresser—This Is the One Summer Trend I Didn't Expect to Love",
       "link": "https://www.whowhatwear.com/fashion/shopping/colorful-clothes-summer-2026",
@@ -1222,20 +1362,6 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-06-06T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "f3aaa65b8e98",
-      "title": "I Usually Refuse to Wear Skirts, But These 30 Chic Ones From Zara, Madewell, and J.Crew Made Me Change My Mind",
-      "link": "https://www.whowhatwear.com/fashion/skirts/best-zara-madewell-jcrew-skirts",
-      "summary": "Trust me—I'm a classic tomboy.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Usually Refuse to Wear Skirts, But These 30 Chic Ones From Zara, Mad...",
       "score": 1,
       "published": "2026-06-06T07:00:00+00:00",
       "discovered_via": "feed"
@@ -1322,34 +1448,6 @@
       "angle": "Fashion Intelligence: This IYKYK Bodycare Brand Makes Up 99% of My Routine—Here's Every Unde...",
       "score": 3,
       "published": "2026-06-06T04:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0fe77d9ffef2",
-      "title": "I Don't Have Tickets to the French Open, But If I Did, I'd Bring These 7 Summer Beauty Essentials",
-      "link": "https://www.whowhatwear.com/beauty/skin/french-pharmacy-products-for-summer",
-      "summary": "From iconic French pharmacy products to newfound favorites.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Don't Have Tickets to the French Open, But If I Did, I'd Bring These...",
-      "score": 1,
-      "published": "2026-06-06T01:06:10+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8e7cb3316fd4",
-      "title": "Black Heels Are Fine, But in Monaco, Chic Women Know This Shoe Color Looks Better With White Dresses",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/mint-heels-white-dresses-monaco-grand-prix-outfit-alexandra-leclerc",
-      "summary": "Spotted in the Formula One paddock.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Black Heels Are Fine, But in Monaco, Chic Women Know This Shoe Color L...",
-      "score": 1,
-      "published": "2026-06-05T23:25:03+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1801,20 +1899,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "c78b889d4f59",
-      "title": "10 Best 5-Inch Inseam Shorts for 2026",
-      "link": "https://www.fashionbeans.com/article/best-5-inch-inseam-shorts/",
-      "summary": "In the ever-evolving world of fashion, trends come and go, but the resurgence of men&#8217;s 5 inch shorts is a testament to the timeless appeal of certain styles. It&#8217;s no secret that history repeats itself. But it&#8217;s kind of surprising how fast it happens in the fashion world, especially at the height of fa",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 10 Best 5-Inch Inseam Shorts for 2026...",
-      "score": 3,
-      "published": "2026-06-05T01:07:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "3992c3413ac2",
       "title": "Suki Waterhouse Wears a Pair of Romantic Dresses for Two Intimate Performances",
       "link": "https://www.harpersbazaar.com/celebrity/latest/a71497139/suki-waterhouse-romantic-dresses-performances-zimmermann-summer-escape-power-of-women-london-ceremony/",
@@ -2022,90 +2106,6 @@
       "angle": "Fashion Intelligence: Malgosia, Imaan & Felice Strike a Pose for V Magazine...",
       "score": 1,
       "published": "2026-06-04T10:11:04+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "40a49c156dd8",
-      "title": "Formal Attire for Men – Dress Code Style Guide 2026",
-      "link": "https://www.fashionbeans.com/article/the-new-rules-of-formal-attire/",
-      "summary": "We’ve waxed lyrical about how men’s dress codes are breaking down, how casual dress is taking over and why sportswear is the de facto king of men&#8217;s fashion. But in this new relaxed world, there is one mainstay that refuses to disappear: the suit. We&#8217;ve seen it rise and fall in popularity over the years, &#8",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 4,
-      "published": "2026-06-04T10:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a3ea33ff5eb1",
-      "title": "10 Men’s Accessories That Will Never Go Out Of Style",
-      "link": "https://www.fashionbeans.com/article/classic-mens-accessories/",
-      "summary": "Accessories: no decent outfit is complete without them. They are what béarnaise sauce is to steak, butter to bread, an olive to a martini. You get the idea. But sometimes it can be difficult to know just how good an investment any of these stylistic accoutrements might turn out to be (we&#8217;re looking at you, &#8230",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 10 Men’s Accessories That Will Never Go Out Of Style...",
-      "score": 2,
-      "published": "2026-06-04T09:00:51+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6c9cf9e0da3b",
-      "title": "The Best Shoes To Wear With Jeans: Casual & Formal",
-      "link": "https://www.fashionbeans.com/article/what-shoes-to-wear-with-jeans/",
-      "summary": "Chinos, joggers and cargo pants have all made their respective plays for pride of place in our rotations, but jeans are still the go-to, go-anywhere coverings for most men&#8217;s getaway sticks. For all but the most formal of offices and life events, denim is a no-brainer. You can&#8217;t go wrong. Can you? Oh, you ca",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: The Best Shoes To Wear With Jeans: Casual & Formal...",
-      "score": 1,
-      "published": "2026-06-04T09:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "dd8167ce2a2c",
-      "title": "11 Best Work Jeans for Men In 2026",
-      "link": "https://www.fashionbeans.com/article/best-work-jeans-for-men/",
-      "summary": "For the fashionably-minded among us, it’s easy to forget that denim was originally invented for labor. The best work jeans for men are specifically designed to be comfortable and durable but can also transition into trendy territory. Some of the best denim brands on the planet, like Lee, Carhartt, and Levi’s, exist in ",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: 11 Best Work Jeans for Men In 2026...",
-      "score": 3,
-      "published": "2026-06-04T08:39:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d45c36e2829f",
-      "title": "How To Build The Ultimate Minimalist Wardrobe For Men 2026",
-      "link": "https://www.fashionbeans.com/article/minimalist-wardrobe-men/",
-      "summary": "All the best things come in capsules. Medicine. Space food. Time. And, naturally, clothes. Not in a download-your-outfit-from-the-internet way, the minimalist wardrobe is far simpler than that. It&#8217;s the answer to every instance when you looked at your wardrobe and wondered, “What shall I wear today?” Ostensibly i",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: How To Build The Ultimate Minimalist Wardrobe For Men 2026...",
-      "score": 2,
-      "published": "2026-06-04T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "c9d9ccbb878c",
-      "title": "17 Best Shirt Brands for Men: Top Wardrobe Staples of 2026",
-      "link": "https://www.fashionbeans.com/article/best-shirt-brands-for-men/",
-      "summary": "A good shirt is hard to come by. That is if you aren’t well-versed in the best shirt brands for men. But why should you care in the first place? The importance of high-quality shirts should not be overlooked, as they often set the tone for your first impression. An ill-fitting, tattered number may say, &#8230; Continue",
-      "source": "FashionBeans",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: 17 Best Shirt Brands for Men: Top Wardrobe Staples of 2026...",
-      "score": 1,
-      "published": "2026-06-04T06:25:39+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2965,52 +2965,52 @@
   ],
   "trends": [
     {
-      "term": "aadhaar",
+      "term": "हरमनप्रीत कौर",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "hong kong vs nepal",
+      "term": "சம்பளம்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "इज़राइल",
+      "term": "josaa",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "టమాటో",
+      "term": "கிரிக்கெட்",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ರಾಜ್ಯಸಭೆ",
+      "term": "খান স্যার",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ऑस्ट्रेलिया राष्ट्रीय क्रिकेट टीम",
+      "term": "west indies vs india",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mht cet result date 2026",
+      "term": "ജോയ് മാത്യു",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "adani green share price",
+      "term": "杭州天气",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bajaj finance share",
+      "term": "সুখেন্দু শেখর রায়",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ifci share price",
+      "term": "डोंबिवली",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

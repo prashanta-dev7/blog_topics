@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-13T08:21:45.665428+00:00",
+  "generated_at": "2026-06-13T12:26:46.993878+00:00",
   "owned_count": 10,
   "competitor_count": 17,
-  "industry_count": 182,
+  "industry_count": 185,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,7 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Kate Barton Resort 2027...",
       "score": 0,
-      "published": "2026-06-13T08:20:58+00:00",
+      "published": "2026-06-13T12:26:27+00:00",
       "discovered_via": "feed"
     },
     {
@@ -33,21 +33,119 @@
       "aza_category": "Trend Alert",
       "angle": "Fashion Intelligence: Reem Acra Resort 2027...",
       "score": 0,
-      "published": "2026-06-13T08:20:58+00:00",
+      "published": "2026-06-13T12:26:27+00:00",
       "discovered_via": "feed"
     },
     {
-      "id": "4eacea9e04fa",
-      "title": "Ferragamo Resort 2027",
-      "link": "https://www.vogue.com/fashion-shows/resort-2027/salvatore-ferragamo",
-      "summary": "",
+      "id": "bd2acfa24ff8",
+      "title": "Mary-Kate and Ashley Olsen’s 40 Best Twinning Beauty Moments",
+      "link": "https://www.vogue.com/article/mary-kate-ashley-olsen-best-beauty-looks",
+      "summary": "From playing Michelle Tanner on “Full House” to building a fashion empire, Mary-Kate and Ashley Olsen have experimented with ever-changing beauty looks.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Mary-Kate and Ashley Olsen’s 40 Best Twinning Beauty Moments...",
+      "score": 2,
+      "published": "2026-06-13T12:21:26+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2dfddf80e09e",
+      "title": "28 Natural Nail Designs That Feel Fresh And Clean For Summer",
+      "link": "https://www.vogue.com/article/natural-nails-trend",
+      "summary": "Milk, jelly, and peachy sheens—this season’s best natural nail designs elevate a neutral manicure.",
       "source": "Vogue US",
       "tier": "industry",
       "is_competitor": false,
       "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Ferragamo Resort 2027...",
+      "angle": "Fashion Intelligence: 28 Natural Nail Designs That Feel Fresh And Clean For Summer...",
+      "score": 1,
+      "published": "2026-06-13T12:03:23+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b42cd77823e5",
+      "title": "Inside the One-Year-Old Luxury Retreat in Mexico Where All the Fashion Girls Are Vacationing RN",
+      "link": "https://www.whowhatwear.com/living/travel/rosewood-mandarina-hotel-review",
+      "summary": "Where the jungle, beach, and mountains converge.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Inside the One-Year-Old Luxury Retreat in Mexico Where All the Fashion...",
+      "score": 2,
+      "published": "2026-06-13T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d9b714d28ba6",
+      "title": "Kate Middleton, Princes George and Louis Have a Matching Mother-Son Moment at Trooping the Colour 2026",
+      "link": "https://www.vogue.com/article/kate-middleton-princes-george-louis-trooping-the-colour-2026",
+      "summary": "Back once again for another Trooping the Colour, Kate Middleton—Catherine, Princess of Wales—and her sons opted for coordinating icy blues.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Kate Middleton, Princes George and Louis Have a Matching Mother-Son Mo...",
       "score": 0,
-      "published": "2026-06-13T08:20:58+00:00",
+      "published": "2026-06-13T11:51:47+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "7380314a9459",
+      "title": "Revisiting the Olsen Twins’ Style Over the Years",
+      "link": "https://www.vogue.com/slideshow/olsen-twins-style-over-the-years",
+      "summary": "In honor of their birthday, revisit the Mary-Kate Olsen and Ashley Olsen’s best looks over the years, from movie premieres to many, many Met Galas.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Occasion Dressing",
+      "angle": "Fashion Intelligence: Revisiting the Olsen Twins’ Style Over the Years...",
+      "score": 1,
+      "published": "2026-06-13T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "5aa241ce5756",
+      "title": "Sejal Pawar sent on 15-day leave over male cadavers' joke at Pranit More's show",
+      "link": "https://www.indiatoday.in/india/story/sejal-pawar-kem-hospital-mumbai-male-cadaver-joke-pranit-more-rs-370-biryani-row-2926099-2026-06-13?utm_source=rss",
+      "summary": "Sejal Pawar sent on 15-day leave over male cadavers' joke at Pranit More's show",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Sejal Pawar sent on 15-day leave over male cadavers' joke at Pranit Mo...",
+      "score": 1,
+      "published": "2026-06-13T10:27:20+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3f3e0e64c95a",
+      "title": "Street Style Rewind—What Stylish Guys (and Gals) Were Wearing to the Spring 2017 Menswear Shows",
+      "link": "https://www.vogue.com/article/blast-from-the-past-what-street-style-looked-like-at-the-spring-2017-menswear-shows",
+      "summary": "Ten years ago in street style—what’s changed and what remains the same.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 4,
+      "published": "2026-06-13T10:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "fd314f12dea1",
+      "title": "How to Dress Like the Olsen Twins This Summer",
+      "link": "https://www.vogue.com/article/olsen-twins-spring-summer-style",
+      "summary": "From oversized blouses to statement sunglasses, the Olsen twins are synonymous with effortless city dressing. Recreate their style with these Vogue-approved finds.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: How to Dress Like the Olsen Twins This Summer...",
+      "score": 2,
+      "published": "2026-06-13T10:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -61,20 +159,6 @@
       "aza_category": "Bridal & Wedding",
       "angle": "Fashion Intelligence: Beauty Marks: The Best Beauty Looks of the Week...",
       "score": 3,
-      "published": "2026-06-13T08:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5df1487b9101",
-      "title": "Leggings in Summer Are an Absolute Must—5 Ways to Wear Them in 2026",
-      "link": "https://www.whowhatwear.com/fashion/trends/summer-leggings-trends-2026",
-      "summary": "Seasonally relevant.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Fashion Intelligence: Leggings in Summer Are an Absolute Must—5 Ways to Wear Them in 2026...",
-      "score": 2,
       "published": "2026-06-13T08:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -121,6 +205,20 @@
       "discovered_via": "feed"
     },
     {
+      "id": "5df1487b9101",
+      "title": "Leggings in Summer Are an Absolute Must—5 Ways to Wear Them in 2026",
+      "link": "https://www.whowhatwear.com/fashion/trends/summer-leggings-trends-2026",
+      "summary": "Seasonally relevant.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Leggings in Summer Are an Absolute Must—5 Ways to Wear Them in 2026...",
+      "score": 2,
+      "published": "2026-06-13T08:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "4de5ec178975",
       "title": "IAF fighter aircraft crashes in Assam's Jorhat, breaks in two; probe ordered",
       "link": "https://www.indiatoday.in/india/video/iaf-an-32-transport-aircraft-crashes-at-assams-jorhat-airbase-rescue-operations-underway-frvd-2926034-2026-06-13?utm_source=rss",
@@ -132,6 +230,76 @@
       "angle": "The Craft Story: Celebrating the Hands Behind the Fabric",
       "score": 1,
       "published": "2026-06-13T07:03:26+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "8370097a219c",
+      "title": "Yea or Nay: Cool Gen Zers Weigh In on the Most Talked-About Summer Trends",
+      "link": "https://www.whowhatwear.com/fashion/trends/gen-z-approved-summer-trends-2026",
+      "summary": "Unfiltered opinions are always welcome.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-06-13T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "ad4f12fafc07",
+      "title": "10 Items to Style With Your Ballet Flats to Look Chic and On-Trend This Summer",
+      "link": "https://www.whowhatwear.com/fashion/shopping/what-to-wear-with-ballet-flats-summer-2026",
+      "summary": "The coolest pairings.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-06-13T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "93e07c65e975",
+      "title": "I Got 10+ Compliments in One Day, All for One Dress—the Next Morning, I Went to Shop More From the Brand",
+      "link": "https://www.whowhatwear.com/fashion/shopping/best-hutch-dresses-summer-2026",
+      "summary": "I lost count.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: I Got 10+ Compliments in One Day, All for One Dress—the Next Morning, ...",
+      "score": 2,
+      "published": "2026-06-13T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "85a64b9abb5d",
+      "title": "Not Mini, Not Maxi—the Chic Skirt Trend Fashion People Are Wearing This Summer",
+      "link": "https://www.whowhatwear.com/fashion/shopping/knee-length-skirts-summer-2026",
+      "summary": "Knee-length skirts.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 3,
+      "published": "2026-06-13T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0e92baef0db4",
+      "title": "Not Sambas—IMO, This Timeless Trainer Trend Looks Better With Jeans Every Time",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/converse-jeans-outfit-cara-delevingne-2026",
+      "summary": "The chicest choice.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 1,
+      "published": "2026-06-13T07:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -159,76 +327,6 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Sorry White Trainers—Fashion People are Choosing These 5 Summer Shades...",
       "score": 1,
-      "published": "2026-06-13T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "0e92baef0db4",
-      "title": "Not Sambas—IMO, This Timeless Trainer Trend Looks Better With Jeans Every Time",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/converse-jeans-outfit-cara-delevingne-2026",
-      "summary": "The chicest choice.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-06-13T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "85a64b9abb5d",
-      "title": "Not Mini, Not Maxi—the Chic Skirt Trend Fashion People Are Wearing This Summer",
-      "link": "https://www.whowhatwear.com/fashion/shopping/knee-length-skirts-summer-2026",
-      "summary": "Knee-length skirts.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-06-13T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "ad4f12fafc07",
-      "title": "10 Items to Style With Your Ballet Flats to Look Chic and On-Trend This Summer",
-      "link": "https://www.whowhatwear.com/fashion/shopping/what-to-wear-with-ballet-flats-summer-2026",
-      "summary": "The coolest pairings.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-06-13T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "8370097a219c",
-      "title": "Yea or Nay: Cool Gen Zers Weigh In on the Most Talked-About Summer Trends",
-      "link": "https://www.whowhatwear.com/fashion/trends/gen-z-approved-summer-trends-2026",
-      "summary": "Unfiltered opinions are always welcome.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-06-13T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "93e07c65e975",
-      "title": "I Got 10+ Compliments in One Day, All for One Dress—the Next Morning, I Went to Shop More From the Brand",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-hutch-dresses-summer-2026",
-      "summary": "I lost count.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: I Got 10+ Compliments in One Day, All for One Dress—the Next Morning, ...",
-      "score": 2,
       "published": "2026-06-13T07:00:00+00:00",
       "discovered_via": "feed"
     },
@@ -304,9 +402,9 @@
     },
     {
       "id": "c73451e30621",
-      "title": "IAF aircraft crashes at Assam's Jorhat base, status of crew not known",
+      "title": "IAF aircraft crash in Assam's Jorhat air base claims 5 lives, co-pilot survives",
       "link": "https://www.indiatoday.in/india/story/iaf-jet-crashes-in-assams-jorhat-aircraft-reportedly-caught-fire-after-landing-inside-airbase-2926017-2026-06-13?utm_source=rss",
-      "summary": "IAF aircraft crashes at Assam's Jorhat base, status of crew not known",
+      "summary": "IAF aircraft crash in Assam's Jorhat air base claims 5 lives, co-pilot survives",
       "source": "India Today Fashion",
       "tier": "industry",
       "is_competitor": false,
@@ -1073,34 +1171,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "75bf13af5170",
-      "title": "On Taylor Swift, Haim, the New York Knicks, and the Taboo Thrill of Repping Whatever City You Want",
-      "link": "https://www.vogue.com/article/on-taylor-swift-haim-and-the-taboo-thrill-of-repping-whatever-city-you-want",
-      "summary": "I’m definitely not approaching the Knicks’ current domination with the all-consuming zeal that my friends who still live in New York are, but why not let myself enjoy things that are nice, even from the other side of the country?",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: On Taylor Swift, Haim, the New York Knicks, and the Taboo Thrill of Re...",
-      "score": 0,
-      "published": "2026-06-12T12:05:52+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d81e0a66e942",
-      "title": "David Hockney: 40 Images That Prove He Was Always a Tastemaker",
-      "link": "https://www.vogue.com/slideshow/david-hockney-style",
-      "summary": "“A proper dandy,” is how Christopher Simon Sykes described the late David Hockney, the picture of a very English elegance. We look back at the artist’s sartorial influence.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: David Hockney: 40 Images That Prove He Was Always a Tastemaker...",
-      "score": 0,
-      "published": "2026-06-12T12:02:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "701e0a4ed09a",
       "title": "Karolina Kurkova Embraces California Cool for Massimo Dutti",
       "link": "https://www.fashiongonerogue.com/story/karolina-kurkova-massimo-dutti-2026/",
@@ -1112,20 +1182,6 @@
       "angle": "Fashion Intelligence: Karolina Kurkova Embraces California Cool for Massimo Dutti...",
       "score": 1,
       "published": "2026-06-12T11:37:04+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "7ac83389a5ce",
-      "title": "From the Archive: Fans and Friends on the Genius of David Hockney",
-      "link": "https://www.vogue.com/article/david-hockney-fans-and-friends-tributes",
-      "summary": "Almost a decade ago, ahead of his 80th birthday and a major exhibition of his works, friends and fans of David Hockney shared their perspectives on one of the world’s most popular artists in British Vogue. Following Hockney’s passing in June 2026 at the age of 88, revisit the words of some of his many admirers—from Erd",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: From the Archive: Fans and Friends on the Genius of David Hockney...",
-      "score": 0,
-      "published": "2026-06-12T11:20:28+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1154,34 +1210,6 @@
       "angle": "Fashion Intelligence: My Mum and I Are Always Complaining About Dry Lips—This Is the Lipstic...",
       "score": 1,
       "published": "2026-06-12T11:05:07+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "56e4c2d062b7",
-      "title": "Olivia Dean Took Over Ronnie Scott’s Jazz Club for the Ultimate G.N.O",
-      "link": "https://www.vogue.com/slideshow/olivia-dean-hourglass-ronnie-scotts",
-      "summary": "Olivia Dean welcomed a glamorous crowd including Rosie Huntington-Whiteley, Aimee Lou Wood, Tina Kunakey, and Bridgerton star Isabella Wei to Ronnie Scott's.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Fashion Intelligence: Olivia Dean Took Over Ronnie Scott’s Jazz Club for the Ultimate G.N.O...",
-      "score": 0,
-      "published": "2026-06-12T11:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "45e5b0070d4e",
-      "title": "Artist David Hockney Has Died at 88",
-      "link": "https://www.vogue.com/article/david-hockney-obituary",
-      "summary": "David Hockney—the Bradford-born painter who invented California for the British sensibility—has died aged 88. Vogue looks back on the life and legacy of one of the greatest artists of our time.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Artist David Hockney Has Died at 88...",
-      "score": 0,
-      "published": "2026-06-12T10:53:45+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1227,20 +1255,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "d3529d80afbe",
-      "title": "Not Jean Shorts, Not Linen Pants—the Anti-Basic Trend Every Cool Girl Will Be Wearing This Summer",
-      "link": "https://www.whowhatwear.com/fashion/summer/beaded-shorts-skirts-trend-for-summer-2026",
-      "summary": "See the outfits inside.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 3,
-      "published": "2026-06-12T07:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "64d214071ad7",
       "title": "5 Elegant Outfits to Wear to Wimbledon That Ace Courtside Style",
       "link": "https://www.whowhatwear.com/fashion/outfit-ideas/what-to-wear-to-wimbledon-2026",
@@ -1250,6 +1264,20 @@
       "is_competitor": false,
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: 5 Elegant Outfits to Wear to Wimbledon That Ace Courtside Style...",
+      "score": 3,
+      "published": "2026-06-12T07:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "d3529d80afbe",
+      "title": "Not Jean Shorts, Not Linen Pants—the Anti-Basic Trend Every Cool Girl Will Be Wearing This Summer",
+      "link": "https://www.whowhatwear.com/fashion/summer/beaded-shorts-skirts-trend-for-summer-2026",
+      "summary": "See the outfits inside.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 3,
       "published": "2026-06-12T07:00:00+00:00",
       "discovered_via": "feed"
@@ -2557,6 +2585,34 @@
       "discovered_via": "feed"
     },
     {
+      "id": "581d8f69aec5",
+      "title": "GUESS celebra Marilyn Monroe: la mostra al MUDEC e la capsule collection. Un progetto che unisce moda, fotografia e cultura contemporanea",
+      "link": "https://www.theblondesalad.com/fashion/guess-celebra-marilyn-monroe-la-mostra-al-mudec-e-la-capsule-collection-un-progetto-che-unisce-moda-fotografia-e-cultura-contemporanea/",
+      "summary": "C’è un momento preciso in cui la moda smette di essere solo prodotto e diventa racconto culturale. È quello che [&#8230;] The post GUESS celebra Marilyn Monroe: la mostra al MUDEC e la capsule collection. Un progetto che unisce moda, fotografia e cultura contemporanea first appeared on The Blonde Salad .",
+      "source": "The Blonde Salad",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Designer Spotlight: What This Collection Means for Indian Fashion",
+      "score": 1,
+      "published": "2026-04-21T10:00:12+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "2e751a7cfcac",
+      "title": "Luxury Ethnic Wear Under ₹10,000 During KALKI’s Biggest Sale",
+      "link": "https://blog.kalkifashion.com/luxury-ethnic-wear-under-%e2%82%b910000-during-kalkis-biggest-sale/",
+      "summary": "We all love to shop for premium ethnic wear for those precious, special moments in our lives. And how does it feel if these special moments are made extra special? Great, isn&#8217;t it? KALKI’s Biggest Sale is right here to make luxury fashion more affordable, so you can shop for your dream outfits without burning [&#",
+      "source": "Kalki Fashion Blog",
+      "tier": "competitor",
+      "is_competitor": true,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Luxury Ethnic Wear Under ₹10,000 During KALKI’s Biggest Sale...",
+      "score": 5,
+      "published": "2026-06-13T07:06:40+00:00",
+      "discovered_via": "feed"
+    },
+    {
       "id": "782828c8e1bd",
       "title": "KALKI Celebration Sale 2026: The Most Awaited Fashion Event is Here",
       "link": "https://blog.kalkifashion.com/kalki-celebration-sale-2026-most-awaited-fashion-event-is-here/",
@@ -2694,20 +2750,6 @@
       "angle": "Fashion Intelligence: Flat 20% off on Top Men’s Kurta Picks from Kalki’s Kurta Carnival Fest...",
       "score": 3,
       "published": "2026-05-29T09:12:22+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "5934fcae736d",
-      "title": "Are You Choosing Lehengas Based on Trend or Timelessness?",
-      "link": "https://blog.kalkifashion.com/are-you-choosing-lehenga-trend-vs-timeless/",
-      "summary": "Be it a delicate printed lehenga, a glistening sequinned lehenga, or a “mehenga” designer lehenga for women, they have been one of the most loved outfits. While some of us love to imitate the latest fashion trends in lehengas that are adorned by Bollywood stars and other eminent personalities to look modish and fashion",
-      "source": "Kalki Fashion Blog",
-      "tier": "competitor",
-      "is_competitor": true,
-      "aza_category": "Celebrity Style",
-      "angle": "Bridal Edit: Are You Choosing Lehengas Based on Trend or Timelessness? — A Complete Style Guide",
-      "score": 6,
-      "published": "2026-05-28T04:41:41+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2937,52 +2979,52 @@
   ],
   "trends": [
     {
-      "term": "ಗೃಹಲಕ್ಷ್ಮಿ",
+      "term": "અફઘાનિસ્તાન વિ. ભારત",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "sridhar vembu",
+      "term": "bail",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "gurnoor brar",
+      "term": "ആര്യ രാജേന്ദ്രന്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "india national cricket team",
+      "term": "afghanistan national cricket team vs india national cricket team match scorecard",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "சபாநாயகர்",
+      "term": "afg vs ind",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ભારત વિ. અફઘાનિસ્તાન",
+      "term": "अफगानिस्तान क्रिकेट टीम बनाम भारतीय क्रिकेट टीम के मैच का स्कोरकार्ड",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "वेतन",
+      "term": "अफ़ग़ानिस्तान बनाम भारत",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "రాజస్తాన్ రాయల్స్",
+      "term": "ఆంధ్ర ప్రదేశ్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "ind बनाम afg",
+      "term": "प्रधानमंत्री",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "shreyas iyer",
+      "term": "ಮಹುವಾ ಮೊಯಿತ್ರಾ",
       "summary": "",
       "aza_category": "Fashion & Style"
     }

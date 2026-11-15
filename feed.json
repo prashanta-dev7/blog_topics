@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-15T08:37:53.201933+00:00",
+  "generated_at": "2026-11-15T12:28:38.257167+00:00",
   "owned_count": 10,
   "competitor_count": 22,
-  "industry_count": 171,
+  "industry_count": 173,
   "keywords_loaded": {
     "IN": 118,
     "US": 1791
@@ -19,7 +19,147 @@
       "aza_category": "Fashion & Style",
       "angle": "Fashion Intelligence: Liu Jo Fall 2027 Ready-to-Wear...",
       "score": 1,
-      "published": "2026-11-15T08:36:45+00:00",
+      "published": "2026-11-15T12:25:39+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6b58f52f9a20",
+      "title": "Confirmed: This Is the Most Stylish Way to Wear a Grown-Out Bob This Year",
+      "link": "https://www.whowhatwear.com/beauty/hair/long-layered-bob-haircuts",
+      "summary": "Fine, do I chop my hair again?",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: Confirmed: This Is the Most Stylish Way to Wear a Grown-Out Bob This Y...",
+      "score": 1,
+      "published": "2026-11-15T12:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "be4f5af58176",
+      "title": "Delhi police arrest man for murder of woman in showroom trial room near Moti Nagar",
+      "link": "https://www.indiatoday.in/india/video/delhi-police-arrest-man-for-murder-of-woman-in-trial-room-near-moti-nagar-metro-station-ytvd-3039447-2026-11-15?utm_source=rss",
+      "summary": "Delhi police arrest man for murder of woman in showroom trial room near Moti Nagar",
+      "source": "India Today Fashion",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: Delhi police arrest man for murder of woman in showroom trial room nea...",
+      "score": 1,
+      "published": "2026-11-15T11:45:18+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "6c5f78d4b531",
+      "title": "The Hot List: 20 Must-Have Pieces, According to Instagram’s Favorite Fashion Sourcer",
+      "link": "https://www.vogue.com/article/the-hot-list-with-gab-waller",
+      "summary": "Gab Waller’s monthly cheat sheet of things to shop now before the most dreaded three words in online shopping appear (“out of stock”).",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Fashion Intelligence: The Hot List: 20 Must-Have Pieces, According to Instagram’s Favorite F...",
+      "score": 1,
+      "published": "2026-11-15T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "20d50266e573",
+      "title": "44 Best Wedding Guest Dresses in 2026 for Every Type of Ceremony",
+      "link": "https://www.vogue.com/article/best-wedding-guest-dresses",
+      "summary": "Shop the best wedding guest dresses for every kind of ceremony and dress code—from a garden wedding to a beach wedding and courthouse ceremony.",
+      "source": "Vogue US",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Bridal & Wedding",
+      "angle": "Bridal Edit: 44 Best Wedding Guest Dresses in 2026 for Every Type of Ceremony — A Complete Style Guide",
+      "score": 2,
+      "published": "2026-11-15T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "cb70b43952c2",
+      "title": "These Casual It Pants Keep Selling Out—Here's How I'm Dressing Them Up For Fall and Winter",
+      "link": "https://www.whowhatwear.com/fashion/pants-trousers/leset-kyoto-carpenter-pants-fall-winter-outfit-ideas",
+      "summary": "Seven outfits that show their versatility.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Designer Spotlight",
+      "angle": "Fashion Intelligence: These Casual It Pants Keep Selling Out—Here's How I'm Dressing Them Up...",
+      "score": 3,
+      "published": "2026-11-15T11:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "0d71359c3d63",
+      "title": "Prepare to Gawp at the Chicest, Coolest and Most Fabulous Party Pieces of 2026",
+      "link": "https://www.whowhatwear.com/fashion/party/best-party-pieces-2026",
+      "summary": "Bring on party season!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: Prepare to Gawp at the Chicest, Coolest and Most Fabulous Party Pieces...",
+      "score": 1,
+      "published": "2026-11-15T10:37:55+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "507da4b06631",
+      "title": "The Exact Knit Stylish People in the Alps and Scandi Countryside Are Wearing to Keep Cosy",
+      "link": "https://www.whowhatwear.com/fashion/sezane-gaia-jacket",
+      "summary": "Escape to the country!",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Fashion & Style",
+      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
+      "score": 1,
+      "published": "2026-11-15T10:35:02+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "97338f3029f6",
+      "title": "Not Boots—The Chicest Dressers I Know Tackle Rainy Weather In This Comfortable Shoe Trend",
+      "link": "https://www.whowhatwear.com/fashion/celebrity-style/leather-loafers-rainy-day-outfit-lila-moss-2026",
+      "summary": "So good to know.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-11-15T10:10:54+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "3f0caad9766c",
+      "title": "I’m a Shopping Editor Who Lives in M&S Cashmere—These Are the 9 Jumpers I Recommend to Everyone",
+      "link": "https://www.whowhatwear.com/fashion/shopping/marks-and-cashmere-jumpers-2026",
+      "summary": "From classic crew-necks to elegant funnel-neck styles, these are the expensive-looking cashmere jumpers worth adding to your winter wardrobe.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Fashion Intelligence: I’m a Shopping Editor Who Lives in M&S Cashmere—These Are the 9 Jumper...",
+      "score": 1,
+      "published": "2026-11-15T09:00:00+00:00",
+      "discovered_via": "feed"
+    },
+    {
+      "id": "b285750a29a4",
+      "title": "This Pretty Knitwear Trend Is the Key to a Cozy Yet Chic Holiday Look",
+      "link": "https://www.whowhatwear.com/fashion/jumpers-sweaters/best-embellished-sweaters",
+      "summary": "These knits will do all the talking.",
+      "source": "Who What Wear",
+      "tier": "industry",
+      "is_competitor": false,
+      "aza_category": "Trend Alert",
+      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
+      "score": 2,
+      "published": "2026-11-15T09:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1186,7 +1326,7 @@
     },
     {
       "id": "a56467018f6f",
-      "title": "Instead of Chelsea Boots—Elegant Over-50s Are Wearing This Winter Shoe Trend With Wide-Leg Trousers",
+      "title": "Instead of Chelsea Boots, Elegant Over-50s Are Wearing This Winter Shoe Trend With Wide-Leg Trousers",
       "link": "https://www.whowhatwear.com/fashion/celebrity-style/heeled-boots-grey-trousers-outfit-angelina-jolie-2026",
       "summary": "Instant elegance.",
       "source": "Who What Wear",
@@ -1196,20 +1336,6 @@
       "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
       "score": 2,
       "published": "2026-11-13T10:54:16+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "b1b83ab78ae9",
-      "title": "Rosalía Co-Signs One of This Year’s Most Viral Looks at the Latin Grammys",
-      "link": "https://www.vogue.com/article/rosalia-latin-grammys-looks-2026-11-13",
-      "summary": "From a sculptural Matières Fécales confection to custom Erdem and Vivienne Westwood, Rosalía’s Latin Grammys wardrobe was a masterclass in high-fashion fantasy.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Rosalía Co-Signs One of This Year’s Most Viral Looks at the Latin Gram...",
-      "score": 1,
-      "published": "2026-11-13T10:50:17+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1224,20 +1350,6 @@
       "angle": "Fashion Intelligence: Hot Take: Wear Leggings Like This If You Want to Avoid Looking \"Lazy\" ...",
       "score": 1,
       "published": "2026-11-13T10:46:43+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "65e7e424f554",
-      "title": "The 5 Wellness Trends That Will Define 2027",
-      "link": "https://www.vogue.com/article/the-5-wellness-trends-that-will-define-2027",
-      "summary": "Personalization, light as a supplement, and a “less is more” approach; industry leaders and analysts unpack the trends set to define wellness in 2027.",
-      "source": "Vogue US",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-11-13T10:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1353,20 +1465,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "2c731dbfec4e",
-      "title": "More Elegant Than Leggings, Trendier Than Jeans—These Trousers Are Winter’s Best Buy",
-      "link": "https://www.whowhatwear.com/fashion/pants-trousers/brown-cord-trouser-trend",
-      "summary": "For real.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 1,
-      "published": "2026-11-13T07:30:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "cf18ec39434b",
       "title": "14 Best Men’s Tech And Gadgets Christmas Gift Guide For 2026",
       "link": "https://www.fashionbeans.com/article/mens-tech-gadgets-gift-guide/",
@@ -1378,20 +1476,6 @@
       "angle": "Fashion Intelligence: 14 Best Men’s Tech And Gadgets Christmas Gift Guide For 2026...",
       "score": 1,
       "published": "2026-11-13T07:00:42+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "a890b6f50f4c",
-      "title": "I Study Designer Handbags for a Living—These Are the Brands I'd Invest in This Winter",
-      "link": "https://www.whowhatwear.com/fashion/shopping/best-designer-handbag-brands-winter-2026",
-      "summary": "The (h)it list.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Designer Spotlight",
-      "angle": "Fashion Intelligence: I Study Designer Handbags for a Living—These Are the Brands I'd Invest...",
-      "score": 2,
-      "published": "2026-11-13T06:00:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -1409,48 +1493,6 @@
       "discovered_via": "feed"
     },
     {
-      "id": "dee29572b203",
-      "title": "To Look On-Trend This Winter, Wear Blue Jeans With This Jacket and These French-Girl Shoes",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/fur-trimmed-jacket-jeans-ballet-pumps-outfit-ariana-grande",
-      "summary": "Ariana Grande is already aware.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Trend Alert",
-      "angle": "Your AZA Style Guide to This Season's Biggest Trend",
-      "score": 2,
-      "published": "2026-11-13T01:28:03+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "1888de5d2e24",
-      "title": "Amelia Gray on the Perfect \"Winter in L.A.\" Outfit Combo and Her Favorite Under-$40 H&M Sweaters",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/amelia-gray-hm-holiday-interview",
-      "summary": "Amelia Gray on the Perfect \"Winter in L.A.\" Outfit Combo and Her Favorite Under-$40 H&amp;M Sweaters",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Fashion Intelligence: Amelia Gray on the Perfect \"Winter in L.A.\" Outfit Combo and Her Favor...",
-      "score": 1,
-      "published": "2026-11-12T22:25:45+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "6dcab58a13b3",
-      "title": "11 Butterfly Cuts Celebrity Hairstylists Actually Recommend for Curly Hair",
-      "link": "https://www.whowhatwear.com/beauty/hair/curly-butterfly-haircuts",
-      "summary": "It's the styling hack for major volume.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Celebrity Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-11-12T22:00:00+00:00",
-      "discovered_via": "feed"
-    },
-    {
       "id": "fa6ee43d187b",
       "title": "The Best Apple Deals to Shop Before Black Friday",
       "link": "https://www.harpersbazaar.com/fashion/trends/a74391680/apple-black-friday-deals-2026/",
@@ -1462,20 +1504,6 @@
       "angle": "Fashion Intelligence: The Best Apple Deals to Shop Before Black Friday...",
       "score": 0,
       "published": "2026-11-12T21:51:09+00:00",
-      "discovered_via": "feed"
-    },
-    {
-      "id": "d14d9118a197",
-      "title": "Not Sneakers—Stylish Celebrities Are Wearing Track Pants With These Elegant Flat Shoes Instead",
-      "link": "https://www.whowhatwear.com/fashion/celebrity-style/track-pants-loafers-outfit-jennifer-lawrence-2026",
-      "summary": "J.Law is leading the charge.",
-      "source": "Who What Wear",
-      "tier": "industry",
-      "is_competitor": false,
-      "aza_category": "Fashion & Style",
-      "angle": "Get the Look: How to Style This Celebrity Trend the AZA Way",
-      "score": 1,
-      "published": "2026-11-12T21:30:00+00:00",
       "discovered_via": "feed"
     },
     {
@@ -2853,52 +2881,52 @@
   ],
   "trends": [
     {
-      "term": "bangladesh sheikh hasina",
+      "term": "പോലീസ്",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "towhid hridoy",
+      "term": "శ్రేయాస్ అయ్యర్",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "mitchell marsh",
+      "term": "अमर उजाला",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "south africa national cricket team",
+      "term": "सोना",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "फिन एलन",
+      "term": "bay of bengal",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "finn allen",
+      "term": "jay puri",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "बांगलादेश बनाम दक्षिण अफ्रीका",
+      "term": "अनंत कुमार सिंह",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "दुष्काळ",
+      "term": "নিউজিল্যান্ড জাতীয় ক্রিকেট দল",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "bangladesh vs south africa",
+      "term": "spain vs england",
       "summary": "",
       "aza_category": "Fashion & Style"
     },
     {
-      "term": "चीन",
+      "term": "மழை",
       "summary": "",
       "aza_category": "Fashion & Style"
     }
